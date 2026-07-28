@@ -1,5 +1,5 @@
-/* Reality Loop Service Worker v2.1 — PWA support */
-const CACHE = 'rl-v2.1';
+/* Reality Loop Service Worker v2.2 — PWA support */
+const CACHE = 'rl-v2.2';
 const ASSETS = [
   './',
   'index.html',
@@ -24,7 +24,8 @@ const ASSETS = [
   'icons/04-weight-progress.png',
   'icons/05-finance-learning.png',
   'icons/06-diary-empty.png',
-  'icons/07-chats-empty.png'
+  'icons/07-chats-empty.png',
+  'data/ai-news.json'
 ];
 
 self.addEventListener('install', e => {
@@ -39,6 +40,16 @@ self.addEventListener('activate', e => {
 
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
+  const url = new URL(e.request.url);
+  // 数据文件走 network-first，保证热点更新及时生效（离线时回退缓存）
+  if (url.pathname.includes('/data/')) {
+    e.respondWith(
+      fetch(e.request)
+        .then(r => { const c = r.clone(); caches.open(CACHE).then(ca => ca.put(e.request, c)); return r; })
+        .catch(() => caches.match(e.request))
+    );
+    return;
+  }
   e.respondWith(
     caches.match(e.request).then(r => r || fetch(e.request)).catch(() => caches.match('index.html'))
   );

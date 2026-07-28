@@ -1,0 +1,96 @@
+{
+  "updated": "2026-07-28",
+  "source": "WorkBuddy WebSearch 多源聚合（GFdaily / Presenc AI / 月之暗面 / buinsoft / aimodelsmap 等）",
+  "items": [
+    {
+      "id": "kimi-k3-open",
+      "title": "Kimi K3 全面开源：2.8T 参数成全球最大开源模型",
+      "summary": "月之暗面 7/27 开源 K3 权重、技术报告及关键 Infra 技术（MoonEP / Flash KDA / Agent Env）。2.8 万亿参数，规模化效率较此前提升 2.5 倍，海外开发者称其挑战 Anthropic / OpenAI 闭源壁垒。",
+      "source": "月之暗面 / QQ 新闻",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3296a6890f380252",
+      "tags": ["开源", "大模型", "中国AI"],
+      "date": "2026-07-27"
+    },
+    {
+      "id": "four-labs-july",
+      "title": "四大实验室 7 月密集发新模型，性能差距收窄",
+      "summary": "xAI Grok 4.5、Anthropic Claude Opus 5、OpenAI GPT-5.6、Moonshot Kimi K3 在三周内相继发布。独立测评显示最强与最弱差距显著缩小，厂商锁定效应减弱。",
+      "source": "GFdaily",
+      "url": "https://gfdaily.com/tech/en-four-ai-labs-release-new-models-in-july-performance-gap-narrows-ms2igeaa",
+      "tags": ["大模型", "竞争格局"],
+      "date": "2026-07"
+    },
+    {
+      "id": "llm-roundup-july",
+      "title": "July 2026 LLM 发布全景盘点",
+      "summary": "Grok 4.5、Kimi K3、Gemini 3.6 Flash、Claude Sonnet 5、NVIDIA Nemotron TwoTower 等本月集中亮相，开源权重天花板再次被推高。",
+      "source": "Presenc AI",
+      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
+      "tags": ["大模型", "盘点"],
+      "date": "2026-07-25"
+    },
+    {
+      "id": "qwen-july",
+      "title": "阿里 Qwen 三天三次更新（含 Qwen3.7 Flash）",
+      "summary": "阿里巴巴在 72 小时内连发三个 Qwen 模型，Qwen3.7 Flash 于 7/27 上线，延续高频迭代节奏。",
+      "source": "aimodelsmap",
+      "url": "https://aimodelsmap.com/new-ai-models",
+      "tags": ["开源", "大模型", "阿里"],
+      "date": "2026-07-27"
+    },
+    {
+      "id": "deepseek-rename",
+      "title": "DeepSeek 退役旧模型名，统一至新版本",
+      "summary": "7/24 DeepSeek 停用旧模型标签，旧名调用将指向新模型。依赖 DeepSeek API 的产品需检查调用名称以免中断。",
+      "source": "buinsoft",
+      "url": "https://www.buinsoft.com/en/blog/ai-model-wave-july-2026-small-business-guide",
+      "tags": ["API", "模型更新"],
+      "date": "2026-07-24"
+    },
+    {
+      "id": "gemini-3-6-flash",
+      "title": "Gemini 3.6 Flash 降价 + 知识截断跳至 2026-03 + 多模态",
+      "summary": "Google 7/21 发布，输出定价低于前代且 token 用量再降约 17%，知识截止从 2025-01 跃升至 2026-03，支持文本/图像/视频/音频/PDF。",
+      "source": "Presenc AI / buinsoft",
+      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
+      "tags": ["Google", "多模态", "降价"],
+      "date": "2026-07-21"
+    },
+    {
+      "id": "grok-4-5",
+      "title": "Grok 4.5 聚焦编码，上下文缩至 500K，定价 $2/$6",
+      "summary": "xAI 7/8 发布，从 Grok 4.3 的 1M 上下文回缩至 500K（年内罕见收缩），强调实时数据访问与编码能力，输出定价低于多数前沿对手。",
+      "source": "Presenc AI",
+      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
+      "tags": ["xAI", "编码"],
+      "date": "2026-07-08"
+    },
+    {
+      "id": "nemotron-twotower",
+      "title": "NVIDIA Nemotron TwoTower：扩散语言模型并行解码开源",
+      "summary": "7/1 发布，展示在自回归检查点基础上仅训练第二个去噪网络即可添加扩散式并行生成，吞吐达 2.42x、质量保持 98.7%。",
+      "source": "Presenc AI",
+      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
+      "tags": ["NVIDIA", "架构创新"],
+      "date": "2026-07-01"
+    },
+    {
+      "id": "ai-price-war",
+      "title": "AI 价格战：能力强模型持续降价，企业成本下降",
+      "summary": "本月多家前沿模型降价，DeepSeek 快速模型约 $0.14/百万输入 token。同等任务的企业 AI 月成本较一年前显著下降。",
+      "source": "buinsoft",
+      "url": "https://www.buinsoft.com/en/blog/ai-model-wave-july-2026-small-business-guide",
+      "tags": ["价格", "趋势"],
+      "date": "2026-07"
+    },
+    {
+      "id": "ai-regulation",
+      "title": "欧盟 / 美国监管跟进：EC 要求四家简报，NIST 更新框架",
+      "summary": "欧洲委员会 AI 办公室要求四家实验室说明训练方法与安全评估；美国 NIST 更新 AI 风险管理框架以适配新模型。",
+      "source": "GFdaily",
+      "url": "https://gfdaily.com/tech/en-four-ai-labs-release-new-models-in-july-performance-gap-narrows-ms2igeaa",
+      "tags": ["监管", "合规"],
+      "date": "2026-07"
+    }
+  ]
+}

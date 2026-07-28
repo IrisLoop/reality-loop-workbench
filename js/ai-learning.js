@@ -123,19 +123,54 @@ const AILearning = {
   },
 
   async _renderHot(c) {
-    // Hot topics are manually added only in v1
-    const items = await DB.getAll('learningResources');
-    const hotItems = items.filter(i => (i.tags||'').includes('热点') || (i.type||'') === 'hot-topic');
     c.style.padding = '0 var(--space-md)';
-    c.innerHTML = hotItems.length === 0 ? `
-      <div class="card"><div class="empty-state">
-        <div class="empty-icon">🔥</div><div class="empty-text">暂无 AI 热点<br><small>首版仅支持手动添加</small></div>
-      </div></div>`
-    : `<div class="card">${hotItems.map(h => this._resourceItem(h)).join('')}</div>
-       <div style="text-align:center;padding:12px">
-         <button class="btn btn-outline btn-sm" onclick="AILearning.showAddResource('hot-topic')">＋ 添加热点</button>
-       </div>`;
+
+    // 自动热点：来自 data/ai-news.json（由 WorkBuddy 抓取并定期更新）
+    let autoHtml = '';
+    try {
+      const res = await fetch('data/ai-news.json', { cache: 'no-store' });
+      if (res.ok) {
+        const data = await res.json();
+        const items = data.items || [];
+        autoHtml = `
+          <div style="display:flex;justify-content:space-between;align-items:baseline;margin:6px 2px 8px">
+            <span style="font-size:var(--fs-sm);font-weight:600;color:var(--text-secondary)">今日 AI 热点</span>
+            <span style="font-size:var(--fs-xs);color:var(--text-tertiary)">更新于 ${RL.esc(data.updated || '')}</span>
+          </div>
+          <div class="card">${items.length ? items.map(h => this._hotItem(h)).join('') : '<div class="empty-text" style="padding:14px">暂无自动热点</div>'}</div>`;
+      }
+    } catch (e) { /* 本地 file:// 打开时 fetch 受限，仅显示手动添加部分 */ }
+
+    // 手动添加的热点（保留原 DB 逻辑）
+    const all = await DB.getAll('learningResources');
+    const hotItems = all.filter(i => (i.tags||'').includes('热点') || (i.type||'') === 'hot-topic');
+    const manualHtml = hotItems.length ? `
+      <div style="font-size:var(--fs-sm);font-weight:600;color:var(--text-secondary);margin:16px 2px 8px">我添加的热点</div>
+      <div class="card">${hotItems.map(h => this._resourceItem(h)).join('')}</div>` : '';
+
+    c.innerHTML = autoHtml + manualHtml + `
+      <div style="text-align:center;padding:16px">
+        <button class="btn btn-outline btn-sm" onclick="AILearning.showAddResource('hot-topic')">＋ 添加热点</button>
+      </div>`;
   },
+
+  _hotItem(h) {
+    const url = h.url || '';
+    return `
+      <div class="list-item">
+        <div class="list-item-body">
+          <div class="list-item-title">${RL.esc(h.title || '')}</div>
+          <div class="list-item-sub">${RL.esc(h.source || '')}${h.date ? ' · ' + RL.esc(h.date) : ''}</div>
+          ${h.summary ? `<div class="list-item-sub" style="color:var(--text-secondary);margin-top:3px;line-height:1.5">${RL.esc(h.summary)}</div>` : ''}
+          ${h.tags && h.tags.length ? `<div class="list-item-sub" style="margin-top:3px">${h.tags.map(t => '#' + RL.esc(t)).join(' ')}</div>` : ''}
+        </div>
+        <div class="list-item-actions">
+          ${url ? `<button class="icon-btn" title="打开原文" onclick="AILearning.openHot('${url.replace(/'/g, "\\'")}')">🔗</button>` : ''}
+        </div>
+      </div>`;
+  },
+
+  openHot(url) { window.open(url, '_blank', 'noopener'); },
 
   showAddResource(typeHint = null) {
     RL.openModal(`
