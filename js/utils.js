@@ -71,7 +71,7 @@ const RL = {
         document.getElementById('confirm-cancel').removeEventListener('click', cancel);
       }
       document.getElementById('confirm-ok').addEventListener('click', ok);
-      document.getElementById.getElementById('confirm-cancel').addEventListener('click', cancel);
+      document.getElementById('confirm-cancel').addEventListener('click', cancel);
     });
   },
 

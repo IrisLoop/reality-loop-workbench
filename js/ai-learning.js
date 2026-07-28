@@ -4,7 +4,13 @@
    ============================================ */
 
 const AILearning = {
-  currentView: 'resources', // resources | sessions | hot
+  // Open the rightmost AI Hotspots tab first when entering this module.
+  currentView: 'hot', // resources | sessions | hot
+
+  open() {
+    this.currentView = 'hot';
+    return this.render();
+  },
 
   async render() {
     const el = document.getElementById('dash-ai-page');
@@ -124,6 +130,13 @@ const AILearning = {
 
   async _renderHot(c) {
     c.style.padding = '0 var(--space-md)';
+    // Render immediately so the view does not appear frozen while data loads.
+    c.innerHTML = `
+      <div class="card">
+        <div class="empty-state" style="padding:28px 0">
+          <div class="empty-text">正在载入 AI 热点…</div>
+        </div>
+      </div>`;
 
     // 自动热点：来自 data/ai-news.json（由 WorkBuddy 抓取并定期更新）
     let autoHtml = '';

@@ -13,6 +13,7 @@ const FatLoss = {
       <div class="subpage-header">
         <button class="back-btn" onclick="Dashboard.renderHome()">‹</button>
         <div class="subpage-title">减脂</div>
+        <button class="header-action" onclick="FatLoss.showQuickAdd()" aria-label="Add record">&#65291;</button>
       </div>
       <div style="padding:0 var(--space-md)">
         <div class="pill-toggle-group">
@@ -24,6 +25,10 @@ const FatLoss = {
       <div id="fatloss-content"></div>
     `;
     this.renderContent();
+  },
+  showQuickAdd() {
+    if (this.currentView === 'food') this.showAddFood();
+    else this.showAddWeight();
   },
 
   switchView(v) { this.currentView = v; this.render(); },

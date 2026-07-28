@@ -22,7 +22,7 @@ const Dashboard = {
     App.showDashSub(`dash-${subPage}-page`);
     switch(subPage) {
       case 'tasks': Tasks.render(); break;
-      case 'ai': AILearning.render(); break;
+      case 'ai': AILearning.open(); break;
       case 'english': EnglishLearning.render(); break;
       case 'fatloss': FatLoss.render(); break;
       case 'finance': Finance.render(); break;

@@ -462,6 +462,8 @@ textarea { resize: vertical; min-height: 80px; }
   font-size: var(--fs-card-title);
   font-weight: 700;
   letter-spacing: -.01em;
+  flex: 1;
+  min-width: 0;
 }
 .header-action {
   width: 36px; height: 36px;
@@ -469,6 +471,7 @@ textarea { resize: vertical; min-height: 80px; }
   border-radius: 50%;
   color: var(--text-tertiary);
   font-size: 17px;
+  margin-left: auto;
   transition: background .15s;
 }
 .header-action:active { background: var(--border-subtle); }
