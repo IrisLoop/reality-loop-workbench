@@ -165,12 +165,10 @@ const AILearning = {
           ${h.tags && h.tags.length ? `<div class="list-item-sub" style="margin-top:3px">${h.tags.map(t => '#' + RL.esc(t)).join(' ')}</div>` : ''}
         </div>
         <div class="list-item-actions">
-          ${url ? `<button class="icon-btn" title="打开原文" onclick="AILearning.openHot('${url.replace(/'/g, "\\'")}')">🔗</button>` : ''}
+          ${url ? `<a class="icon-btn" href="${RL.esc(url)}" target="_blank" rel="noopener noreferrer" title="打开原文" style="text-decoration:none">🔗</a>` : ''}
         </div>
       </div>`;
   },
-
-  openHot(url) { window.open(url, '_blank', 'noopener'); },
 
   showAddResource(typeHint = null) {
     RL.openModal(`
