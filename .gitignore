@@ -1,0 +1,9 @@
+# EdgeOne build artifacts
+.edgeone/
+
+# Local env / secrets
+.env
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
