@@ -1,96 +1,197 @@
 {
+  "schemaVersion": 1,
   "updated": "2026-07-28",
-  "source": "WorkBuddy WebSearch 多源聚合（GFdaily / Presenc AI / 月之暗面 / buinsoft / aimodelsmap 等）",
+  "generatedAt": "2026-07-29T04:09:10.066Z",
+  "targetDate": "2026-07-28",
+  "timezone": "Asia/Shanghai",
+  "itemCount": 10,
+  "source": {
+    "name": "AI HOT",
+    "url": "https://aihot.virxact.com/agent",
+    "api": "https://aihot.virxact.com/api/v1/items"
+  },
+  "methodology": "按北京时间前一自然日筛选 AI HOT 精选内容，按官方 score 热度分降序排列；同分时按发布时间倒序，最多展示 10 条。",
+  "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "kimi-k3-open",
-      "title": "Kimi K3 全面开源：2.8T 参数成全球最大开源模型",
-      "summary": "月之暗面 7/27 开源 K3 权重、技术报告及关键 Infra 技术（MoonEP / Flash KDA / Agent Env）。2.8 万亿参数，规模化效率较此前提升 2.5 倍，海外开发者称其挑战 Anthropic / OpenAI 闭源壁垒。",
-      "source": "月之暗面 / QQ 新闻",
-      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3296a6890f380252",
-      "tags": ["开源", "大模型", "中国AI"],
-      "date": "2026-07-27"
+      "id": "cms4t5zra01o1roa10b19hmbh",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "originalTitle": null,
+      "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
+      "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "originalUrl": "https://arxiv.org/abs/2510.26692",
+      "aihotUrl": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "tags": [
+        "论文"
+      ],
+      "category": "paper",
+      "score": 76,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-28T15:21:28.545Z",
+      "discoveredAt": "2026-07-28T15:26:05.731Z"
     },
     {
-      "id": "four-labs-july",
-      "title": "四大实验室 7 月密集发新模型，性能差距收窄",
-      "summary": "xAI Grok 4.5、Anthropic Claude Opus 5、OpenAI GPT-5.6、Moonshot Kimi K3 在三周内相继发布。独立测评显示最强与最弱差距显著缩小，厂商锁定效应减弱。",
-      "source": "GFdaily",
-      "url": "https://gfdaily.com/tech/en-four-ai-labs-release-new-models-in-july-performance-gap-narrows-ms2igeaa",
-      "tags": ["大模型", "竞争格局"],
-      "date": "2026-07"
+      "id": "cms3n5wpl001sro82iax01xu3",
+      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+      "originalTitle": "The harness is all you need （mostly）",
+      "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+      "source": "AI HOT · AI 摘要 · GitHub Blog",
+      "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+      "originalUrl": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "aihotUrl": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 74,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "discoveredAt": "2026-07-27T19:50:19.758Z"
     },
     {
-      "id": "llm-roundup-july",
-      "title": "July 2026 LLM 发布全景盘点",
-      "summary": "Grok 4.5、Kimi K3、Gemini 3.6 Flash、Claude Sonnet 5、NVIDIA Nemotron TwoTower 等本月集中亮相，开源权重天花板再次被推高。",
-      "source": "Presenc AI",
-      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
-      "tags": ["大模型", "盘点"],
-      "date": "2026-07-25"
+      "id": "cms4b9e8401zrroepw4fw8oka",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "originalTitle": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+      "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
+      "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "originalUrl": "https://www.ithome.com/0/982/520.htm",
+      "aihotUrl": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 73,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-28T06:21:07.000Z",
+      "discoveredAt": "2026-07-28T07:04:51.393Z"
     },
     {
-      "id": "qwen-july",
-      "title": "阿里 Qwen 三天三次更新（含 Qwen3.7 Flash）",
-      "summary": "阿里巴巴在 72 小时内连发三个 Qwen 模型，Qwen3.7 Flash 于 7/27 上线，延续高频迭代节奏。",
-      "source": "aimodelsmap",
-      "url": "https://aimodelsmap.com/new-ai-models",
-      "tags": ["开源", "大模型", "阿里"],
-      "date": "2026-07-27"
+      "id": "cms3lggqj00c0roskhu1r5f09",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench",
+      "originalTitle": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+      "source": "AI HOT · AI 摘要 · X：Kimi.ai (@Kimi_Moonshot)",
+      "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
+      "originalUrl": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "aihotUrl": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 73,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-27T18:45:20.000Z",
+      "discoveredAt": "2026-07-27T19:02:32.798Z"
     },
     {
-      "id": "deepseek-rename",
-      "title": "DeepSeek 退役旧模型名，统一至新版本",
-      "summary": "7/24 DeepSeek 停用旧模型标签，旧名调用将指向新模型。依赖 DeepSeek API 的产品需检查调用名称以免中断。",
-      "source": "buinsoft",
-      "url": "https://www.buinsoft.com/en/blog/ai-model-wave-july-2026-small-business-guide",
-      "tags": ["API", "模型更新"],
-      "date": "2026-07-24"
+      "id": "cms3k7su000n8roiytkztsme7",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体",
+      "originalTitle": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+      "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+      "source": "AI HOT · AI 摘要 · MarkTechPost（RSS）",
+      "url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
+      "originalUrl": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "aihotUrl": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 72,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-27T18:08:24.000Z",
+      "discoveredAt": "2026-07-27T18:27:48.477Z"
     },
     {
-      "id": "gemini-3-6-flash",
-      "title": "Gemini 3.6 Flash 降价 + 知识截断跳至 2026-03 + 多模态",
-      "summary": "Google 7/21 发布，输出定价低于前代且 token 用量再降约 17%，知识截止从 2025-01 跃升至 2026-03，支持文本/图像/视频/音频/PDF。",
-      "source": "Presenc AI / buinsoft",
-      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
-      "tags": ["Google", "多模态", "降价"],
-      "date": "2026-07-21"
+      "id": "cms4oxr7h00aoroa1i8kboqrk",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+      "originalTitle": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
+      "source": "AI HOT · AI 摘要 · Google Blog：AI（RSS）",
+      "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "originalUrl": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "aihotUrl": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 71,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "discoveredAt": "2026-07-28T13:27:43.174Z"
     },
     {
-      "id": "grok-4-5",
-      "title": "Grok 4.5 聚焦编码，上下文缩至 500K，定价 $2/$6",
-      "summary": "xAI 7/8 发布，从 Grok 4.3 的 1M 上下文回缩至 500K（年内罕见收缩），强调实时数据访问与编码能力，输出定价低于多数前沿对手。",
-      "source": "Presenc AI",
-      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
-      "tags": ["xAI", "编码"],
-      "date": "2026-07-08"
+      "id": "cms4fb2n603f4roeprjoopbix",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+      "originalTitle": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+      "source": "AI HOT · AI 摘要 · MarkTechPost（RSS）",
+      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "originalUrl": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "aihotUrl": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 71,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-28T08:33:30.000Z",
+      "discoveredAt": "2026-07-28T08:58:05.501Z"
     },
     {
-      "id": "nemotron-twotower",
-      "title": "NVIDIA Nemotron TwoTower：扩散语言模型并行解码开源",
-      "summary": "7/1 发布，展示在自回归检查点基础上仅训练第二个去噪网络即可添加扩散式并行生成，吞吐达 2.42x、质量保持 98.7%。",
-      "source": "Presenc AI",
-      "url": "https://presenc.ai/research/july-2026-llm-release-roundup",
-      "tags": ["NVIDIA", "架构创新"],
-      "date": "2026-07-01"
+      "id": "cms47q4jj00mxroep0x4at5sf",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "originalTitle": "Show HN： FeyNoBg - 自动背景去除模型及训练库",
+      "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
+      "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+      "originalUrl": "https://usefeyn.com/blog/feynobg",
+      "aihotUrl": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 71,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-28T04:57:13.190Z",
+      "discoveredAt": "2026-07-28T05:25:52.937Z"
     },
     {
-      "id": "ai-price-war",
-      "title": "AI 价格战：能力强模型持续降价，企业成本下降",
-      "summary": "本月多家前沿模型降价，DeepSeek 快速模型约 $0.14/百万输入 token。同等任务的企业 AI 月成本较一年前显著下降。",
-      "source": "buinsoft",
-      "url": "https://www.buinsoft.com/en/blog/ai-model-wave-july-2026-small-business-guide",
-      "tags": ["价格", "趋势"],
-      "date": "2026-07"
+      "id": "cms3m8ubg001nrox37oixfg2e",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+      "originalTitle": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+      "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+      "originalUrl": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "aihotUrl": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 70,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-27T19:08:51.000Z",
+      "discoveredAt": "2026-07-27T19:24:35.867Z"
     },
     {
-      "id": "ai-regulation",
-      "title": "欧盟 / 美国监管跟进：EC 要求四家简报，NIST 更新框架",
-      "summary": "欧洲委员会 AI 办公室要求四家实验室说明训练方法与安全评估；美国 NIST 更新 AI 风险管理框架以适配新模型。",
-      "source": "GFdaily",
-      "url": "https://gfdaily.com/tech/en-four-ai-labs-release-new-models-in-july-performance-gap-narrows-ms2igeaa",
-      "tags": ["监管", "合规"],
-      "date": "2026-07"
+      "id": "cms3gqf3h01y1rondsl8z5sxy",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+      "originalTitle": "GitHub Copilot app for Beginners： Getting started",
+      "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+      "source": "AI HOT · AI 摘要 · GitHub Blog",
+      "url": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+      "originalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "aihotUrl": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 68,
+      "date": "2026-07-28",
+      "publishedAt": "2026-07-27T16:00:00.000Z",
+      "discoveredAt": "2026-07-27T16:50:19.067Z"
     }
   ]
 }
