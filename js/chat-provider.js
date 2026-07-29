@@ -6,6 +6,11 @@
    ============================================ */
 
 const ChatProvider = {
+  deepseekDefaults: Object.freeze({
+    endpoint: 'https://api.deepseek.com/v1/chat/completions',
+    model: 'deepseek-v4-flash'
+  }),
+
   currentName: '本地检索模式',
   providers: {
     local: { name: '本地检索模式', desc: '不发送数据到外部' },
@@ -94,6 +99,122 @@ const ChatProvider = {
 
   /* ── DeepSeek API ── */
 
+  async _normalizeDeepSeekConfig() {
+    const endpoint = this._normalizeDeepSeekEndpoint(
+      await DB.getSetting('deepseekBaseUrl', this.deepseekDefaults.endpoint)
+    );
+    const model = this._normalizeDeepSeekModel(
+      await DB.getSetting('deepseekModel', this.deepseekDefaults.model)
+    );
+    return { endpoint, model };
+  },
+
+  _normalizeDeepSeekEndpoint(value) {
+    const raw = String(value || '').trim();
+    if (!raw) return this.deepseekDefaults.endpoint;
+
+    let url;
+    try {
+      url = new URL(raw);
+    } catch {
+      throw new Error('DeepSeek 接口地址格式无效');
+    }
+
+    if (url.protocol !== 'https:') {
+      throw new Error('DeepSeek 接口必须使用 HTTPS');
+    }
+
+    if (url.hostname === 'api.deepseek.com') {
+      const pathName = url.pathname.replace(/\/+$/, '');
+      if (!pathName || pathName === '/v1') {
+        url.pathname = '/v1/chat/completions';
+      }
+    }
+
+    return url.href.replace(/\/$/, '');
+  },
+
+  _normalizeDeepSeekModel(value) {
+    const model = String(value || '').trim();
+    if (!model || model === 'deepseek-chat' || model === 'deepseek-reasoner') {
+      return this.deepseekDefaults.model;
+    }
+    return model;
+  },
+
+  _deepSeekHttpError(status, apiMessage = '') {
+    const labels = {
+      400: '请求格式错误',
+      401: 'API Key 无效或已失效',
+      402: '账户余额不足',
+      404: '接口地址或模型不存在',
+      422: '请求参数无效',
+      429: '请求过于频繁',
+      500: 'DeepSeek 服务内部错误',
+      503: 'DeepSeek 服务繁忙'
+    };
+    const label = labels[status] || 'DeepSeek API 请求失败';
+    const detail = String(apiMessage || '').trim().slice(0, 180);
+    return label + '（HTTP ' + status + '）' + (detail ? '：' + detail : '');
+  },
+
+  async _requestDeepSeek({
+    apiKey,
+    endpoint,
+    model,
+    messages,
+    maxTokens = 1024,
+    temperature = 0.7
+  }) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 90000);
+    let response;
+
+    try {
+      response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ' + apiKey
+        },
+        body: JSON.stringify({
+          model,
+          messages,
+          temperature,
+          max_tokens: maxTokens,
+          stream: false
+        }),
+        signal: controller.signal
+      });
+    } catch (error) {
+      if (error?.name === 'AbortError') {
+        throw new Error('请求超时，请稍后重试');
+      }
+      if (
+        error instanceof TypeError ||
+        /Failed to fetch|NetworkError|Load failed/i.test(error?.message || '')
+      ) {
+        throw new Error('网络请求失败。请确认接口地址正确，并检查当前网络能否访问 api.deepseek.com');
+      }
+      throw error;
+    } finally {
+      clearTimeout(timeoutId);
+    }
+
+    if (!response.ok) {
+      let apiMessage = '';
+      try {
+        const errorBody = await response.json();
+        apiMessage = errorBody?.error?.message || errorBody?.message || '';
+      } catch {
+        // Some gateways return an empty or non-JSON error body.
+      }
+      throw new Error(this._deepSeekHttpError(response.status, apiMessage));
+    }
+
+    return await response.json();
+  },
+
   async _chatDeepSeek(message, scope) {
     const apiKey = await DB.getSetting('deepseekApiKey', '');
     if (!apiKey) {
@@ -107,38 +228,25 @@ const ChatProvider = {
         contextText = await this._buildContext(scope, message);
       }
 
-      const baseUrl = await DB.getSetting('deepseekBaseUrl', 'https://api.deepseek.com/v1/chat/completions');
-      const model = await DB.getSetting('deepseekModel', 'deepseek-chat');
-
-      const res = await fetch(baseUrl, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${apiKey}`
-        },
-        body: JSON.stringify({
-          model,
-          messages: [
-            ...(contextText ? [{ role: 'system', content: contextText }] : []),
-            { role: 'user', content: message }
-          ],
-          temperature: 0.7,
-          max_tokens: 1024
-        })
+      const { endpoint, model } = await this._normalizeDeepSeekConfig();
+      const data = await this._requestDeepSeek({
+        apiKey,
+        endpoint,
+        model,
+        messages: [
+          ...(contextText ? [{ role: 'system', content: contextText }] : []),
+          { role: 'user', content: message }
+        ]
       });
+      const reply = data.choices?.[0]?.message?.content || '[无回答]';
 
-      if (!res.ok) {
-        throw new Error(`DeepSeek API 错误: ${res.status}`);
-      }
-
-      const data = await res.json();
-      const reply = data.choices?.[0]?.message?.content || '[无回复]';
-
-      return `[DeepSeek AI]\n\n${reply}\n\n⚠️ 以上由 AI 生成，请结合个人记录判断，不构成专业建议。`;
-
-    } catch(e) {
-      console.error('[RL] DeepSeek API error:', e);
-      return `[AI 连接失败]\n\n无法连接到 DeepSeek 服务：${e.message}\n\n已自动降级为本地检索模式。\n\n${await Chats._localRetrieve(message)}`;
+      return '[DeepSeek AI]\n\n' + reply +
+        '\n\n⚠️ 以上由 AI 生成，请结合个人记录判断，不构成专业建议。';
+    } catch (error) {
+      console.error('[RL] DeepSeek API error:', error);
+      return '[AI 连接失败]\n\n无法连接到 DeepSeek 服务：' + error.message +
+        '\n\n已自动降级为本地检索模式。\n\n' +
+        await Chats._localRetrieve(message);
     }
   },
 
@@ -221,18 +329,24 @@ const ChatProvider = {
 
       <div id="deepseek-config" style="display:none">
         <div class="form-group">
-          <label class="form-label">API Base URL</label>
+          <label class="form-label">Chat Completions 完整接口地址</label>
           <input id="ds-baseurl" placeholder="https://api.deepseek.com/v1/chat/completions"
-                 value="${''}">
+                 value="https://api.deepseek.com/v1/chat/completions">
+          <small style="color:var(--text-tertiary)">留空时使用 DeepSeek 官方接口。</small>
         </div>
         <div class="form-group">
           <label class="form-label">API Key *</label>
-          <input id="ds-key" placeholder="输入你的 DeepSeek API Key" type="password">
+          <input id="ds-key" placeholder="输入新 Key；留空则保留已保存的 Key"
+                 type="password" autocomplete="off">
         </div>
         <div class="form-group">
           <label class="form-label">模型名称</label>
-          <input id="ds-model" placeholder="deepseek-chat" value="deepseek-chat">
+          <input id="ds-model" placeholder="deepseek-v4-flash" value="deepseek-v4-flash">
         </div>
+        <button id="ds-test-btn" class="btn btn-outline" type="button"
+                onclick="ChatProvider.testDeepSeekConnection()" style="width:100%">
+          测试 DeepSeek 连接
+        </button>
       </div>
 
       <p style="font-size:var(--fs-tiny);color:var(--danger);margin-top:6px">
@@ -267,18 +381,72 @@ const ChatProvider = {
       DB.getSetting('yuanbaoModel','hunyuan-pro').then(v=>{
         const el=document.getElementById('yb-model');if(el)el.value=v;
       });
-      DB.getSetting('deepseekBaseUrl','').then(v=>{
-        const el=document.getElementById('ds-baseurl');if(el)el.value=v;
+      DB.getSetting('deepseekBaseUrl',this.deepseekDefaults.endpoint).then(v=>{
+        const el=document.getElementById('ds-baseurl');
+        if(el)el.value=this._normalizeDeepSeekEndpoint(v);
       });
-      DB.getSetting('deepseekModel','deepseek-chat').then(v=>{
-        const el=document.getElementById('ds-model');if(el)el.value=v;
+      DB.getSetting('deepseekModel',this.deepseekDefaults.model).then(v=>{
+        const el=document.getElementById('ds-model');
+        if(el)el.value=this._normalizeDeepSeekModel(v);
+      });
+      DB.getSetting('deepseekApiKey','').then(v=>{
+        const el=document.getElementById('ds-key');
+        if(el && v)el.placeholder='已保存 API Key；留空则保持不变';
       });
     }, 100);
   },
 
+  async testDeepSeekConnection() {
+    const button = document.getElementById('ds-test-btn');
+    const enteredKey = document.getElementById('ds-key')?.value.trim() || '';
+    const savedKey = await DB.getSetting('deepseekApiKey', '');
+    const apiKey = enteredKey || savedKey;
+    if (!apiKey) {
+      RL.toast('请先输入 DeepSeek API Key');
+      return;
+    }
+
+    let endpoint;
+    let model;
+    try {
+      endpoint = this._normalizeDeepSeekEndpoint(
+        document.getElementById('ds-baseurl')?.value
+      );
+      model = this._normalizeDeepSeekModel(
+        document.getElementById('ds-model')?.value
+      );
+    } catch (error) {
+      RL.toast(error.message);
+      return;
+    }
+
+    if (button) {
+      button.disabled = true;
+      button.textContent = '测试中…';
+    }
+
+    try {
+      await this._requestDeepSeek({
+        apiKey,
+        endpoint,
+        model,
+        messages: [{ role: 'user', content: '只回复 OK' }],
+        maxTokens: 16,
+        temperature: 0
+      });
+      RL.toast('DeepSeek 连接成功 · ' + model);
+    } catch (error) {
+      RL.toast('连接失败：' + error.message);
+    } finally {
+      if (button) {
+        button.disabled = false;
+        button.textContent = '测试 DeepSeek 连接';
+      }
+    }
+  },
+
   async saveConfig() {
     const prov = document.querySelector('input[name="prov"]:checked')?.value || 'local';
-    await DB.setSetting('chatProvider', prov);
 
     if (prov === 'yuanbao') {
       const key = document.getElementById('yb-key').value.trim();
@@ -288,18 +456,41 @@ const ChatProvider = {
       await DB.setSetting('yuanbaoModel', document.getElementById('yb-model').value.trim() || 'hunyuan-pro');
       ChatProvider.currentName = '元宝 API';
     } else if (prov === 'deepseek') {
-      const key = document.getElementById('ds-key').value.trim();
-      if (!key) { RL.toast('请输入 API Key'); return; }
-      await DB.setSetting('deepseekApiKey', key);
-      await DB.setSetting('deepseekBaseUrl', document.getElementById('ds-baseurl').value.trim());
-      await DB.setSetting('deepseekModel', document.getElementById('ds-model').value.trim() || 'deepseek-chat');
+      const enteredKey = document.getElementById('ds-key').value.trim();
+      const savedKey = await DB.getSetting('deepseekApiKey', '');
+      if (!enteredKey && !savedKey) {
+        RL.toast('请输入 DeepSeek API Key');
+        return;
+      }
+
+      let endpoint;
+      let model;
+      try {
+        endpoint = this._normalizeDeepSeekEndpoint(
+          document.getElementById('ds-baseurl').value
+        );
+        model = this._normalizeDeepSeekModel(
+          document.getElementById('ds-model').value
+        );
+      } catch (error) {
+        RL.toast(error.message);
+        return;
+      }
+
+      if (enteredKey) {
+        await DB.setSetting('deepseekApiKey', enteredKey);
+      }
+      await DB.setSetting('deepseekBaseUrl', endpoint);
+      await DB.setSetting('deepseekModel', model);
       ChatProvider.currentName = 'DeepSeek';
     } else {
       ChatProvider.currentName = '本地检索模式';
     }
 
+    await DB.setSetting('chatProvider', prov);
     RL.closeModal();
-    RL.toast(`已切换为 ${this.providers[prov]?.name||prov}`);
+    RL.toast('已切换为 ' + (this.providers[prov]?.name || prov));
     Dashboard.renderSettings();
   }
+
 };

@@ -1,5 +1,5 @@
-/* Reality Loop Service Worker v2.6 — PWA support */
-const CACHE = 'rl-v2.6';
+/* Reality Loop Service Worker v2.7 — PWA support */
+const CACHE = 'rl-v2.7';
 const ASSETS = [
   './',
   'index.html',
