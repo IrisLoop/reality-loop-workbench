@@ -240,8 +240,7 @@ const ChatProvider = {
       });
       const reply = data.choices?.[0]?.message?.content || '[无回答]';
 
-      return '[DeepSeek AI]\n\n' + reply +
-        '\n\n⚠️ 以上由 AI 生成，请结合个人记录判断，不构成专业建议。';
+      return reply;
     } catch (error) {
       console.error('[RL] DeepSeek API error:', error);
       return '[AI 连接失败]\n\n无法连接到 DeepSeek 服务：' + error.message +

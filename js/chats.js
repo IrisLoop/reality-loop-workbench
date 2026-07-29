@@ -163,8 +163,171 @@ const Chats = {
     });
   },
 
+  _escapeMarkdownHTML(value) {
+    return String(value ?? '').replace(/[&<>"']/g, char => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    })[char]);
+  },
+
+  _renderMarkdownInline(value) {
+    const tokens = [];
+    const saveToken = html => '\uE000' + (tokens.push(html) - 1) + '\uE001';
+    let text = String(value ?? '');
+
+    text = text.replace(/`([^`\n]+)`/g, (match, code) =>
+      saveToken('<code>' + this._escapeMarkdownHTML(code) + '</code>')
+    );
+
+    text = text.replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/gi, (match, label, href) => {
+      try {
+        const url = new URL(href);
+        if (!['http:', 'https:'].includes(url.protocol)) return match;
+        return saveToken(
+          '<a href="' + this._escapeMarkdownHTML(url.href) +
+          '" target="_blank" rel="noopener noreferrer">' +
+          this._escapeMarkdownHTML(label) + '</a>'
+        );
+      } catch {
+        return match;
+      }
+    });
+
+    text = this._escapeMarkdownHTML(text);
+    text = text
+      .replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/__([^_\n]+)__/g, '<strong>$1</strong>')
+      .replace(/~~([^~\n]+)~~/g, '<del>$1</del>')
+      .replace(/\*([^*\n]+)\*/g, '<em>$1</em>')
+      .replace(/(^|[\s(])_([^_\n]+)_(?=$|[\s.,!?;:)]?)/g, '$1<em>$2</em>');
+
+    return text.replace(/\uE000(\d+)\uE001/g, (match, index) =>
+      tokens[Number(index)] ?? ''
+    );
+  },
+
+  renderMarkdown(value) {
+    const lines = String(value ?? '').replace(/\r\n?/g, '\n').split('\n');
+    const html = [];
+    let paragraph = [];
+    let listType = null;
+    let inFence = false;
+    let fenceLanguage = '';
+    let codeLines = [];
+
+    const flushParagraph = () => {
+      if (!paragraph.length) return;
+      html.push('<p>' + paragraph.map(line => this._renderMarkdownInline(line)).join('<br>') + '</p>');
+      paragraph = [];
+    };
+
+    const closeList = () => {
+      if (!listType) return;
+      html.push('</' + listType + '>');
+      listType = null;
+    };
+
+    const openList = type => {
+      if (listType === type) return;
+      closeList();
+      listType = type;
+      html.push('<' + type + '>');
+    };
+
+    for (const line of lines) {
+      const fence = line.match(/^\s*```\s*([\w-]*)\s*$/);
+      if (fence) {
+        flushParagraph();
+        closeList();
+        if (inFence) {
+          const languageClass = fenceLanguage
+            ? ' class="language-' + this._escapeMarkdownHTML(fenceLanguage) + '"'
+            : '';
+          html.push('<pre><code' + languageClass + '>' +
+            this._escapeMarkdownHTML(codeLines.join('\n')) + '</code></pre>');
+          inFence = false;
+          fenceLanguage = '';
+          codeLines = [];
+        } else {
+          inFence = true;
+          fenceLanguage = fence[1] || '';
+        }
+        continue;
+      }
+
+      if (inFence) {
+        codeLines.push(line);
+        continue;
+      }
+
+      if (!line.trim()) {
+        flushParagraph();
+        closeList();
+        continue;
+      }
+
+      const heading = line.match(/^\s*(#{1,4})\s+(.+)$/);
+      if (heading) {
+        flushParagraph();
+        closeList();
+        const level = heading[1].length;
+        html.push('<h' + level + '>' + this._renderMarkdownInline(heading[2]) + '</h' + level + '>');
+        continue;
+      }
+
+      if (/^\s*([-*_])(?:\s*\1){2,}\s*$/.test(line)) {
+        flushParagraph();
+        closeList();
+        html.push('<hr>');
+        continue;
+      }
+
+      const unordered = line.match(/^\s*[-+*]\s+(.+)$/);
+      const ordered = line.match(/^\s*\d+[.)]\s+(.+)$/);
+      if (unordered || ordered) {
+        flushParagraph();
+        const type = ordered ? 'ol' : 'ul';
+        openList(type);
+        html.push('<li>' + this._renderMarkdownInline((ordered || unordered)[1]) + '</li>');
+        continue;
+      }
+
+      const quote = line.match(/^\s*>\s?(.*)$/);
+      if (quote) {
+        flushParagraph();
+        closeList();
+        html.push('<blockquote>' + this._renderMarkdownInline(quote[1]) + '</blockquote>');
+        continue;
+      }
+
+      closeList();
+      paragraph.push(line);
+    }
+
+    if (inFence) {
+      html.push('<pre><code>' + this._escapeMarkdownHTML(codeLines.join('\n')) + '</code></pre>');
+    }
+    flushParagraph();
+    closeList();
+    return html.join('');
+  },
+
+  _cleanAssistantContent(value) {
+    return String(value ?? '')
+      .replace(/^\s*\[DeepSeek AI\]\s*/i, '')
+      .replace(/\s*⚠️\s*以上由\s*AI\s*生成，?\s*请结合个人记录判断，?\s*不构成专业建议。?\s*$/u, '')
+      .trim();
+  },
+
   _msgBubble(m) {
-    return `<div class="chat-bubble ${m.role==='user'?'user':'ai'}">${RL.esc(m.content)}</div>`;
+    const isUser = m.role === 'user';
+    const content = isUser
+      ? RL.esc(m.content)
+      : this.renderMarkdown(this._cleanAssistantContent(m.content));
+    return '<div class="chat-bubble ' + (isUser ? 'user' : 'ai') + '">' + content + '</div>';
   },
 
   changeScope(scope) {
@@ -244,7 +407,7 @@ const Chats = {
 
     const aiBubble = document.createElement('div');
     aiBubble.className = 'chat-bubble ai';
-    aiBubble.textContent = response;
+    aiBubble.innerHTML = this.renderMarkdown(this._cleanAssistantContent(response));
     container.appendChild(aiBubble);
     container.scrollTop = container.scrollHeight;
 
