@@ -1,4 +1,4 @@
-import { mkdir, rename, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -15,6 +15,7 @@ const PAGE_SIZE = 100;
 const MAX_PAGES = 20;
 const MAX_RETRIES = 3;
 const isDryRun = process.argv.includes('--dry-run');
+const skipIfCurrent = process.env.AI_HOT_SKIP_IF_CURRENT === '1';
 
 function dateInTimeZone(value) {
   const parts = new Intl.DateTimeFormat('en-CA', {
@@ -43,6 +44,20 @@ function validateTargetDate(value) {
     throw new Error(`Invalid AI_HOT_TARGET_DATE: ${value}`);
   }
   return value;
+}
+
+async function currentSnapshotIsComplete(targetDate) {
+  if (!skipIfCurrent) return false;
+  try {
+    const snapshot = JSON.parse(await readFile(OUTPUT_PATH, 'utf8'));
+    return snapshot?.schemaVersion === 1 &&
+      snapshot?.targetDate === targetDate &&
+      snapshot?.itemCount >= 10 &&
+      Array.isArray(snapshot?.items) &&
+      snapshot.items.length >= 10;
+  } catch {
+    return false;
+  }
 }
 
 function wait(ms) {
@@ -213,6 +228,10 @@ async function main() {
   const targetDate = validateTargetDate(
     process.env.AI_HOT_TARGET_DATE || previousCalendarDate()
   );
+  if (await currentSnapshotIsComplete(targetDate)) {
+    process.stdout.write(`AI Hot snapshot already contains 10 items for ${targetDate}; skipping retry.\n`);
+    return;
+  }
   const sourceItems = await fetchSelectedItems();
   const digest = buildDigest(sourceItems, targetDate);
   const output = `${JSON.stringify(digest, null, 2)}\n`;
