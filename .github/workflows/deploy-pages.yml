@@ -8,6 +8,12 @@ on:
     - cron: '7,37 6 * * *'
       timezone: Asia/Shanghai
   workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: Force replacement of an existing current-day snapshot
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -34,7 +40,7 @@ jobs:
 
       - name: Build previous-day AI Hot digest
         env:
-          AI_HOT_SKIP_IF_CURRENT: ${{ github.event_name == 'schedule' && '1' || '0' }}
+          AI_HOT_SKIP_IF_CURRENT: ${{ inputs.force_refresh && '0' || '1' }}
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: node scripts/update-ai-news.mjs
 
@@ -43,7 +49,7 @@ jobs:
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         continue-on-error: true
         env:
-          TUSHARE_TOKEN: ${{ secrets.TUSHARE_TOKEN }}
+          FINANCE_NEWS_SKIP_IF_CURRENT: ${{ inputs.force_refresh && '0' || '1' }}
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
           FINANCE_NEWS_DEEPSEEK_API_KEY: ${{ secrets.FINANCE_NEWS_DEEPSEEK_API_KEY }}
         run: node scripts/update-finance-news.mjs

@@ -128,34 +128,55 @@ const AILearning = {
       </div>`;
   },
 
+  _isCurrentHotSnapshot(data, targetDate) {
+    return data?.schemaVersion === 1 &&
+      data?.targetDate === targetDate &&
+      Number(data?.itemCount) >= 10 &&
+      Array.isArray(data?.items) &&
+      data.items.length >= 10 &&
+      data.items.slice(0, 10).every(item =>
+        item?.date === targetDate && typeof item?.title === 'string' && item.title.trim()
+      );
+  },
+
+  _hotSnapshotHtml(data) {
+    const items = Array.isArray(data?.items) ? data.items : [];
+    return `
+      <div style="display:flex;justify-content:space-between;align-items:baseline;margin:6px 2px 8px">
+        <span style="font-size:var(--fs-sm);font-weight:600;color:var(--text-secondary)">\u4eca\u65e5 AI \u70ed\u70b9</span>
+        <span style="font-size:var(--fs-xs);color:var(--text-tertiary)">\u66f4\u65b0\u4e8e ${RL.esc(data?.updated || data?.targetDate || '')}</span>
+      </div>
+      <div class="card">${items.length ? items.map(h => this._hotItem(h)).join('') : '<div class="empty-text" style="padding:14px">\u6682\u65e0\u81ea\u52a8\u70ed\u70b9</div>'}</div>`;
+  },
+
   async _renderHot(c) {
     c.style.padding = '0 var(--space-md)';
-    // Render immediately so the view does not appear frozen while data loads.
-    c.innerHTML = `
-      <div class="card">
-        <div class="empty-state" style="padding:28px 0">
-          <div class="empty-text">正在载入 AI 热点…</div>
-        </div>
-      </div>`;
+    const validator = (data, targetDate) => this._isCurrentHotSnapshot(data, targetDate);
+    const cached = DailyDigestCache.peek('ai', validator);
+    const manualPromise = DB.getAll('learningResources');
 
-    // 自动热点：来自 data/ai-news.json（由 WorkBuddy 抓取并定期更新）
+    if (!cached) {
+      c.innerHTML = `
+        <div class="card">
+          <div class="empty-state" style="padding:28px 0">
+            <div class="empty-text">正在载入 AI 热点…</div>
+          </div>
+        </div>`;
+    }
+
     let autoHtml = '';
     try {
-      const res = await fetch('data/ai-news.json', { cache: 'no-store' });
-      if (res.ok) {
-        const data = await res.json();
-        const items = data.items || [];
-        autoHtml = `
-          <div style="display:flex;justify-content:space-between;align-items:baseline;margin:6px 2px 8px">
-            <span style="font-size:var(--fs-sm);font-weight:600;color:var(--text-secondary)">今日 AI 热点</span>
-            <span style="font-size:var(--fs-xs);color:var(--text-tertiary)">更新于 ${RL.esc(data.updated || '')}</span>
-          </div>
-          <div class="card">${items.length ? items.map(h => this._hotItem(h)).join('') : '<div class="empty-text" style="padding:14px">暂无自动热点</div>'}</div>`;
-      }
-    } catch (e) { /* 本地 file:// 打开时 fetch 受限，仅显示手动添加部分 */ }
+      const data = cached || await DailyDigestCache.load('ai', 'data/ai-news.json', validator);
+      autoHtml = this._hotSnapshotHtml(data);
+    } catch {
+      autoHtml = `
+        <div class="card"><div class="empty-state" style="padding:28px 0">
+          <div class="empty-text">AI 热点暂时无法读取，请稍后再试</div>
+        </div></div>`;
+    }
 
     // 手动添加的热点（保留原 DB 逻辑）
-    const all = await DB.getAll('learningResources');
+    const all = await manualPromise;
     const hotItems = all.filter(i => (i.tags||'').includes('热点') || (i.type||'') === 'hot-topic');
     const manualHtml = hotItems.length ? `
       <div style="font-size:var(--fs-sm);font-weight:600;color:var(--text-secondary);margin:16px 2px 8px">我添加的热点</div>

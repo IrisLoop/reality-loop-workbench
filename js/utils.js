@@ -122,6 +122,156 @@ const RL = {
   }
 };
 
+/* Keep each daily digest fixed in the browser after its first successful read. */
+const DailyDigestCache = (() => {
+  const PREFIX = 'rl-digest-cache-v1:';
+  const MAX_STORED_DAYS = 7;
+  const memory = new Map();
+  const inFlight = new Map();
+
+  function dateInShanghai(value = new Date()) {
+    const parts = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Shanghai',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    }).formatToParts(value);
+    const byType = Object.fromEntries(parts.map(part => [part.type, part.value]));
+    return `${byType.year}-${byType.month}-${byType.day}`;
+  }
+
+  function expectedTargetDate(now = new Date()) {
+    const today = dateInShanghai(now);
+    const previous = new Date(`${today}T00:00:00.000Z`);
+    previous.setUTCDate(previous.getUTCDate() - 1);
+    return previous.toISOString().slice(0, 10);
+  }
+
+  function storageKey(kind, targetDate) {
+    return `${PREFIX}${kind}:${targetDate}`;
+  }
+
+  function isValidForDate(payload, targetDate, validator) {
+    try {
+      return validator(payload, targetDate) === true;
+    } catch {
+      return false;
+    }
+  }
+
+  function readStored(kind, targetDate, validator) {
+    try {
+      const payload = JSON.parse(localStorage.getItem(storageKey(kind, targetDate)) || 'null');
+      return isValidForDate(payload, targetDate, validator) ? payload : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function latestStored(kind) {
+    try {
+      const prefix = `${PREFIX}${kind}:`;
+      let latest = null;
+      for (let index = 0; index < localStorage.length; index += 1) {
+        const key = localStorage.key(index);
+        if (!key?.startsWith(prefix)) continue;
+        try {
+          const payload = JSON.parse(localStorage.getItem(key) || 'null');
+          if (payload?.schemaVersion !== 1 || !payload?.targetDate || !Array.isArray(payload?.items) || payload.items.length === 0) continue;
+          if (!latest || payload.targetDate > latest.targetDate) latest = payload;
+        } catch {
+          // Ignore one corrupt cache entry and continue looking for a usable fallback.
+        }
+      }
+      return latest;
+    } catch {
+      return null;
+    }
+  }
+
+  function persist(kind, targetDate, payload) {
+    try {
+      const prefix = `${PREFIX}${kind}:`;
+      localStorage.setItem(storageKey(kind, targetDate), JSON.stringify(payload));
+      const keys = [];
+      for (let index = 0; index < localStorage.length; index += 1) {
+        const key = localStorage.key(index);
+        if (key?.startsWith(prefix)) keys.push(key);
+      }
+      keys.sort().reverse().slice(MAX_STORED_DAYS).forEach(key => localStorage.removeItem(key));
+    } catch {
+      // Private browsing or storage pressure must not prevent the digest from rendering.
+    }
+  }
+
+  function peek(kind, validator) {
+    const targetDate = expectedTargetDate();
+    const key = storageKey(kind, targetDate);
+    if (memory.has(key)) return memory.get(key);
+    const stored = readStored(kind, targetDate, validator);
+    if (stored) memory.set(key, stored);
+    return stored;
+  }
+
+  async function load(kind, url, validator) {
+    const targetDate = expectedTargetDate();
+    const key = storageKey(kind, targetDate);
+    const cached = peek(kind, validator);
+    if (cached) return cached;
+    if (inFlight.has(key)) return inFlight.get(key);
+
+    const request = (async () => {
+      try {
+        const response = await fetch(url, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        if (payload?.schemaVersion !== 1 || !Array.isArray(payload?.items)) {
+          throw new Error('Unsupported digest schema');
+        }
+        memory.set(key, payload);
+        if (isValidForDate(payload, targetDate, validator)) {
+          persist(kind, targetDate, payload);
+        }
+        return payload;
+      } catch (error) {
+        const fallback = latestStored(kind);
+        if (fallback) {
+          memory.set(key, fallback);
+          return fallback;
+        }
+        throw error;
+      } finally {
+        inFlight.delete(key);
+      }
+    })();
+
+    inFlight.set(key, request);
+    return request;
+  }
+
+  function clearToday(kind) {
+    const key = storageKey(kind, expectedTargetDate());
+    memory.delete(key);
+    inFlight.delete(key);
+    try {
+      localStorage.removeItem(key);
+    } catch {
+      // Clearing an unavailable store is already equivalent to a cache miss.
+    }
+  }
+
+  try {
+    if (new URLSearchParams(window.location.search).get('refresh-digests') === '1') {
+      clearToday('ai');
+      clearToday('finance');
+    }
+  } catch {
+    // Non-browser tests and restricted environments can use the cache normally.
+  }
+
+  return { expectedTargetDate, peek, load, clearToday };
+})();
+
 // Close modal on overlay click
 document.getElementById('modal-overlay')?.addEventListener('click', e => {
   if (e.target.id === 'modal-overlay') RL.closeModal();

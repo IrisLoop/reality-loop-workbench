@@ -54,7 +54,10 @@ async function currentSnapshotIsComplete(targetDate) {
       snapshot?.targetDate === targetDate &&
       snapshot?.itemCount >= 10 &&
       Array.isArray(snapshot?.items) &&
-      snapshot.items.length >= 10;
+      snapshot.items.length >= 10 &&
+      snapshot.items.slice(0, 10).every(item =>
+        item?.date === targetDate && typeof item?.title === 'string' && item.title.trim()
+      );
   } catch {
     return false;
   }

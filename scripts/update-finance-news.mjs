@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { mkdir, rename, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -16,6 +16,7 @@ const MAX_CANDIDATES_PER_SOURCE = 300;
 const TARGET_ITEM_COUNT = 10;
 const isDryRun = process.argv.includes('--dry-run');
 const isSelfTest = process.argv.includes('--self-test');
+const skipIfCurrent = process.env.FINANCE_NEWS_SKIP_IF_CURRENT === '1';
 
 const CATEGORY_CONFIG = {
   geopolitics_macro: {
@@ -83,12 +84,27 @@ const TRUSTED_DOMAINS = [
   'xinhuanet.com'
 ];
 
-const TUSHARE_SOURCES = {
-  cls: { name: '财联社', url: 'https://www.cls.cn/' },
-  yicai: { name: '第一财经', url: 'https://www.yicai.com/' },
-  eastmoney: { name: '东方财富', url: 'https://www.eastmoney.com/' },
-  wallstreetcn: { name: '华尔街见闻', url: 'https://wallstreetcn.com/' }
-};
+const CSRC_NEWS_API = 'https://www.csrc.gov.cn/searchList/a1a078ee0bc54721ab6b148884c784a8?_isAgg=true&_isJson=true&_pageSize=50&_template=index&_rangeTimeGte=&_channelName=&page=1';
+const PBC_HOME_URL = 'https://www.pbc.gov.cn/';
+const GOV_POLICY_API = 'https://www.gov.cn/zhengce/zuixin/ZUIXINZHENGCE.json';
+
+const CSRC_RELEVANCE_TERMS = [
+  '发布', '同意', '注册', '监管', '上市', '发行', '证券', '期货', '基金',
+  '并购', '重组', '处罚', '调查', '风险', '投资者', '资本市场', '征求意见',
+  '规则', '办法', '公告', '许可'
+];
+
+const PBC_RELEVANCE_TERMS = [
+  '公告', '通知', '报告', '政策', '利率', '汇率', '贷款', '金融', '货币',
+  '支付', '债券', '再贷款', '准备金', '公开市场', '逆回购', 'MLF', 'LPR',
+  '存款', '征求意见', '人民币', '宏观审慎'
+];
+
+const GOV_RELEVANCE_TERMS = [
+  '金融', '货币', '财政', '税', '投资', '资本', '证券', '基金', '上市',
+  '市场', '消费', '产业', '企业', '公司', '融资', '贷款', '银行', '保险',
+  '外汇', '关税', '贸易', '能源', '科技', '房地产', '住房', '就业', '经济'
+];
 
 function dateInTimeZone(value) {
   const parts = new Intl.DateTimeFormat('en-CA', {
@@ -144,20 +160,55 @@ function wait(ms) {
 }
 
 async function fetchJson(url, options = {}) {
+  const {
+    maxRetries = MAX_RETRIES,
+    timeoutMs = REQUEST_TIMEOUT_MS,
+    headers = {},
+    ...requestOptions
+  } = options;
+  let lastError;
+  for (let attempt = 1; attempt <= maxRetries; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        ...requestOptions,
+        headers: {
+          Accept: 'application/json',
+          'User-Agent': 'Reality-Loop-Workbench/1.0 (+https://github.com/IrisLoop/reality-loop-workbench)',
+          ...headers
+        },
+        signal: AbortSignal.timeout(timeoutMs)
+      });
+
+      if (response.ok) return response.json();
+      const retryable = response.status === 429 || response.status >= 500;
+      if (!retryable || attempt === maxRetries) {
+        throw new Error(`HTTP ${response.status} from ${new URL(url).hostname}`);
+      }
+      await wait(attempt * 2_000);
+    } catch (error) {
+      lastError = error;
+      if (attempt === maxRetries) break;
+      await wait(attempt * 2_000);
+    }
+  }
+  throw lastError || new Error(`Request failed: ${url}`);
+}
+
+async function fetchText(url, options = {}) {
   let lastError;
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
     try {
       const response = await fetch(url, {
         ...options,
         headers: {
-          Accept: 'application/json',
+          Accept: 'text/html,application/xhtml+xml',
           'User-Agent': 'Reality-Loop-Workbench/1.0 (+https://github.com/IrisLoop/reality-loop-workbench)',
           ...(options.headers || {})
         },
         signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS)
       });
 
-      if (response.ok) return response.json();
+      if (response.ok) return response.text();
       const retryable = response.status === 429 || response.status >= 500;
       if (!retryable || attempt === MAX_RETRIES) {
         throw new Error(`HTTP ${response.status} from ${new URL(url).hostname}`);
@@ -176,6 +227,24 @@ function cleanText(value, maxLength = 2_000) {
   return typeof value === 'string'
     ? value.replace(/\u0000/g, '').replace(/\s+/g, ' ').trim().slice(0, maxLength)
     : '';
+}
+
+function htmlText(value, maxLength = 2_000) {
+  return cleanText(
+    typeof value === 'string'
+      ? value
+        .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+        .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+        .replace(/<[^>]+>/g, ' ')
+        .replace(/&nbsp;|&#160;/gi, ' ')
+        .replace(/&amp;/gi, '&')
+        .replace(/&quot;|&#34;/gi, '"')
+        .replace(/&#39;|&apos;/gi, "'")
+        .replace(/&lt;/gi, '<')
+        .replace(/&gt;/gi, '>')
+      : '',
+    maxLength
+  );
 }
 
 function safeHttpUrl(value) {
@@ -430,62 +499,146 @@ export function buildDigest(rawCandidates, targetDate, sourceHealth = [], now = 
   };
 }
 
-async function fetchTushare(targetDate) {
-  const token = process.env.TUSHARE_TOKEN;
-  if (!token) {
-    return {
-      items: [],
-      health: { name: 'Tushare', status: 'skipped', itemCount: 0, message: '未配置 TUSHARE_TOKEN' }
-    };
+export function snapshotIsUsable(snapshot, targetDate) {
+  return snapshot?.schemaVersion === 1 &&
+    snapshot?.targetDate === targetDate &&
+    ['complete', 'partial'].includes(snapshot?.status) &&
+    Number(snapshot?.itemCount) > 0 &&
+    Array.isArray(snapshot?.items) &&
+    snapshot.items.length > 0 &&
+    snapshot.items.every(item =>
+      item?.date === targetDate && typeof item?.title === 'string' && item.title.trim()
+    );
+}
+
+async function currentSnapshotIsUsable(targetDate) {
+  if (!skipIfCurrent) return false;
+  try {
+    const snapshot = JSON.parse(await readFile(OUTPUT_PATH, 'utf8'));
+    return snapshotIsUsable(snapshot, targetDate);
+  } catch {
+    return false;
   }
+}
 
-  const startDate = `${targetDate} 00:00:00`;
-  const endDate = `${nextCalendarDate(targetDate)} 00:00:00`;
-  const items = [];
-  const errors = [];
-
-  for (const [sourceCode, source] of Object.entries(TUSHARE_SOURCES)) {
-    try {
-      const payload = await fetchJson('https://api.tushare.pro', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          api_name: 'news',
-          token,
-          params: { src: sourceCode, start_date: startDate, end_date: endDate },
-          fields: 'datetime,content,title,channels'
-        })
-      });
-      if (payload?.code !== 0 || !payload?.data?.fields || !Array.isArray(payload?.data?.items)) {
-        throw new Error(cleanText(payload?.msg, 180) || `Tushare ${sourceCode} returned an unsupported response`);
-      }
-      const positions = Object.fromEntries(payload.data.fields.map((field, index) => [field, index]));
-      for (const row of payload.data.items.slice(0, MAX_CANDIDATES_PER_SOURCE)) {
-        items.push({
-          title: row[positions.title] || row[positions.content],
-          summary: row[positions.content] || '',
-          url: source.url,
-          urlType: 'homepage',
-          source: source.name,
-          publishedAt: `${cleanText(row[positions.datetime], 40).replace(' ', 'T')}+08:00`,
-          provider: 'Tushare',
-          sourceRank: 6
-        });
-      }
-    } catch (error) {
-      errors.push(`${source.name}: ${error instanceof Error ? error.message : error}`);
-    }
-  }
-
+function officialSourceResult(name, items, error = '') {
   return {
     items,
     health: {
-      name: 'Tushare',
-      status: items.length > 0 ? (errors.length ? 'degraded' : 'ok') : 'failed',
+      name,
+      status: error ? 'failed' : 'ok',
       itemCount: items.length,
-      message: errors.length ? errors.join('；').slice(0, 500) : ''
+      message: error
+        ? cleanText(error, 500)
+        : (items.length ? '' : '目标日期没有符合金融筛选条件的条目')
     }
   };
+}
+
+async function fetchCsrc(targetDate) {
+  const items = [];
+  try {
+    const payload = await fetchJson(CSRC_NEWS_API);
+    const results = payload?.data?.results;
+    if (!Array.isArray(results)) throw new Error('Unsupported CSRC response');
+    if (results.length > 0 && !results.some(article =>
+      typeof article?.title === 'string' && typeof article?.url === 'string' && typeof article?.publishedTimeStr === 'string'
+    )) {
+      throw new Error('CSRC response fields have changed');
+    }
+
+    for (const article of results.slice(0, MAX_CANDIDATES_PER_SOURCE)) {
+      const title = cleanText(article.title, 500);
+      const publishedAt = cleanText(article.publishedTimeStr, 40).replace(' ', 'T');
+      if (!title || !publishedAt || containsAny(title, CSRC_RELEVANCE_TERMS).length === 0) continue;
+      const withZone = `${publishedAt}+08:00`;
+      if (dateInTimeZone(new Date(withZone)) !== targetDate) continue;
+      items.push({
+        title,
+        summary: cleanText(article.memo || article.content, 2_000),
+        url: new URL(article.url, 'https://www.csrc.gov.cn').href,
+        source: '中国证监会',
+        publishedAt: withZone,
+        categoryHint: 'policy_regulation',
+        provider: 'CSRC',
+        sourceRank: 15
+      });
+    }
+    return officialSourceResult('中国证监会', items);
+  } catch (error) {
+    return officialSourceResult('中国证监会', items, error instanceof Error ? error.message : String(error));
+  }
+}
+
+async function fetchPbc(targetDate) {
+  const items = [];
+  try {
+    const html = await fetchText(PBC_HOME_URL);
+    let recognizedLinks = 0;
+    const seenUrls = new Set();
+    for (const match of html.matchAll(/<a\b([^>]*\bhref=["']([^"']+)["'][^>]*)>([\s\S]*?)<\/a>/gi)) {
+      const attributes = match[1];
+      const href = match[2];
+      if (!href.startsWith('/goutongjiaoliu/113456/113469/')) continue;
+      recognizedLinks += 1;
+      const stamp = href.match(/\/(20\d{12})\d*\//)?.[1];
+      if (!stamp) continue;
+      const titleAttribute = attributes.match(/\btitle=["']([^"']+)["']/i)?.[1] || '';
+      const title = htmlText(titleAttribute || match[3], 500);
+      if (!title || containsAny(title, PBC_RELEVANCE_TERMS).length === 0) continue;
+      const publishedAt = `${stamp.slice(0, 4)}-${stamp.slice(4, 6)}-${stamp.slice(6, 8)}T${stamp.slice(8, 10)}:${stamp.slice(10, 12)}:${stamp.slice(12, 14)}+08:00`;
+      if (dateInTimeZone(new Date(publishedAt)) !== targetDate) continue;
+      const url = new URL(href, PBC_HOME_URL).href;
+      if (seenUrls.has(url)) continue;
+      seenUrls.add(url);
+      items.push({
+        title,
+        summary: '',
+        url,
+        source: '中国人民银行',
+        publishedAt,
+        categoryHint: 'policy_regulation',
+        provider: 'PBC',
+        sourceRank: 15
+      });
+    }
+    if (recognizedLinks === 0) throw new Error('Unsupported PBC page structure');
+    return officialSourceResult('中国人民银行', items);
+  } catch (error) {
+    return officialSourceResult('中国人民银行', items, error instanceof Error ? error.message : String(error));
+  }
+}
+
+async function fetchGovPolicy(targetDate) {
+  const items = [];
+  try {
+    const payload = await fetchJson(GOV_POLICY_API);
+    if (!Array.isArray(payload)) throw new Error('Unsupported gov.cn policy response');
+    if (payload.length > 0 && !payload.some(article =>
+      typeof article?.TITLE === 'string' && typeof article?.URL === 'string' && typeof article?.DOCRELPUBTIME === 'string'
+    )) {
+      throw new Error('gov.cn policy response fields have changed');
+    }
+
+    for (const article of payload.slice(0, MAX_CANDIDATES_PER_SOURCE)) {
+      const title = cleanText(article.TITLE, 500);
+      const date = cleanText(article.DOCRELPUBTIME, 20);
+      if (date !== targetDate || !title || containsAny(title, GOV_RELEVANCE_TERMS).length === 0) continue;
+      items.push({
+        title,
+        summary: cleanText(article.SUB_TITLE, 2_000),
+        url: article.URL,
+        source: '中国政府网',
+        publishedAt: `${date}T12:00:00+08:00`,
+        categoryHint: 'policy_regulation',
+        provider: 'GOV.CN',
+        sourceRank: 15
+      });
+    }
+    return officialSourceResult('中国政府网', items);
+  } catch (error) {
+    return officialSourceResult('中国政府网', items, error instanceof Error ? error.message : String(error));
+  }
 }
 
 async function fetchAlphaVantage(targetDate) {
@@ -560,7 +713,7 @@ async function fetchGdelt(targetDate) {
   const items = [];
   const errors = [];
 
-  for (const [query, categoryHint] of queries) {
+  await Promise.all(queries.map(async ([query, categoryHint]) => {
     try {
       const url = new URL('https://api.gdeltproject.org/api/v2/doc/doc');
       url.searchParams.set('query', query);
@@ -570,7 +723,7 @@ async function fetchGdelt(targetDate) {
       url.searchParams.set('maxrecords', '75');
       url.searchParams.set('startdatetime', gdeltTime(start));
       url.searchParams.set('enddatetime', gdeltTime(end));
-      const payload = await fetchJson(url);
+      const payload = await fetchJson(url, { maxRetries: 1, timeoutMs: 8_000 });
       if (!Array.isArray(payload?.articles)) {
         throw new Error('Unsupported GDELT response');
       }
@@ -589,7 +742,7 @@ async function fetchGdelt(targetDate) {
     } catch (error) {
       errors.push(`${categoryHint}: ${error instanceof Error ? error.message : error}`);
     }
-  }
+  }));
 
   return {
     items,
@@ -694,6 +847,12 @@ function runSelfTest() {
   if (!digest.items.some(item => item.verification === 'official')) {
     throw new Error('Self-test expected the SEC item to be marked official');
   }
+  if (!snapshotIsUsable(digest, targetDate)) {
+    throw new Error('Self-test expected the generated digest to be reusable');
+  }
+  if (snapshotIsUsable({ ...digest, itemCount: 0, items: [] }, targetDate)) {
+    throw new Error('Self-test expected an empty digest to require a retry');
+  }
   process.stdout.write(`Finance news self-test passed: ${JSON.stringify(counts)}\n`);
 }
 
@@ -706,8 +865,14 @@ async function main() {
   const targetDate = validateTargetDate(
     process.env.FINANCE_NEWS_TARGET_DATE || previousCalendarDate()
   );
+  if (await currentSnapshotIsUsable(targetDate)) {
+    process.stdout.write(`Finance snapshot already contains usable items for ${targetDate}; skipping retry.\n`);
+    return;
+  }
   const results = await Promise.all([
-    fetchTushare(targetDate),
+    fetchCsrc(targetDate),
+    fetchPbc(targetDate),
+    fetchGovPolicy(targetDate),
     fetchAlphaVantage(targetDate),
     fetchGdelt(targetDate)
   ]);

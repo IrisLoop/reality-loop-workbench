@@ -204,27 +204,37 @@ const Finance = {
     return Date.now() - endOfTargetDay.getTime() > 2 * 24 * 60 * 60 * 1000;
   },
 
+  _isCurrentNewsSnapshot(data, targetDate) {
+    return data?.schemaVersion === 1 &&
+      data?.targetDate === targetDate &&
+      ['complete', 'partial'].includes(data?.status) &&
+      Number(data?.itemCount) > 0 &&
+      Array.isArray(data?.items) &&
+      data.items.length > 0 &&
+      data.items.every(item =>
+        item?.date === targetDate && typeof item?.title === 'string' && item.title.trim()
+      );
+  },
+
   async _renderNews(c) {
     c.style.padding = '0 var(--space-md)';
-    c.innerHTML = `
-      <div class="card">
-        <div class="empty-state finance-loading-state">
-          <div class="finance-loading-dot" aria-hidden="true"></div>
-          <div class="empty-text">\u6b63\u5728\u8bfb\u53d6\u6628\u65e5\u91d1\u878d\u70ed\u70b9...</div>
-        </div>
-      </div>`;
-
+    const validator = (data, targetDate) => this._isCurrentNewsSnapshot(data, targetDate);
+    const cached = DailyDigestCache.peek('finance', validator);
     const manualPromise = DB.getAll('financeItems');
+    if (!cached) {
+      c.innerHTML = `
+        <div class="card">
+          <div class="empty-state finance-loading-state">
+            <div class="finance-loading-dot" aria-hidden="true"></div>
+            <div class="empty-text">\u6b63\u5728\u8bfb\u53d6\u6628\u65e5\u91d1\u878d\u70ed\u70b9...</div>
+          </div>
+        </div>`;
+    }
+
     let snapshot = null;
     let loadError = '';
     try {
-      const response = await fetch('data/finance-news.json', { cache: 'no-store' });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const payload = await response.json();
-      if (payload?.schemaVersion !== 1 || !Array.isArray(payload.items)) {
-        throw new Error('\u6570\u636e\u683c\u5f0f\u4e0d\u53d7\u652f\u6301');
-      }
-      snapshot = payload;
+      snapshot = cached || await DailyDigestCache.load('finance', 'data/finance-news.json', validator);
     } catch (error) {
       loadError = error instanceof Error ? error.message : String(error);
     }
@@ -251,10 +261,10 @@ const Finance = {
     const statusText = stale && data.targetDate
       ? '\u6570\u636e\u53ef\u80fd\u5df2\u8fc7\u671f'
       : (data.status === 'partial' ? `\u5df2\u9009 ${data.itemCount || 0} / 10 \u6761` : '\u6628\u65e5\u7cbe\u9009');
-    const health = (data.sourceHealth || [])
+    const health = (Array.isArray(data.sourceHealth) ? data.sourceHealth : [])
       .map(source => `<span class="finance-source-health" data-status="${['ok','degraded','failed','skipped'].includes(source.status) ? source.status : 'unknown'}">${RL.esc(source.name || '')} &middot; ${RL.esc(this._healthLabel(source.status))}</span>`)
       .join('');
-    const items = (data.items || []).slice(0, 10);
+    const items = (Array.isArray(data.items) ? data.items : []).slice(0, 10);
     const emptyMessage = data.status === 'awaiting_api_configuration'
       ? '\u81ea\u52a8\u66f4\u65b0\u7a0b\u5e8f\u5df2\u5c31\u7eea\uff0c\u7b49\u5f85\u9996\u6b21\u7ebf\u4e0a\u8fd0\u884c\u3002'
       : '\u8be5\u65e5\u671f\u6ca1\u6709\u8fbe\u5230\u7b5b\u9009\u6807\u51c6\u7684\u70ed\u70b9\uff0c\u4e0d\u4f7f\u7528\u4f4e\u8d28\u91cf\u5185\u5bb9\u51d1\u6570\u3002';
@@ -275,7 +285,7 @@ const Finance = {
 
   _automaticNewsItem(item, index) {
     const url = this._safeUrl(item.url);
-    const sources = (item.sources || []).map(source => source.name).filter(Boolean);
+    const sources = (Array.isArray(item.sources) ? item.sources : []).map(source => source.name).filter(Boolean);
     const sourceText = sources.length ? [...new Set(sources)].join(' / ') : (item.source || '\u672a\u77e5\u6765\u6e90');
     const linkText = item.urlType === 'homepage' ? '\u67e5\u770b\u6765\u6e90\u4e3b\u9875' : '\u9605\u8bfb\u539f\u6587';
     const verificationClass = ['official','cross_verified','single_source'].includes(item.verification) ? item.verification : 'unverified';
@@ -298,12 +308,13 @@ const Finance = {
 
   _manualNewsItem(item) {
     const url = this._safeUrl(item.sourceLink);
+    const summary = typeof item.summary === 'string' ? item.summary : '';
     return `
       <div class="list-item">
         <div class="list-item-body">
           <div class="list-item-title">${RL.esc(item.title)}</div>
           <div class="list-item-sub">${RL.esc(item.topic || '\u624b\u52a8\u8bb0\u5f55')} ${item.eventDate ? `&middot; ${RL.esc(RL.fmtDate(item.eventDate))}` : ''}</div>
-          ${item.summary ? `<div class="list-item-sub finance-manual-summary">${RL.esc(item.summary.slice(0, 160))}${item.summary.length > 160 ? '&hellip;' : ''}</div>` : ''}
+          ${summary ? `<div class="list-item-sub finance-manual-summary">${RL.esc(summary.slice(0, 160))}${summary.length > 160 ? '&hellip;' : ''}</div>` : ''}
           <div class="list-item-sub">\u6765\u6e90\uff1a${RL.esc(item.sourceName || '\u672a\u586b\u5199')}${url ? ` &middot; <a href="${RL.esc(url)}" target="_blank" rel="noopener noreferrer">\u6253\u5f00\u94fe\u63a5</a>` : ''}</div>
         </div>
         <div class="list-item-actions">
