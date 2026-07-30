@@ -41,12 +41,10 @@ jobs:
       - name: Build previous-day AI Hot digest
         env:
           AI_HOT_SKIP_IF_CURRENT: ${{ inputs.force_refresh && '0' || '1' }}
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: node scripts/update-ai-news.mjs
 
       - name: Build previous-day finance digest
         id: finance_digest
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         continue-on-error: true
         env:
           FINANCE_NEWS_SKIP_IF_CURRENT: ${{ inputs.force_refresh && '0' || '1' }}
@@ -60,7 +58,6 @@ jobs:
         run: echo "Finance digest update failed; keeping the last successful snapshot."
 
       - name: Persist scheduled snapshots
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         shell: bash
         run: |
           if git diff --quiet -- data/ai-news.json data/finance-news.json; then

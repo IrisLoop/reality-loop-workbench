@@ -19,6 +19,8 @@ Chinese policy and regulation coverage uses public, key-free sources from the Ch
 
 The 06:37 run is a failure fallback, not a second refresh. When a usable snapshot for the target date already exists, both the AI and finance generators stop before calling any external provider. A successful partial finance snapshot is also fixed for that day rather than being silently replaced later.
 
+A push to `main` performs the same missing-snapshot check before deploying Pages. It only calls providers when the current target date has no usable snapshot, so a normal code deployment cannot replace an already fixed daily digest.
+
 Manual workflow runs follow the same non-overwrite rule by default. Select `force_refresh` only when an existing current-day snapshot is known to be wrong and should be deliberately replaced.
 
 Browsers that already cached the old snapshot intentionally keep it fixed. After an operator uses `force_refresh`, open the deployed page once with `?refresh-digests=1` to discard that device's current-day AI and finance cache and read the replacement snapshot. This only reloads the public JSON files; it does not call provider APIs.
