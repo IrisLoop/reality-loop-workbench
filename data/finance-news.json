@@ -1,21 +1,68 @@
 {
   "schemaVersion": 1,
-  "status": "awaiting_api_configuration",
-  "updated": null,
-  "generatedAt": null,
-  "targetDate": null,
+  "status": "partial",
+  "updated": "2026-07-29",
+  "generatedAt": "2026-07-30T09:31:35.545Z",
+  "targetDate": "2026-07-29",
   "timezone": "Asia/Shanghai",
-  "itemCount": 0,
+  "itemCount": 1,
   "targetItemCount": 10,
   "sourceHealth": [
     {
-      "name": "金融热点",
+      "name": "中国证监会",
+      "status": "ok",
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
+    },
+    {
+      "name": "中国人民银行",
+      "status": "ok",
+      "itemCount": 1,
+      "message": ""
+    },
+    {
+      "name": "中国政府网",
+      "status": "ok",
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
+    },
+    {
+      "name": "Alpha Vantage",
       "status": "skipped",
       "itemCount": 0,
-      "message": "自动更新程序已就绪，等待首次线上运行。"
+      "message": "未配置 ALPHA_VANTAGE_API_KEY"
+    },
+    {
+      "name": "GDELT",
+      "status": "failed",
+      "itemCount": 0,
+      "message": "geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout；company_ipo: The operation was aborted due to timeout"
     }
   ],
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
-  "items": []
+  "items": [
+    {
+      "id": "1ed8dc5c9865dcd0efa5",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026072915223955058/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026072915223955058/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T07:22:39.000Z",
+      "date": "2026-07-29",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    }
+  ]
 }
