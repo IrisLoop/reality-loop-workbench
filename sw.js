@@ -1,5 +1,5 @@
 /* Reality Loop Service Worker v2.8 — PWA support */
-const CACHE = 'rl-v2.8';
+const CACHE = 'rl-v2.9';
 const ASSETS = [
   './',
   'index.html',
@@ -25,7 +25,8 @@ const ASSETS = [
   'icons/05-finance-learning.png',
   'icons/06-diary-empty.png',
   'icons/07-chats-empty.png',
-  'data/ai-news.json'
+  'data/ai-news.json',
+  'data/finance-news.json'
 ];
 
 self.addEventListener('install', e => {

@@ -1,4 +1,4 @@
-name: Update AI Hot and deploy Pages
+name: Update daily digests and deploy Pages
 
 on:
   push:
@@ -33,23 +33,38 @@ jobs:
           node-version: 24
 
       - name: Build previous-day AI Hot digest
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           AI_HOT_SKIP_IF_CURRENT: ${{ github.event_name == 'schedule' && '1' || '0' }}
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: node scripts/update-ai-news.mjs
 
-      - name: Persist scheduled snapshot
+      - name: Build previous-day finance digest
+        id: finance_digest
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        env:
+          TUSHARE_TOKEN: ${{ secrets.TUSHARE_TOKEN }}
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+          FINANCE_NEWS_DEEPSEEK_API_KEY: ${{ secrets.FINANCE_NEWS_DEEPSEEK_API_KEY }}
+        run: node scripts/update-finance-news.mjs
+
+      - name: Report finance digest failure
+        if: steps.finance_digest.outcome == 'failure'
+        shell: bash
+        run: echo "Finance digest update failed; keeping the last successful snapshot."
+
+      - name: Persist scheduled snapshots
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         shell: bash
         run: |
-          if git diff --quiet -- data/ai-news.json; then
-            echo "AI Hot snapshot is unchanged."
+          if git diff --quiet -- data/ai-news.json data/finance-news.json; then
+            echo "Daily snapshots are unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ai-news.json
-          git commit -m "chore: update daily AI Hot digest"
+          git add data/ai-news.json data/finance-news.json
+          git commit -m "chore: update daily learning digests"
           git push
 
       - name: Configure GitHub Pages

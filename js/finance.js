@@ -37,42 +37,6 @@ const Finance = {
     else await this._renderKnowledge(c);
   },
 
-  async _renderNews(c) {
-    const items = await DB.getAll('financeItems');
-    const news = items.filter(i => (i.category||'') === 'news');
-    news.sort((a,b) => new Date(b.eventDate || b.createdAt) - new Date(a.eventDate || a.createdAt));
-
-    c.style.padding = '0 var(--space-md)';
-    c.innerHTML = news.length === 0 ? `
-      <div class="card"><div class="empty-state">
-        <div class="empty-icon">📰</div>
-        <div class="empty-text">暂无金融热点<br><small>首版仅支持手动添加，不自动生成实时数据</small></div>
-      </div></div>`
-    : `<div class="card">${news.map(n => this._newsItem(n)).join('')}</div>`;
-  },
-
-  _newsItem(n) {
-    return `
-      <div class="list-item">
-        <div class="list-item-body">
-          <div class="list-item-title">${RL.esc(n.title)}</div>
-          <div class="list-item-sub">
-            主题: ${n.topic||'—'} · ${n.eventDate?RL.fmtDate(n.eventDate):''}
-          </div>
-          ${n.summary ? `<div class="list-item-sub" style="margin-top:4px;color:var(--text-secondary)">${RL.esc(n.summary.slice(0,120))}${n.summary.length>120?'...':''}</div>` : ''}
-          <div class="list-item-sub">
-            来源: ${n.sourceName||'—'}
-            ${n.sourceLink ? `<a href="${RL.esc(n.sourceLink)}" target="_blank" rel="noopener" style="margin-left:4px">🔗</a>` : ''}
-          </div>
-          <div class="list-item-sub" style="color:var(--text-tertiary)">状态: ${n.status||'未读'} · ${RL.fmtDate(n.createdAt)}</div>
-        </div>
-        <div class="list-item-actions">
-          <button class="icon-btn" onclick="Finance.editItem('${n.id}')">✏️</button>
-          <button class="icon-btn danger" onclick="Finance.delItem('${n.id}')">🗑️</button>
-        </div>
-      </div>`;
-  },
-
   async _renderKnowledge(c) {
     const items = await DB.getAll('financeItems');
     const kb = items.filter(i => (i.category||'') === 'knowledge');
@@ -204,5 +168,148 @@ const Finance = {
 
   async delItem(id) {
     if (await RL.confirm('确定删除？')) { await DB.del('financeItems', id); RL.toast('已删除'); this.renderContent(); }
+  }
+  ,
+
+  _safeUrl(value) {
+    try {
+      const url = new URL(value, window.location.href);
+      return url.protocol === 'https:' || url.protocol === 'http:' ? url.href : '';
+    } catch (_) {
+      return '';
+    }
+  },
+
+  _verificationLabel(value) {
+    return {
+      official: '\u5b98\u65b9\u786e\u8ba4',
+      cross_verified: '\u591a\u6765\u6e90\u786e\u8ba4',
+      single_source: '\u5355\u4e00\u6765\u6e90'
+    }[value] || '\u5c1a\u5f85\u6838\u5b9e';
+  },
+
+  _healthLabel(value) {
+    return {
+      ok: '\u6b63\u5e38',
+      degraded: '\u90e8\u5206\u53ef\u7528',
+      failed: '\u5931\u8d25',
+      skipped: '\u672a\u914d\u7f6e'
+    }[value] || '\u672a\u77e5';
+  },
+
+  _isStale(targetDate) {
+    if (!targetDate) return true;
+    const endOfTargetDay = new Date(`${targetDate}T23:59:59+08:00`);
+    if (Number.isNaN(endOfTargetDay.getTime())) return true;
+    return Date.now() - endOfTargetDay.getTime() > 2 * 24 * 60 * 60 * 1000;
+  },
+
+  async _renderNews(c) {
+    c.style.padding = '0 var(--space-md)';
+    c.innerHTML = `
+      <div class="card">
+        <div class="empty-state finance-loading-state">
+          <div class="finance-loading-dot" aria-hidden="true"></div>
+          <div class="empty-text">\u6b63\u5728\u8bfb\u53d6\u6628\u65e5\u91d1\u878d\u70ed\u70b9...</div>
+        </div>
+      </div>`;
+
+    const manualPromise = DB.getAll('financeItems');
+    let snapshot = null;
+    let loadError = '';
+    try {
+      const response = await fetch('data/finance-news.json', { cache: 'no-store' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const payload = await response.json();
+      if (payload?.schemaVersion !== 1 || !Array.isArray(payload.items)) {
+        throw new Error('\u6570\u636e\u683c\u5f0f\u4e0d\u53d7\u652f\u6301');
+      }
+      snapshot = payload;
+    } catch (error) {
+      loadError = error instanceof Error ? error.message : String(error);
+    }
+
+    const allItems = await manualPromise;
+    const manualItems = allItems
+      .filter(item => (item.category || '') === 'news')
+      .sort((a, b) => new Date(b.eventDate || b.createdAt) - new Date(a.eventDate || a.createdAt));
+
+    const automaticHtml = snapshot ? this._snapshotHtml(snapshot) : `
+      <div class="card"><div class="empty-state">
+        <div class="empty-text">\u6682\u65f6\u65e0\u6cd5\u8bfb\u53d6\u81ea\u52a8\u91d1\u878d\u70ed\u70b9<br><small>${RL.esc(loadError || '\u8bf7\u7a0d\u540e\u91cd\u8bd5')}</small></div>
+      </div></div>`;
+    const manualHtml = manualItems.length ? `
+      <div class="finance-section-heading">\u6211\u6dfb\u52a0\u7684\u70ed\u70b9</div>
+      <div class="card">${manualItems.map(item => this._manualNewsItem(item)).join('')}</div>` : '';
+
+    c.innerHTML = automaticHtml + manualHtml;
+  },
+
+  _snapshotHtml(data) {
+    const stale = this._isStale(data.targetDate);
+    const dateLabel = data.targetDate ? RL.esc(data.targetDate) : '\u7b49\u5f85\u9996\u6b21\u8fd0\u884c';
+    const statusText = stale && data.targetDate
+      ? '\u6570\u636e\u53ef\u80fd\u5df2\u8fc7\u671f'
+      : (data.status === 'partial' ? `\u5df2\u9009 ${data.itemCount || 0} / 10 \u6761` : '\u6628\u65e5\u7cbe\u9009');
+    const health = (data.sourceHealth || [])
+      .map(source => `<span class="finance-source-health" data-status="${['ok','degraded','failed','skipped'].includes(source.status) ? source.status : 'unknown'}">${RL.esc(source.name || '')} &middot; ${RL.esc(this._healthLabel(source.status))}</span>`)
+      .join('');
+    const items = (data.items || []).slice(0, 10);
+    const emptyMessage = data.status === 'awaiting_api_configuration'
+      ? '\u81ea\u52a8\u66f4\u65b0\u7a0b\u5e8f\u5df2\u5c31\u7eea\uff0c\u7b49\u5f85\u9996\u6b21\u7ebf\u4e0a\u8fd0\u884c\u3002'
+      : '\u8be5\u65e5\u671f\u6ca1\u6709\u8fbe\u5230\u7b5b\u9009\u6807\u51c6\u7684\u70ed\u70b9\uff0c\u4e0d\u4f7f\u7528\u4f4e\u8d28\u91cf\u5185\u5bb9\u51d1\u6570\u3002';
+
+    return `
+      <div class="finance-digest-meta ${stale ? 'stale' : ''}">
+        <div>
+          <div class="finance-digest-title">\u6628\u65e5\u91d1\u878d\u70ed\u70b9</div>
+          <div class="finance-digest-date">\u6570\u636e\u65e5\u671f ${dateLabel} &middot; ${RL.esc(statusText)}</div>
+        </div>
+        <div class="finance-count">${items.length}<small>/10</small></div>
+      </div>
+      ${health ? `<div class="finance-source-health-row">${health}</div>` : ''}
+      ${items.length ? `<div class="finance-news-list">${items.map((item, index) => this._automaticNewsItem(item, index)).join('')}</div>` : `
+        <div class="card"><div class="empty-state"><div class="empty-text">${RL.esc(emptyMessage)}</div></div></div>`}
+      <div class="finance-method-note">${RL.esc(data.methodology || '')}</div>`;
+  },
+
+  _automaticNewsItem(item, index) {
+    const url = this._safeUrl(item.url);
+    const sources = (item.sources || []).map(source => source.name).filter(Boolean);
+    const sourceText = sources.length ? [...new Set(sources)].join(' / ') : (item.source || '\u672a\u77e5\u6765\u6e90');
+    const linkText = item.urlType === 'homepage' ? '\u67e5\u770b\u6765\u6e90\u4e3b\u9875' : '\u9605\u8bfb\u539f\u6587';
+    const verificationClass = ['official','cross_verified','single_source'].includes(item.verification) ? item.verification : 'unverified';
+    return `
+      <article class="finance-news-card">
+        <div class="finance-news-topline">
+          <span class="finance-news-index">${String(index + 1).padStart(2, '0')}</span>
+          <span class="finance-category">${RL.esc(item.categoryLabel || '\u91d1\u878d\u70ed\u70b9')}</span>
+          <span class="finance-verification ${verificationClass}">${RL.esc(this._verificationLabel(item.verification))}</span>
+        </div>
+        <h3 class="finance-news-title">${RL.esc(item.title || '')}</h3>
+        ${item.summary ? `<p class="finance-news-summary">${RL.esc(item.summary)}</p>` : ''}
+        ${item.whySelected ? `<p class="finance-news-reason">${RL.esc(item.whySelected)}</p>` : ''}
+        <div class="finance-news-footer">
+          <span>${RL.esc(sourceText)}</span>
+          ${url ? `<a href="${RL.esc(url)}" target="_blank" rel="noopener noreferrer">${linkText} &#8599;</a>` : ''}
+        </div>
+      </article>`;
+  },
+
+  _manualNewsItem(item) {
+    const url = this._safeUrl(item.sourceLink);
+    return `
+      <div class="list-item">
+        <div class="list-item-body">
+          <div class="list-item-title">${RL.esc(item.title)}</div>
+          <div class="list-item-sub">${RL.esc(item.topic || '\u624b\u52a8\u8bb0\u5f55')} ${item.eventDate ? `&middot; ${RL.esc(RL.fmtDate(item.eventDate))}` : ''}</div>
+          ${item.summary ? `<div class="list-item-sub finance-manual-summary">${RL.esc(item.summary.slice(0, 160))}${item.summary.length > 160 ? '&hellip;' : ''}</div>` : ''}
+          <div class="list-item-sub">\u6765\u6e90\uff1a${RL.esc(item.sourceName || '\u672a\u586b\u5199')}${url ? ` &middot; <a href="${RL.esc(url)}" target="_blank" rel="noopener noreferrer">\u6253\u5f00\u94fe\u63a5</a>` : ''}</div>
+        </div>
+        <div class="list-item-actions">
+          <button class="icon-btn" onclick="Finance.editItem('${item.id}')" aria-label="\u7f16\u8f91">&#9998;</button>
+          <button class="icon-btn danger" onclick="Finance.delItem('${item.id}')" aria-label="\u5220\u9664">&#9003;</button>
+        </div>
+      </div>`;
   }
 };

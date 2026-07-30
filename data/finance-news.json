@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "status": "awaiting_api_configuration",
+  "updated": null,
+  "generatedAt": null,
+  "targetDate": null,
+  "timezone": "Asia/Shanghai",
+  "itemCount": 0,
+  "targetItemCount": 10,
+  "sourceHealth": [
+    {
+      "name": "金融热点",
+      "status": "skipped",
+      "itemCount": 0,
+      "message": "自动更新程序已就绪，等待首次线上运行。"
+    }
+  ],
+  "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
+  "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
+  "items": []
+}
