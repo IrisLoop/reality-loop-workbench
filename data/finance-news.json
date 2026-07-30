@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "complete",
   "updated": "2026-07-29",
-  "generatedAt": "2026-07-30T10:20:38.532Z",
+  "generatedAt": "2026-07-30T10:49:14.914Z",
   "targetDate": "2026-07-29",
   "timezone": "Asia/Shanghai",
-  "itemCount": 1,
+  "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
@@ -28,9 +28,9 @@
     },
     {
       "name": "Alpha Vantage",
-      "status": "skipped",
-      "itemCount": 0,
-      "message": "未配置 ALPHA_VANTAGE_API_KEY"
+      "status": "degraded",
+      "itemCount": 50,
+      "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
       "name": "GDELT",
@@ -42,6 +42,72 @@
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
+    {
+      "id": "bdc112ba91ac2441232c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.31% on Jul 29: Key Drivers Unveiled",
+      "summary": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) stock declined by 3.31% due to macroeconomic headwinds, particularly signals from the Federal Reserve about prolonged high interest rates, and sector-wide profit-taking. Concerns about the immediate returns on AI infrastructure investment, normalization of consumer electronics inventory, and continuous geopolitical risks also contributed to the downward pressure and volatility. Technical indicators show a sell signal, and analysts are watchful of potential weaknesses in revenue concentration and margin pressures from advanced node escalations.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262061775-market-movers-tsm-20260729",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262061775-market-movers-tsm-20260729",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:10:50.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 25
+    },
+    {
+      "id": "cb25463b30a784d5a285",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Earnings call transcript: Generac tops profit forecasts in Q2 2026 on data center surge",
+      "summary": "Generac Holdings exceeded profit forecasts in Q2 2026, driven by a surge in data center demand and a tariff refund, despite revenue slightly missing targets. The company's adjusted EPS was $2.91 against an estimate of $2.00",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-generac-tops-profit-forecasts-in-q2-2026-on-data-center-surge-93CH-4821103",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-generac-tops-profit-forecasts-in-q2-2026-on-data-center-surge-93CH-4821103",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:57:04.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "b03ad9eca1720b56bd39",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Vulcan Materials Q2 Earnings & Revenues Beat Estimates, Stock Up",
+      "summary": "Vulcan Materials Company (VMC) reported strong Q2 2026 results, surpassing earnings and revenue estimates, leading to a 2.2% stock increase in pre-market trading. The company's performance was driven by growth in aggregates volume and pricing, commercial discipline, and operational efficiencies, despite challenges from energy-related inflation and disruptive weather. VMC reaffirmed its full-year adjusted EBITDA outlook, expecting continued aggregates price growth and effective cost management.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/VMC/pressreleases/3529214/vulcan-materials-q2-earnings-revenues-beat-estimates-stock-up/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/FIX/pressreleases/3529214/vulcan-materials-q2-earnings-revenues-beat-estimates-stock-up/",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:46:33.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
     {
       "id": "1ed8dc5c9865dcd0efa5",
       "category": "policy_regulation",
@@ -63,6 +129,138 @@
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 52
+    },
+    {
+      "id": "64e72f7a2d48684ceb70",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Precious Metals Weekly Front Desk Presentation 072926: Tariffs get complicated; CME launches 24/7 micro-gold trading",
+      "summary": "This weekly presentation from StoneX's Rhona O'Connell discusses key market developments in precious metals, including the complexities arising from new tariffs and the launch of 24/7 micro-gold trading by CME. The report also covers economic and political factors influencing the precious metals market, such as actions by the Federal Reserve and potential margin compression in the EU. It is aimed at professionals needing comprehensive market analysis for gold and silver.",
+      "source": "StoneX",
+      "sources": [
+        {
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en-us/insights/precious-metals-weekly-front-desk-presentation-072926-tariffs-get-complicated-cme-launches-24-7-micro-gold-trading/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stonex.com/en-us/insights/precious-metals-weekly-front-desk-presentation-072926-tariffs-get-complicated-cme-launches-24-7-micro-gold-trading/",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:11:53.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "ba18a265e8f7a808e2c4",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "POOL CORP Q2 2026: Revenue $1.823B, EPS $5.17— 10-Q Summary",
+      "summary": "POOL CORP reported its Q2 2026 results with revenue reaching $1.823 billion, a 2% increase year-over-year. Net income decreased by 3% to $188.1 million, while diluted EPS remained flat at $5.17. The company's sales growth was driven by inflation and steady demand for maintenance and building materials, and it reiterated its full-year sales guidance for low single-digit growth.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/tradingview:d31f851a67074:0-pool-corp-q2-2026-revenue-1-823b-eps-5-17-10-q-summary/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/tradingview:d31f851a67074:0-pool-corp-q2-2026-revenue-1-823b-eps-5-17-10-q-summary/",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:11:03.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "1c0e6453c89d045c6a05",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Toyota Motor Corp Stock (TM) Moved Up by 3.73% on Jul 29: Drivers Behind the Movement",
+      "summary": "Toyota Motor Corp's stock (TM) increased by 3.73% on July 29, driven by strong quarterly financial results, robust operating profit margins, and a weak Japanese Yen which boosted international revenue. The company's strategic focus on hybrid powertrains, effective cost-management, and a favorable product mix prioritizing high-margin models also contributed to its outperformance. Positive investor sentiment was further fueled by updates on solid-state battery technology and stable global supply chains, despite broader industry headwinds.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262061776-market-movers-tm-20260729",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262061776-market-movers-tm-20260729",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:10:40.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "15e364a340a5d6a586aa",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "YUM, YUMC & BJRI: Which Restaurant Stock Will Shine in Q2 Earnings?",
+      "summary": "This article analyzes the second-quarter 2026 earnings prospects for Yum! Brands (YUM), Yum China Holdings (YUMC), and BJ's Restaurants (BJRI). It highlights factors that could contribute to or detract from their top and bottom lines, including consumer demand, menu innovation, operational efficiencies, and cost pressures. While Yum! Brands and Yum China show promising growth, BJ's Restaurants faces potential profit challenges due to commodity inflation and increased marketing spend.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:9fb80093a094b:0-yum-yumc-bjri-which-restaurant-stock-will-shine-in-q2-earnings/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:9fb80093a094b:0-yum-yumc-bjri-which-restaurant-stock-will-shine-in-q2-earnings/",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T14:39:51.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "82a80c5f04165ad4647b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Earnings call transcript: Seven Hills Realty Trust misses Q2 2026 estimates",
+      "summary": "Seven Hills Realty Trust reported Q2 2026 distributable earnings of $0.23 per share, missing analyst estimates of $0.26, with revenue also falling short at $8.13 million against expectations of $9.1 million. The company's stock fell 4.23% in after-hours trading, approaching its 52-week low. Management attributed the miss primarily to delayed loan closings rather than credit issues, maintaining its quarterly dividend of $0.28 per share and an unchanged year-end portfolio target.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-seven-hills-realty-trust-misses-q2-2026-estimates-93CH-4821118",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-seven-hills-realty-trust-misses-q2-2026-estimates-93CH-4821118",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:56:46.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "c0666856b2d8174ebd34",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "PepsiCo Rides Global Volume Growth as North American Demand Slows",
+      "summary": "PepsiCo is experiencing dual operating trends in 2026, with strong international volume growth driven by emerging markets, functional beverages, and permissible snacks. Conversely, North America faces moderated demand due to tighter consumer budgets, leading to a slight revenue decline and a focus on affordability and price-pack architecture. While productivity savings helped core operating profit, the company's stock currently holds a Zacks Rank #4 (Sell) due to uneven near-term conditions and unfavorable earnings-estimate trends.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/PEP/pressreleases/3529226/pepsico-rides-global-volume-growth-as-north-american-demand-slows/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/PEP/pressreleases/3529226/pepsico-rides-global-volume-growth-as-north-american-demand-slows/",
+      "urlType": "article",
+      "publishedAt": "2026-07-29T15:45:57.000Z",
+      "date": "2026-07-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
