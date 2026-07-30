@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-07-29",
-  "generatedAt": "2026-07-30T01:29:34.214Z",
+  "generatedAt": "2026-07-30T10:20:30.414Z",
   "targetDate": "2026-07-29",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
@@ -69,7 +69,7 @@
     },
     {
       "id": "cms6i9q2n044erohzw2w8750m",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
+      "title": "GPT-5.6 如何融合前沿智能与效率",
       "originalTitle": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "summary": "OpenAI 发布 GPT-5.6 模型家族，旗舰款 Sol 开启最大推理时在 Artificial Analysis Coding Agent Index 上超越 Claude Fable 5，成本不到后者一半。Terra 智能持平 GPT-5.5 但价格减半，Luna 定价比 Sol 低 80%。该系列通过负载均衡、推测解码等全栈优化实现更高 token 效率。",
       "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
