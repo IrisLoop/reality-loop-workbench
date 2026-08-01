@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-07-30",
-  "generatedAt": "2026-07-31T08:20:55.714Z",
-  "targetDate": "2026-07-30",
+  "updated": "2026-07-31",
+  "generatedAt": "2026-08-01T07:36:58.352Z",
+  "targetDate": "2026-07-31",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
-      "itemCount": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "itemCount": 2,
+      "message": ""
     },
     {
       "name": "中国人民银行",
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "40f3839b43e2dbf8a37f",
+      "id": "51c9440cedf64accce9a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dividend Hike, Margin Gains and Buybacks Might Change The Case For Investing In Simpson Manufacturing (SSD)",
-      "summary": "Simpson Manufacturing Co., Inc. recently announced a dividend increase to US$0.30 per share and expanded its share repurchase authorization by US$200 million, following a strong second quarter with 6.3% net sales growth and improved operating margins of 25.2%. These actions, driven by disciplined pricing and cost control, underscore management's commitment to shareholder returns despite rising raw material costs and softer global volumes. The company's strategy of margin-driven outperformance through pricing actions is posited to reshape its investment narrative, though investors are advised to consider potential headwinds from ongoing steel tariffs and raw material inflation.",
-      "source": "Simply Wall St",
+      "title": "Jacobs to Report Q3 Earnings: What to Expect From the Stock?",
+      "summary": "Jacobs Solutions, Inc. (J) is set to announce its third-quarter fiscal 2026 results on August 4, with analysts expecting year-over-year growth in both earnings and revenues. The company's performance is anticipated to be driven by sustained demand in AI infrastructure, data centers, and other key markets, contributing to increased revenues for its Infrastructure & Advanced Facilities and PA Consulting segments. Despite potential headwinds from geopolitical tensions and inflation, strong project execution and operational improvements are expected to boost earnings and margins.",
+      "source": "Yahoo Finance UK",
       "sources": [
         {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-ssd/simpson-manufacturing/news/dividend-hike-margin-gains-and-buybacks-might-change-the-cas",
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/jacobs-report-q3-earnings-expect-145100606.html",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-ssd/simpson-manufacturing/news/dividend-hike-margin-gains-and-buybacks-might-change-the-cas",
+      "url": "https://uk.finance.yahoo.com/news/jacobs-report-q3-earnings-expect-145100606.html",
       "urlType": "article",
-      "publishedAt": "2026-07-30T15:46:38.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T15:08:02.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
+      "score": 31
     },
     {
-      "id": "6c12fd15e4c9d9f1d1a7",
+      "id": "7d7b6ed1a4462a67125b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Applied Materials Inc Stock (AMAT) Moved Up by 14.93% on Jul 30: Key Drivers Unveiled",
-      "summary": "Applied Materials Inc. (AMAT) stock rose 14.93% on July 30, driven by strong quarterly results, positive forward-looking guidance, and increased institutional investment attributed to AI demand and advanced packaging growth. While technical indicators currently show a sell signal, the company's strategic positioning in the semiconductor industry and positive macroeconomic factors contribute to a bullish long-term sentiment. The article also highlights company-specific risks such as geopolitical headwinds and concentration of capital expenditure risks despite the positive movement.",
-      "source": "TradingKey",
+      "title": "Columbia Sportswear Execs: U.S. Consumer Under Increased Pressure",
+      "summary": "Columbia Sportswear surpassed its second-quarter guidance, primarily driven by strong international growth and a $78 million tariff refund. However, executives cautioned about a more challenging outlook for the second half of the year due to softer U.S. consumer traffic and shipment delays, as inflation impacts discretionary spending. The company plans to increase promotions in response to these pressures, although it does not attribute this to excess inventory.",
+      "source": "Shop Eat Surf Outdoor",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262064475-market-movers-amat-20260730",
+          "name": "Shop Eat Surf Outdoor",
+          "url": "https://shop-eat-surf-outdoor.com/news/columbia-sportswear-execs-u-s-consumer-under-increased-pressure/621537/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262064475-market-movers-amat-20260730",
+      "url": "https://shop-eat-surf-outdoor.com/news/columbia-sportswear-execs-u-s-consumer-under-increased-pressure/621537/",
       "urlType": "article",
-      "publishedAt": "2026-07-30T14:37:02.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T14:39:12.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 25
     },
     {
-      "id": "45b097763a53b24fb303",
+      "id": "4e0bddefcec440b67c5a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Up by 7.00% on Jul 30: What Signal Does It Send?",
-      "summary": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) saw its stock rise by 7.00% on July 30, driven by strong quarterly results exceeding expectations and revised full-year guidance due to high demand for advanced AI chips. Despite this positive movement, technical indicators show a MACD sell signal and an oversold Williams %R, suggesting potential caution for investors. The company's growth is further supported by stabilization in the smartphone and PC sectors, increased analyst price targets, and a re-rating of the stock as geopolitical risk premiums compress.",
-      "source": "TradingKey",
+      "title": "The Bull Case For Canadian Solar (CSIQ) Could Change Following New US Heterojunction PV Cell Plant Opening",
+      "summary": "Canadian Solar's subsidiary, CS PowerTech Inc., has opened the first phase of its PV cell manufacturing facility in Jeffersonville, Indiana. This plant, which will produce over 6 GWp annually at full capacity, aims to create a more localized and vertically integrated American solar supply chain. The new facility deepens Canadian Solar's U.S. vertical integration, but also highlights the risks associated with heavy capital spending and potential module margin pressures.",
+      "source": "Simply Wall St",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262064476-market-movers-tsm-20260730",
+          "name": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-csiq/canadian-solar/news/the-bull-case-for-canadian-solar-csiq-could-change-following-2",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262064476-market-movers-tsm-20260730",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-csiq/canadian-solar/news/the-bull-case-for-canadian-solar-csiq-could-change-following-2",
       "urlType": "article",
-      "publishedAt": "2026-07-30T14:09:37.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T15:39:05.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 22
     },
     {
-      "id": "1f8473c884e79c091fab",
+      "id": "90a6d73a14c85d4ce834",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行行长潘功胜会见哈萨克斯坦国家银行行长苏莱曼诺夫、金融市场监管和发展署署长阿贝尔卡瑟莫娃",
+      "title": "金融监管总局 中国人民银行 中国证监会 财政部关于健全金融机构治理的实施意见",
+      "summary": "金发〔2026〕4号各金融监管局，中国人民银行上海总部、各省、自治区、直辖市、计划单列市分行，中国证监会各",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7649076/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649076/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-07-31T07:22:47.000Z",
+      "date": "2026-07-31",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 62
+    },
+    {
+      "id": "90a6d73a14c85d4ce834",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "金融监管总局 中国人民银行 中国证监会 财政部关于健全金融机构治理的实施意见",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026073016573896571/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026073110395678929/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026073016573896571/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026073110395678929/index.html",
       "urlType": "article",
-      "publishedAt": "2026-07-30T08:57:38.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T02:39:56.000Z",
+      "date": "2026-07-31",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 62
+    },
+    {
+      "id": "4d78523e26a5848fd6fb",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国证监会同意焦炭期权注册",
+      "summary": "近日，中国证监会同意大连商品交易所焦炭期权注册。中国证监会将督促大连商品交易所做好各项准备工作，确保",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7649078/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649078/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-07-31T07:25:09.000Z",
+      "date": "2026-07-31",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 52
     },
     {
-      "id": "8a46aee3be31e1796e6e",
+      "id": "f585a1b4ca6bf8f16c5a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "BP to cut 700 jobs as it warns on oil ‘oversupply’",
-      "summary": "BP is set to cut 700 \"non-frontline\" jobs as part of a restructuring plan to simplify its organization and boost returns, citing a global market forecast of \"potential oversupply and lower oil and gas prices.\" The job cuts will primarily impact the upstream division and aim for a flatter corporate structure under new CEO Meg O’Neill, who is also increasing cost-saving targets. These changes come despite rising crude prices due to the Iran war, as the company seeks to be competitive across market cycles.",
-      "source": "Financial Times",
+      "title": "Altria Q2 Earnings Call Highlights Smoke-Free Growth Plans",
+      "summary": "Altria Group's Q2 earnings call emphasized its progress in smoke-free products, particularly the expansion of on! PLUS, alongside disciplined management of its tobacco portfolio and commitment to shareholder returns. The company narrowed its 2026 earnings outlook after strong first-half execution and addressed consumer pressures, such as inflation and gas prices, affecting volume trends. Altria also highlighted its capital allocation strategy, including dividends and share repurchases, and strategic investments in smoke-free alternatives.",
+      "source": "The Globe and Mail",
       "sources": [
         {
-          "name": "Financial Times",
-          "url": "https://www.ft.com/content/39d00795-a6b7-4950-884a-38e2ef269f22?syn-25a6b1a6=1",
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/MO/pressreleases/3578635/altria-q2-earnings-call-highlights-smoke-free-growth-plans/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ft.com/content/39d00795-a6b7-4950-884a-38e2ef269f22?syn-25a6b1a6=1",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MO/pressreleases/3578635/altria-q2-earnings-call-highlights-smoke-free-growth-plans/",
       "urlType": "article",
-      "publishedAt": "2026-07-30T13:40:35.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T15:14:14.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 22
     },
     {
-      "id": "c5ac554fce87056fb5c9",
+      "id": "8530d699db8a1909f9e0",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Clorox Q2 Earnings Around the Corner: What Should Investors Know?",
-      "summary": "Clorox is expected to report declines in both top and bottom lines for its fiscal Q4 2026 results. The company faces significant headwinds including slower-than-expected recovery post-ERP disruptions, operational and competitive challenges in key categories like Fresh Step litter and the Food segment, and persistent cost pressures from supply chain issues, commodity costs, and the GOJO acquisition. Analysts anticipate a significant drop in gross profit and operating income, with a Zacks Rank #4 (Sell) suggesting a low probability of an earnings beat.",
-      "source": "TradingView",
+      "title": "Entegris Likely to Beat Q2 Earnings Estimates: How to Play the Stock",
+      "summary": "Entegris (ENTG) is projected to surpass its second-quarter 2026 earnings estimates, benefiting from strong demand in advanced logic and memory markets, particularly due to AI-related semiconductor growth. The company expects revenues between $815 million and $840 million and non-GAAP earnings in the range of 76-84 cents per share, with Zacks Consensus Estimates aligning positively. This optimistic outlook is also supported by improving wafer fabrication equipment spending and operational efficiencies, despite some weakness in the mainstream logic market and raw material inflation.",
+      "source": "Yahoo! Finance Canada",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:69f2a031e094b:0-clorox-q2-earnings-around-the-corner-what-should-investors-know/",
+          "name": "Yahoo! Finance Canada",
+          "url": "https://ca.finance.yahoo.com/news/entegris-likely-beat-q2-earnings-150200558.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:69f2a031e094b:0-clorox-q2-earnings-around-the-corner-what-should-investors-know/",
+      "url": "https://ca.finance.yahoo.com/news/entegris-likely-beat-q2-earnings-150200558.html",
       "urlType": "article",
-      "publishedAt": "2026-07-30T15:07:25.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T15:09:52.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "01bf35b416868cbd3e0d",
+      "id": "01224b55ef0e847ecb19",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "US OPEN: Nasdaq rebounds! Microsoft and Lam Research earnings revive AI trade!",
-      "summary": "The Nasdaq 100 has rebounded, driven by strong earnings from Microsoft and Lam Research, which are reviving investor confidence in the AI sector. Microsoft's Azure growth and restrained capital expenditure, alongside Lam Research's strong Q4 results, significantly boosted tech stocks. Meanwhile, the broader US economy is experiencing a slowdown, with Q2 GDP growth at 1.5% due to declining exports and weaker business investment, and Meta Platforms saw a decline following weak guidance and rising AI costs.",
-      "source": "XTB.com",
+      "title": "Eastman exceeds expectations, expects growth in plastics",
+      "summary": "Eastman exceeded Q2 sales and earnings expectations, with sales revenue reaching $2.51 billion, a 10% year-over-year increase. The company attributes this growth to strong performance in advanced materials and chemical intermediates, anticipating continued positive results, particularly in its Renew line of recycled plastics. Despite supply chain and energy challenges, Eastman remains committed to its growth strategy, including continued investment in methanolysis technology and planned price increases.",
+      "source": "Resource Recycling",
       "sources": [
         {
-          "name": "XTB.com",
-          "url": "https://www.xtb.com/int/market-analysis/news-and-research/us-open-nasdaq-rebounds-microsoft-and-lam-research-earnings-revive-ai-trade",
+          "name": "Resource Recycling",
+          "url": "https://resource-recycling.com/plastics/2026/07/31/eastman-exceeds-expectations-expects-growth-in-plastics/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.xtb.com/int/market-analysis/news-and-research/us-open-nasdaq-rebounds-microsoft-and-lam-research-earnings-revive-ai-trade",
+      "url": "https://resource-recycling.com/plastics/2026/07/31/eastman-exceeds-expectations-expects-growth-in-plastics/",
       "urlType": "article",
-      "publishedAt": "2026-07-30T14:28:10.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T15:07:37.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 21
     },
     {
-      "id": "dfe466c0b3328b0aa395",
+      "id": "174899df777cd74146cf",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "West Fraser Announces Second Quarter 2026 Results",
-      "summary": "West Fraser Timber Co. Ltd. reported its second-quarter 2026 results, showing sales of $1.434 billion and a net loss of $(61) million, or $(0.78) per diluted share. Despite the loss, the company noted improved market conditions across most segments, strong cash generation from operations, and strategic operational adjustments. The CEO highlighted progress in mill operations and maintaining a strong balance sheet while navigating market uncertainties and new tariffs.",
-      "source": "Red Book Lumber Data",
+      "title": "Alibaba Group Holding Ltd Stock (BABA) Moved Up by 3.40% on Jul 31: What Signal Does It Send?",
+      "summary": "Alibaba Group Holding Ltd (BABA) shares rose by 3.40% on July 31, driven by improved sentiment regarding Chinese regulatory policies and optimism surrounding its Cloud Intelligence Group's AI and cloud computing initiatives. The company's aggressive share repurchase programs and a perceived softening of U.S. inflationary pressures also contributed to the positive movement. Despite potential risks like intense cloud pricing wars and international regulatory scrutiny, analysts maintain an average \"Buy\" rating with an attractive price target.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "Red Book Lumber Data",
-          "url": "https://www.redbooklumberdata.com/2026/07/30/west-fraser-announces-second-quarter-2026-results/",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262067742-market-movers-baba-20260731",
           "urlType": "article"
         }
       ],
-      "url": "https://www.redbooklumberdata.com/2026/07/30/west-fraser-announces-second-quarter-2026-results/",
+      "url": "https://www.tradingkey.com/news/market-movers/262067742-market-movers-baba-20260731",
       "urlType": "article",
-      "publishedAt": "2026-07-30T13:41:18.000Z",
-      "date": "2026-07-30",
+      "publishedAt": "2026-07-31T14:40:23.000Z",
+      "date": "2026-07-31",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "dfe466c0b3328b0aa395",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "West Fraser Announces Second Quarter 2026 Results",
-      "summary": "West Fraser Timber Co. Ltd. reported its second quarter 2026 results, showing sales of $1.434 billion and earnings of $(61) million. The company announced continued ramp-up of its Henderson, Texas sawmill, completed the wind-down of its High Level, Alberta OSB mill, and repaid $148 million in operating loans. West Fraser also provided an outlook on market conditions, tariffs, liquidity, and operational targets for 2026, anticipating stable demand but acknowledging uncertainties from trade restrictions and housing affordability.",
-      "source": "Red Book Lumber Data",
-      "sources": [
-        {
-          "name": "Red Book Lumber Data",
-          "url": "https://www.redbooklumberdata.com/?post_type=post&p=100904",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.redbooklumberdata.com/?post_type=post&p=100904",
-      "urlType": "article",
-      "publishedAt": "2026-07-30T13:39:50.000Z",
-      "date": "2026-07-30",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "43196e5e5f4041f6d3ac",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Earnings call transcript: Ventas tops revenue views in Q2 2026, shares fall",
-      "summary": "Ventas Inc. reported Q2 2026 revenue of $1.73 billion, exceeding analyst forecasts of $1.67 billion, while earnings per share matched expectations at $0.14. Despite strong operational performance, including a 10% increase in same-store cash net operating income, the company's stock fell 6.33% after hours, reflecting investor sensitivity to its near 52-week high valuation and a lack of a clear EPS beat. Ventas also raised its full-year 2026 normalized FFO guidance and investment targets, emphasizing its focus on senior housing acquisitions due to strong demographic demand and limited new supply.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-ventas-tops-revenue-views-in-q2-2026-shares-fall-93CH-4825431?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-ventas-tops-revenue-views-in-q2-2026-shares-fall-93CH-4825431?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-07-30T15:49:53.000Z",
-      "date": "2026-07-30",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 21
     }
   ]
 }
