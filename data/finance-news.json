@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-07-31",
-  "generatedAt": "2026-08-01T07:36:58.352Z",
-  "targetDate": "2026-07-31",
+  "updated": "2026-08-01",
+  "generatedAt": "2026-08-02T07:40:52.997Z",
+  "targetDate": "2026-08-01",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -11,14 +11,14 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "51c9440cedf64accce9a",
+      "id": "576effe7dcece522a220",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Jacobs to Report Q3 Earnings: What to Expect From the Stock?",
-      "summary": "Jacobs Solutions, Inc. (J) is set to announce its third-quarter fiscal 2026 results on August 4, with analysts expecting year-over-year growth in both earnings and revenues. The company's performance is anticipated to be driven by sustained demand in AI infrastructure, data centers, and other key markets, contributing to increased revenues for its Infrastructure & Advanced Facilities and PA Consulting segments. Despite potential headwinds from geopolitical tensions and inflation, strong project execution and operational improvements are expected to boost earnings and margins.",
-      "source": "Yahoo Finance UK",
+      "title": "Exxon, Chevron warn fuel prices to endure as war knocks refining",
+      "summary": "ExxonMobil and Chevron Corp. have warned that high fuel prices are likely to persist, even if crude oil prices fall, due to global refining capacity shortages caused by ongoing conflicts in Russia and the Middle East. Nearly 10% of the world's refining capability is offline, leading to record-high fuel-making margins for refiners but increased costs for consumers. This bottleneck is evident in rising gasoline and especially middle distillate prices, with little room for error in the highly utilized remaining refineries.",
+      "source": "Fortune",
       "sources": [
         {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/jacobs-report-q3-earnings-expect-145100606.html",
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/08/01/exxon-chevron-fuel-prices-diesel-gasoline-refining-capacity/",
           "urlType": "article"
         }
       ],
-      "url": "https://uk.finance.yahoo.com/news/jacobs-report-q3-earnings-expect-145100606.html",
+      "url": "https://fortune.com/2026/08/01/exxon-chevron-fuel-prices-diesel-gasoline-refining-capacity/",
       "urlType": "article",
-      "publishedAt": "2026-07-31T15:08:02.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T15:12:27.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 31
+      "score": 32
     },
     {
-      "id": "7d7b6ed1a4462a67125b",
+      "id": "45d4b7dafb753885f473",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Columbia Sportswear Execs: U.S. Consumer Under Increased Pressure",
-      "summary": "Columbia Sportswear surpassed its second-quarter guidance, primarily driven by strong international growth and a $78 million tariff refund. However, executives cautioned about a more challenging outlook for the second half of the year due to softer U.S. consumer traffic and shipment delays, as inflation impacts discretionary spending. The company plans to increase promotions in response to these pressures, although it does not attribute this to excess inventory.",
-      "source": "Shop Eat Surf Outdoor",
+      "title": "BATL, USO, UCO Edge Higher As Oil Gains: Exxon Executive Warns Shrinking Inventories Could Send Crude To $160",
+      "summary": "ExxonMobil Senior Vice President Neil Chapman warned that global crude inventories are approaching unprecedented lows, which could drive Brent crude prices to $150-$160 per barrel. Chevron CEO Mike Wirth concurred, citing rapidly depleting strategic reserves amidst geopolitical tensions. Oil-related ETFs and major oil companies like Battalion Oil Corp. (BATL), United States Oil Fund (USO), and ProShares Ultra Bloomberg Crude Oil (UCO) saw gains in anticipation of higher prices.",
+      "source": "Stocktwits",
       "sources": [
         {
-          "name": "Shop Eat Surf Outdoor",
-          "url": "https://shop-eat-surf-outdoor.com/news/columbia-sportswear-execs-u-s-consumer-under-increased-pressure/621537/",
+          "name": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/exxon-executive-warns-shrinkin-inventories-could-send-crude-higher/cZ0gk94Reuw",
           "urlType": "article"
         }
       ],
-      "url": "https://shop-eat-surf-outdoor.com/news/columbia-sportswear-execs-u-s-consumer-under-increased-pressure/621537/",
+      "url": "https://stocktwits.com/news-articles/markets/equity/exxon-executive-warns-shrinkin-inventories-could-send-crude-higher/cZ0gk94Reuw",
       "urlType": "article",
-      "publishedAt": "2026-07-31T14:39:12.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T10:10:27.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 25
     },
     {
-      "id": "4e0bddefcec440b67c5a",
+      "id": "b50eac7a605f0299482b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "The Bull Case For Canadian Solar (CSIQ) Could Change Following New US Heterojunction PV Cell Plant Opening",
-      "summary": "Canadian Solar's subsidiary, CS PowerTech Inc., has opened the first phase of its PV cell manufacturing facility in Jeffersonville, Indiana. This plant, which will produce over 6 GWp annually at full capacity, aims to create a more localized and vertically integrated American solar supply chain. The new facility deepens Canadian Solar's U.S. vertical integration, but also highlights the risks associated with heavy capital spending and potential module margin pressures.",
-      "source": "Simply Wall St",
+      "title": "Canadian National Railway raises its 2026 volume outlook as freight demand firms",
+      "summary": "Canadian National Railway has increased its 2026 volume outlook, attributing the revision to stronger freight demand and successful second-quarter results with higher profit and revenue. This positive development, coupled with similar reports from Norfolk Southern, signals improving conditions for the freight and supply chain sectors, prompting shippers to re-evaluate rail capacity commitments. Additionally, DP World's new terminals in Fujairah offer a strategic bypass to the Strait of Hormuz, providing long-term benefits for Gulf-touching supply chains.",
+      "source": "MarketScale",
       "sources": [
         {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-csiq/canadian-solar/news/the-bull-case-for-canadian-solar-csiq-could-change-following-2",
+          "name": "MarketScale",
+          "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-csiq/canadian-solar/news/the-bull-case-for-canadian-solar-csiq-could-change-following-2",
+      "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms",
       "urlType": "article",
-      "publishedAt": "2026-07-31T15:39:05.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T15:39:44.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "90a6d73a14c85d4ce834",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "金融监管总局 中国人民银行 中国证监会 财政部关于健全金融机构治理的实施意见",
-      "summary": "金发〔2026〕4号各金融监管局，中国人民银行上海总部、各省、自治区、直辖市、计划单列市分行，中国证监会各",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7649076/content.shtml",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649076/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-07-31T07:22:47.000Z",
-      "date": "2026-07-31",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 62
-    },
-    {
-      "id": "90a6d73a14c85d4ce834",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "金融监管总局 中国人民银行 中国证监会 财政部关于健全金融机构治理的实施意见",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026073110395678929/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026073110395678929/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-07-31T02:39:56.000Z",
-      "date": "2026-07-31",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 62
-    },
-    {
-      "id": "4d78523e26a5848fd6fb",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国证监会同意焦炭期权注册",
-      "summary": "近日，中国证监会同意大连商品交易所焦炭期权注册。中国证监会将督促大连商品交易所做好各项准备工作，确保",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7649078/content.shtml",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649078/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-07-31T07:25:09.000Z",
-      "date": "2026-07-31",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "f585a1b4ca6bf8f16c5a",
+      "id": "b50eac7a605f0299482b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Altria Q2 Earnings Call Highlights Smoke-Free Growth Plans",
-      "summary": "Altria Group's Q2 earnings call emphasized its progress in smoke-free products, particularly the expansion of on! PLUS, alongside disciplined management of its tobacco portfolio and commitment to shareholder returns. The company narrowed its 2026 earnings outlook after strong first-half execution and addressed consumer pressures, such as inflation and gas prices, affecting volume trends. Altria also highlighted its capital allocation strategy, including dividends and share repurchases, and strategic investments in smoke-free alternatives.",
-      "source": "The Globe and Mail",
+      "title": "Canadian National Railway raises its 2026 volume outlook as freight demand firms",
+      "summary": "Canadian National Railway has increased its 2026 volume forecast, indicating strengthening freight demand and a recovery in the sector. This decision follows higher profits and revenue reported in the second quarter. The article also discusses broader implications for supply chains, including similar trends in other rail companies, DP World's strategic investments, and the Port of Long Beach's consideration of nuclear power.",
+      "source": "MarketScale",
       "sources": [
         {
-          "name": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/MO/pressreleases/3578635/altria-q2-earnings-call-highlights-smoke-free-growth-plans/",
+          "name": "MarketScale",
+          "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms-f607c6",
           "urlType": "article"
         }
       ],
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MO/pressreleases/3578635/altria-q2-earnings-call-highlights-smoke-free-growth-plans/",
+      "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms-f607c6",
       "urlType": "article",
-      "publishedAt": "2026-07-31T15:14:14.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T15:38:00.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "8530d699db8a1909f9e0",
+      "id": "042ebebb3cdc3fe5ea10",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Entegris Likely to Beat Q2 Earnings Estimates: How to Play the Stock",
-      "summary": "Entegris (ENTG) is projected to surpass its second-quarter 2026 earnings estimates, benefiting from strong demand in advanced logic and memory markets, particularly due to AI-related semiconductor growth. The company expects revenues between $815 million and $840 million and non-GAAP earnings in the range of 76-84 cents per share, with Zacks Consensus Estimates aligning positively. This optimistic outlook is also supported by improving wafer fabrication equipment spending and operational efficiencies, despite some weakness in the mainstream logic market and raw material inflation.",
+      "title": "BrilliA Incorporated (NYSE American: BRIA) sees FY2026 profit dip, targets 2027 growth",
+      "summary": "BrilliA Incorporated reported a dip in fiscal year 2026 profit with revenue falling to $49.0 million from $64.4 million due to U.S. tariff measures and order cancellations. Despite a small net loss of $15 thousand, the company remained profitable before income taxes and saw operating cash flow improve. BrilliA anticipates a return to growth in fiscal 2027, with preliminary first-quarter revenue up 13% year-on-year and second-quarter revenue expected to increase by approximately 30%.",
+      "source": "Stock Titan",
+      "sources": [
+        {
+          "name": "Stock Titan",
+          "url": "https://www.stocktitan.net/sec-filings/BRIA/6-k-brilli-a-inc-current-report-foreign-issuer-017656203304.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stocktitan.net/sec-filings/BRIA/6-k-brilli-a-inc-current-report-foreign-issuer-017656203304.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-01T08:40:09.000Z",
+      "date": "2026-08-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "8f639d1b9a0ecca11ff5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Popular’s Earnings Beat Shows Why This Bank Stock Keeps Climbing",
+      "summary": "Popular (NASDAQ: BPOP), Puerto Rico's largest bank, continues to demonstrate strong financial performance, leading to a \"Buy\" rating from analysts. The bank's second-quarter results showed significant earnings growth, increased dividends, and a new $1 billion stock buyback program, driven by robust net interest income and non-interest income. Despite potential concerns regarding rising credit costs and a leadership change, Popular's diversified banking footprint and strong capital levels position it well for continued growth, although its stock price is now trading near analyst targets, suggesting new investors may need to be more selective.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/articles/populars-earnings-beat-shows-why-this-bank-stock-keeps-climbing/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/articles/populars-earnings-beat-shows-why-this-bank-stock-keeps-climbing/",
+      "urlType": "article",
+      "publishedAt": "2026-08-01T15:40:38.000Z",
+      "date": "2026-08-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "af7ca88f573e624e71c5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "5 Must-Read Analyst Questions From Sallie Mae’s Q2 Earnings Call",
+      "summary": "Sallie Mae's Q2 performance missed analyst expectations for revenue and EPS due to increased noninterest expenses and a temporary dip in net interest margin. CEO Jonathan Witter noted stable credit quality despite the financial misses. Analysts focused on questions regarding net interest margin recovery, the impact of credit performance, loan yield normalization, back-half EPS guidance, and the decision to halt debt sales.",
       "source": "Yahoo! Finance Canada",
       "sources": [
         {
           "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/entegris-likely-beat-q2-earnings-150200558.html",
+          "url": "https://ca.finance.yahoo.com/news/5-must-read-analyst-questions-153957059.html",
           "urlType": "article"
         }
       ],
-      "url": "https://ca.finance.yahoo.com/news/entegris-likely-beat-q2-earnings-150200558.html",
+      "url": "https://ca.finance.yahoo.com/news/5-must-read-analyst-questions-153957059.html",
       "urlType": "article",
-      "publishedAt": "2026-07-31T15:09:52.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T15:39:10.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 17
     },
     {
-      "id": "01224b55ef0e847ecb19",
+      "id": "6bd10a29766cd1cc1887",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Eastman exceeds expectations, expects growth in plastics",
-      "summary": "Eastman exceeded Q2 sales and earnings expectations, with sales revenue reaching $2.51 billion, a 10% year-over-year increase. The company attributes this growth to strong performance in advanced materials and chemical intermediates, anticipating continued positive results, particularly in its Renew line of recycled plastics. Despite supply chain and energy challenges, Eastman remains committed to its growth strategy, including continued investment in methanolysis technology and planned price increases.",
-      "source": "Resource Recycling",
+      "title": "Danaher Stock vs XHB ETF: Complete Performance Comparison",
+      "summary": "This article compares Danaher (DHR) stock, a life sciences and diagnostics company, with the XHB ETF, which tracks homebuilding companies, across returns, risk, and dividends. It highlights Danaher's strong fundamentals and dividend record against XHB's exposure to the volatile housing market, guiding investors to choose based on their risk tolerance and investment goals.",
+      "source": "Analytics Insight",
       "sources": [
         {
-          "name": "Resource Recycling",
-          "url": "https://resource-recycling.com/plastics/2026/07/31/eastman-exceeds-expectations-expects-growth-in-plastics/",
+          "name": "Analytics Insight",
+          "url": "https://www.analyticsinsight.net/stocks/danaher-stock-vs-xhb-etf-complete-performance-comparison",
           "urlType": "article"
         }
       ],
-      "url": "https://resource-recycling.com/plastics/2026/07/31/eastman-exceeds-expectations-expects-growth-in-plastics/",
+      "url": "https://www.analyticsinsight.net/stocks/danaher-stock-vs-xhb-etf-complete-performance-comparison",
       "urlType": "article",
-      "publishedAt": "2026-07-31T15:07:37.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T15:30:00.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 17
     },
     {
-      "id": "174899df777cd74146cf",
+      "id": "be17dd5d217df7637436",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Alibaba Group Holding Ltd Stock (BABA) Moved Up by 3.40% on Jul 31: What Signal Does It Send?",
-      "summary": "Alibaba Group Holding Ltd (BABA) shares rose by 3.40% on July 31, driven by improved sentiment regarding Chinese regulatory policies and optimism surrounding its Cloud Intelligence Group's AI and cloud computing initiatives. The company's aggressive share repurchase programs and a perceived softening of U.S. inflationary pressures also contributed to the positive movement. Despite potential risks like intense cloud pricing wars and international regulatory scrutiny, analysts maintain an average \"Buy\" rating with an attractive price target.",
-      "source": "TradingKey",
+      "title": "Down 31% this year, can Tesla stock bounce back?",
+      "summary": "Tesla stock has fallen 31% this year, prompting questions about its recovery potential despite its strong long-term performance. The article suggests that increased competition from Chinese rivals and declining subsidies are squeezing Tesla's profit margins and free cash flow, making it an overpriced investment despite its past success. The author concludes that Tesla's current valuation of 287 times earnings does not reflect these challenges, advising against adding it to a portfolio.",
+      "source": "Yahoo Finance UK",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262067742-market-movers-baba-20260731",
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/down-31-tesla-stock-bounce-144900613.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262067742-market-movers-baba-20260731",
+      "url": "https://uk.finance.yahoo.com/news/down-31-tesla-stock-bounce-144900613.html",
       "urlType": "article",
-      "publishedAt": "2026-07-31T14:40:23.000Z",
-      "date": "2026-07-31",
+      "publishedAt": "2026-08-01T14:48:41.000Z",
+      "date": "2026-08-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 17
+    },
+    {
+      "id": "924558f5d4a45544ead5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Is Texas Capital Bancshares (TCBI) Undervalued After Its Buyback, Earnings, And Dividend Update?",
+      "summary": "Texas Capital Bancshares (TCBI) has completed a US$98.19 million buyback program and announced fresh quarterly earnings and new dividend declarations. Despite a recent share price decline, the company shows positive long-term momentum and is considered undervalued by both analyst targets and intrinsic value estimates, specifically trading at a discount to a fair value narrative of $107.69 and an SWS DCF model estimate of $148.77. Investments in digital platforms and fee-based businesses are expected to drive efficiencies and resilient earnings, though concentration risk and operational demands from a recent data breach pose potential challenges.",
+      "source": "Simply Wall St",
+      "sources": [
+        {
+          "name": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/banks/nasdaq-tcbi/texas-capital-bancshares/news/is-texas-capital-bancshares-tcbi-undervalued-after-its-buyba",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/banks/nasdaq-tcbi/texas-capital-bancshares/news/is-texas-capital-bancshares-tcbi-undervalued-after-its-buyba",
+      "urlType": "article",
+      "publishedAt": "2026-08-01T14:39:15.000Z",
+      "date": "2026-08-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
