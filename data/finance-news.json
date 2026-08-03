@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-01",
-  "generatedAt": "2026-08-02T07:40:52.997Z",
-  "targetDate": "2026-08-01",
+  "updated": "2026-08-02",
+  "generatedAt": "2026-08-03T10:57:26.191Z",
+  "targetDate": "2026-08-02",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "576effe7dcece522a220",
+      "id": "f8d7b1e5f02376dadc62",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Exxon, Chevron warn fuel prices to endure as war knocks refining",
-      "summary": "ExxonMobil and Chevron Corp. have warned that high fuel prices are likely to persist, even if crude oil prices fall, due to global refining capacity shortages caused by ongoing conflicts in Russia and the Middle East. Nearly 10% of the world's refining capability is offline, leading to record-high fuel-making margins for refiners but increased costs for consumers. This bottleneck is evident in rising gasoline and especially middle distillate prices, with little room for error in the highly utilized remaining refineries.",
-      "source": "Fortune",
+      "title": "MP Materials Stock And Rare Earth Shares Backed by US Supply Chain Demand",
+      "summary": "This article highlights three rare earth metal stocks – MP Materials, USA Rare Earth, and Lynas Rare Earths – emphasizing their roles in the critical minerals supply chain for clean energy, advanced technology, and defense. It details each company's operations, market capitalization, strategic importance, and financial outlook, including their challenges and opportunities within the context of global demand and geopolitical considerations. The piece underscores the significance of these companies in establishing secure, non-Chinese rare earth supply chains.",
+      "source": "Simply Wall St",
       "sources": [
         {
-          "name": "Fortune",
-          "url": "https://fortune.com/2026/08/01/exxon-chevron-fuel-prices-diesel-gasoline-refining-capacity/",
+          "name": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-stock-and-rare-earth-shares-backed-by-us-supply",
           "urlType": "article"
         }
       ],
-      "url": "https://fortune.com/2026/08/01/exxon-chevron-fuel-prices-diesel-gasoline-refining-capacity/",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-stock-and-rare-earth-shares-backed-by-us-supply",
       "urlType": "article",
-      "publishedAt": "2026-08-01T15:12:27.000Z",
-      "date": "2026-08-01",
+      "publishedAt": "2026-08-02T15:40:28.000Z",
+      "date": "2026-08-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 32
     },
     {
-      "id": "45d4b7dafb753885f473",
+      "id": "9b8e6f853a5c92cb2952",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "BATL, USO, UCO Edge Higher As Oil Gains: Exxon Executive Warns Shrinking Inventories Could Send Crude To $160",
-      "summary": "ExxonMobil Senior Vice President Neil Chapman warned that global crude inventories are approaching unprecedented lows, which could drive Brent crude prices to $150-$160 per barrel. Chevron CEO Mike Wirth concurred, citing rapidly depleting strategic reserves amidst geopolitical tensions. Oil-related ETFs and major oil companies like Battalion Oil Corp. (BATL), United States Oil Fund (USO), and ProShares Ultra Bloomberg Crude Oil (UCO) saw gains in anticipation of higher prices.",
-      "source": "Stocktwits",
+      "title": "Timken’s New Commercial and Operations Structure Might Change The Case For Investing In TKR",
+      "summary": "Timken (NYSE: TKR) has announced significant leadership changes, appointing a new Chief Commercial Officer and Chief Operating Officer, effective September 1st. These changes aim to unify the sales force and centralize supply chain oversight, potentially impacting the company's growth and efficiency goals. While these roles are central to Timken's strategy for improving commercial execution and leveraging pricing and efficiency to offset cost pressures, investors should also consider the potential risks from soft industrial demand.",
+      "source": "Simply Wall St",
       "sources": [
         {
-          "name": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/exxon-executive-warns-shrinkin-inventories-could-send-crude-higher/cZ0gk94Reuw",
+          "name": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tkr/timken/news/timkens-new-commercial-and-operations-structure-might-change",
           "urlType": "article"
         }
       ],
-      "url": "https://stocktwits.com/news-articles/markets/equity/exxon-executive-warns-shrinkin-inventories-could-send-crude-higher/cZ0gk94Reuw",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tkr/timken/news/timkens-new-commercial-and-operations-structure-might-change",
       "urlType": "article",
-      "publishedAt": "2026-08-01T10:10:27.000Z",
-      "date": "2026-08-01",
+      "publishedAt": "2026-08-02T12:10:49.000Z",
+      "date": "2026-08-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
+      "score": 21
     },
     {
-      "id": "b50eac7a605f0299482b",
+      "id": "83d1356c9243361ea19d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Canadian National Railway raises its 2026 volume outlook as freight demand firms",
-      "summary": "Canadian National Railway has increased its 2026 volume outlook, attributing the revision to stronger freight demand and successful second-quarter results with higher profit and revenue. This positive development, coupled with similar reports from Norfolk Southern, signals improving conditions for the freight and supply chain sectors, prompting shippers to re-evaluate rail capacity commitments. Additionally, DP World's new terminals in Fujairah offer a strategic bypass to the Strait of Hormuz, providing long-term benefits for Gulf-touching supply chains.",
-      "source": "MarketScale",
+      "title": "Empowered Funds LLC Sells 68,463 Shares of General Motors Company $GM",
+      "summary": "Empowered Funds LLC significantly reduced its stake in General Motors (NYSE:GM) during the first quarter of 2026, selling 68,463 shares and retaining 69,284 shares valued at $5.16 million. Despite strong quarterly earnings that surpassed expectations, GM faces concerns regarding substantial insider selling, potential tariff risks, and uncertainties surrounding its long-term electric vehicle strategy. The company maintained its 2026 EPS guidance, and analysts have a consensus price target of $101.41, though recent insider sales and mixed sentiment highlight ongoing challenges.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "MarketScale",
-          "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-sells-68463-shares-of-general-motors-company-gm-2026-08-02/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-sells-68463-shares-of-general-motors-company-gm-2026-08-02/",
       "urlType": "article",
-      "publishedAt": "2026-08-01T15:39:44.000Z",
-      "date": "2026-08-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "b50eac7a605f0299482b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Canadian National Railway raises its 2026 volume outlook as freight demand firms",
-      "summary": "Canadian National Railway has increased its 2026 volume forecast, indicating strengthening freight demand and a recovery in the sector. This decision follows higher profits and revenue reported in the second quarter. The article also discusses broader implications for supply chains, including similar trends in other rail companies, DP World's strategic investments, and the Port of Long Beach's consideration of nuclear power.",
-      "source": "MarketScale",
-      "sources": [
-        {
-          "name": "MarketScale",
-          "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms-f607c6",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketscale.com/industries/transportation/canadian-national-railway-raises-its-2026-volume-outlook-as-freight-demand-firms-f607c6",
-      "urlType": "article",
-      "publishedAt": "2026-08-01T15:38:00.000Z",
-      "date": "2026-08-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "042ebebb3cdc3fe5ea10",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "BrilliA Incorporated (NYSE American: BRIA) sees FY2026 profit dip, targets 2027 growth",
-      "summary": "BrilliA Incorporated reported a dip in fiscal year 2026 profit with revenue falling to $49.0 million from $64.4 million due to U.S. tariff measures and order cancellations. Despite a small net loss of $15 thousand, the company remained profitable before income taxes and saw operating cash flow improve. BrilliA anticipates a return to growth in fiscal 2027, with preliminary first-quarter revenue up 13% year-on-year and second-quarter revenue expected to increase by approximately 30%.",
-      "source": "Stock Titan",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/BRIA/6-k-brilli-a-inc-current-report-foreign-issuer-017656203304.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stocktitan.net/sec-filings/BRIA/6-k-brilli-a-inc-current-report-foreign-issuer-017656203304.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-01T08:40:09.000Z",
-      "date": "2026-08-01",
+      "publishedAt": "2026-08-02T08:07:52.000Z",
+      "date": "2026-08-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "8f639d1b9a0ecca11ff5",
+      "id": "23a867ee06702cf4e81e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Popular’s Earnings Beat Shows Why This Bank Stock Keeps Climbing",
-      "summary": "Popular (NASDAQ: BPOP), Puerto Rico's largest bank, continues to demonstrate strong financial performance, leading to a \"Buy\" rating from analysts. The bank's second-quarter results showed significant earnings growth, increased dividends, and a new $1 billion stock buyback program, driven by robust net interest income and non-interest income. Despite potential concerns regarding rising credit costs and a leadership change, Popular's diversified banking footprint and strong capital levels position it well for continued growth, although its stock price is now trading near analyst targets, suggesting new investors may need to be more selective.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/articles/populars-earnings-beat-shows-why-this-bank-stock-keeps-climbing/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/articles/populars-earnings-beat-shows-why-this-bank-stock-keeps-climbing/",
-      "urlType": "article",
-      "publishedAt": "2026-08-01T15:40:38.000Z",
-      "date": "2026-08-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "af7ca88f573e624e71c5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "5 Must-Read Analyst Questions From Sallie Mae’s Q2 Earnings Call",
-      "summary": "Sallie Mae's Q2 performance missed analyst expectations for revenue and EPS due to increased noninterest expenses and a temporary dip in net interest margin. CEO Jonathan Witter noted stable credit quality despite the financial misses. Analysts focused on questions regarding net interest margin recovery, the impact of credit performance, loan yield normalization, back-half EPS guidance, and the decision to halt debt sales.",
-      "source": "Yahoo! Finance Canada",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/5-must-read-analyst-questions-153957059.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ca.finance.yahoo.com/news/5-must-read-analyst-questions-153957059.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-01T15:39:10.000Z",
-      "date": "2026-08-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "6bd10a29766cd1cc1887",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Danaher Stock vs XHB ETF: Complete Performance Comparison",
-      "summary": "This article compares Danaher (DHR) stock, a life sciences and diagnostics company, with the XHB ETF, which tracks homebuilding companies, across returns, risk, and dividends. It highlights Danaher's strong fundamentals and dividend record against XHB's exposure to the volatile housing market, guiding investors to choose based on their risk tolerance and investment goals.",
-      "source": "Analytics Insight",
-      "sources": [
-        {
-          "name": "Analytics Insight",
-          "url": "https://www.analyticsinsight.net/stocks/danaher-stock-vs-xhb-etf-complete-performance-comparison",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.analyticsinsight.net/stocks/danaher-stock-vs-xhb-etf-complete-performance-comparison",
-      "urlType": "article",
-      "publishedAt": "2026-08-01T15:30:00.000Z",
-      "date": "2026-08-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "be17dd5d217df7637436",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Down 31% this year, can Tesla stock bounce back?",
-      "summary": "Tesla stock has fallen 31% this year, prompting questions about its recovery potential despite its strong long-term performance. The article suggests that increased competition from Chinese rivals and declining subsidies are squeezing Tesla's profit margins and free cash flow, making it an overpriced investment despite its past success. The author concludes that Tesla's current valuation of 287 times earnings does not reflect these challenges, advising against adding it to a portfolio.",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/down-31-tesla-stock-bounce-144900613.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://uk.finance.yahoo.com/news/down-31-tesla-stock-bounce-144900613.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-01T14:48:41.000Z",
-      "date": "2026-08-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "924558f5d4a45544ead5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Is Texas Capital Bancshares (TCBI) Undervalued After Its Buyback, Earnings, And Dividend Update?",
-      "summary": "Texas Capital Bancshares (TCBI) has completed a US$98.19 million buyback program and announced fresh quarterly earnings and new dividend declarations. Despite a recent share price decline, the company shows positive long-term momentum and is considered undervalued by both analyst targets and intrinsic value estimates, specifically trading at a discount to a fair value narrative of $107.69 and an SWS DCF model estimate of $148.77. Investments in digital platforms and fee-based businesses are expected to drive efficiencies and resilient earnings, though concentration risk and operational demands from a recent data breach pose potential challenges.",
+      "title": "Consumer Staples Stocks To Watch As Cooling Inflation Reshapes Essential Spending",
+      "summary": "This article identifies three consumer staples stocks—Dingdong (Cayman) (DDL), Andersons (ANDE), and Cobram Estate Olives (ASX:CBO)—that are positioned to benefit from cooling inflation, falling energy prices, and shifting consumer spending habits. It examines how these companies, spanning online groceries, agriculture, and olive oil production, cater to essential household needs while highlighting their unique market positions, financial performance, and potential risks. The piece suggests these stocks as starting points for investors seeking opportunities in a redefined essential spending landscape.",
       "source": "Simply Wall St",
       "sources": [
         {
           "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/banks/nasdaq-tcbi/texas-capital-bancshares/news/is-texas-capital-bancshares-tcbi-undervalued-after-its-buyba",
+          "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-ddl/dingdong-cayman/news/consumer-staples-stocks-to-watch-as-cooling-inflation-reshap/amp",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/banks/nasdaq-tcbi/texas-capital-bancshares/news/is-texas-capital-bancshares-tcbi-undervalued-after-its-buyba",
+      "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-ddl/dingdong-cayman/news/consumer-staples-stocks-to-watch-as-cooling-inflation-reshap/amp",
       "urlType": "article",
-      "publishedAt": "2026-08-01T14:39:15.000Z",
-      "date": "2026-08-01",
+      "publishedAt": "2026-08-02T04:10:57.000Z",
+      "date": "2026-08-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "bbd5b4fd49b713edfac0",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "DWLD ETF Profile: Dividends, Returns (LSE:DWLD)",
+      "summary": "This article provides a profile of the Franklin FTSE Developed World UCITS ETF Accum Shs USD (DWLD), detailing its investment strategy, holdings, and performance metrics. It highlights that DWLD invests in large and mid-capitalization stocks in developed markets, with major allocations in Electronic Technology and Finance, primarily in North America. The fund does not pay dividends and has an expense ratio of 0.09%.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/symbols/LSE-DWLD/profile/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/symbols/LSE-DWLD/profile/",
+      "urlType": "article",
+      "publishedAt": "2026-08-02T15:45:54.000Z",
+      "date": "2026-08-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "8922359d259f662bc286",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "3 Fixed-Income ETFs Show Why Yield Is Only Part of the Income Story",
+      "summary": "This article compares three fixed-income ETFs – BBHY, BKLN, and JAAA – highlighting that while all aim for income, their strategies, risks, yields, and fee structures vary significantly. It explains how these ETFs approach high-yield corporate bonds, senior secured loans, and AAA-rated CLO tranches, respectively, and how each would perform under different market conditions, emphasizing that investors must consider more than just yield.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/articles/3-fixed-income-etfs-show-why-yield-is-only-part-of-the-income-story/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/articles/3-fixed-income-etfs-show-why-yield-is-only-part-of-the-income-story/",
+      "urlType": "article",
+      "publishedAt": "2026-08-02T15:40:48.000Z",
+      "date": "2026-08-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "5af1510d9254b1909f83",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "American Airlines flights from New York to Israel canceled through March 2027",
+      "summary": "American Airlines has extended the cancellation of all flights to Ben-Gurion Airport from New York's JFK until at least March 2027, citing regional unrest. The airline has not operated this route since October 2023 following the Hamas-led October 7 massacre and had previously planned to resume flights in March 2026. While American Airlines' services remain suspended, competing US carriers Delta Air Lines and United Airlines are expected to resume their Israel flights before the end of 2026.",
+      "source": "The Jerusalem Post",
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/business-and-innovation/all-news/article-904354",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-904354",
+      "urlType": "article",
+      "publishedAt": "2026-08-02T15:40:43.000Z",
+      "date": "2026-08-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "682f78788851d7acb895",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Prediction: Costco Will Become a Trillion Dollar Company on This Date",
+      "summary": "This article predicts that Costco (COST) will become a trillion-dollar company by 2035, reaching $2,250 per share. Despite its current market cap of $422 billion and relatively slow stock growth, strong fundamentals like 45.5% earnings growth, an 89.7% worldwide membership renewal rate, and increasing executive membership penetration support this long-term outlook. The author argues that while Wall Street sees limited upside, compounding earnings growth and strategic expansions could drive the stock to this ambitious target.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/08/02/prediction-costco-will-become-a-trillion-dollar-company-on-this-date/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/08/02/prediction-costco-will-become-a-trillion-dollar-company-on-this-date/",
+      "urlType": "article",
+      "publishedAt": "2026-08-02T15:30:24.000Z",
+      "date": "2026-08-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "4959ade393b135a73d87",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Lazard Asset Management LLC Buys 13,327 Shares of FTI Consulting, Inc. $FCN",
+      "summary": "Lazard Asset Management LLC significantly increased its stake in FTI Consulting (NYSE:FCN) by 380.6% in the first quarter, acquiring 13,327 additional shares and bringing its total holdings to 16,829 shares valued at $3.0 million. This comes as FTI Consulting reported record second-quarter revenue of $993.5 million, though adjusted EPS of $2.16 missed estimates, and the company lowered its full-year GAAP EPS guidance to $8.70–$9.30 despite reaffirming revenue guidance. Institutional investors own 99.36% of the company, while insiders have also been buying shares, and the company repurchased 2.6 million shares during the quarter.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-lazard-asset-management-llc-buys-13327-shares-of-fti-consulting-inc-fcn-2026-08-02/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lazard-asset-management-llc-buys-13327-shares-of-fti-consulting-inc-fcn-2026-08-02/",
+      "urlType": "article",
+      "publishedAt": "2026-08-02T15:11:17.000Z",
+      "date": "2026-08-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "c438fba64eb79a45d332",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Werner Enterprises (WERN) Reports Higher Sales And Lower Profit, Is The 12% Discount Warranted?",
+      "summary": "Werner Enterprises (WERN) reported higher sales but sharply lower net income in Q2 2026, leading to a 12% stock pullback after earnings. Despite short-term volatility, the company's year-to-date and one-year returns remain positive, and a valuation narrative suggests it is 12% undervalued at $37.42 compared to a fair value of $42.53, citing investments in modernization and automation. However, risks like higher insurance and wage costs could impact margin recovery.",
+      "source": "Simply Wall St",
+      "sources": [
+        {
+          "name": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/transportation/nasdaq-wern/werner-enterprises/news/werner-enterprises-wern-reports-higher-sales-and-lower-profi",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/transportation/nasdaq-wern/werner-enterprises/news/werner-enterprises-wern-reports-higher-sales-and-lower-profi",
+      "urlType": "article",
+      "publishedAt": "2026-08-02T15:10:16.000Z",
+      "date": "2026-08-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
