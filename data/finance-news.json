@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-02",
-  "generatedAt": "2026-08-03T10:57:26.191Z",
-  "targetDate": "2026-08-02",
+  "updated": "2026-08-03",
+  "generatedAt": "2026-08-04T07:58:47.103Z",
+  "targetDate": "2026-08-03",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -11,14 +11,14 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 2,
+      "message": ""
     },
     {
       "name": "中国人民银行",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "f8d7b1e5f02376dadc62",
+      "id": "bcaf5ba19043dbd66c45",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "MP Materials Stock And Rare Earth Shares Backed by US Supply Chain Demand",
-      "summary": "This article highlights three rare earth metal stocks – MP Materials, USA Rare Earth, and Lynas Rare Earths – emphasizing their roles in the critical minerals supply chain for clean energy, advanced technology, and defense. It details each company's operations, market capitalization, strategic importance, and financial outlook, including their challenges and opportunities within the context of global demand and geopolitical considerations. The piece underscores the significance of these companies in establishing secure, non-Chinese rare earth supply chains.",
-      "source": "Simply Wall St",
+      "title": "JPMorgan Chase to Invest $750 Billion to Boost U.S. Housing Supply, Homeownership",
+      "summary": "JPMorgan Chase announced a $750 billion investment through 2035 to support U.S. homeownership as part of its American Dream Initiative. The bank plans to finance one million affordable housing units and help 500,000 people, including 200,000 first-time home buyers, achieve homeownership. This initiative also aims to support small businesses and broaden access to healthcare.",
+      "source": "WSJ",
       "sources": [
         {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-stock-and-rare-earth-shares-backed-by-us-supply",
+          "name": "WSJ",
+          "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-to-invest-750-billion-to-boost-u-s-housing-supply-homeownership-11a389e5",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-stock-and-rare-earth-shares-backed-by-us-supply",
+      "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-to-invest-750-billion-to-boost-u-s-housing-supply-homeownership-11a389e5",
       "urlType": "article",
-      "publishedAt": "2026-08-02T15:40:28.000Z",
-      "date": "2026-08-02",
+      "publishedAt": "2026-08-03T14:29:47.000Z",
+      "date": "2026-08-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 32
+      "score": 27
     },
     {
-      "id": "9b8e6f853a5c92cb2952",
+      "id": "13f27c4f00514db8df5a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Timken’s New Commercial and Operations Structure Might Change The Case For Investing In TKR",
-      "summary": "Timken (NYSE: TKR) has announced significant leadership changes, appointing a new Chief Commercial Officer and Chief Operating Officer, effective September 1st. These changes aim to unify the sales force and centralize supply chain oversight, potentially impacting the company's growth and efficiency goals. While these roles are central to Timken's strategy for improving commercial execution and leveraging pricing and efficiency to offset cost pressures, investors should also consider the potential risks from soft industrial demand.",
-      "source": "Simply Wall St",
+      "title": "nCino, Braze, ServiceNow, Health Catalyst, and Palo Alto Networks Shares Are Soaring, What You Need To Know",
+      "summary": "Shares of nCino, Braze, ServiceNow, Health Catalyst, and Palo Alto Networks surged in the afternoon session due to a software sector tailwind. This surge was attributed to easing geopolitical tensions, particularly a de-escalation regarding Iran, and a new wave of AI-driven mergers and acquisitions. Lower interest rates resulting from the improved macro backdrop are making growth-oriented tech equities more attractive and providing cheaper funding for AI development and acquisitions.",
+      "source": "FinancialContent",
       "sources": [
         {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tkr/timken/news/timkens-new-commercial-and-operations-structure-might-change",
+          "name": "FinancialContent",
+          "url": "https://www.financialcontent.com/article/stockstory-2026-8-3-ncino-braze-servicenow-health-catalyst-and-palo-alto-networks-shares-are-soaring-what-you-need-to-know",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tkr/timken/news/timkens-new-commercial-and-operations-structure-might-change",
+      "url": "https://www.financialcontent.com/article/stockstory-2026-8-3-ncino-braze-servicenow-health-catalyst-and-palo-alto-networks-shares-are-soaring-what-you-need-to-know",
       "urlType": "article",
-      "publishedAt": "2026-08-02T12:10:49.000Z",
-      "date": "2026-08-02",
+      "publishedAt": "2026-08-03T12:50:00.000Z",
+      "date": "2026-08-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 24
     },
     {
-      "id": "83d1356c9243361ea19d",
+      "id": "95c271ad2d2891a789ec",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Empowered Funds LLC Sells 68,463 Shares of General Motors Company $GM",
-      "summary": "Empowered Funds LLC significantly reduced its stake in General Motors (NYSE:GM) during the first quarter of 2026, selling 68,463 shares and retaining 69,284 shares valued at $5.16 million. Despite strong quarterly earnings that surpassed expectations, GM faces concerns regarding substantial insider selling, potential tariff risks, and uncertainties surrounding its long-term electric vehicle strategy. The company maintained its 2026 EPS guidance, and analysts have a consensus price target of $101.41, though recent insider sales and mixed sentiment highlight ongoing challenges.",
-      "source": "MarketBeat",
+      "title": "FX Weekly Overview (Brazil Issue)",
+      "summary": "This FX Weekly Overview (Brazil Issue) discusses the expected impact of Brazil's Copom interest rate decision and upcoming US economic data on the USDBRL. The article predicts a bullish scenario for the USDBRL due to an anticipated Selic rate cut in Brazil and strong US economic data that could lead to a Federal Reserve interest rate hike. Geopolitical uncertainties in the Middle East and concerns about the Federal Reserve's credibility further complicate the outlook.",
+      "source": "StoneX",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-sells-68463-shares-of-general-motors-company-gm-2026-08-02/",
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en/insights/fx-weekly-overview-brazil-issue-2026-08-03/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-sells-68463-shares-of-general-motors-company-gm-2026-08-02/",
+      "url": "https://www.stonex.com/en/insights/fx-weekly-overview-brazil-issue-2026-08-03/",
       "urlType": "article",
-      "publishedAt": "2026-08-02T08:07:52.000Z",
-      "date": "2026-08-02",
+      "publishedAt": "2026-08-03T12:43:53.000Z",
+      "date": "2026-08-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "5a980820b1c052e09967",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "深化务实合作 密切协同发展 共创“十五五”资本市场高水平开放新局面——吴清主席在香港推出人民币国债期货上市仪式上的致辞",
+      "summary": "尊敬的周霁主任，陈茂波司长，黄天祐主席、余伟文总裁、唐家成主席，各位同仁，女士们、先生们：大家上午好！盛夏八月，很高兴与大家齐聚香江之畔，共同见证人民币国债期货在港交所挂牌上市。这是内地与香港深化资本市场务实合作、共同服务国家经济金融发展大局的又一个重要里程碑。我谨代表中国证监会致以热烈祝贺！借此机会，对长期以来关心和支持两地资本市场发展的各界朋友表示衷心感谢！国债期货是国际金融市场最具代表性的利率衍生品之一，在现代金融体系中发挥着日益重要的作用。当前，国际投资者持有中国债券已达3.2万亿元，利率风险管理需求日益增强。三个月前，合格境外投资者（QFI）参与境内国债期货交易落地实施。在中国证监会、中国人民银行以及香港有关方面通力合作下，两地监管和市场机构在规则制定、市场组织、技术实施、风险防控等方面做了大量扎实细致的准备工作，今天，5年期人民币国债期货在香港正式落地，可以说是正当其时、水到渠成。在岸与离岸市场的协同开放，不仅能够为国际投资者提供便捷高效的利率风险管理工具，帮助外资更好更放心地持有中国债券资产，也有利于促进两地国债现货、期货及衍生品市场紧密联动，健全更具韧性和有效性的国债收益率曲线。从长远看，这个重要品种的落地深化，将进一步丰富离岸人民币使用场景，强化香港全球离岸人民币业务枢纽功能，也将更好提升金融服务实体经济的质效。各位嘉宾、各位同仁，近年来，在“一国两制”方针指引下，香港社会大局稳定，发展势头良好、经济复苏强劲，金融市场繁荣。港交所IPO融资额已连续两年位居全球前列，债券市场发行规模再创新高，香港业已成为全球最大跨境财富管理中心。中国证监会坚决贯彻落实中央决策部署，把支持香港国际金融中心建设摆在突出位置，以推出和落实“惠港五项”等政策措施为契机，从市场、机构、产品等方面全方位深化与香港同仁务实合作，全力为资本市场发展注入新活力、新动能。在支持企业赴港上市方面。大力优化境外上市备案工作流程，提升规范化和透明度，积极支持符合条件的内地企业在港上市。2024年以来，已有270余家内地企业完成备案赴港上市，融资超6500亿港元。目前，内地企业在香港上市公司市值和成交金额占比已分别达八成、九成。一批新能源、新消费、生物医药、人工智能领域的龙头企业、新兴企业赴港发行上市，促进港股市场结构不断优化，对全球资本的影响力、吸引力大幅提升。相应地，企业和投资者也收获了发展机遇、共享了发展成果。在深化两地市场互联互通方面。作为首座联通两地市场的“资本桥”，沪深港通已平稳运行超过10年，标的范围和产品类型持续拓展，双向股票标的市值覆盖率不断提高，目前均已超过90%，不仅有效提升了市场活跃度，也有力促进两地资本、技术、信息的融合贯通。当前，我们会同香港方面，正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作，相信这座大桥还将越来越宽敞、越来越稳固、越来越通畅。在促进两地机构与产品合作方面。我们积极支持境内机构以香港为起点“走出去”，主动参与国际竞争，提升全球资源配置能力。目前已有103家内地证券基金期货公司在港设立分支机构，业务范围稳步拓展，展现了独特的专业服务能力。同时，随着MSCI&ensp;A50股指期货在港落地，内地与香港ETF互挂、基金互认等安排不断深化，跨境产品体系持续丰富，有力支持了香港国际资产管理和财富管理中心功能发挥。总的看，近年来香港资本市场发展成绩斐然、表现亮眼，香港国际金融中心的竞争力、影响力显著增强，越来越受到全球投资者的广泛关注和青睐。这些成绩的取得，是中央政府大力支持、特区政府积极引领的结果，也是两地监管机构和市场同仁密切协同、共同努力的结果。实践充分证明，香港背靠祖国、联通世界，依托国家超大规模市场、完备产业生态以及自身国际化的规则体系和完善的基础设施，具有无可比拟的发展底气和独特优势。我们对香港未来的繁荣发展充满信心！各位嘉宾、各位同仁，当前世界百年变局加速演进，全球经济不稳定不确定难预料因素增多，同时新一轮科技革命和产业变革加速突破，正在重塑全球经济结构和人类生产生活。我们既面临严峻的风险挑战，也迎来难得的机遇和希冀。在这个关键历史节点，国家制定实施“十五五”规划，对经济高质量发展和加快建设金融强国作出战略部署。金融和资本市场未来五年的发展规划正在紧锣密鼓的制定中。特区政府也在制定首份“五年规划”。主动对接国家战略，积极融入和服务国家发展大局，是两地资本市场的共同责任，需要我们共担使命、双向协同。今天，我们将进一步推出深化双向务实合作、支持香港资本市场发展的政策举措。一是聚焦“功能协同”，更好支持企业跨境双向融资。我们将一如既往地支持拓展国际布局的境内企业赴港上市，支持优质港股上市公司境内上市，共同提升服务新质生产力发展质效。同时，积极支持符合条件的香港企业到内地发债，运用多元化资本市",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c106311/c7649382/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7649382/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-08-03T01:47:42.000Z",
+      "date": "2026-08-03",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 67
+    },
+    {
+      "id": "d9dbb281d93dc2af7c07",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "吴清主席出席人民币国债期货在港交所挂牌上市仪式并致辞",
+      "summary": "2026年8月3日，中国证监会主席吴清出席5年期人民币国债期货在港交所挂牌上市仪式并致辞。吴清在致辞中提出了",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7649538/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649538/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-08-03T08:30:19.000Z",
+      "date": "2026-08-03",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "b484ebd0b46c01143b87",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Why is Costco Wholesale stock gaining today?",
+      "summary": "Costco Wholesale stock saw a 0.8% gain in pre-open trading, reaching $959.21, as it benefited from a broad wave of pre-market optimism across the major U.S. indices. This rise occurred without a specific company-related announcement, though lingering analyst optimism and anticipation of July monthly sales results (due August 5) are contributing factors. The stock, a defensive growth play, also benefited from a supportive macro backdrop including geopolitical relief.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/stock-market-news/why-is-costco-wholesale-stock-gaining-today-93CH-4831193?ampMode=1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.investing.com/news/stock-market-news/why-is-costco-wholesale-stock-gaining-today-93CH-4831193?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-08-03T12:37:46.000Z",
+      "date": "2026-08-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "fe190835314c9dd798ff",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "INTC Stock Slides As Sector Weakness And Tariff Risks Mount",
+      "summary": "Intel (INTC) stock has been sliding due to worsening chip demand, margin pressures, and broader sector weakness exacerbated by weak Samsung earnings and AI-valuation concerns. Despite strong cash generation and liquidity, the company faces negative margins and returns, making it a volatile \"battleground stock\" for traders. The article emphasizes disciplined trading approaches for INTC given its sensitivity to macro trends and sector news.",
+      "source": "StocksToTrade",
+      "sources": [
+        {
+          "name": "StocksToTrade",
+          "url": "https://stockstotrade.com/news/intel-corporation-intc-news-2026_08_03-2/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://stockstotrade.com/news/intel-corporation-intc-news-2026_08_03-2/",
+      "urlType": "article",
+      "publishedAt": "2026-08-03T12:38:48.000Z",
+      "date": "2026-08-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "23a867ee06702cf4e81e",
+      "id": "0091136071d1ef67ae7c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Consumer Staples Stocks To Watch As Cooling Inflation Reshapes Essential Spending",
-      "summary": "This article identifies three consumer staples stocks—Dingdong (Cayman) (DDL), Andersons (ANDE), and Cobram Estate Olives (ASX:CBO)—that are positioned to benefit from cooling inflation, falling energy prices, and shifting consumer spending habits. It examines how these companies, spanning online groceries, agriculture, and olive oil production, cater to essential household needs while highlighting their unique market positions, financial performance, and potential risks. The piece suggests these stocks as starting points for investors seeking opportunities in a redefined essential spending landscape.",
-      "source": "Simply Wall St",
+      "title": "Transocean Ltd. (NYSE:RIG) results highlight 2.35% deal spread in focus",
+      "summary": "Transocean Ltd. (NYSE:RIG) is under scrutiny due to a 2.35% deal spread after its earnings report, particularly concerning its fixed-ratio acquisition proposal for Valaris Limited (NYSE:VAL). The article highlights the financial details of the proposed merger, the impact of declining oil prices, and Transocean's upcoming second-quarter results and fleet update, which are expected to adjust the offer's value. The deal faces ongoing regulatory and shareholder approvals, with its completion aimed for the second half of 2026.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-ddl/dingdong-cayman/news/consumer-staples-stocks-to-watch-as-cooling-inflation-reshap/amp",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/transocean-ltd-nyserig-results-highlight-2-35-deal-spread-in-focus/",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-ddl/dingdong-cayman/news/consumer-staples-stocks-to-watch-as-cooling-inflation-reshap/amp",
+      "url": "https://ts2.tech/en/transocean-ltd-nyserig-results-highlight-2-35-deal-spread-in-focus/",
       "urlType": "article",
-      "publishedAt": "2026-08-02T04:10:57.000Z",
-      "date": "2026-08-02",
+      "publishedAt": "2026-08-03T12:13:14.000Z",
+      "date": "2026-08-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "bbd5b4fd49b713edfac0",
+      "id": "b53047db24228e281115",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "DWLD ETF Profile: Dividends, Returns (LSE:DWLD)",
-      "summary": "This article provides a profile of the Franklin FTSE Developed World UCITS ETF Accum Shs USD (DWLD), detailing its investment strategy, holdings, and performance metrics. It highlights that DWLD invests in large and mid-capitalization stocks in developed markets, with major allocations in Electronic Technology and Finance, primarily in North America. The fund does not pay dividends and has an expense ratio of 0.09%.",
-      "source": "TradingView",
+      "title": "Zacks Industry Outlook The TJX, Ross Stores, Target and Dollar Tree",
+      "summary": "The Retail – Discount Stores industry is thriving due to consumers seeking value amidst inflation, with companies like TJX, Ross Stores, Target, and Dollar Tree poised for continued growth. Key trends include sustained \"trade-down\" traffic across income brackets, expanded private-label offerings and consumables, and enhanced omnichannel capabilities. The industry maintains a positive outlook, backed by strong earnings growth potential and strategic operational efficiencies.",
+      "source": "The Globe and Mail",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/symbols/LSE-DWLD/profile/",
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/DLTR/pressreleases/3609862/zacks-industry-outlook-the-tjx-ross-stores-target-and-dollar-tree/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/symbols/LSE-DWLD/profile/",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/DLTR/pressreleases/3609862/zacks-industry-outlook-the-tjx-ross-stores-target-and-dollar-tree/",
       "urlType": "article",
-      "publishedAt": "2026-08-02T15:45:54.000Z",
-      "date": "2026-08-02",
+      "publishedAt": "2026-08-03T11:11:17.000Z",
+      "date": "2026-08-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 18
     },
     {
-      "id": "8922359d259f662bc286",
+      "id": "badfeb134af276816f3b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "3 Fixed-Income ETFs Show Why Yield Is Only Part of the Income Story",
-      "summary": "This article compares three fixed-income ETFs – BBHY, BKLN, and JAAA – highlighting that while all aim for income, their strategies, risks, yields, and fee structures vary significantly. It explains how these ETFs approach high-yield corporate bonds, senior secured loans, and AAA-rated CLO tranches, respectively, and how each would perform under different market conditions, emphasizing that investors must consider more than just yield.",
-      "source": "MarketBeat",
+      "title": "Antamina, Buenaventura y Chinalco concentran el 33.6% de la producción nacional de plata a mayo",
+      "summary": "In May, Peru's national silver production decreased by 11.3% compared to the previous year, totaling 278,862 kilograms fine, largely due to lower output from Compañía Minera Ares S.A.C. and Volcan Compañía Minera S.A.A. Compañía Minera Antamina S.A., Compañía de Minas Buenaventura S.A.A., and Minera Chinalco Perú S.A. collectively accounted for 33.6% of the national production, with Antamina leading at 16.0%. Áncash remained the top producing department, followed by Lima and Junín.",
+      "source": "Energiminas",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/articles/3-fixed-income-etfs-show-why-yield-is-only-part-of-the-income-story/",
+          "name": "Energiminas",
+          "url": "https://energiminas.com/2026/08/03/antamina-buenaventura-y-chinalco-concentran-el-33-6-de-la-produccion-nacional-de-plata-a-mayo/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/articles/3-fixed-income-etfs-show-why-yield-is-only-part-of-the-income-story/",
+      "url": "https://energiminas.com/2026/08/03/antamina-buenaventura-y-chinalco-concentran-el-33-6-de-la-produccion-nacional-de-plata-a-mayo/",
       "urlType": "article",
-      "publishedAt": "2026-08-02T15:40:48.000Z",
-      "date": "2026-08-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "5af1510d9254b1909f83",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "American Airlines flights from New York to Israel canceled through March 2027",
-      "summary": "American Airlines has extended the cancellation of all flights to Ben-Gurion Airport from New York's JFK until at least March 2027, citing regional unrest. The airline has not operated this route since October 2023 following the Hamas-led October 7 massacre and had previously planned to resume flights in March 2026. While American Airlines' services remain suspended, competing US carriers Delta Air Lines and United Airlines are expected to resume their Israel flights before the end of 2026.",
-      "source": "The Jerusalem Post",
-      "sources": [
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://www.jpost.com/business-and-innovation/all-news/article-904354",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.jpost.com/business-and-innovation/all-news/article-904354",
-      "urlType": "article",
-      "publishedAt": "2026-08-02T15:40:43.000Z",
-      "date": "2026-08-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "682f78788851d7acb895",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Prediction: Costco Will Become a Trillion Dollar Company on This Date",
-      "summary": "This article predicts that Costco (COST) will become a trillion-dollar company by 2035, reaching $2,250 per share. Despite its current market cap of $422 billion and relatively slow stock growth, strong fundamentals like 45.5% earnings growth, an 89.7% worldwide membership renewal rate, and increasing executive membership penetration support this long-term outlook. The author argues that while Wall Street sees limited upside, compounding earnings growth and strategic expansions could drive the stock to this ambitious target.",
-      "source": "24/7 Wall St.",
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/08/02/prediction-costco-will-become-a-trillion-dollar-company-on-this-date/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://247wallst.com/investing/2026/08/02/prediction-costco-will-become-a-trillion-dollar-company-on-this-date/",
-      "urlType": "article",
-      "publishedAt": "2026-08-02T15:30:24.000Z",
-      "date": "2026-08-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "4959ade393b135a73d87",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Lazard Asset Management LLC Buys 13,327 Shares of FTI Consulting, Inc. $FCN",
-      "summary": "Lazard Asset Management LLC significantly increased its stake in FTI Consulting (NYSE:FCN) by 380.6% in the first quarter, acquiring 13,327 additional shares and bringing its total holdings to 16,829 shares valued at $3.0 million. This comes as FTI Consulting reported record second-quarter revenue of $993.5 million, though adjusted EPS of $2.16 missed estimates, and the company lowered its full-year GAAP EPS guidance to $8.70–$9.30 despite reaffirming revenue guidance. Institutional investors own 99.36% of the company, while insiders have also been buying shares, and the company repurchased 2.6 million shares during the quarter.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-lazard-asset-management-llc-buys-13327-shares-of-fti-consulting-inc-fcn-2026-08-02/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lazard-asset-management-llc-buys-13327-shares-of-fti-consulting-inc-fcn-2026-08-02/",
-      "urlType": "article",
-      "publishedAt": "2026-08-02T15:11:17.000Z",
-      "date": "2026-08-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "c438fba64eb79a45d332",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Werner Enterprises (WERN) Reports Higher Sales And Lower Profit, Is The 12% Discount Warranted?",
-      "summary": "Werner Enterprises (WERN) reported higher sales but sharply lower net income in Q2 2026, leading to a 12% stock pullback after earnings. Despite short-term volatility, the company's year-to-date and one-year returns remain positive, and a valuation narrative suggests it is 12% undervalued at $37.42 compared to a fair value of $42.53, citing investments in modernization and automation. However, risks like higher insurance and wage costs could impact margin recovery.",
-      "source": "Simply Wall St",
-      "sources": [
-        {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/transportation/nasdaq-wern/werner-enterprises/news/werner-enterprises-wern-reports-higher-sales-and-lower-profi",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/transportation/nasdaq-wern/werner-enterprises/news/werner-enterprises-wern-reports-higher-sales-and-lower-profi",
-      "urlType": "article",
-      "publishedAt": "2026-08-02T15:10:16.000Z",
-      "date": "2026-08-02",
+      "publishedAt": "2026-08-03T15:43:35.000Z",
+      "date": "2026-08-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
