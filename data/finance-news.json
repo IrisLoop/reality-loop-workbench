@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-04",
-  "generatedAt": "2026-08-05T08:00:59.668Z",
-  "targetDate": "2026-08-04",
+  "updated": "2026-08-05",
+  "generatedAt": "2026-08-06T07:59:22.174Z",
+  "targetDate": "2026-08-05",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -43,226 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "f2ef449ef4ff54e83586",
+      "id": "8b1802fbd2b48e34cc92",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "S&P Global Says Canada's July Manufacturing PMI Rises to Highest Level in More Than Four Years",
-      "summary": "S&P Global reported that Canada's Manufacturing PMI for July rose to 53.5, up from 53.0 in June, marking its highest level in over four years. This indicates sustained job growth in the manufacturing sector despite an uncertain outlook, driven by firmer domestic demand. The report was published at 10:03 am EDT on August 4, 2026.",
-      "source": "marketscreener.com",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 3.25% on Aug 5: Drivers Behind the Movement",
+      "summary": "Lam Research Corp (LRCX) stock dropped 3.25% on August 5th due to softening semiconductor equipment demand, geopolitical export controls, and macroeconomic volatility impacting chipmakers' capacity expansion. Analysts point to inventory digestion issues and a rebalancing of institutional portfolios away from equipment manufacturers. Technically, LRCX shows a sell signal with a MACD of -0.517.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "marketscreener.com",
-          "url": "https://www.marketscreener.com/news/s-p-global-says-canada-s-july-manufacturing-pmi-rises-to-highest-level-in-more-than-four-years-ce7f50dedc89ff26",
-          "urlType": "article"
-        },
-        {
-          "name": "www.marketscreener.com",
-          "url": "https://www.marketscreener.com/news/s-p-global-says-canada-manufacturing-pmi-rises-to-53-5-in-july-vs-53-0-in-june-ce7f50dedc89f525",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262078584-market-movers-lrcx-20260805",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketscreener.com/news/s-p-global-says-canada-s-july-manufacturing-pmi-rises-to-highest-level-in-more-than-four-years-ce7f50dedc89ff26",
+      "url": "https://www.tradingkey.com/news/market-movers/262078584-market-movers-lrcx-20260805",
       "urlType": "article",
-      "publishedAt": "2026-08-04T14:03:55.000Z",
-      "date": "2026-08-04",
-      "verification": "cross_verified",
-      "whySelected": "已发现 2 个相互独立的相关来源",
-      "score": 32
+      "publishedAt": "2026-08-05T15:15:00.000Z",
+      "date": "2026-08-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
     },
     {
-      "id": "f85ed0b5120a7a9be3b2",
+      "id": "e6903aad7bf3f6ca11bb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Payments firm FIS shares slide after outlook cut",
-      "summary": "Fidelity National Information Services (FIS) cut its annual revenue and profit forecasts due to economic uncertainty, causing its shares to drop over 10% in premarket trading. The company cited caution among institutions and retailers regarding technology spending, influenced by geopolitical and trade factors. Despite this, FIS's CEO noted continued investment in technology modernization and AI by banks, which supports demand for its products.",
-      "source": "WKZO",
+      "title": "Global Ship Lease earnings up next as container market cools",
+      "summary": "Global Ship Lease Inc. is set to report its second-quarter results, with analysts expecting a sequential decline in earnings and revenue amidst a cooling container shipping market. Investors will be focused on whether the company's long-term charter contracts can shield it from overcapacity and falling freight rates, especially as it embarks on a significant fleet expansion. The company's prior quarter saw strong performance driven by high charter coverage and geopolitical tensions, and the upcoming report will indicate if this momentum can continue.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "WKZO",
-          "url": "https://wkzo.com/2026/08/04/payments-firm-fis-shares-slide-after-outlook-cut/",
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/earnings/global-ship-lease-earnings-up-next-as-container-market-cools-93CH-4838379?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://wkzo.com/2026/08/04/payments-firm-fis-shares-slide-after-outlook-cut/",
+      "url": "https://m.investing.com/news/earnings/global-ship-lease-earnings-up-next-as-container-market-cools-93CH-4838379?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-04T13:05:53.000Z",
-      "date": "2026-08-04",
+      "publishedAt": "2026-08-05T15:13:20.000Z",
+      "date": "2026-08-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "2153d6fca4f10b3aedc8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "5 Stocks to Grab as Manufacturing Activity Hits Four-Year High",
+      "summary": "The U.S. manufacturing sector has shown impressive growth for seven consecutive months, with the ISM Manufacturing PMI reaching 55.6 in July, its highest level since May 2022. This rebound is attributed to robust demand for factory-produced goods and easing oil prices, despite inflationary pressures. Given this positive outlook, the article recommends investing in five industrial product stocks: Applied Industrial Technologies, Dover Corporation, Hubbell Incorporated, RBC Bearings Incorporated, and Trimble Inc., all of which have strong expected earnings growth and favorable Zacks Ranks.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/HUBB-N/pressreleases/3665549/5-stocks-to-grab-as-manufacturing-activity-hits-four-year-high/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/HUBB-N/pressreleases/3665549/5-stocks-to-grab-as-manufacturing-activity-hits-four-year-high/",
+      "urlType": "article",
+      "publishedAt": "2026-08-05T14:38:16.000Z",
+      "date": "2026-08-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "c71951e916f99bd66982",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "DHT Holdings earnings up next: Can spot rates sustain momentum?",
+      "summary": "DHT Holdings is expected to report strong second-quarter results, driven by high spot rates in the crude tanker market due to geopolitical tensions and shifting trade patterns. Analysts anticipate significant revenue and EPS growth, with the market focusing on whether DHT capitalized on surging VLCC spot rates, the impact of its fleet modernization, and management's outlook on future rate environments. The company's first-quarter performance was robust, and its current valuation suggests potential for continued growth.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/earnings/dht-holdings-earnings-up-next-can-spot-rates-sustain-momentum-93CH-4838285?ampMode=1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.investing.com/news/earnings/dht-holdings-earnings-up-next-can-spot-rates-sustain-momentum-93CH-4838285?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-08-05T14:18:31.000Z",
+      "date": "2026-08-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 23
     },
     {
-      "id": "bb3d2ca1622be05caa42",
+      "id": "9b5301064018853ea2a9",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dorman Products surges 16% after Q2 earnings beat, raised guidance (DORM:NASDAQ)",
-      "summary": "Dorman Products (DORM) saw its shares surge about 16% after reporting second-quarter results that exceeded earnings expectations. The supplier of motor vehicle aftermarket replacement parts also provided raised full-year guidance and demonstrated strong cash flow and share repurchases. This performance contributed to significant margin and EPS growth, despite previous concerns about tariff exposure.",
-      "source": "Seeking Alpha",
+      "title": "Why SharkNinja (SN) Stock Is Up Today",
+      "summary": "SharkNinja (SN) stock is up 6.9% today, likely driven by a strong second-quarter earnings report and raised full-year guidance. The company reported a 22.2% increase in net sales and a nearly 30% rise in adjusted EPS, with significant international growth. Despite tariff pressures, management highlighted better-than-expected profitability and continued momentum.",
+      "source": "Quiver Quantitative",
       "sources": [
         {
-          "name": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4624687-dorman-products-surges-16-after-q2-earnings-beat-raised-guidance",
+          "name": "Quiver Quantitative",
+          "url": "https://www.quiverquant.com/news/Why+SharkNinja+%28SN%29+Stock+Is+Up+Today",
           "urlType": "article"
         }
       ],
-      "url": "https://seekingalpha.com/news/4624687-dorman-products-surges-16-after-q2-earnings-beat-raised-guidance",
+      "url": "https://www.quiverquant.com/news/Why+SharkNinja+%28SN%29+Stock+Is+Up+Today",
       "urlType": "article",
-      "publishedAt": "2026-08-04T14:41:10.000Z",
-      "date": "2026-08-04",
+      "publishedAt": "2026-08-05T15:43:00.000Z",
+      "date": "2026-08-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 22
     },
     {
-      "id": "01b0342d15f813841a90",
+      "id": "3e797be5bf2ac1fe4f1c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Fortive Raises 2026 Outlook as Core Growth and Cash Flow Accelerate",
-      "summary": "Fortive Corporation (FTV) has raised its 2026 adjusted earnings outlook after its second-quarter earnings and revenues surpassed estimates due to accelerated organic growth. The company reported strong performance in both Intelligent Operating Solutions and Advanced Healthcare Solutions, benefiting from price, volume, and productivity gains. While wider margins and stronger cash conversion support the positive outlook, challenges such as healthcare mix, tariffs, and uneven hospital spending remain.",
-      "source": "Yahoo Finance",
+      "title": "Global Payments Looks to Genius And Worldpay for Big Gains",
+      "summary": "Global Payments is focusing on its Genius point-of-sale platform and integrating the acquired Worldpay to drive future growth. The company is investing in new features for Genius, including a handheld device, and plans to partner with 30 banks to sell the system. Despite a \"headwind\" from the Middle East conflict affecting its travel portfolio, Global Payments reported increased adjusted net revenue and net income for the quarter.",
+      "source": "Digital Transactions",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fortive-raises-2026-outlook-core-140900428.html",
+          "name": "Digital Transactions",
+          "url": "https://www.digitaltransactions.net/global-payments-looks-to-genius-and-worldpay-for-big-gains/",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fortive-raises-2026-outlook-core-140900428.html",
+      "url": "https://www.digitaltransactions.net/global-payments-looks-to-genius-and-worldpay-for-big-gains/",
       "urlType": "article",
-      "publishedAt": "2026-08-04T14:07:52.000Z",
-      "date": "2026-08-04",
+      "publishedAt": "2026-08-05T15:08:31.000Z",
+      "date": "2026-08-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "0b041bdfb8232a39560a",
+      "id": "0c81ea8b0c53ff7870fa",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Nrg Energy stock hits 52-week low at 120.11 USD By Investing.com",
-      "summary": "NRG Energy Inc.'s stock recently hit a 52-week low of $120.11, despite a subsequent 8.94% rebound, and is considered slightly undervalued by InvestingPro. The company faces challenges, evident from a 29.72% decline over the past year, but management has been actively buying back shares and consistently raising dividends. Recent Q2 2026 earnings showed mixed results with an earnings per share miss but exceeded revenue expectations and a significant EBITDA increase, alongside a new data-center project in Texas.",
-      "source": "Investing.com Canada",
+      "title": "American Airlines Shares Rally Meets Headwind as Brent Surges Past $80",
+      "summary": "American Airlines (NASDAQ: AAL) shares faced a headwind as Brent crude surged past $80, despite recent gains. Fuel costs accounted for a significant portion of American's Q2 revenue growth, severely impacting operating income and margins. While analysts maintain an overall positive outlook, short-term profit forecasts have been lowered, highlighting the airline's sensitivity to fluctuating oil prices.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "Investing.com Canada",
-          "url": "https://ca.investing.com/news/stock-market-news/nrg-energy-stock-hits-52week-low-at-12011-usd-93CH-4774826",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/american-airlines-shares-rally-meets-headwind-as-brent-surges-past-80/",
           "urlType": "article"
         }
       ],
-      "url": "https://ca.investing.com/news/stock-market-news/nrg-energy-stock-hits-52week-low-at-12011-usd-93CH-4774826",
+      "url": "https://ts2.tech/en/american-airlines-shares-rally-meets-headwind-as-brent-surges-past-80/",
       "urlType": "article",
-      "publishedAt": "2026-08-04T15:44:20.000Z",
-      "date": "2026-08-04",
+      "publishedAt": "2026-08-05T14:19:23.000Z",
+      "date": "2026-08-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "5f74dafe7a914110a0f0",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Quarterly report: Disney says theme park attendance is up",
+      "summary": "Walt Disney Co. announced an increase in theme park attendance and guest spending for its third financial quarter, bucking a trend of decline in Central Florida tourism. This growth was attributed to \"Cool Kids Summer\" promotions, re-opened attractions, and investments, particularly at Walt Disney World. The company emphasized that its performance significantly surpasses competitors like SeaWorld Orlando and Universal Orlando, which recently reported attendance dips.",
+      "source": "Orlando Sentinel",
+      "sources": [
+        {
+          "name": "Orlando Sentinel",
+          "url": "https://www.orlandosentinel.com/2026/08/05/disney-earnings-0806/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.orlandosentinel.com/2026/08/05/disney-earnings-0806/",
+      "urlType": "article",
+      "publishedAt": "2026-08-05T15:59:02.000Z",
+      "date": "2026-08-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "06fc64ef12eb70675dbd",
+      "id": "914878e2bbc1928e1b54",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Matson profit jumps 37% as China volumes surge, carrier lifts 2026 outlook",
-      "summary": "Matson Inc. reported a 37% increase in second-quarter net income, reaching $129.4 million, driven by a surge in China service volumes and higher freight rates. The carrier raised its full-year operating income expectations for its Ocean Transportation division, anticipating strong performance through the peak season. While domestic trades were more subdued, the Logistics segment saw revenue growth, and Matson continues significant fleet investment, projecting full-year consolidated operating income to exceed 2025 results.",
-      "source": "Breakbulk.News",
+      "title": "Booking Holdings Q2 results top estimates as travel demand remains resilient",
+      "summary": "Booking Holdings Inc. reported Q2 results that exceeded Wall Street expectations, with adjusted earnings per share of $2.54 and revenue of $7.35 billion. The company saw strong growth in room nights and gross bookings, driven by resilient travel demand. Booking Holdings also raised its annual run-rate savings target from its Transformation Program and provided optimistic guidance for the third quarter and full-year 2026.",
+      "source": "Proactive financial news",
       "sources": [
         {
-          "name": "Breakbulk.News",
-          "url": "https://breakbulk.news/matson-profit-jumps-37-as-china-volumes-surge-carrier-lifts-2026-outlook/",
+          "name": "Proactive financial news",
+          "url": "https://www.proactiveinvestors.com/companies/news/1096604/booking-holdings-q2-results-top-estimates-as-travel-demand-remains-resilient-1096604.html",
           "urlType": "article"
         }
       ],
-      "url": "https://breakbulk.news/matson-profit-jumps-37-as-china-volumes-surge-carrier-lifts-2026-outlook/",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096604/booking-holdings-q2-results-top-estimates-as-travel-demand-remains-resilient-1096604.html",
       "urlType": "article",
-      "publishedAt": "2026-08-04T15:42:01.000Z",
-      "date": "2026-08-04",
+      "publishedAt": "2026-08-05T15:57:15.000Z",
+      "date": "2026-08-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "313e6dbed11813752e52",
+      "id": "00999403a683f4b8380c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Travel + Leisure Co. Named to Business Insider’s America’s High-Growth Companies 2026 List",
-      "summary": "Travel + Leisure Co. (NYSE: TNL) has been recognized on Business Insider's inaugural America's High-Growth Companies 2026 list. This recognition highlights the company's sustained growth, financial strength, and long-term stability, achieved through its multi-brand strategy and focus on innovation. The evaluation involved over 3,000 public companies, assessed on financial performance, profitability, investor value, and stability.",
-      "source": "Business Wire",
+      "title": "Earnings call transcript: Hecla Mining Q2 2026 misses estimates but stock rises",
+      "summary": "Hecla Mining reported Q2 2026 earnings and revenue below Wall Street estimates, but its stock rose after hours due to record free cash flow, a stronger balance sheet, and growth projects. The company achieved $136 million in consolidated free cash flow, with all three operating mines generating positive cash flow. Management highlighted a strong financial position, significant exploration potential, and projected substantial annual free cash flow under various silver and gold price scenarios.",
+      "source": "Investing.com South Africa",
       "sources": [
         {
-          "name": "Business Wire",
-          "url": "https://www.businesswire.com/news/home/20260804413955/en/Travel-Leisure-Co.-Named-to-Business-Insiders-Americas-High-Growth-Companies-2026-List",
+          "name": "Investing.com South Africa",
+          "url": "https://m.za.investing.com/news/transcripts/earnings-call-transcript-hecla-mining-q2-2026-misses-estimates-but-stock-rises-93CH-4409323?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://www.businesswire.com/news/home/20260804413955/en/Travel-Leisure-Co.-Named-to-Business-Insiders-Americas-High-Growth-Companies-2026-List",
+      "url": "https://m.za.investing.com/news/transcripts/earnings-call-transcript-hecla-mining-q2-2026-misses-estimates-but-stock-rises-93CH-4409323?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-04T15:41:51.000Z",
-      "date": "2026-08-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "f0c6b8b46dcc6bd5f644",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Earnings call transcript: Diversified Healthcare Trust posts Q2 2026 miss but lifts outlook",
-      "summary": "Diversified Healthcare Trust (DHC) reported a Q2 2026 loss of $0.16 per share on revenue of $365.39 million, missing analyst expectations. Despite the miss, the company reaffirmed its full-year guidance, driven by strong operating trends, particularly in its senior housing operating properties (SHOP) segment, with same-property NOI rising 20.2%. Management highlighted improved occupancy, pricing power, and reduced leverage, indicating confidence in continued organic growth and potential future dividend reviews.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-diversified-healthcare-trust-posts-q2-2026-miss-but-lifts-outlook-93CH-4835018",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-diversified-healthcare-trust-posts-q2-2026-miss-but-lifts-outlook-93CH-4835018",
-      "urlType": "article",
-      "publishedAt": "2026-08-04T15:41:13.000Z",
-      "date": "2026-08-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "f06be3cc6a464b97e5dc",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Earnings call transcript: Willis Lease Finance posts Q2 revenue beat, EPS miss",
-      "summary": "Willis Lease Finance Corp. reported a Q2 revenue beat of $194 million against an expected $178 million, driven by lease rent, asset sales, and management fees. However, diluted EPS of $1.31 significantly missed the $3.26 forecast due to higher costs, financing charges, and a tough prior-year comparison. Despite the earnings miss, adjusted EBITDA rose, and the company's stock showed a modest 0.5% dip, indicating investor focus on revenue growth and long-term strategy.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-willis-lease-finance-posts-q2-revenue-beat-eps-miss-93CH-4835061?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-willis-lease-finance-posts-q2-revenue-beat-eps-miss-93CH-4835061?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-04T15:41:05.000Z",
-      "date": "2026-08-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "565b53d8ddd98a7e6936",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Exelon Agreements Require Data Centers to Cover Projected Grid Costs",
-      "summary": "Exelon has secured over $1 billion in customer protections through Transmission Security Agreements (TSAs), which mandate that large new energy users, including data centers, cover their projected transmission service costs. This initiative is part of the \"Exelon Promise\" to shield families and small businesses from unfair cost shifts amidst growing energy demand and limited supply. The TSAs aim to ensure that new infrastructure development is supported fairly without burdening existing customers, aligning with FERC's recent actions on grid connection costs for large loads.",
-      "source": "Stock Titan",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/news/EXC/exelon-secures-more-than-1-billion-in-customer-protections-through-9348wqjo1v1m.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stocktitan.net/news/EXC/exelon-secures-more-than-1-billion-in-customer-protections-through-9348wqjo1v1m.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-04T15:37:46.000Z",
-      "date": "2026-08-04",
+      "publishedAt": "2026-08-05T15:51:26.000Z",
+      "date": "2026-08-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
