@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-06",
-  "generatedAt": "2026-08-07T05:02:01.720Z",
-  "targetDate": "2026-08-06",
+  "updated": "2026-08-07",
+  "generatedAt": "2026-08-07T23:51:53.580Z",
+  "targetDate": "2026-08-07",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "bf5de2006ce5f9eaefc0",
+      "id": "9ed1760358d1f905da70",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Royal Caribbean Group Reports Strong Q2 2026 Results as Legend of the Seas Debuts and Short Cruise Demand Surges",
-      "summary": "Royal Caribbean Group reported strong Q2 2026 results, exceeding Wall Street expectations with $4.83 billion in revenue and adjusted EPS of $4.21, leading to an upward revision of their full-year guidance. The debut of \"Legend of the Seas\" significantly boosted capacity, and the company observed a growing demand for shorter cruises, particularly among new and younger travelers. Despite geopolitical impacts on some bookings, overall demand and pricing remain at record levels, with the company returning over $600 million to investors.",
-      "source": "FTN news",
+      "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 8.62% on Aug 7: What Signal Does It Send?",
+      "summary": "Seagate Technology Holdings PLC (STX) stock dropped by 8.62% on August 7th due to slowing demand in the mass-capacity storage segment, particularly from hyperscale cloud service providers. Manufacturing issues with Heat-Assisted Magnetic Recording (HAMR) technology and elevated interest rates further pressured the stock. Analysts have an average price target of $1090.19, with risks including HAMR execution, AI capital expenditure cannibalization, and geopolitical sensitivities.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "FTN news",
-          "url": "https://ftnnews.com/travel-news/cruise-travel/royal-caribbean-group-reports-strong-q2-2026-results-as-legend-of-the-seas-debuts-and-short-cruise-demand-surges/",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262089078-market-movers-stx-20260807",
           "urlType": "article"
         }
       ],
-      "url": "https://ftnnews.com/travel-news/cruise-travel/royal-caribbean-group-reports-strong-q2-2026-results-as-legend-of-the-seas-debuts-and-short-cruise-demand-surges/",
+      "url": "https://www.tradingkey.com/news/market-movers/262089078-market-movers-stx-20260807",
       "urlType": "article",
-      "publishedAt": "2026-08-06T14:53:01.000Z",
-      "date": "2026-08-06",
+      "publishedAt": "2026-08-07T14:16:00.000Z",
+      "date": "2026-08-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 26
     },
     {
-      "id": "49807c8ee823aed7858a",
+      "id": "0aff16851853e23fbeb8",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Goodyear Tire & Rubber (NASDAQ: GT) swings to H1 2026 loss on charges",
-      "summary": "Goodyear Tire & Rubber (NASDAQ: GT) reported a net loss for both Q2 2026 ($204 million) and H1 2026 ($453 million), a significant decline from profits in the prior year, attributed to restructuring charges, lower sales, and decreased segment operating income. The company's financial performance was negatively impacted by reduced tire unit shipments, inflationary cost pressures, and increased conversion costs, despite benefits from its Goodyear Forward transformation plan and lower raw material costs. Goodyear also announced the planned permanent closure of its Fayetteville, North Carolina tire manufacturing facility by the end of 2027 as part of ongoing rationalization efforts, incurring substantial pre-tax charges.",
-      "source": "Stock Titan",
+      "title": "KLA Corp Stock (KLAC) Opened Up by 3.01% on Aug 7: What Signal Does It Send?",
+      "summary": "KLA Corp (KLAC) shares surged 3.01% on August 7, driven by positive quarterly results, optimistic forward guidance, and increased demand for semiconductor inspection tools in advanced node manufacturing. The company benefits from the broader semiconductor industry's growth due to AI infrastructure expansion and resilient revenue streams compared to peers. Despite strong market performance, the article highlights risks such as insider divestment, margin compression from R&D, geopolitical revenue concentration, and valuation sensitivity.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/GT/10-q-goodyear-tire-rubber-co-oh-quarterly-earnings-report-03d1f7391a0c.html",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262089008-market-movers-klac-20260807",
           "urlType": "article"
         }
       ],
-      "url": "https://www.stocktitan.net/sec-filings/GT/10-q-goodyear-tire-rubber-co-oh-quarterly-earnings-report-03d1f7391a0c.html",
+      "url": "https://www.tradingkey.com/news/market-movers/262089008-market-movers-klac-20260807",
       "urlType": "article",
-      "publishedAt": "2026-08-06T15:11:53.000Z",
-      "date": "2026-08-06",
+      "publishedAt": "2026-08-07T14:14:45.000Z",
+      "date": "2026-08-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "ea264ce34d98b8662cff",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Chevron Corp (CVX) Stock Analysis & Forecast",
+      "summary": "This article provides an analysis and forecast for Chevron Corp (CVX) stock, highlighting its valuation, outlook, chart signals, and key risks. It features several news snippets discussing Chevron's activities, including a 20-year energy supply agreement with Microsoft and broader topics concerning the oil and gas market, such as geopolitical impacts and investment strategies. The analysis also touches on Warren Buffett's investment decisions related to Chevron.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/markets/stocks/cvx/analysis",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/markets/stocks/cvx/analysis",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T14:07:42.000Z",
+      "date": "2026-08-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 25
+    },
+    {
+      "id": "ed39e9d34791a8c1d607",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "US Gentex to build automotive technology plant in Morocco by 2028",
+      "summary": "US automotive technology supplier Gentex Corp plans to establish a manufacturing facility in Morocco by 2028. This move aims to strengthen Morocco's position in the automotive industry and bring Gentex closer to its European customers. The plant will help meet localization requirements for European manufacturers and reduce supply chain risks.",
+      "source": "The North Africa Post",
+      "sources": [
+        {
+          "name": "The North Africa Post",
+          "url": "https://northafricapost.com/99460-us-gentex-to-build-automotive-technology-plant-in-morocco-by-2028.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://northafricapost.com/99460-us-gentex-to-build-automotive-technology-plant-in-morocco-by-2028.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T14:11:24.000Z",
+      "date": "2026-08-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "201adfb2bab8b7126703",
+      "id": "17940489f51198575ed4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Earnings call transcript: Cognex posts record Q2 2026 revenue, shares slip",
-      "summary": "Cognex Corp. reported record second-quarter 2026 revenue of $291 million, up 17% year-over-year, and adjusted earnings per share of $0.45, surpassing analyst estimates. Despite strong financial performance and an optimistic full-year outlook, the company's stock experienced a slight slip in after-hours trading, likely due to a narrow miss on revenue forecasts and potential future memory cost pressures. Management emphasized continued strategic execution, margin expansion, and diversification into new high-growth markets like the data center supply chain.",
+      "title": "Quanta and Builders FirstSource have been highlighted as Zacks Bull and Bear of the Day",
+      "summary": "Zacks Equity Research has named Quanta Services, Inc. as the Bull of the Day due to record Q2 2026 results, raised full-year guidance driven by strong demand for AI infrastructure, and double-digit earnings growth expectations. Conversely, Builders FirstSource, Inc. has been designated the Bear of the Day, facing a prolonged housing recession, continuous earnings misses, and projected earnings declines for the current year. The article also provides an analysis of Valero Energy Corp., suggesting it could be a buy despite its premium valuation, benefiting from a strong refining business and balance sheet in a relatively softer crude pricing environment.",
+      "source": "Yahoo! Finance Canada",
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://ca.finance.yahoo.com/news/quanta-builders-firstsource-highlighted-zacks-134500942.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://ca.finance.yahoo.com/news/quanta-builders-firstsource-highlighted-zacks-134500942.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T14:07:17.000Z",
+      "date": "2026-08-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "79021bc6f6c81675e0b5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Republic Services boosts guidance amid improving commodities",
+      "summary": "Republic Services reported strong Q2 2026 results with revenue up 4.6% year over year, driven by pricing strategies and contributions from new initiatives like polymer centers. The company raised its full-year guidance due to improved commodity expectations and M&A contributions, projecting revenue between $17.2 billion and $17.3 billion. They are also exploring AI and automation while addressing PFAS contamination and expanding their electric vehicle fleet.",
+      "source": "Waste Dive",
+      "sources": [
+        {
+          "name": "Waste Dive",
+          "url": "https://www.wastedive.com/news/republic-services-q2-2026-results-improved-commodity-prices-polymer-center-performance/827291/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.wastedive.com/news/republic-services-q2-2026-results-improved-commodity-prices-polymer-center-performance/827291/",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T15:44:09.000Z",
+      "date": "2026-08-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "c9ea1674f5f612a57f5c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Duke Energy stock hits 52-week low at 22.51 USD",
+      "summary": "Duke Energy Corporation (DUK) stock has fallen to a 52-week low of $22.51, a significant drop from its high of $25.30. The utility giant has experienced a 1.34% decline over the past year and a 5.78% year-to-date decrease, reflecting broader sector challenges. Despite the downturn, Duke Energy's beta of 0.37 indicates lower volatility compared to the overall market.",
       "source": "Investing.com",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-cognex-posts-record-q2-2026-revenue-shares-slip-93CH-4842858?ampMode=1",
+          "url": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-2251-usd-93CH-4847092",
           "urlType": "article"
         }
       ],
-      "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-cognex-posts-record-q2-2026-revenue-shares-slip-93CH-4842858?ampMode=1",
+      "url": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-2251-usd-93CH-4847092",
       "urlType": "article",
-      "publishedAt": "2026-08-06T14:39:47.000Z",
-      "date": "2026-08-06",
+      "publishedAt": "2026-08-07T15:41:51.000Z",
+      "date": "2026-08-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 17
     },
     {
-      "id": "bcf9b046543e39822bfc",
+      "id": "09fdd3308f98f37b76cd",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "CoStar, Tourism Economics upgrade U.S. hotel growth forecast",
-      "summary": "CoStar and Tourism Economics have upgraded their U.S. hotel growth forecast for 2026-27, increasing projected gains for RevPAR and ADR. This improvement is attributed to strong leisure and business travel, including events like the World Cup, and resilient consumer spending driven by stable labor markets and easing inflation. While expenses are expected to rise, GOPPAR is still forecast to increase by 4% this year and 1% next year.",
-      "source": "Hospitality Net",
+      "title": "MACOM Technology Solutions Holdings (MTSI) Is Up 20.0% After Record Q3 Results And Upbeat Q4 Outlook – Has The Bull Case Changed?",
+      "summary": "MACOM Technology Solutions Holdings (MTSI) recently reported record fiscal third-quarter 2026 results, with significant increases in sales and net income, and provided strong fourth-quarter revenue guidance. This performance is driven by high demand for data center and connectivity products, particularly 800G and 1.6T optical products, reinforcing the company's investment narrative around durable growth and margin improvements. Despite the positive outlook, investors are still cautioned about the potential volatility and cyclical nature of data center and telecom revenues.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "Hospitality Net",
-          "url": "https://www.hospitalitynet.org/news/4133845/costar-tourism-economics-upgrade-us-hotel-growth-forecast",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mtsi/macom-technology-solutions-holdings/news/macom-technology-solutions-holdings-mtsi-is-up-200-after-rec",
           "urlType": "article"
         }
       ],
-      "url": "https://www.hospitalitynet.org/news/4133845/costar-tourism-economics-upgrade-us-hotel-growth-forecast",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mtsi/macom-technology-solutions-holdings/news/macom-technology-solutions-holdings-mtsi-is-up-200-after-rec",
       "urlType": "article",
-      "publishedAt": "2026-08-06T14:23:43.000Z",
-      "date": "2026-08-06",
+      "publishedAt": "2026-08-07T15:41:50.000Z",
+      "date": "2026-08-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 17
     },
     {
-      "id": "c926438c1d75db847f0a",
+      "id": "a45cf60be7b36ff7bfd6",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "International Business Machines Corp Stock (IBM) Opened Down by 3.17% on Aug 6: A Full Analysis",
-      "summary": "IBM's stock opened down by 3.17% due to investor concerns over the slow pace of enterprise AI adoption and a potential prolonged recovery in its consulting business. Macroeconomic headwinds, such as persistent inflation and restrictive monetary policy, are further impacting the company's valuation and client IT spending. Despite solid fundamentals, IBM faces competitive pressures in generative AI and operational risks during its transition from legacy services to software models.",
+      "title": "Kentucky First Federal Bancorp Reports Earnings",
+      "summary": "Kentucky First Federal Bancorp announced significant increases in net income for both the three and twelve months ended June 30, 2026. The company reported net income of $680,000 ($0.08 diluted EPS) for the quarter, up from $176,000 ($0.02 diluted EPS) in the prior year, and $1.9 million ($0.24 diluted EPS) for the twelve-month period, a substantial rise from $181,000 ($0.02 diluted EPS) previously. This growth was primarily driven by higher net interest income, despite an increase in provision for loan losses.",
+      "source": "GlobeNewswire",
+      "sources": [
+        {
+          "name": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/08/07/3341264/14996/en/kentucky-first-federal-bancorp-reports-earnings.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3341264/14996/en/kentucky-first-federal-bancorp-reports-earnings.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T15:41:07.000Z",
+      "date": "2026-08-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "773ab7aee1333c2338b2",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Alphabet Inc Class A (GOOGL) Stock Analysis & Forecast",
+      "summary": "This article provides an analysis and forecast for Alphabet Inc. Class A (GOOGL) stock, covering recent financial news, market performance, and expert opinions. Key updates include a large bond sale, a leadership reshuffle in its AI division with Jeff Dean's departure, and Google's projected AI accelerator shipments possibly catching up to Nvidia by 2028. It also highlights analyst recommendations and recent price movements.",
       "source": "TradingKey",
       "sources": [
         {
           "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262084321-market-movers-ibm-20260806",
+          "url": "https://www.tradingkey.com/markets/stocks/googl/analysis",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262084321-market-movers-ibm-20260806",
+      "url": "https://www.tradingkey.com/markets/stocks/googl/analysis",
       "urlType": "article",
-      "publishedAt": "2026-08-06T13:47:11.000Z",
-      "date": "2026-08-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "cc9a16f987274afd4bb9",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Earnings call transcript: Himax tops Q2 2026 forecasts as margins widen",
-      "summary": "Himax Technologies reported strong Q2 2026 results, exceeding Wall Street expectations with diluted earnings of $0.114 per ADS and revenue of $227.4 million, driven by robust automotive chip sales and improved gross margins. The company provided optimistic guidance for Q3, projecting continued revenue growth and margin expansion, particularly highlighting the significant long-term potential in its automotive display IC and emerging non-driver businesses like CPO and smart glasses, despite ongoing supply chain challenges.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-himax-tops-q2-2026-forecasts-as-margins-widen-93CH-4842689?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-himax-tops-q2-2026-forecasts-as-margins-widen-93CH-4842689?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-06T13:10:43.000Z",
-      "date": "2026-08-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "3f237097be986f6937df",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Disposable protective apparel sales rise 24.9% at Alpha Pro Tech",
-      "summary": "Alpha Pro Tech (APT) reported a 12.0% increase in Q2 2026 net sales to $18.7 million, with disposable protective apparel sales rising 24.9% and building supply sales up 5.5%. Net income grew 46.8% to $1.8 million, or $0.18 per diluted share. The company maintains a strong financial position with $18.9 million in cash and no debt, but faces challenges in the housing market and uncertainty regarding future tariff refunds.",
-      "source": "Stock Titan",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/news/APT/alpha-pro-tech-ltd-announces-second-quarter-2026-financial-jppzz13lt618.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stocktitan.net/news/APT/alpha-pro-tech-ltd-announces-second-quarter-2026-financial-jppzz13lt618.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-06T13:10:38.000Z",
-      "date": "2026-08-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "f09d2d3820d255f71857",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Should You Invest in the Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD)?",
-      "summary": "This article evaluates the Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD), a passively managed ETF focusing on the Consumer Discretionary sector. It details the fund's index, costs, sector exposure, top holdings, and performance. Despite its broad exposure, RSPD holds a Zacks ETF Rank of 4 (Sell), suggesting better alternatives exist for investors.",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/invest-invesco-p-500-equal-102002679.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://uk.finance.yahoo.com/news/invest-invesco-p-500-equal-102002679.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-06T15:50:00.000Z",
-      "date": "2026-08-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "2e4e0c23e3b5ad35dab4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Fox Corporation Declares Semi-Annual Dividend on Class A and Class B Shares, Payable on September 23, 2026",
-      "summary": "Fox Corporation has announced an increase in its semi-annual dividend to $0.29 per Class A and Class B share. The dividend will be payable on September 23, 2026, to shareholders of record as of September 02, 2026. This declaration follows the company's fiscal fourth-quarter results, which reportedly topped street estimates.",
-      "source": "marketscreener.com",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://www.marketscreener.com/news/fox-corporation-declares-semi-annual-dividend-on-class-a-and-class-b-shares-payable-on-september-23-ce7f50dddc80f425",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketscreener.com/news/fox-corporation-declares-semi-annual-dividend-on-class-a-and-class-b-shares-payable-on-september-23-ce7f50dddc80f425",
-      "urlType": "article",
-      "publishedAt": "2026-08-06T15:47:22.000Z",
-      "date": "2026-08-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "c869e5a1ce8d5d68764c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Tennant Plunges 12.8% on EPS Beat",
-      "summary": "Tennant Company shares dropped 12.8% after reporting Q2 2026 earnings, despite an EPS beat. The market's negative reaction suggests investors had higher expectations for the industrial machinery maker, possibly due to disappointing guidance or margin commentary. This significant decline indicates broad selling pressure and raises questions about future demand visibility and competitive positioning for Tennant.",
-      "source": "AlphaStreet",
-      "sources": [
-        {
-          "name": "AlphaStreet",
-          "url": "https://news.alphastreet.com/tennant-plunges-12-8-on-eps-beat/amp/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://news.alphastreet.com/tennant-plunges-12-8-on-eps-beat/amp/",
-      "urlType": "article",
-      "publishedAt": "2026-08-06T15:41:46.000Z",
-      "date": "2026-08-06",
+      "publishedAt": "2026-08-07T15:38:02.000Z",
+      "date": "2026-08-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
