@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-07",
-  "generatedAt": "2026-08-07T23:51:53.580Z",
-  "targetDate": "2026-08-07",
+  "updated": "2026-08-08",
+  "generatedAt": "2026-08-08T23:13:48.369Z",
+  "targetDate": "2026-08-08",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -29,7 +29,7 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 50,
+      "itemCount": 100,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "9ed1760358d1f905da70",
+      "id": "13edab20bd82f9776b3f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 8.62% on Aug 7: What Signal Does It Send?",
-      "summary": "Seagate Technology Holdings PLC (STX) stock dropped by 8.62% on August 7th due to slowing demand in the mass-capacity storage segment, particularly from hyperscale cloud service providers. Manufacturing issues with Heat-Assisted Magnetic Recording (HAMR) technology and elevated interest rates further pressured the stock. Analysts have an average price target of $1090.19, with risks including HAMR execution, AI capital expenditure cannibalization, and geopolitical sensitivities.",
-      "source": "TradingKey",
+      "title": "Bitcoin Price Tops $65k On 5th Day Of Spot BTC ETF Inflows",
+      "summary": "Bitcoin's price surpassed $65,000, reaching a new August high of $65,340, driven by its fifth consecutive day of net inflows into U.S. spot Bitcoin ETFs, totaling $98.85 million. This resurgence is attributed to easing geopolitical tensions and unexpectedly weak U.S. non-farm payroll data, which lowered expectations for a Federal Reserve rate hike. BlackRock's IBIT and Fidelity's FBTC led these inflows, signaling strong institutional confidence in cryptocurrencies.",
+      "source": "MarketForces Africa",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262089078-market-movers-stx-20260807",
+          "name": "MarketForces Africa",
+          "url": "https://dmarketforces.com/bitcoin-price-tops-65k-on-5th-day-of-spot-btc-etf-inflows/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262089078-market-movers-stx-20260807",
+      "url": "https://dmarketforces.com/bitcoin-price-tops-65k-on-5th-day-of-spot-btc-etf-inflows/",
       "urlType": "article",
-      "publishedAt": "2026-08-07T14:16:00.000Z",
-      "date": "2026-08-07",
+      "publishedAt": "2026-08-08T11:21:56.000Z",
+      "date": "2026-08-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 26
     },
     {
-      "id": "0aff16851853e23fbeb8",
+      "id": "98d5af0b705f618b3333",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "KLA Corp Stock (KLAC) Opened Up by 3.01% on Aug 7: What Signal Does It Send?",
-      "summary": "KLA Corp (KLAC) shares surged 3.01% on August 7, driven by positive quarterly results, optimistic forward guidance, and increased demand for semiconductor inspection tools in advanced node manufacturing. The company benefits from the broader semiconductor industry's growth due to AI infrastructure expansion and resilient revenue streams compared to peers. Despite strong market performance, the article highlights risks such as insider divestment, margin compression from R&D, geopolitical revenue concentration, and valuation sensitivity.",
-      "source": "TradingKey",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262089008-market-movers-klac-20260807",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingkey.com/news/market-movers/262089008-market-movers-klac-20260807",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T14:14:45.000Z",
-      "date": "2026-08-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "ea264ce34d98b8662cff",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Chevron Corp (CVX) Stock Analysis & Forecast",
-      "summary": "This article provides an analysis and forecast for Chevron Corp (CVX) stock, highlighting its valuation, outlook, chart signals, and key risks. It features several news snippets discussing Chevron's activities, including a 20-year energy supply agreement with Microsoft and broader topics concerning the oil and gas market, such as geopolitical impacts and investment strategies. The analysis also touches on Warren Buffett's investment decisions related to Chevron.",
-      "source": "TradingKey",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/markets/stocks/cvx/analysis",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingkey.com/markets/stocks/cvx/analysis",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T14:07:42.000Z",
-      "date": "2026-08-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "ed39e9d34791a8c1d607",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "US Gentex to build automotive technology plant in Morocco by 2028",
-      "summary": "US automotive technology supplier Gentex Corp plans to establish a manufacturing facility in Morocco by 2028. This move aims to strengthen Morocco's position in the automotive industry and bring Gentex closer to its European customers. The plant will help meet localization requirements for European manufacturers and reduce supply chain risks.",
-      "source": "The North Africa Post",
-      "sources": [
-        {
-          "name": "The North Africa Post",
-          "url": "https://northafricapost.com/99460-us-gentex-to-build-automotive-technology-plant-in-morocco-by-2028.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://northafricapost.com/99460-us-gentex-to-build-automotive-technology-plant-in-morocco-by-2028.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T14:11:24.000Z",
-      "date": "2026-08-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "17940489f51198575ed4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Quanta and Builders FirstSource have been highlighted as Zacks Bull and Bear of the Day",
-      "summary": "Zacks Equity Research has named Quanta Services, Inc. as the Bull of the Day due to record Q2 2026 results, raised full-year guidance driven by strong demand for AI infrastructure, and double-digit earnings growth expectations. Conversely, Builders FirstSource, Inc. has been designated the Bear of the Day, facing a prolonged housing recession, continuous earnings misses, and projected earnings declines for the current year. The article also provides an analysis of Valero Energy Corp., suggesting it could be a buy despite its premium valuation, benefiting from a strong refining business and balance sheet in a relatively softer crude pricing environment.",
-      "source": "Yahoo! Finance Canada",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/quanta-builders-firstsource-highlighted-zacks-134500942.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ca.finance.yahoo.com/news/quanta-builders-firstsource-highlighted-zacks-134500942.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T14:07:17.000Z",
-      "date": "2026-08-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "79021bc6f6c81675e0b5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Republic Services boosts guidance amid improving commodities",
-      "summary": "Republic Services reported strong Q2 2026 results with revenue up 4.6% year over year, driven by pricing strategies and contributions from new initiatives like polymer centers. The company raised its full-year guidance due to improved commodity expectations and M&A contributions, projecting revenue between $17.2 billion and $17.3 billion. They are also exploring AI and automation while addressing PFAS contamination and expanding their electric vehicle fleet.",
-      "source": "Waste Dive",
-      "sources": [
-        {
-          "name": "Waste Dive",
-          "url": "https://www.wastedive.com/news/republic-services-q2-2026-results-improved-commodity-prices-polymer-center-performance/827291/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.wastedive.com/news/republic-services-q2-2026-results-improved-commodity-prices-polymer-center-performance/827291/",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T15:44:09.000Z",
-      "date": "2026-08-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "c9ea1674f5f612a57f5c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Duke Energy stock hits 52-week low at 22.51 USD",
-      "summary": "Duke Energy Corporation (DUK) stock has fallen to a 52-week low of $22.51, a significant drop from its high of $25.30. The utility giant has experienced a 1.34% decline over the past year and a 5.78% year-to-date decrease, reflecting broader sector challenges. Despite the downturn, Duke Energy's beta of 0.37 indicates lower volatility compared to the overall market.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-2251-usd-93CH-4847092",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investing.com/news/company-news/duke-energy-stock-hits-52week-low-at-2251-usd-93CH-4847092",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T15:41:51.000Z",
-      "date": "2026-08-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "09fdd3308f98f37b76cd",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "MACOM Technology Solutions Holdings (MTSI) Is Up 20.0% After Record Q3 Results And Upbeat Q4 Outlook – Has The Bull Case Changed?",
-      "summary": "MACOM Technology Solutions Holdings (MTSI) recently reported record fiscal third-quarter 2026 results, with significant increases in sales and net income, and provided strong fourth-quarter revenue guidance. This performance is driven by high demand for data center and connectivity products, particularly 800G and 1.6T optical products, reinforcing the company's investment narrative around durable growth and margin improvements. Despite the positive outlook, investors are still cautioned about the potential volatility and cyclical nature of data center and telecom revenues.",
+      "title": "KLA (KLAC) Stock Climbs As AI Demand Lifts Margins Despite China Risk",
+      "summary": "KLA (KLAC) stock rose by 2.5% after reporting record quarterly revenue of US$3.66 billion and strong non-GAAP EPS, driven by AI demand and advanced packaging. The company's high gross margins in the low 60s and growing services revenue support a bullish outlook, despite concerns about cyclicality and geopolitical risks related to China.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mtsi/macom-technology-solutions-holdings/news/macom-technology-solutions-holdings-mtsi-is-up-200-after-rec",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-klac/kla/news/kla-klac-stock-climbs-as-ai-demand-lifts-margins-despite-chi",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mtsi/macom-technology-solutions-holdings/news/macom-technology-solutions-holdings-mtsi-is-up-200-after-rec",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-klac/kla/news/kla-klac-stock-climbs-as-ai-demand-lifts-margins-despite-chi",
       "urlType": "article",
-      "publishedAt": "2026-08-07T15:41:50.000Z",
-      "date": "2026-08-07",
+      "publishedAt": "2026-08-08T03:45:39.000Z",
+      "date": "2026-08-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 23
     },
     {
-      "id": "a45cf60be7b36ff7bfd6",
+      "id": "7fda7083ea48621c3136",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kentucky First Federal Bancorp Reports Earnings",
-      "summary": "Kentucky First Federal Bancorp announced significant increases in net income for both the three and twelve months ended June 30, 2026. The company reported net income of $680,000 ($0.08 diluted EPS) for the quarter, up from $176,000 ($0.02 diluted EPS) in the prior year, and $1.9 million ($0.24 diluted EPS) for the twelve-month period, a substantial rise from $181,000 ($0.02 diluted EPS) previously. This growth was primarily driven by higher net interest income, despite an increase in provision for loan losses.",
-      "source": "GlobeNewswire",
+      "title": "AGNC Investment (NASDAQ:AGNC): 13.3% Dividend, Trades 26% Above Last Reported Book Value",
+      "summary": "AGNC Investment (NASDAQ:AGNC) closed Friday at $10.84, with its 13.3% annualized dividend yield. The stock trades 26.3% above its last reported tangible book value from June, yet analysts expect limited share price appreciation with an average price target of $11.06. Upcoming inflation data next week, including CPI and PPI, are crucial as they could impact mortgage asset values and challenge AGNC's current valuation equilibrium.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/08/07/3341264/14996/en/kentucky-first-federal-bancorp-reports-earnings.html",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/agnc-investment-nasdaqagnc-13-3-dividend-trades-26-above-last-reported-book-value/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.globenewswire.com/news-release/2026/08/07/3341264/14996/en/kentucky-first-federal-bancorp-reports-earnings.html",
+      "url": "https://ts2.tech/en/agnc-investment-nasdaqagnc-13-3-dividend-trades-26-above-last-reported-book-value/",
       "urlType": "article",
-      "publishedAt": "2026-08-07T15:41:07.000Z",
-      "date": "2026-08-07",
+      "publishedAt": "2026-08-08T15:41:23.000Z",
+      "date": "2026-08-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 22
     },
     {
-      "id": "773ab7aee1333c2338b2",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Alphabet Inc Class A (GOOGL) Stock Analysis & Forecast",
-      "summary": "This article provides an analysis and forecast for Alphabet Inc. Class A (GOOGL) stock, covering recent financial news, market performance, and expert opinions. Key updates include a large bond sale, a leadership reshuffle in its AI division with Jeff Dean's departure, and Google's projected AI accelerator shipments possibly catching up to Nvidia by 2028. It also highlights analyst recommendations and recent price movements.",
-      "source": "TradingKey",
+      "id": "e617dfbf1cf95df0b863",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+      "summary": "Nvidia plans to invest up to $3 billion in Lancium, a power infrastructure developer behind the Stargate data center campus in Texas, according to The Information. The chipmaker will initially invest $2 billion for a 20% stake, with an option for an additional $1 billion if certain conditions are met. This capital infusion is expected to aid Lancium's expansion and potential IPO in 2027.",
+      "source": "Reuters",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/markets/stocks/googl/analysis",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/nvidia-invest-up-3-billion-lancium-information-reports-2026-08-08/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/markets/stocks/googl/analysis",
+      "url": "https://www.reuters.com/business/nvidia-invest-up-3-billion-lancium-information-reports-2026-08-08/",
       "urlType": "article",
-      "publishedAt": "2026-08-07T15:38:02.000Z",
-      "date": "2026-08-07",
+      "publishedAt": "2026-08-08T01:42:00.000Z",
+      "date": "2026-08-08",
       "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 36
+    },
+    {
+      "id": "9ea39e44f158cc36c345",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Silicon Valley Acquisition Corp. Amends EigenQ SPAC Deal with First Business Combination and Sponsor Support Agreement Changes – Minichart",
+      "summary": "Silicon Valley Acquisition Corp. (SVAQ) has amended its Business Combination Agreement (BCA) with EigenQ, Inc., primarily revising the \"Fully-Diluted Shares\" definition, which will impact the ownership allocation of the combined company. The amendment signals continued commitment to the merger while highlighting extensive forward-looking statements and risk factors. Investors are urged to review the upcoming S-4 registration statement and proxy statement/prospectus for detailed information regarding the transaction.",
+      "source": "Minichart",
+      "sources": [
+        {
+          "name": "Minichart",
+          "url": "https://www.minichart.com.sg/2026/08/07/silicon-valley-acquisition-corp-amends-eigenq-spac-deal-with-first-business-combination-and-sponsor-support-agreement-changes/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.minichart.com.sg/2026/08/07/silicon-valley-acquisition-corp-amends-eigenq-spac-deal-with-first-business-combination-and-sponsor-support-agreement-changes/",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T21:09:38.000Z",
+      "date": "2026-08-08",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 28
+    },
+    {
+      "id": "7d878f082fc8d9a4fb22",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Should Two Harbors’ Broad Index Removals Amid Q2 Profit Swing Require Action From TWO Investors?",
+      "summary": "Two Harbors Investment Corp. was recently removed from major Russell and S&P equity indices, including the Russell 2000, Russell 3000, and S&P 600, despite reporting a significant swing to a US$62.25 million net income in Q2 2026 from a previous loss. Investors should focus more on the impending merger with CrossCountry Mortgage, including deal execution, timing of the stub dividend, and any legal delays, rather than the index status, especially given the company's weak dividend coverage and history of losses. The index removals may impact market visibility and liquidity, but the company's valuation remains complex with widely divergent fair value estimates from the community.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-two/two-harbors-investment/news/should-two-harbors-broad-index-removals-amid-q2-profit-swing/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-two/two-harbors-investment/news/should-two-harbors-broad-index-removals-amid-q2-profit-swing/amp",
+      "urlType": "article",
+      "publishedAt": "2026-08-08T08:11:00.000Z",
+      "date": "2026-08-08",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "5cfd72c5bc6e6a7dd8c7",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Procter & Gamble (PG) Stock Looks Cheap On Cash Flow While Returns Stay Modest",
+      "summary": "Procter & Gamble (PG) stock appears undervalued based on its Discounted Cash Flow (DCF) intrinsic value, which estimates a value of around $199 per share against a current price of $145.79. While its P/E ratio is above the industry average, it's below its broader peer group and a tailored fair P/E, suggesting undervaluation on an earnings basis as well. However, the article highlights mixed signals and ongoing restructuring, including the US$3.8 billion Thorne acquisition, suggesting that the market's caution might be due to execution and cost risks affecting future cash flows.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-looks-cheap-on-cash-flow-while-retur",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-looks-cheap-on-cash-flow-while-retur",
+      "urlType": "article",
+      "publishedAt": "2026-08-08T07:45:58.000Z",
+      "date": "2026-08-08",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "dd98bfa98f8a0c38d0e1",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Silicon Valley Acquisition Corp. amends business combination agreement with EigenQ",
+      "summary": "Silicon Valley Acquisition Corp. (SVAQ) has amended its business combination agreement with EigenQ, Inc., clarifying the use of Transaction Support Shares for any purpose related to the merger and increasing the post-merger board size from seven to nine members. The equity incentive plan for the combined company will reserve approximately ten percent of outstanding shares. The deal still requires shareholder approval, and SVAQ's stock trades near its 52-week low.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/sec-filings/silicon-valley-acquisition-corp-amends-business-combination-agreement-with-eigenq-93CH-4846595?ampMode=1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.investing.com/news/sec-filings/silicon-valley-acquisition-corp-amends-business-combination-agreement-with-eigenq-93CH-4846595?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T21:09:38.000Z",
+      "date": "2026-08-08",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 23
+    },
+    {
+      "id": "a9dbc6bfebc08a9365bf",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Silicon Valley Acquisition (NASDAQ: SVAQ) updates EigenQ deal, board and plan",
+      "summary": "Silicon Valley Acquisition Corp. (SVAQ) has amended its merger agreement with EigenQ, Inc. to update terms regarding sponsor-held shares, redemption of public shares, board size, and the equity incentive plan. The changes include allowing 2,165,950 sponsor Class B shares for any purpose related to the Business Combination, expanding the PubCo board to 9 directors, and setting the initial equity incentive plan reserve at approximately 10% of the fully-diluted common stock. The merger remains contingent on shareholder approval and SEC effectiveness.",
+      "source": "Stock Titan",
+      "sources": [
+        {
+          "name": "Stock Titan",
+          "url": "https://www.stocktitan.net/sec-filings/SVAQ/8-k-silicon-valley-acquisition-corp-reports-material-event-09bb10d84e42.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stocktitan.net/sec-filings/SVAQ/8-k-silicon-valley-acquisition-corp-reports-material-event-09bb10d84e42.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-07T21:09:38.000Z",
+      "date": "2026-08-08",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 23
+    },
+    {
+      "id": "5145b17abfc7eab3bac7",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "S&P Global (SPGI) Stock Could Be 2% Overvalued Despite African Ratings Deal",
+      "summary": "S&P Global (SPGI) stock has dropped 21.9% over the past year, and its valuation presents a mixed picture. While the Excess Returns model suggests the shares are near their intrinsic value, indicating a slight 2.4% overvaluation, traditional earnings multiples, particularly the P/E ratio, suggest the stock is more expensive. This discrepancy highlights a debate among investors on whether to prioritize intrinsic value based on cash flow and returns or market multiples, especially given recent strategic expansions.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-spgi/sp-global/news/sp-global-spgi-stock-could-be-2-overvalued-despite-african-r",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-spgi/sp-global/news/sp-global-spgi-stock-could-be-2-overvalued-despite-african-r",
+      "urlType": "article",
+      "publishedAt": "2026-08-08T15:22:11.000Z",
+      "date": "2026-08-08",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 22
     }
   ]
 }
