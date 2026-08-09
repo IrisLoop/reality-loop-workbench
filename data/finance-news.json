@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-08",
-  "generatedAt": "2026-08-08T23:13:48.369Z",
-  "targetDate": "2026-08-08",
+  "updated": "2026-08-09",
+  "generatedAt": "2026-08-09T23:52:30.936Z",
+  "targetDate": "2026-08-09",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -29,7 +29,7 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 100,
+      "itemCount": 50,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "13edab20bd82f9776b3f",
+      "id": "f9204a0213a102bf8e36",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Bitcoin Price Tops $65k On 5th Day Of Spot BTC ETF Inflows",
-      "summary": "Bitcoin's price surpassed $65,000, reaching a new August high of $65,340, driven by its fifth consecutive day of net inflows into U.S. spot Bitcoin ETFs, totaling $98.85 million. This resurgence is attributed to easing geopolitical tensions and unexpectedly weak U.S. non-farm payroll data, which lowered expectations for a Federal Reserve rate hike. BlackRock's IBIT and Fidelity's FBTC led these inflows, signaling strong institutional confidence in cryptocurrencies.",
-      "source": "MarketForces Africa",
-      "sources": [
-        {
-          "name": "MarketForces Africa",
-          "url": "https://dmarketforces.com/bitcoin-price-tops-65k-on-5th-day-of-spot-btc-etf-inflows/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://dmarketforces.com/bitcoin-price-tops-65k-on-5th-day-of-spot-btc-etf-inflows/",
-      "urlType": "article",
-      "publishedAt": "2026-08-08T11:21:56.000Z",
-      "date": "2026-08-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "98d5af0b705f618b3333",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "KLA (KLAC) Stock Climbs As AI Demand Lifts Margins Despite China Risk",
-      "summary": "KLA (KLAC) stock rose by 2.5% after reporting record quarterly revenue of US$3.66 billion and strong non-GAAP EPS, driven by AI demand and advanced packaging. The company's high gross margins in the low 60s and growing services revenue support a bullish outlook, despite concerns about cyclicality and geopolitical risks related to China.",
+      "title": "3 US Large Cap Value Stocks Facing A Tougher Risk Test",
+      "summary": "This article examines three large-cap value stocks—National Fuel Gas (NFG), CRH, and Commercial Metals (CMC)—that appear more susceptible to market shocks like inflation, interest rate hikes, and geopolitical disruptions. While these companies offer benefits like exposure to energy, infrastructure, and inflation protection, the analysis highlights potential underlying risks related to debt levels, market cycles, and management execution that investors should scrutinize. The piece encourages investors to use screening tools to assess their risk profiles and find suitable investment opportunities.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-klac/kla/news/kla-klac-stock-climbs-as-ai-demand-lifts-margins-despite-chi",
+          "url": "https://simplywall.st/stocks/us/utilities/nyse-nfg/national-fuel-gas/news/3-us-large-cap-value-stocks-facing-a-tougher-risk-test/amp",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-klac/kla/news/kla-klac-stock-climbs-as-ai-demand-lifts-margins-despite-chi",
+      "url": "https://simplywall.st/stocks/us/utilities/nyse-nfg/national-fuel-gas/news/3-us-large-cap-value-stocks-facing-a-tougher-risk-test/amp",
       "urlType": "article",
-      "publishedAt": "2026-08-08T03:45:39.000Z",
-      "date": "2026-08-08",
+      "publishedAt": "2026-08-09T04:11:34.000Z",
+      "date": "2026-08-09",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
+      "score": 29
     },
     {
-      "id": "7fda7083ea48621c3136",
+      "id": "f8470d1f8d4dbecf2686",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "AGNC Investment (NASDAQ:AGNC): 13.3% Dividend, Trades 26% Above Last Reported Book Value",
-      "summary": "AGNC Investment (NASDAQ:AGNC) closed Friday at $10.84, with its 13.3% annualized dividend yield. The stock trades 26.3% above its last reported tangible book value from June, yet analysts expect limited share price appreciation with an average price target of $11.06. Upcoming inflation data next week, including CPI and PPI, are crucial as they could impact mortgage asset values and challenge AGNC's current valuation equilibrium.",
+      "title": "The Bull Case For Signet Jewelers (SIG) Could Change Following Earnings Revisions And Valuation Debate – Learn Why",
+      "summary": "Signet Jewelers is drawing investor attention as analysts anticipate modest EPS growth and a slight revenue decline, yet full-year forecasts remain positive. The company's raised FY2027 sales guidance and fair value estimate above current prices raise questions about whether its fundamentals align with this perceived valuation gap. Investors should also consider the impact of ongoing tariff pressures and fashion unit softness on the company's investment narrative and risk profile.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/retail/nyse-sig/signet-jewelers/news/the-bull-case-for-signet-jewelers-sig-could-change-following/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/retail/nyse-sig/signet-jewelers/news/the-bull-case-for-signet-jewelers-sig-could-change-following/amp",
+      "urlType": "article",
+      "publishedAt": "2026-08-09T13:11:08.000Z",
+      "date": "2026-08-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "3f55e07937c75d92a0c1",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Wall Street Is Betting P&G's Dividend Growth Ends. The Cash Flow Suggests That's Not Happening",
+      "summary": "Despite Wall Street's skepticism due to tariff fears and commodity headwinds, Procter & Gamble (P&G) continues its dividend growth, having issued its 70th consecutive annual raise. The company's strong cash flow, with FY2025 free cash flow covering dividends and leaving billions to spare, suggests that P&G's dividend streak is secure. The article highlights P&G's consistent organic sales growth across all product categories and regions, demonstrating its ability to price through challenges and maintain dividend sustainability.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/08/09/wall-street-is-betting-pgs-dividend-growth-ends-the-cash-flow-suggests-thats-not-happening/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/08/09/wall-street-is-betting-pgs-dividend-growth-ends-the-cash-flow-suggests-thats-not-happening/",
+      "urlType": "article",
+      "publishedAt": "2026-08-09T12:38:33.000Z",
+      "date": "2026-08-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "2094c872cff96c43534c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Weekly Top Stories: Copper Surge, $40 Trillion Debt, Jobs, Tariffs And China Minerals - Freeport-McMoRan",
+      "summary": "This article summarizes key economic stories from the past week, highlighting copper's surge as an indicator of a booming economy, the U.S. national debt approaching $40 trillion, unexpected market gains despite job losses, and the Trump administration's efforts to reduce reliance on Chinese minerals. It also notes that Trump's tariffs did not drive the manufacturing boom, attributing growth to other factors.",
+      "source": "Benzinga",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/macro-economic-events/26/08/61063556/top-stories-copper-us-debt-jobs-tariffs-china-minerals",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/08/61063556/top-stories-copper-us-debt-jobs-tariffs-china-minerals",
+      "urlType": "article",
+      "publishedAt": "2026-08-09T10:00:55.000Z",
+      "date": "2026-08-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "73ad1b70b8ac4b7bb593",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "MP Materials (MP) Is Up 23.5% After Stronger NdPr Output And New Defense Deal - Has The Bull Case Changed?",
+      "summary": "MP Materials reported stronger second-quarter 2026 results with increased sales and narrowed net loss, driven by higher NdPr output and progress in magnet manufacturing. A new multiyear gadolinium oxide supply deal with a U.S. aerospace and defense customer further strengthens its role in critical mineral supply chains. This development supports the company's investment narrative of becoming a vertically integrated magnet business, with analysts projecting significant revenue and earnings growth by 2029.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-mp-is-up-235-after-stronger-ndpr-output-and-new/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-mp-is-up-235-after-stronger-ndpr-output-and-new/amp",
+      "urlType": "article",
+      "publishedAt": "2026-08-09T06:41:44.000Z",
+      "date": "2026-08-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "857d3a896017dbc28753",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "POSCO challenges Japan’s steel tariffs as Seoul-Tokyo trade dispute escalates",
+      "summary": "POSCO has formally opposed Japan's provisional anti-dumping duties of 29.2% on its steel products, escalating trade tensions. South Korean steelmakers are considering legal action or a WTO dispute if Japan maintains these tariffs. This comes amidst broader trade disputes, including South Korea's own anti-dumping duties on hot-rolled steel imports from China and Japan.",
+      "source": "KED Global",
+      "sources": [
+        {
+          "name": "KED Global",
+          "url": "https://www.kedglobal.com/steel/newsView/ked202608090001",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.kedglobal.com/steel/newsView/ked202608090001",
+      "urlType": "article",
+      "publishedAt": "2026-08-09T06:25:14.000Z",
+      "date": "2026-08-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "4f23439f9248301cfcf8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Lockheed Martin Corporation (NYSE:LMT) Shares Lag Missile Demand Surge as Focus Turns to Cash Conversion",
+      "summary": "Lockheed Martin's stock performance has lagged despite securing a significant $58.6 billion missile contract, with investors now focused on the company's ability to convert its record backlog into free cash flow and improved margins. While analyst sentiment is becoming more favorable, challenges remain in congressional approval, delivery timelines, raw material supply, and production capacity. The company projects strong sales growth and free cash flow for 2026, but its stock valuation already reflects much of this anticipated demand, with further revaluation dependent on operational performance.",
       "source": "TechStock²",
       "sources": [
         {
           "name": "TechStock²",
-          "url": "https://ts2.tech/en/agnc-investment-nasdaqagnc-13-3-dividend-trades-26-above-last-reported-book-value/",
+          "url": "https://ts2.tech/en/lockheed-martin-corporation-nyselmt-shares-lag-missile-demand-surge-as-focus-turns-to-cash-conversion/",
           "urlType": "article"
         }
       ],
-      "url": "https://ts2.tech/en/agnc-investment-nasdaqagnc-13-3-dividend-trades-26-above-last-reported-book-value/",
+      "url": "https://ts2.tech/en/lockheed-martin-corporation-nyselmt-shares-lag-missile-demand-surge-as-focus-turns-to-cash-conversion/",
       "urlType": "article",
-      "publishedAt": "2026-08-08T15:41:23.000Z",
-      "date": "2026-08-08",
+      "publishedAt": "2026-08-09T14:48:11.000Z",
+      "date": "2026-08-09",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 17
     },
     {
-      "id": "e617dfbf1cf95df0b863",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
-      "summary": "Nvidia plans to invest up to $3 billion in Lancium, a power infrastructure developer behind the Stargate data center campus in Texas, according to The Information. The chipmaker will initially invest $2 billion for a 20% stake, with an option for an additional $1 billion if certain conditions are met. This capital infusion is expected to aid Lancium's expansion and potential IPO in 2027.",
-      "source": "Reuters",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/nvidia-invest-up-3-billion-lancium-information-reports-2026-08-08/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.reuters.com/business/nvidia-invest-up-3-billion-lancium-information-reports-2026-08-08/",
-      "urlType": "article",
-      "publishedAt": "2026-08-08T01:42:00.000Z",
-      "date": "2026-08-08",
-      "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 36
-    },
-    {
-      "id": "9ea39e44f158cc36c345",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Silicon Valley Acquisition Corp. Amends EigenQ SPAC Deal with First Business Combination and Sponsor Support Agreement Changes – Minichart",
-      "summary": "Silicon Valley Acquisition Corp. (SVAQ) has amended its Business Combination Agreement (BCA) with EigenQ, Inc., primarily revising the \"Fully-Diluted Shares\" definition, which will impact the ownership allocation of the combined company. The amendment signals continued commitment to the merger while highlighting extensive forward-looking statements and risk factors. Investors are urged to review the upcoming S-4 registration statement and proxy statement/prospectus for detailed information regarding the transaction.",
-      "source": "Minichart",
-      "sources": [
-        {
-          "name": "Minichart",
-          "url": "https://www.minichart.com.sg/2026/08/07/silicon-valley-acquisition-corp-amends-eigenq-spac-deal-with-first-business-combination-and-sponsor-support-agreement-changes/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.minichart.com.sg/2026/08/07/silicon-valley-acquisition-corp-amends-eigenq-spac-deal-with-first-business-combination-and-sponsor-support-agreement-changes/",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T21:09:38.000Z",
-      "date": "2026-08-08",
-      "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 28
-    },
-    {
-      "id": "7d878f082fc8d9a4fb22",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Should Two Harbors’ Broad Index Removals Amid Q2 Profit Swing Require Action From TWO Investors?",
-      "summary": "Two Harbors Investment Corp. was recently removed from major Russell and S&P equity indices, including the Russell 2000, Russell 3000, and S&P 600, despite reporting a significant swing to a US$62.25 million net income in Q2 2026 from a previous loss. Investors should focus more on the impending merger with CrossCountry Mortgage, including deal execution, timing of the stub dividend, and any legal delays, rather than the index status, especially given the company's weak dividend coverage and history of losses. The index removals may impact market visibility and liquidity, but the company's valuation remains complex with widely divergent fair value estimates from the community.",
+      "id": "55ecbd746c8a28a8cf08",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Installed Building Products, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next",
+      "summary": "Installed Building Products, Inc. (NYSE:IBP) recently surpassed its second-quarter earnings expectations, with revenues hitting US$778m and EPS of US$2.43. Following these results, analysts have become more optimistic about the company's earnings potential for 2026, forecasting revenues of US$2.99b and EPS of US$8.59, despite an anticipated slowdown in revenue growth compared to industry peers. The consensus price target remains at US$242, indicating that the improved earnings outlook hasn't significantly altered the long-term valuation perception.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-two/two-harbors-investment/news/should-two-harbors-broad-index-removals-amid-q2-profit-swing/amp",
+          "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-ibp/installed-building-products/news/installed-building-products-inc-just-beat-earnings-expectati",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-two/two-harbors-investment/news/should-two-harbors-broad-index-removals-amid-q2-profit-swing/amp",
+      "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-ibp/installed-building-products/news/installed-building-products-inc-just-beat-earnings-expectati",
       "urlType": "article",
-      "publishedAt": "2026-08-08T08:11:00.000Z",
-      "date": "2026-08-08",
+      "publishedAt": "2026-08-09T14:10:37.000Z",
+      "date": "2026-08-09",
       "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 26
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     },
     {
-      "id": "5cfd72c5bc6e6a7dd8c7",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Procter & Gamble (PG) Stock Looks Cheap On Cash Flow While Returns Stay Modest",
-      "summary": "Procter & Gamble (PG) stock appears undervalued based on its Discounted Cash Flow (DCF) intrinsic value, which estimates a value of around $199 per share against a current price of $145.79. While its P/E ratio is above the industry average, it's below its broader peer group and a tailored fair P/E, suggesting undervaluation on an earnings basis as well. However, the article highlights mixed signals and ongoing restructuring, including the US$3.8 billion Thorne acquisition, suggesting that the market's caution might be due to execution and cost risks affecting future cash flows.",
+      "id": "87a2925b2f3f3942643d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Should Upgraded Momentum Scores and Earnings Estimates Require Action From TJX Companies (TJX) Investors?",
+      "summary": "TJX Companies has received an upgraded Momentum Style Score of B and a Zacks Rank of #2 (Buy), along with upward revisions to earnings estimates for the current and next fiscal year. This positive news strengthens the investment narrative around TJX's off-price model and its ability to generate strong earnings. While this reinforces short-term earnings strength and current guidance, investors should still consider potential risks like rising costs and evolving retail habits.",
+      "source": "Yahoo Finance UK",
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/upgraded-momentum-scores-earnings-estimates-131051961.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://uk.finance.yahoo.com/news/upgraded-momentum-scores-earnings-estimates-131051961.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-09T14:09:11.000Z",
+      "date": "2026-08-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "b2e772ca89816f0fae90",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "AXIS Capital Holdings (AXS) Following Earnings And Leadership Moves Still Looks Undervalued",
+      "summary": "AXIS Capital Holdings (AXS) appears undervalued despite recent leadership changes, share buybacks, and Q2 2026 earnings, which saw an 8.29% stock price decline over 30 days. The company's long-term performance remains strong, with a 121.46% return over five years. Analysts suggest a fair value of $126.09 compared to its current price of $103.49, driven by strategic shifts to higher-margin specialty lines and robust regulatory environments.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-looks-cheap-on-cash-flow-while-retur",
+          "url": "https://simplywall.st/stocks/us/insurance/nyse-axs/axis-capital-holdings/news/axis-capital-holdings-axs-following-earnings-and-leadership",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-looks-cheap-on-cash-flow-while-retur",
+      "url": "https://simplywall.st/stocks/us/insurance/nyse-axs/axis-capital-holdings/news/axis-capital-holdings-axs-following-earnings-and-leadership",
       "urlType": "article",
-      "publishedAt": "2026-08-08T07:45:58.000Z",
-      "date": "2026-08-08",
+      "publishedAt": "2026-08-09T12:41:27.000Z",
+      "date": "2026-08-09",
       "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "dd98bfa98f8a0c38d0e1",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Silicon Valley Acquisition Corp. amends business combination agreement with EigenQ",
-      "summary": "Silicon Valley Acquisition Corp. (SVAQ) has amended its business combination agreement with EigenQ, Inc., clarifying the use of Transaction Support Shares for any purpose related to the merger and increasing the post-merger board size from seven to nine members. The equity incentive plan for the combined company will reserve approximately ten percent of outstanding shares. The deal still requires shareholder approval, and SVAQ's stock trades near its 52-week low.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/sec-filings/silicon-valley-acquisition-corp-amends-business-combination-agreement-with-eigenq-93CH-4846595?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/sec-filings/silicon-valley-acquisition-corp-amends-business-combination-agreement-with-eigenq-93CH-4846595?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T21:09:38.000Z",
-      "date": "2026-08-08",
-      "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 23
-    },
-    {
-      "id": "a9dbc6bfebc08a9365bf",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Silicon Valley Acquisition (NASDAQ: SVAQ) updates EigenQ deal, board and plan",
-      "summary": "Silicon Valley Acquisition Corp. (SVAQ) has amended its merger agreement with EigenQ, Inc. to update terms regarding sponsor-held shares, redemption of public shares, board size, and the equity incentive plan. The changes include allowing 2,165,950 sponsor Class B shares for any purpose related to the Business Combination, expanding the PubCo board to 9 directors, and setting the initial equity incentive plan reserve at approximately 10% of the fully-diluted common stock. The merger remains contingent on shareholder approval and SEC effectiveness.",
-      "source": "Stock Titan",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/SVAQ/8-k-silicon-valley-acquisition-corp-reports-material-event-09bb10d84e42.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stocktitan.net/sec-filings/SVAQ/8-k-silicon-valley-acquisition-corp-reports-material-event-09bb10d84e42.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-07T21:09:38.000Z",
-      "date": "2026-08-08",
-      "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 23
-    },
-    {
-      "id": "5145b17abfc7eab3bac7",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "S&P Global (SPGI) Stock Could Be 2% Overvalued Despite African Ratings Deal",
-      "summary": "S&P Global (SPGI) stock has dropped 21.9% over the past year, and its valuation presents a mixed picture. While the Excess Returns model suggests the shares are near their intrinsic value, indicating a slight 2.4% overvaluation, traditional earnings multiples, particularly the P/E ratio, suggest the stock is more expensive. This discrepancy highlights a debate among investors on whether to prioritize intrinsic value based on cash flow and returns or market multiples, especially given recent strategic expansions.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-spgi/sp-global/news/sp-global-spgi-stock-could-be-2-overvalued-despite-african-r",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-spgi/sp-global/news/sp-global-spgi-stock-could-be-2-overvalued-despite-african-r",
-      "urlType": "article",
-      "publishedAt": "2026-08-08T15:22:11.000Z",
-      "date": "2026-08-08",
-      "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
