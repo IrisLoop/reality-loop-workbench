@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-09",
-  "generatedAt": "2026-08-09T23:52:30.936Z",
-  "targetDate": "2026-08-09",
+  "updated": "2026-08-10",
+  "generatedAt": "2026-08-10T23:55:56.756Z",
+  "targetDate": "2026-08-10",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -17,8 +17,8 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国政府网",
@@ -43,224 +43,229 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "f9204a0213a102bf8e36",
+      "id": "c89d059a3c361396f280",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "3 US Large Cap Value Stocks Facing A Tougher Risk Test",
-      "summary": "This article examines three large-cap value stocks—National Fuel Gas (NFG), CRH, and Commercial Metals (CMC)—that appear more susceptible to market shocks like inflation, interest rate hikes, and geopolitical disruptions. While these companies offer benefits like exposure to energy, infrastructure, and inflation protection, the analysis highlights potential underlying risks related to debt levels, market cycles, and management execution that investors should scrutinize. The piece encourages investors to use screening tools to assess their risk profiles and find suitable investment opportunities.",
-      "source": "Simply Wall Street",
+      "title": "Unifor opens negotiations with General Motors",
+      "summary": "Unifor has officially begun contract negotiations with General Motors on behalf of over 4,600 members across Ontario, aiming to secure a new agreement by August 21. Following a pattern agreement established with Ford, the union seeks to ensure job certainty for its members, particularly given that 30% are currently on layoff. Negotiations will focus on company operations and the future of GM auto jobs in Canada.",
+      "source": "The AI Journal",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/utilities/nyse-nfg/national-fuel-gas/news/3-us-large-cap-value-stocks-facing-a-tougher-risk-test/amp",
+          "name": "The AI Journal",
+          "url": "https://aijourn.com/unifor-opens-negotiations-with-general-motors/",
+          "urlType": "article"
+        },
+        {
+          "name": "www.unifor.org",
+          "url": "https://www.unifor.org/news/all-news/unifor-opens-negotiations-general-motors",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/utilities/nyse-nfg/national-fuel-gas/news/3-us-large-cap-value-stocks-facing-a-tougher-risk-test/amp",
+      "url": "https://aijourn.com/unifor-opens-negotiations-with-general-motors/",
       "urlType": "article",
-      "publishedAt": "2026-08-09T04:11:34.000Z",
-      "date": "2026-08-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 29
+      "publishedAt": "2026-08-10T15:34:38.000Z",
+      "date": "2026-08-10",
+      "verification": "cross_verified",
+      "whySelected": "已发现 2 个相互独立的相关来源",
+      "score": 35
     },
     {
-      "id": "f8470d1f8d4dbecf2686",
+      "id": "f79dda5fa5b89937c733",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "The Bull Case For Signet Jewelers (SIG) Could Change Following Earnings Revisions And Valuation Debate – Learn Why",
-      "summary": "Signet Jewelers is drawing investor attention as analysts anticipate modest EPS growth and a slight revenue decline, yet full-year forecasts remain positive. The company's raised FY2027 sales guidance and fair value estimate above current prices raise questions about whether its fundamentals align with this perceived valuation gap. Investors should also consider the impact of ongoing tariff pressures and fashion unit softness on the company's investment narrative and risk profile.",
-      "source": "Simply Wall Street",
+      "title": "Exxon Mobil Corp Stock (XOM) Moved Up by 3.16% on Aug 10: Drivers Behind the Movement",
+      "summary": "Exxon Mobil Corp (XOM) shares rose by 3.16% on August 10, driven by a surge in global crude oil prices due to geopolitical tensions and stronger-than-expected energy demand. The company's operational excellence, including successful integration of Permian Basin assets, and a broader market rotation into energy stocks also contributed to the positive movement. Furthermore, its advancements in low-carbon solutions are beginning to attract ESG-conscious investors.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/retail/nyse-sig/signet-jewelers/news/the-bull-case-for-signet-jewelers-sig-could-change-following/amp",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262092892-market-movers-xom-20260810",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/retail/nyse-sig/signet-jewelers/news/the-bull-case-for-signet-jewelers-sig-could-change-following/amp",
+      "url": "https://www.tradingkey.com/news/market-movers/262092892-market-movers-xom-20260810",
       "urlType": "article",
-      "publishedAt": "2026-08-09T13:11:08.000Z",
-      "date": "2026-08-09",
+      "publishedAt": "2026-08-10T14:15:52.000Z",
+      "date": "2026-08-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 30
     },
     {
-      "id": "3f55e07937c75d92a0c1",
+      "id": "4434d1e5814477d2ee50",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Wall Street Is Betting P&G's Dividend Growth Ends. The Cash Flow Suggests That's Not Happening",
-      "summary": "Despite Wall Street's skepticism due to tariff fears and commodity headwinds, Procter & Gamble (P&G) continues its dividend growth, having issued its 70th consecutive annual raise. The company's strong cash flow, with FY2025 free cash flow covering dividends and leaving billions to spare, suggests that P&G's dividend streak is secure. The article highlights P&G's consistent organic sales growth across all product categories and regions, demonstrating its ability to price through challenges and maintain dividend sustainability.",
-      "source": "24/7 Wall St.",
+      "title": "Clorox Inflation Pressures Exceed $200M in 2026 | Supply Chain Impact - News and Statistics",
+      "summary": "Clorox anticipates over $200 million in inflationary pressures for 2026, driven by rising energy, commodity, and logistics costs, partly due to shipment disruptions from the Iran war. This figure doubles the company's historical range for cost increases, prompting price hikes on products like Glad trash bags to mitigate the impact on gross margins, which are projected to be around 42% for the current fiscal year. The company expects these inflationary pressures to persist and become more pronounced throughout the year.",
+      "source": "IndexBox",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/08/09/wall-street-is-betting-pgs-dividend-growth-ends-the-cash-flow-suggests-thats-not-happening/",
+          "name": "IndexBox",
+          "url": "https://www.indexbox.io/blog/clorox-faces-200m-inflation-hit-in-2026/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/08/09/wall-street-is-betting-pgs-dividend-growth-ends-the-cash-flow-suggests-thats-not-happening/",
+      "url": "https://www.indexbox.io/blog/clorox-faces-200m-inflation-hit-in-2026/",
       "urlType": "article",
-      "publishedAt": "2026-08-09T12:38:33.000Z",
-      "date": "2026-08-09",
+      "publishedAt": "2026-08-10T15:37:22.000Z",
+      "date": "2026-08-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 27
     },
     {
-      "id": "2094c872cff96c43534c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Weekly Top Stories: Copper Surge, $40 Trillion Debt, Jobs, Tariffs And China Minerals - Freeport-McMoRan",
-      "summary": "This article summarizes key economic stories from the past week, highlighting copper's surge as an indicator of a booming economy, the U.S. national debt approaching $40 trillion, unexpected market gains despite job losses, and the Trump administration's efforts to reduce reliance on Chinese minerals. It also notes that Trump's tariffs did not drive the manufacturing boom, attributing growth to other factors.",
-      "source": "Benzinga",
+      "id": "72a39d132d9635744655",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行公告〔2026〕第20号",
+      "summary": null,
+      "source": "中国人民银行",
       "sources": [
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/macro-economic-events/26/08/61063556/top-stories-copper-us-debt-jobs-tariffs-china-minerals",
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081015473613597/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.benzinga.com/markets/macro-economic-events/26/08/61063556/top-stories-copper-us-debt-jobs-tariffs-china-minerals",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081015473613597/index.html",
       "urlType": "article",
-      "publishedAt": "2026-08-09T10:00:55.000Z",
-      "date": "2026-08-09",
+      "publishedAt": "2026-08-10T07:47:36.000Z",
+      "date": "2026-08-10",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "7c9814544fb11d35f5a5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Pentagon Urges Boeing (NYSE: BA), Lockheed (NYSE: LMT) And RTX (NYSE: RTX) To Fast-Track Weapons Output Amid Iran War Strain",
+      "summary": "The Pentagon has officially requested major U.S. defense contractors, including Boeing, Lockheed Martin, and RTX Corp, to expedite the production and delivery of crucial weapons systems. This urgent appeal comes as military stockpiles are strained by the ongoing conflict with Iran. The Department of Defense is particularly focused on accelerating the output of surveillance equipment, air-defense sensors, and missile systems, and has asked contractors to submit plans by late August detailing how they will meet increased demand.",
+      "source": "Foreign Policy Journal",
+      "sources": [
+        {
+          "name": "Foreign Policy Journal",
+          "url": "https://www.foreignpolicyjournal.com/2026/08/10/pentagon-urges-boeing-nyse-ba-lockheed-nyse-lmt-and-rtx-nyse-rtx-to-fast-track-weapons-output-amid-iran-war-strain/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.foreignpolicyjournal.com/2026/08/10/pentagon-urges-boeing-nyse-ba-lockheed-nyse-lmt-and-rtx-nyse-rtx-to-fast-track-weapons-output-amid-iran-war-strain/",
+      "urlType": "article",
+      "publishedAt": "2026-08-10T14:40:10.000Z",
+      "date": "2026-08-10",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "aa8c951c9e7c09fc21ec",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Clorox expects $200M inflation hit, supply chain costs a factor",
+      "summary": "Clorox anticipates a significant inflation impact of over $200 million this year, primarily driven by rising energy, commodity, and supplier costs, alongside increased trucking, ocean freight, and logistics expenses. The company plans to implement price increases on some products, including Glad trash bags, to offset these pressures, which are proving more persistent than initially expected. Clorox's gross margin for the current fiscal year is projected to be around 42%, a slight decrease from the previous year, reflecting these inflationary challenges.",
+      "source": "Supply Chain Dive",
+      "sources": [
+        {
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
+      "urlType": "article",
+      "publishedAt": "2026-08-10T14:34:51.000Z",
+      "date": "2026-08-10",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "c3fe7d9d669bc73a6e01",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 4.64% on Aug 10: What Investors Need To Know",
+      "summary": "Arm Holdings PLC (ARM) stock decreased by 4.64% on August 10th, driven by sector-wide profit-taking, concerns over cooling AI investments, and the negative impact of higher interest rate expectations on its long-term valuation. Geopolitical tensions and regulatory risks in the Asia-Pacific region further suppressed investor confidence. The company's high valuation and sensitivity to macroeconomic factors are making it vulnerable to market volatility.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262092900-market-movers-arm-20260810",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262092900-market-movers-arm-20260810",
+      "urlType": "article",
+      "publishedAt": "2026-08-10T14:12:45.000Z",
+      "date": "2026-08-10",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 25
+    },
+    {
+      "id": "b9e687498ac5518c5b13",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "New Concept Energy, Inc. 2026: Revenue $41K, EPS ($0.01) — 10-Q Summary",
+      "summary": "New Concept Energy, Inc. (GBR) reported its Q2 2026 results with revenue of $41K, a modest increase of 2.5% year-over-year, and a net loss of ($66K), resulting in a diluted EPS of ($0.01). The company saw stable rental income and rising management fees, though increased corporate G&A led to a larger net loss and a decline in cash from $383K to $304K year-to-date. Management highlighted inflation and operational pressures as key future risks.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/tradingview:49a0183a2c0de:0-new-concept-energy-inc-2026-revenue-41k-eps-0-01-10-q-summary/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/tradingview:49a0183a2c0de:0-new-concept-energy-inc-2026-revenue-41k-eps-0-01-10-q-summary/",
+      "urlType": "article",
+      "publishedAt": "2026-08-10T14:39:38.000Z",
+      "date": "2026-08-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "73ad1b70b8ac4b7bb593",
+      "id": "f3abe3968e2110d94a7f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "MP Materials (MP) Is Up 23.5% After Stronger NdPr Output And New Defense Deal - Has The Bull Case Changed?",
-      "summary": "MP Materials reported stronger second-quarter 2026 results with increased sales and narrowed net loss, driven by higher NdPr output and progress in magnet manufacturing. A new multiyear gadolinium oxide supply deal with a U.S. aerospace and defense customer further strengthens its role in critical mineral supply chains. This development supports the company's investment narrative of becoming a vertically integrated magnet business, with analysts projecting significant revenue and earnings growth by 2029.",
-      "source": "Simply Wall Street",
+      "title": "Helios Technologies earnings loom as electrification bets tested",
+      "summary": "Helios Technologies is set to report second-quarter earnings, with analysts expecting $0.80 per share on revenue of $230.78 million. Investors will be focused on the company's progress in shifting towards electrified hydraulic systems and its ability to sustain margins amid inflation and product mix shifts. The stock has seen a recent pullback despite strong year-to-date performance, making the upcoming earnings report crucial for evaluating its future momentum and strategic direction.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-mp-is-up-235-after-stronger-ndpr-output-and-new/amp",
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/earnings/helios-technologies-earnings-loom-as-electrification-bets-tested-93CH-4849543?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-mp-is-up-235-after-stronger-ndpr-output-and-new/amp",
+      "url": "https://m.investing.com/news/earnings/helios-technologies-earnings-loom-as-electrification-bets-tested-93CH-4849543?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-09T06:41:44.000Z",
-      "date": "2026-08-09",
+      "publishedAt": "2026-08-10T14:11:31.000Z",
+      "date": "2026-08-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 20
     },
     {
-      "id": "857d3a896017dbc28753",
+      "id": "6c513977684f8d72941f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "POSCO challenges Japan’s steel tariffs as Seoul-Tokyo trade dispute escalates",
-      "summary": "POSCO has formally opposed Japan's provisional anti-dumping duties of 29.2% on its steel products, escalating trade tensions. South Korean steelmakers are considering legal action or a WTO dispute if Japan maintains these tariffs. This comes amidst broader trade disputes, including South Korea's own anti-dumping duties on hot-rolled steel imports from China and Japan.",
-      "source": "KED Global",
+      "title": "Bristol Myers Squibb Advances U.S. Manufacturing Investment with New $2.3 Billion Campus in Houston, Texas",
+      "summary": "Bristol Myers Squibb announced a $2.3 billion investment to build a new, state-of-the-art multi-modal manufacturing campus in Houston, Texas. This facility will create nearly 500 skilled jobs and is part of BMS's $40 billion commitment to U.S. investment, aiming to accelerate the delivery of next-generation medicines. The modular and multi-modal design allows for manufacturing various types of medicines and adapting to future needs, strengthening American biopharmaceutical leadership and supply chain resilience.",
+      "source": "Bristol Myers Squibb",
       "sources": [
         {
-          "name": "KED Global",
-          "url": "https://www.kedglobal.com/steel/newsView/ked202608090001",
+          "name": "Bristol Myers Squibb",
+          "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Advances-U-S--Manufacturing-Investment-with-New-2-3-Billion-Campus-in-Houston-Texas/default.aspx",
           "urlType": "article"
         }
       ],
-      "url": "https://www.kedglobal.com/steel/newsView/ked202608090001",
+      "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Advances-U-S--Manufacturing-Investment-with-New-2-3-Billion-Campus-in-Houston-Texas/default.aspx",
       "urlType": "article",
-      "publishedAt": "2026-08-09T06:25:14.000Z",
-      "date": "2026-08-09",
+      "publishedAt": "2026-08-10T13:03:46.000Z",
+      "date": "2026-08-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "4f23439f9248301cfcf8",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Lockheed Martin Corporation (NYSE:LMT) Shares Lag Missile Demand Surge as Focus Turns to Cash Conversion",
-      "summary": "Lockheed Martin's stock performance has lagged despite securing a significant $58.6 billion missile contract, with investors now focused on the company's ability to convert its record backlog into free cash flow and improved margins. While analyst sentiment is becoming more favorable, challenges remain in congressional approval, delivery timelines, raw material supply, and production capacity. The company projects strong sales growth and free cash flow for 2026, but its stock valuation already reflects much of this anticipated demand, with further revaluation dependent on operational performance.",
-      "source": "TechStock²",
-      "sources": [
-        {
-          "name": "TechStock²",
-          "url": "https://ts2.tech/en/lockheed-martin-corporation-nyselmt-shares-lag-missile-demand-surge-as-focus-turns-to-cash-conversion/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ts2.tech/en/lockheed-martin-corporation-nyselmt-shares-lag-missile-demand-surge-as-focus-turns-to-cash-conversion/",
-      "urlType": "article",
-      "publishedAt": "2026-08-09T14:48:11.000Z",
-      "date": "2026-08-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "55ecbd746c8a28a8cf08",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Installed Building Products, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next",
-      "summary": "Installed Building Products, Inc. (NYSE:IBP) recently surpassed its second-quarter earnings expectations, with revenues hitting US$778m and EPS of US$2.43. Following these results, analysts have become more optimistic about the company's earnings potential for 2026, forecasting revenues of US$2.99b and EPS of US$8.59, despite an anticipated slowdown in revenue growth compared to industry peers. The consensus price target remains at US$242, indicating that the improved earnings outlook hasn't significantly altered the long-term valuation perception.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-ibp/installed-building-products/news/installed-building-products-inc-just-beat-earnings-expectati",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-ibp/installed-building-products/news/installed-building-products-inc-just-beat-earnings-expectati",
-      "urlType": "article",
-      "publishedAt": "2026-08-09T14:10:37.000Z",
-      "date": "2026-08-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "87a2925b2f3f3942643d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Should Upgraded Momentum Scores and Earnings Estimates Require Action From TJX Companies (TJX) Investors?",
-      "summary": "TJX Companies has received an upgraded Momentum Style Score of B and a Zacks Rank of #2 (Buy), along with upward revisions to earnings estimates for the current and next fiscal year. This positive news strengthens the investment narrative around TJX's off-price model and its ability to generate strong earnings. While this reinforces short-term earnings strength and current guidance, investors should still consider potential risks like rising costs and evolving retail habits.",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/upgraded-momentum-scores-earnings-estimates-131051961.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://uk.finance.yahoo.com/news/upgraded-momentum-scores-earnings-estimates-131051961.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-09T14:09:11.000Z",
-      "date": "2026-08-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "b2e772ca89816f0fae90",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "AXIS Capital Holdings (AXS) Following Earnings And Leadership Moves Still Looks Undervalued",
-      "summary": "AXIS Capital Holdings (AXS) appears undervalued despite recent leadership changes, share buybacks, and Q2 2026 earnings, which saw an 8.29% stock price decline over 30 days. The company's long-term performance remains strong, with a 121.46% return over five years. Analysts suggest a fair value of $126.09 compared to its current price of $103.49, driven by strategic shifts to higher-margin specialty lines and robust regulatory environments.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/insurance/nyse-axs/axis-capital-holdings/news/axis-capital-holdings-axs-following-earnings-and-leadership",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/insurance/nyse-axs/axis-capital-holdings/news/axis-capital-holdings-axs-following-earnings-and-leadership",
-      "urlType": "article",
-      "publishedAt": "2026-08-09T12:41:27.000Z",
-      "date": "2026-08-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 18
     }
   ]
 }
