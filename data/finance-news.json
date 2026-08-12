@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-10",
-  "generatedAt": "2026-08-10T23:55:56.756Z",
-  "targetDate": "2026-08-10",
+  "updated": "2026-08-11",
+  "generatedAt": "2026-08-12T00:10:05.619Z",
+  "targetDate": "2026-08-11",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,226 +43,226 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "c89d059a3c361396f280",
+      "id": "dd95e43c2f24312b2b70",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Unifor opens negotiations with General Motors",
-      "summary": "Unifor has officially begun contract negotiations with General Motors on behalf of over 4,600 members across Ontario, aiming to secure a new agreement by August 21. Following a pattern agreement established with Ford, the union seeks to ensure job certainty for its members, particularly given that 30% are currently on layoff. Negotiations will focus on company operations and the future of GM auto jobs in Canada.",
-      "source": "The AI Journal",
+      "title": "Can United Rentals' $17.8B Outlook Survive the Demand Test Ahead?",
+      "summary": "United Rentals (URI) has raised its full-year 2026 revenue outlook to $17.5-$17.8 billion, driven by stronger-than-expected customer demand and confidence in large projects. The company's second-quarter 2026 equipment rental revenues jumped 12.7%, with specialty rentals as a key growth engine. While elevated capital expenditure and specialty margin pressure remain watch items, URI appears well-positioned, outperforming peers like Gibraltar and CRH in near-term growth visibility.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "The AI Journal",
-          "url": "https://aijourn.com/unifor-opens-negotiations-with-general-motors/",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:cf213b646094b:0-can-united-rentals-17-8b-outlook-survive-the-demand-test-ahead/",
           "urlType": "article"
         },
         {
-          "name": "www.unifor.org",
-          "url": "https://www.unifor.org/news/all-news/unifor-opens-negotiations-general-motors",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/united-rentals-17-8b-outlook-150200194.html",
           "urlType": "article"
         }
       ],
-      "url": "https://aijourn.com/unifor-opens-negotiations-with-general-motors/",
+      "url": "https://www.tradingview.com/news/zacks:cf213b646094b:0-can-united-rentals-17-8b-outlook-survive-the-demand-test-ahead/",
       "urlType": "article",
-      "publishedAt": "2026-08-10T15:34:38.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T15:09:09.000Z",
+      "date": "2026-08-11",
       "verification": "cross_verified",
       "whySelected": "已发现 2 个相互独立的相关来源",
       "score": 35
     },
     {
-      "id": "f79dda5fa5b89937c733",
+      "id": "dca3411410b8b87b55a5",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Exxon Mobil Corp Stock (XOM) Moved Up by 3.16% on Aug 10: Drivers Behind the Movement",
-      "summary": "Exxon Mobil Corp (XOM) shares rose by 3.16% on August 10, driven by a surge in global crude oil prices due to geopolitical tensions and stronger-than-expected energy demand. The company's operational excellence, including successful integration of Permian Basin assets, and a broader market rotation into energy stocks also contributed to the positive movement. Furthermore, its advancements in low-carbon solutions are beginning to attract ESG-conscious investors.",
-      "source": "TradingKey",
+      "title": "Amkor weighs a $1bn-plus stake sale in its China chip unit",
+      "summary": "Amkor Technology, a major outsourced chip assembly and testing firm, is considering selling a stake in its Chinese operations, potentially valuing the unit at $1 billion to $1.5 billion. This move reflects a broader trend of \"de-risking\" among Western companies in China's semiconductor sector due to geopolitical tensions. While Amkor invests heavily in advanced packaging for AI chips in the US, the potential sale allows it to mitigate risks while maintaining a presence in the Chinese market.",
+      "source": "The Next Web",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262092892-market-movers-xom-20260810",
+          "name": "The Next Web",
+          "url": "https://thenextweb.com/news/amkor-china-unit-stake-sale",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262092892-market-movers-xom-20260810",
+      "url": "https://thenextweb.com/news/amkor-china-unit-stake-sale",
       "urlType": "article",
-      "publishedAt": "2026-08-10T14:15:52.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T10:35:00.000Z",
+      "date": "2026-08-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 30
+      "score": 23
     },
     {
-      "id": "4434d1e5814477d2ee50",
+      "id": "f5154d6f1bf41708d821",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Clorox Inflation Pressures Exceed $200M in 2026 | Supply Chain Impact - News and Statistics",
-      "summary": "Clorox anticipates over $200 million in inflationary pressures for 2026, driven by rising energy, commodity, and logistics costs, partly due to shipment disruptions from the Iran war. This figure doubles the company's historical range for cost increases, prompting price hikes on products like Glad trash bags to mitigate the impact on gross margins, which are projected to be around 42% for the current fiscal year. The company expects these inflationary pressures to persist and become more pronounced throughout the year.",
-      "source": "IndexBox",
-      "sources": [
-        {
-          "name": "IndexBox",
-          "url": "https://www.indexbox.io/blog/clorox-faces-200m-inflation-hit-in-2026/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.indexbox.io/blog/clorox-faces-200m-inflation-hit-in-2026/",
-      "urlType": "article",
-      "publishedAt": "2026-08-10T15:37:22.000Z",
-      "date": "2026-08-10",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
-    },
-    {
-      "id": "72a39d132d9635744655",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行公告〔2026〕第20号",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081015473613597/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081015473613597/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-10T07:47:36.000Z",
-      "date": "2026-08-10",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "7c9814544fb11d35f5a5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Pentagon Urges Boeing (NYSE: BA), Lockheed (NYSE: LMT) And RTX (NYSE: RTX) To Fast-Track Weapons Output Amid Iran War Strain",
-      "summary": "The Pentagon has officially requested major U.S. defense contractors, including Boeing, Lockheed Martin, and RTX Corp, to expedite the production and delivery of crucial weapons systems. This urgent appeal comes as military stockpiles are strained by the ongoing conflict with Iran. The Department of Defense is particularly focused on accelerating the output of surveillance equipment, air-defense sensors, and missile systems, and has asked contractors to submit plans by late August detailing how they will meet increased demand.",
-      "source": "Foreign Policy Journal",
-      "sources": [
-        {
-          "name": "Foreign Policy Journal",
-          "url": "https://www.foreignpolicyjournal.com/2026/08/10/pentagon-urges-boeing-nyse-ba-lockheed-nyse-lmt-and-rtx-nyse-rtx-to-fast-track-weapons-output-amid-iran-war-strain/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.foreignpolicyjournal.com/2026/08/10/pentagon-urges-boeing-nyse-ba-lockheed-nyse-lmt-and-rtx-nyse-rtx-to-fast-track-weapons-output-amid-iran-war-strain/",
-      "urlType": "article",
-      "publishedAt": "2026-08-10T14:40:10.000Z",
-      "date": "2026-08-10",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "aa8c951c9e7c09fc21ec",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Clorox expects $200M inflation hit, supply chain costs a factor",
-      "summary": "Clorox anticipates a significant inflation impact of over $200 million this year, primarily driven by rising energy, commodity, and supplier costs, alongside increased trucking, ocean freight, and logistics expenses. The company plans to implement price increases on some products, including Glad trash bags, to offset these pressures, which are proving more persistent than initially expected. Clorox's gross margin for the current fiscal year is projected to be around 42%, a slight decrease from the previous year, reflecting these inflationary challenges.",
+      "title": "GE Appliances deepens Texas Instruments sourcing for resilience",
+      "summary": "GE Appliances is increasing its sourcing of chips from Texas Instruments, aiming to procure one-third of the chips for its Louisville, Kentucky plant from TI. This move is part of GE Appliances' \"zero distance\" supply chain strategy to enhance resilience, shorten lead times, and bring production closer to customers. The partnership will nearly double GE Appliances' spending with TI and leverage TI's U.S.-based manufacturing facilities.",
       "source": "Supply Chain Dive",
       "sources": [
         {
           "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
+          "url": "https://www.supplychaindive.com/news/ge-appliances-deepens-texas-instruments-sourcing-for-resilience/827455/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/",
+      "url": "https://www.supplychaindive.com/news/ge-appliances-deepens-texas-instruments-sourcing-for-resilience/827455/",
       "urlType": "article",
-      "publishedAt": "2026-08-10T14:34:51.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T15:16:08.000Z",
+      "date": "2026-08-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
+      "score": 22
     },
     {
-      "id": "c3fe7d9d669bc73a6e01",
+      "id": "719a7804bfa0a1bb344c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 4.64% on Aug 10: What Investors Need To Know",
-      "summary": "Arm Holdings PLC (ARM) stock decreased by 4.64% on August 10th, driven by sector-wide profit-taking, concerns over cooling AI investments, and the negative impact of higher interest rate expectations on its long-term valuation. Geopolitical tensions and regulatory risks in the Asia-Pacific region further suppressed investor confidence. The company's high valuation and sensitivity to macroeconomic factors are making it vulnerable to market volatility.",
-      "source": "TradingKey",
+      "title": "Shift4 racked by Iran turmoil",
+      "summary": "Shift4 Payments is experiencing turbulent financial results due to the Iran conflict, particularly impacting its European luxury retail business after the acquisition of Global Blue. The conflict has reduced tourism from the Middle East and Southeast Asia, critical sources for Global Blue's tax-free shopping business, leading Shift4 to lower its sales and income guidance for the second half of 2026. Despite these headwinds, Shift4 remains optimistic about the Global Blue acquisition and is rolling out new integrated payment solutions for international travelers.",
+      "source": "Payments Dive",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262092900-market-movers-arm-20260810",
+          "name": "Payments Dive",
+          "url": "https://www.paymentsdive.com/news/shift4-racked-by-iran-turmoil/827411/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262092900-market-movers-arm-20260810",
+      "url": "https://www.paymentsdive.com/news/shift4-racked-by-iran-turmoil/827411/",
       "urlType": "article",
-      "publishedAt": "2026-08-10T14:12:45.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T14:48:34.000Z",
+      "date": "2026-08-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
+      "score": 22
     },
     {
-      "id": "b9e687498ac5518c5b13",
+      "id": "33a5229d59c8564de2c0",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "New Concept Energy, Inc. 2026: Revenue $41K, EPS ($0.01) — 10-Q Summary",
-      "summary": "New Concept Energy, Inc. (GBR) reported its Q2 2026 results with revenue of $41K, a modest increase of 2.5% year-over-year, and a net loss of ($66K), resulting in a diluted EPS of ($0.01). The company saw stable rental income and rising management fees, though increased corporate G&A led to a larger net loss and a decline in cash from $383K to $304K year-to-date. Management highlighted inflation and operational pressures as key future risks.",
-      "source": "TradingView",
+      "title": "YPF Is Spending More As Vaca Muerta Delivers",
+      "summary": "Argentina's state-backed oil firm, YPF, has increased its 2026 investment outlook to $6.2 billion and its EBITDA forecast to $8 billion due to higher oil prices and strong performance from the Vaca Muerta shale field. This increased spending is critical for Argentina to boost oil and gas exports, secure hard currency inflows, and service its international debts, including those to the IMF. The move is expected to reduce the \"Argentina risk\" premium demanded by investors.",
+      "source": "Finimize",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:49a0183a2c0de:0-new-concept-energy-inc-2026-revenue-41k-eps-0-01-10-q-summary/",
+          "name": "Finimize",
+          "url": "https://finimize.com/content/ypf-is-spending-more-as-vaca-muerta-delivers",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/tradingview:49a0183a2c0de:0-new-concept-energy-inc-2026-revenue-41k-eps-0-01-10-q-summary/",
+      "url": "https://finimize.com/content/ypf-is-spending-more-as-vaca-muerta-delivers",
       "urlType": "article",
-      "publishedAt": "2026-08-10T14:39:38.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T14:41:22.000Z",
+      "date": "2026-08-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 22
     },
     {
-      "id": "f3abe3968e2110d94a7f",
+      "id": "3bcbac840c7bc848a9be",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Helios Technologies earnings loom as electrification bets tested",
-      "summary": "Helios Technologies is set to report second-quarter earnings, with analysts expecting $0.80 per share on revenue of $230.78 million. Investors will be focused on the company's progress in shifting towards electrified hydraulic systems and its ability to sustain margins amid inflation and product mix shifts. The stock has seen a recent pullback despite strong year-to-date performance, making the upcoming earnings report crucial for evaluating its future momentum and strategic direction.",
+      "title": "Edgewell Personal Care at Canaccord conference: turnaround gains traction",
+      "summary": "Edgewell Personal Care (EPC) presented at Canaccord Genuity's 46th Annual Growth Conference, highlighting that its turnaround efforts are gaining momentum with organic sales growth returning, especially in North America. The company has shifted its portfolio towards faster-growing sun and skin care categories, now representing 40% of sales, and has implemented significant operational improvements leading to gross margin expansion despite inflation. While fiscal 2026 free cash flow is impacted by plant consolidation and inventory builds, it is expected to recover in fiscal 2027, with debt reduction remaining a top capital allocation priority.",
       "source": "Investing.com",
       "sources": [
         {
           "name": "Investing.com",
-          "url": "https://m.investing.com/news/earnings/helios-technologies-earnings-loom-as-electrification-bets-tested-93CH-4849543?ampMode=1",
+          "url": "https://m.investing.com/news/transcripts/edgewell-personal-care-at-canaccord-conference-turnaround-gains-traction-93CH-4851671?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://m.investing.com/news/earnings/helios-technologies-earnings-loom-as-electrification-bets-tested-93CH-4849543?ampMode=1",
+      "url": "https://m.investing.com/news/transcripts/edgewell-personal-care-at-canaccord-conference-turnaround-gains-traction-93CH-4851671?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-10T14:11:31.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T12:41:25.000Z",
+      "date": "2026-08-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "6c513977684f8d72941f",
+      "id": "2ececd5cc921bd4d862c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Bristol Myers Squibb Advances U.S. Manufacturing Investment with New $2.3 Billion Campus in Houston, Texas",
-      "summary": "Bristol Myers Squibb announced a $2.3 billion investment to build a new, state-of-the-art multi-modal manufacturing campus in Houston, Texas. This facility will create nearly 500 skilled jobs and is part of BMS's $40 billion commitment to U.S. investment, aiming to accelerate the delivery of next-generation medicines. The modular and multi-modal design allows for manufacturing various types of medicines and adapting to future needs, strengthening American biopharmaceutical leadership and supply chain resilience.",
-      "source": "Bristol Myers Squibb",
+      "title": "Here's How Many Shares of Procter & Gamble You'd Need for $10,000 in Yearly Dividends.",
+      "summary": "Procter & Gamble (NYSE: PG) is a Dividend King with 71 consecutive dividend increases, yielding nearly 3% with an annual payout of $4.36 per share. To earn $10,000 in yearly dividends from P&G, an investor would need approximately 2,293.5 shares, costing around $334,380 based on a recent closing price. The article highlights that P&G's consistent dividend growth and defensive sector traits offer advantages like inflation protection and a \"shortcut\" to significant payouts over time.",
+      "source": "Currently.com",
       "sources": [
         {
-          "name": "Bristol Myers Squibb",
-          "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Advances-U-S--Manufacturing-Investment-with-New-2-3-Billion-Campus-in-Houston-Texas/default.aspx",
+          "name": "Currently.com",
+          "url": "https://currently.att.yahoo.com/att/heres-many-shares-procter-gamble-122500646.html",
           "urlType": "article"
         }
       ],
-      "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Advances-U-S--Manufacturing-Investment-with-New-2-3-Billion-Campus-in-Houston-Texas/default.aspx",
+      "url": "https://currently.att.yahoo.com/att/heres-many-shares-procter-gamble-122500646.html",
       "urlType": "article",
-      "publishedAt": "2026-08-10T13:03:46.000Z",
-      "date": "2026-08-10",
+      "publishedAt": "2026-08-11T12:25:00.000Z",
+      "date": "2026-08-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "9c981a80675644f803db",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Nio Says ‘It Has No Plans to Retreat from Europe’ After Closing First Stores",
+      "summary": "Nio has stated it has no plans to retreat from Europe despite closing four locations within nine months, including two German sites, and experiencing a significant decline in registrations in Germany. The company attributes the closures to streamlining business activities and wider market conditions, while shifting its European strategy towards distributors and prioritizing growth in new markets like Portugal and Greece, partly through its entry-level Firefly brand. However, Nio faces challenges including slow infrastructure build-out, delayed model updates, high import tariffs, and a lack of local leadership and production.",
+      "source": "eletric-vehicles.com",
+      "sources": [
+        {
+          "name": "eletric-vehicles.com",
+          "url": "https://eletric-vehicles.com/nio/nio-says-it-has-no-plans-to-retreat-from-europe-after-closing-first-stores/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://eletric-vehicles.com/nio/nio-says-it-has-no-plans-to-retreat-from-europe-after-closing-first-stores/",
+      "urlType": "article",
+      "publishedAt": "2026-08-11T11:42:45.000Z",
+      "date": "2026-08-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "231f3c4b1664d3c1ea5e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Does Terex’s New Shelf Registrations Hint at a Shift in Capital Strategy for TEX?",
+      "summary": "Terex Corporation recently filed new universal and ESOP-related shelf registrations after reporting Q2 2026 results with increased sales but lower earnings per share. These registrations enhance Terex's financing flexibility by allowing it to issue various securities, potentially reshaping its investment narrative. While the registrations offer flexibility, investors should note that margin pressures from tariffs, input costs, and competition could still impact profitability, despite some optimistic analyst forecasts for future revenue and earnings.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tex/terex/news/does-terexs-new-shelf-registrations-hint-at-a-shift-in-capit",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-tex/terex/news/does-terexs-new-shelf-registrations-hint-at-a-shift-in-capit",
+      "urlType": "article",
+      "publishedAt": "2026-08-11T10:40:00.000Z",
+      "date": "2026-08-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "fe881c1f45c488a41717",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Quanta Stock Descends 14% in Past 3 Months: Should You Buy Now?",
+      "summary": "Quanta Services, Inc. (PWR) stock has fallen 13.7% in the past three months, underperforming its industry and the S&P 500. Despite near-term challenges like inflation and interest rate uncertainty, the company's mid and long-term prospects are strong due to infrastructure demand, a record backlog, strong execution, strategic acquisitions, and favorable shareholder returns. Analysts maintain a \"Strong Buy\" rating for PWR, with upward earnings estimate revisions reinforcing the bullish case.",
+      "source": "Yahoo! Finance Canada",
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://ca.finance.yahoo.com/news/quanta-stock-descends-14-past-142800199.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://ca.finance.yahoo.com/news/quanta-stock-descends-14-past-142800199.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-11T10:28:00.000Z",
+      "date": "2026-08-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
