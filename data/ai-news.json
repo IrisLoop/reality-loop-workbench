@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-12",
-  "generatedAt": "2026-08-13T00:10:22.581Z",
-  "targetDate": "2026-08-12",
+  "updated": "2026-08-13",
+  "generatedAt": "2026-08-14T00:10:28.519Z",
+  "targetDate": "2026-08-13",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "source": {
@@ -14,184 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmsp2lgxo03xjrortthctedzu",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "originalTitle": "ChatGPT and Gemini both just passed 1 billion users",
-      "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
-      "url": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
-      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 80,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T19:41:42.000Z",
-      "discoveredAt": "2026-08-11T19:45:30.008Z"
-    },
-    {
-      "id": "cmsoydypn029yro3yvsi036au",
-      "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
-      "originalTitle": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-      "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.virxact.com/items/cmsoydypn029yro3yvsi036au",
-      "originalUrl": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsoydypn029yro3yvsi036au",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 80,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T17:38:49.000Z",
-      "discoveredAt": "2026-08-11T17:47:39.959Z"
-    },
-    {
-      "id": "cmsqabu0f001krouc6sfhic2d",
-      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-      "originalTitle": "Introducing Grok 4.6",
-      "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-      "source": "AI HOT · AI 摘要 · xAI：News（网页）",
-      "url": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d",
-      "originalUrl": "https://x.ai/news/grok-4-6",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d",
+      "id": "cmsrfaw5c0xo2roz2s8b4p2sv",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "originalTitle": "DeepSeek-V4-Pro 更新",
+      "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+      "source": "AI HOT · AI 摘要 · DeepSeek：API 更新日志",
+      "url": "https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv",
+      "originalUrl": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-13",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
-      "score": 77,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "discoveredAt": "2026-08-12T16:09:42.032Z"
+      "score": 81,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T11:16:42.199Z",
+      "discoveredAt": "2026-08-13T11:16:42.199Z"
     },
     {
-      "id": "cmsoxh6oa0a3drohdskp7cb9u",
-      "title": "Gemini月活破10亿，成谷歌增长最快产品",
-      "originalTitle": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-      "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
-      "source": "AI HOT · AI 摘要 · X：Sundar Pichai (@sundarpichai)",
-      "url": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
-      "originalUrl": "https://x.com/sundarpichai/status/2087222656819241292",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
+      "id": "cmsruetoy027hrozeecu4ixrc",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+      "originalTitle": "The builder's guide to GPT-5.6",
+      "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc",
+      "originalUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc",
       "tags": [
-        "行业"
+        "技巧"
       ],
-      "category": "industry",
-      "score": 77,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T17:00:34.000Z",
-      "discoveredAt": "2026-08-11T17:22:11.170Z"
+      "category": "tip",
+      "score": 80,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
+      "discoveredAt": "2026-08-13T18:19:39.804Z"
     },
     {
-      "id": "cmspo193n05q2rojeue8j2k5a",
-      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-      "originalTitle": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
-      "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
-      "originalUrl": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "aihotUrl": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 76,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-12T05:41:30.137Z",
-      "discoveredAt": "2026-08-12T05:45:36.772Z"
-    },
-    {
-      "id": "cmsp3o23e04vnrortt7twvx4v",
-      "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
-      "originalTitle": "Mojo 1.0",
-      "summary": "Mojo 语言正式发布 1.0 版本，提供稳定、可用于生产环境的语言基础，自 2023 年首次发布以来已发展成通用语言。自开源标准库以来，近 200 名贡献者合入超 1，100 个拉取请求，改动超 200，000 行代码。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.virxact.com/items/cmsp3o23e04vnrortt7twvx4v",
-      "originalUrl": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsp3o23e04vnrortt7twvx4v",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 73,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T19:52:14.184Z",
-      "discoveredAt": "2026-08-11T20:15:29.618Z"
-    },
-    {
-      "id": "cmsox86zv09u6rohdqr80wg0x",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "originalTitle": null,
-      "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.virxact.com/items/cmsox86zv09u6rohdqr80wg0x",
-      "originalUrl": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsox86zv09u6rohdqr80wg0x",
+      "id": "cmsqu0nr604oeroz2rh6b6mqt",
+      "title": "新兴多智能体系统的模式与问题",
+      "originalTitle": "Patterns and problems in emerging multiagent systems",
+      "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+      "source": "AI HOT · AI 摘要 · Anthropic：Research（发表成果 · 网页）",
+      "url": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt",
+      "originalUrl": "https://www.anthropic.com/research/multiagent-systems",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 73,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T16:41:17.281Z",
-      "discoveredAt": "2026-08-11T17:15:09.958Z"
+      "score": 79,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T01:20:54.259Z",
+      "discoveredAt": "2026-08-13T01:20:54.259Z"
     },
     {
-      "id": "cmsq1hwsb02norobuzbw8cdcc",
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-      "originalTitle": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-      "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
-      "source": "AI HOT · AI 摘要 · X：OpenRouter (@OpenRouter)",
-      "url": "https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc",
-      "originalUrl": "https://x.com/OpenRouter/status/2087509478480765218",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc",
+      "id": "cmsrcljcc0uanroz24r5ebcz9",
+      "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
+      "originalTitle": null,
+      "summary": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。",
+      "source": "AI HOT · AI 摘要 · 公众号：小红书技术（dots.llm）",
+      "url": "https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 75,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T09:59:00.000Z",
+      "discoveredAt": "2026-08-13T10:01:01.438Z"
+    },
+    {
+      "id": "cmsrlvwfp05gdro46mbfqtsgm",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+      "originalTitle": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+      "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+      "source": "AI HOT · AI 摘要 · X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "url": "https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm",
+      "originalUrl": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm",
       "tags": [
         "AI 产品"
       ],
       "category": "ai-products",
-      "score": 72,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-12T12:00:18.000Z",
-      "discoveredAt": "2026-08-12T12:02:29.478Z"
+      "score": 67,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T14:04:55.000Z",
+      "discoveredAt": "2026-08-13T14:21:01.224Z"
     },
     {
-      "id": "cmsp1lufu03a9rortoc0ci36q",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "originalTitle": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-      "source": "AI HOT · AI 摘要 · X：Runway (@runwayml)",
-      "url": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
-      "originalUrl": "https://x.com/runwayml/status/2087251184658657346",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
+      "id": "cmsqgeo2e02cvroxvpnycl2zi",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+      "originalTitle": "Your contributors are AI-first now. Is your project？",
+      "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+      "source": "AI HOT · AI 摘要 · GitHub Blog",
+      "url": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+      "originalUrl": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 67,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-12T18:00:08.000Z",
+      "discoveredAt": "2026-08-12T18:59:53.288Z"
+    },
+    {
+      "id": "cmsrjqqfg02z0ro469zple5jl",
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "originalTitle": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…",
+      "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
+      "source": "AI HOT · AI 摘要 · X：DeepSeek (@deepseek_ai)",
+      "url": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl",
+      "originalUrl": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl",
       "tags": [
         "AI 产品"
       ],
       "category": "ai-products",
-      "score": 72,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T18:53:56.000Z",
-      "discoveredAt": "2026-08-11T19:17:47.577Z"
+      "score": 66,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T13:02:03.000Z",
+      "discoveredAt": "2026-08-13T13:21:00.781Z"
     },
     {
-      "id": "cmsow47ob08oarohd6vhpqrwt",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "originalTitle": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-      "source": "AI HOT · AI 摘要 · Google Cloud：Databases（RSS）",
-      "url": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt",
-      "originalUrl": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt",
+      "id": "cmsqbnb8j01nrroosmwa5r6mj",
+      "title": "微软首发自研推理模型MAI-Thinking-1",
+      "originalTitle": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+      "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+      "source": "AI HOT · AI 摘要 · X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "url": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj",
+      "originalUrl": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 66,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-12T16:00:59.000Z",
+      "discoveredAt": "2026-08-12T16:46:38.109Z"
+    },
+    {
+      "id": "cmsruj6ik02dfrozeclkuve05",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "originalTitle": "Cloud agents start 3x faster with builds",
+      "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+      "source": "AI HOT · AI 摘要 · Cursor Blog",
+      "url": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05",
+      "originalUrl": "https://cursor.com/blog/builds",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05",
       "tags": [
         "AI 产品"
       ],
       "category": "ai-products",
-      "score": 72,
-      "date": "2026-08-12",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "discoveredAt": "2026-08-11T16:44:01.695Z"
+      "score": 65,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T12:00:00.000Z",
+      "discoveredAt": "2026-08-13T18:23:04.579Z"
+    },
+    {
+      "id": "cmsr160kg0dk0roz2mb20yxwk",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "originalTitle": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
+      "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
+      "url": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 65,
+      "date": "2026-08-13",
+      "publishedAt": "2026-08-13T04:32:24.000Z",
+      "discoveredAt": "2026-08-13T04:41:00.631Z"
     }
   ]
 }

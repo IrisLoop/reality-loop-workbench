@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-12",
-  "generatedAt": "2026-08-13T00:11:00.182Z",
-  "targetDate": "2026-08-12",
+  "updated": "2026-08-13",
+  "generatedAt": "2026-08-14T00:10:36.608Z",
+  "targetDate": "2026-08-13",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "f21d5a9b00e431218302",
+      "id": "16fbd9e5bc7092e2c385",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Amcor Plc (AMCR) Q4 2026 Earnings Call Transcript",
-      "summary": "Amcor Plc reported strong Q4 2026 earnings, with adjusted EPS up 23% year-over-year, driven by synergy capture, disciplined cost management, and the Berry acquisition. The company exceeded synergy expectations and is on track to achieve its $650 million 3-year synergy target, while also forecasting double-digit adjusted EPS growth for calendar year 2027. Despite challenges like input cost inflation and working capital impacts from the Middle East conflict, Amcor is confident in its business model, strategic portfolio optimization, and ability to generate robust free cash flow.",
-      "source": "AlphaStreet",
+      "title": "Energy Recovery (ERII) Q2 2026 Earnings Call Transcript",
+      "summary": "Energy Recovery (ERII) reported a significant 57% year-over-year revenue decrease in Q2 2026, primarily due to project execution delays caused by geopolitical conflict in Iran. Despite these headwinds, the company maintains a strong long-term megaproject pipeline and is strategically investing in a new Saudi Arabia facility to improve margins and regional presence. Management also highlighted efforts to accelerate growth in the wastewater market by expanding its product portfolio and optimizing sales resources.",
+      "source": "The Globe and Mail",
       "sources": [
         {
-          "name": "AlphaStreet",
-          "url": "https://news.alphastreet.com/amcor-plc-amcr-q4-2026-earnings-call-transcript/amp/",
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3832006/energy-recovery-erii-q2-2026-earnings-call-transcript/",
           "urlType": "article"
         }
       ],
-      "url": "https://news.alphastreet.com/amcor-plc-amcr-q4-2026-earnings-call-transcript/amp/",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3832006/energy-recovery-erii-q2-2026-earnings-call-transcript/",
       "urlType": "article",
-      "publishedAt": "2026-08-12T13:37:06.000Z",
-      "date": "2026-08-12",
+      "publishedAt": "2026-08-13T14:24:05.000Z",
+      "date": "2026-08-13",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
+      "score": 29
     },
     {
-      "id": "4a7da99c36a907bf5a1f",
+      "id": "42462a3531a3b4329b7b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Performance Food Sales, Profit Rise on Higher Prices",
-      "summary": "Performance Food Group reported higher sales and profit in its fiscal fourth quarter, driven by increased costs and prices. The company posted a profit of $162.3 million on revenue of $18.03 billion, an increase of 6.4% year-over-year. Adjusted earnings per share, however, slightly missed analyst expectations.",
-      "source": "WSJ",
+      "title": "General Motors Gains 13% in a Month: Buy, Sell or Hold the Stock?",
+      "summary": "General Motors (GM) shares have increased 13% in the past month due to successful restructuring in China, growth in its software and digital businesses, and expansion beyond traditional vehicle manufacturing. The company also raised its full-year 2026 adjusted EBIT guidance and continues to benefit from its strong North American truck and SUV business. Despite potential short-term pressures from tariffs, inflation, and product launch costs, GM's strong operational performance and diversification efforts suggest a positive long-term outlook, leading analysts to recommend holding the stock.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/business/earnings/performance-food-sales-profit-rise-on-higher-prices-6b49deb3",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:c16fefd9a094b:0-general-motors-gains-13-in-a-month-buy-sell-or-hold-the-stock/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/business/earnings/performance-food-sales-profit-rise-on-higher-prices-6b49deb3",
+      "url": "https://www.tradingview.com/news/zacks:c16fefd9a094b:0-general-motors-gains-13-in-a-month-buy-sell-or-hold-the-stock/",
       "urlType": "article",
-      "publishedAt": "2026-08-12T12:11:06.000Z",
-      "date": "2026-08-12",
+      "publishedAt": "2026-08-13T15:38:07.000Z",
+      "date": "2026-08-13",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 27
     },
     {
-      "id": "0c309617a6b867b0dcb9",
+      "id": "42462a3531a3b4329b7b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "BofA to plow $250 billion into critical infrastructure projects",
-      "summary": "Bank of America has announced a $250 billion initiative to invest in critical infrastructure across the U.S. over the next year, following similar pledges from other major U.S. banks. This investment aims to support projects in areas like data centers, renewable energy, and transportation, enhancing energy security, job growth, and economic competitiveness. The initiative is also part of the bank's commitment to the country's 250th birthday and complements its existing sustainable finance goals.",
-      "source": "Fortune",
+      "title": "General Motors Gains 13% in a Month: Buy, Sell or Hold the Stock?",
+      "summary": "General Motors (GM) shares have increased by 13.1% in the past month due to successful restructuring in China, growth in its software and digital business, and diversification beyond traditional vehicle manufacturing. The company's North American truck and SUV business remains strong, contributing to healthy margins and upward revisions in earnings estimates. Despite potential short-term pressures from tariffs, inflation, and product launch costs, GM's core operations and growth initiatives position it well for the future.",
+      "source": "Yahoo Finance Singapore",
       "sources": [
         {
-          "name": "Fortune",
-          "url": "https://fortune.com/2026/08/12/bofa-to-plow-250-billion-into-critical-infrastructure-projects/",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/general-motors-gains-13-month-152200902.html",
           "urlType": "article"
         }
       ],
-      "url": "https://fortune.com/2026/08/12/bofa-to-plow-250-billion-into-critical-infrastructure-projects/",
+      "url": "https://sg.finance.yahoo.com/news/general-motors-gains-13-month-152200902.html",
       "urlType": "article",
-      "publishedAt": "2026-08-12T15:00:11.000Z",
-      "date": "2026-08-12",
+      "publishedAt": "2026-08-13T15:38:06.000Z",
+      "date": "2026-08-13",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 27
+    },
+    {
+      "id": "3e6d4ff05665eeb07dce",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Dollar General (DG) Flags Customer Pressure, Is The 9% Undervaluation Enough?",
+      "summary": "Dollar General's shares dropped after management expressed concerns about customer pressure due to higher gas prices, inflation, and reduced SNAP benefits, although the company maintained its annual same-store sales growth guidance. Despite recent share price declines, the stock is considered 9% undervalued with a fair value of $131.07 against a last close of $119.60, supported by its digital initiatives and long-term earnings potential. However, risks like competition and rising labor costs could challenge this positive outlook.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-dg/dollar-general/news/dollar-general-dg-flags-customer-pressure-is-the-9-undervalu",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-dg/dollar-general/news/dollar-general-dg-flags-customer-pressure-is-the-9-undervalu",
+      "urlType": "article",
+      "publishedAt": "2026-08-13T15:45:44.000Z",
+      "date": "2026-08-13",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "f37688b9f5fc326ac6a1",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "2026年上半年中国货币政策大事记",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218065921908/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218065921908/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-12T10:06:59.000Z",
-      "date": "2026-08-12",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 57
-    },
-    {
-      "id": "da7289aa23cb92c4329c",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "2026年第二季度中国货币政策执行报告",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218034520348/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218034520348/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-12T10:03:45.000Z",
-      "date": "2026-08-12",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 57
-    },
-    {
-      "id": "422647601f39b69342cd",
+      "id": "41b69d2fc476b4484fcf",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Opendoor Stock Plunges 20% in a Month: Should You Buy at Low or Wait?",
-      "summary": "Opendoor Technologies Inc. (OPEN) has experienced a 20.2% stock plunge in the last month, attributed to a challenging housing market with high mortgage rates and inflationary pressures. Despite near-term profitability struggles due to its capital-intensive model, the company is pursuing acquisitions, cost reductions, and strategic growth initiatives like \"Cash Now, More Later\" and mortgage products. However, given the elevated near-term risks and uncertain housing market conditions, investors are advised to wait for clearer stabilization before investing.",
-      "source": "TradingView",
+      "title": "FGI INDUSTRIES ANNOUNCES SECOND QUARTER 2026 RESULTS",
+      "summary": "FGI Industries Ltd. announced its second quarter 2026 results, reporting a 2.9% year-over-year revenue increase to $31.9 million and a 22.5% increase in gross profit to $10.7 million. The company achieved a GAAP net income attributable to shareholders of $1.3 million, or $0.65 per diluted share, a significant improvement from a net loss in the prior-year period. FGI reaffirmed its fiscal 2026 guidance and highlighted strategic investments in its Brands, Products, and Channels (BPC) strategy despite ongoing tariff and economic uncertainties.",
+      "source": "Morningstar",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:a3b18c511094b:0-opendoor-stock-plunges-20-in-a-month-should-you-buy-at-low-or-wait/",
+          "name": "Morningstar",
+          "url": "https://www.morningstar.com/news/pr-newswire/20260812ny25073/fgi-industries-announces-second-quarter-2026-results",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:a3b18c511094b:0-opendoor-stock-plunges-20-in-a-month-should-you-buy-at-low-or-wait/",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260812ny25073/fgi-industries-announces-second-quarter-2026-results",
       "urlType": "article",
-      "publishedAt": "2026-08-12T14:09:35.000Z",
-      "date": "2026-08-12",
+      "publishedAt": "2026-08-13T15:40:02.000Z",
+      "date": "2026-08-13",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "149cad9fd452734d245c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "America builds what it needs: Citigroup CEO Jane Fraser",
+      "summary": "Citigroup CEO Jane Fraser discussed the latest July CPI inflation data, the Federal Reserve's interest rate policy, corporate dealmaking regulations, and the future of AI investments with Cheryl Casone on 'Mornings with Maria'. Fraser highlighted America's competitive advantage in evolving global markets.",
+      "source": "Fox Business",
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/video/6403336097112",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.foxbusiness.com/video/6403336097112",
+      "urlType": "article",
+      "publishedAt": "2026-08-13T15:39:23.000Z",
+      "date": "2026-08-13",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "589a6582339bb91a7749",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Can FANG's Higher 2026 Output Guidance Keep Earnings Momentum Alive?",
+      "summary": "Diamondback Energy (FANG) has raised its 2026 production outlook while keeping its full-year capital budget unchanged, signaling a focus on capital efficiency. This move aims to extend earnings momentum through higher volumes, provided operating gains can contain costs. The company's Q2 earnings surpassed expectations due to production growth and improved realized oil prices, supported by efficiency gains in drilling.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/COP/pressreleases/3833058/can-fangs-higher-2026-output-guidance-keep-earnings-momentum-alive/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/COP/pressreleases/3833058/can-fangs-higher-2026-output-guidance-keep-earnings-momentum-alive/",
+      "urlType": "article",
+      "publishedAt": "2026-08-13T15:37:56.000Z",
+      "date": "2026-08-13",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "8c5f220676c0c21c1034",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "CAE drastically reducing global footprint to cut costs as Iran war takes a toll",
+      "summary": "CAE Inc. plans to significantly reduce its global footprint by cutting 1.7 million square feet of space and closing several training centers by mid-2027 to lower costs. This transformation plan aims to reset the company, which saw first-quarter profits drop 46% year-over-year, partly due to the ongoing Middle East war impacting airline schedules and pilot training. Despite potential client losses, CEO Matthew Bromberg expects to retain most customer contracts by shifting training to other facilities.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/CAE-T/pressreleases/3831639/cae-drastically-reducing-global-footprint-to-cut-costs-as-iran-war-takes-a-toll/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CAE-T/pressreleases/3831639/cae-drastically-reducing-global-footprint-to-cut-costs-as-iran-war-takes-a-toll/",
+      "urlType": "article",
+      "publishedAt": "2026-08-13T15:26:00.000Z",
+      "date": "2026-08-13",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "5c39471b8ee0e7216bc9",
+      "id": "1a0377f5f75e0353a919",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "How Will GM's $4.5B Parts Plan Shield It From Supply Shocks?",
-      "summary": "General Motors has launched a $4.5 billion initiative to secure critical automotive parts and protect its production from future supply chain disruptions. This plan, involving Procura Auto Parts LLC, aims to mitigate risks from events like extreme weather, natural disasters, and cyberattacks by pre-financing and storing inventory from key suppliers. The move follows recent disruptions that have highlighted the vulnerabilities of just-in-time inventory systems, impacting not only GM but also competitors like Ford and Rivian.",
-      "source": "Yahoo Finance Singapore",
+      "title": "Kaplan Fox Reminds Investors of First Solar, Inc. (NASDAQ: FSLR) to a Securities Class Action Deadline - Contact the Firm Before August 24, 2026",
+      "summary": "Kaplan Fox & Kilsheimer LLP has filed a class action lawsuit against First Solar, Inc. (NASDAQ: FSLR) on behalf of investors who purchased securities between February 26, 2025, and February 24, 2026. The lawsuit alleges that First Solar overstated its capacity to manage U.S. tariff policy impacts and understated negative effects on its projected performance for fiscal year 2026, leading to significant stock price drops. Investors are reminded to contact the firm before the August 24, 2026 deadline to potentially serve as a lead plaintiff.",
+      "source": "FinancialContent",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/gms-4-5b-parts-plan-143300156.html",
+          "name": "FinancialContent",
+          "url": "https://markets.financialcontent.com/stocks/article/newmediawire-2026-8-13-kaplan-fox-reminds-investors-of-first-solar-inc-nasdaq-fslr-to-a-securities-class-action-deadline-contact-the-firm-before-august-24-2026",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/gms-4-5b-parts-plan-143300156.html",
+      "url": "https://markets.financialcontent.com/stocks/article/newmediawire-2026-8-13-kaplan-fox-reminds-investors-of-first-solar-inc-nasdaq-fslr-to-a-securities-class-action-deadline-contact-the-firm-before-august-24-2026",
       "urlType": "article",
-      "publishedAt": "2026-08-12T14:08:07.000Z",
-      "date": "2026-08-12",
+      "publishedAt": "2026-08-13T15:15:00.000Z",
+      "date": "2026-08-13",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 21
     },
     {
-      "id": "dd9505e61c55170bf7c0",
+      "id": "628ebff88320b3c2b15e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "GM sets up $4.5 billion supply chain prepayment facility",
-      "summary": "General Motors has established a $4.5 billion supply chain prepayment facility with Procura Auto Parts LLC to mitigate future disruptions. This arrangement allows Procura to prepay select GM suppliers for inventory, backed by GM's irrevocable payment undertakings, ensuring a steady supply of critical parts. The initiative aims to safeguard against issues like extreme weather, cyberattacks, and demand spikes, similar to past semiconductor shortages that impacted the automotive industry.",
-      "source": "Quartz",
+      "title": "Magnera (MAGN) Q3 2026 Earnings Call Transcript",
+      "summary": "Magnera (MAGN) reported a strong Q3 2026, with net sales increasing by 2% to $857 million and adjusted EBITDA up 9% to $99 million, driven by merger synergies and Project CORE initiatives. The company reaffirmed its full-year free cash flow guidance of $90 million to $110 million but adjusted its adjusted EBITDA outlook to the lower end of the previous range due to persistent inflation and macroeconomic uncertainty. Magnera highlighted its focus on nondiscretionary consumer products and strategic investments in innovation, such as the Universa product line, to drive future growth and shareholder value.",
+      "source": "The Globe and Mail",
       "sources": [
         {
-          "name": "Quartz",
-          "url": "https://qz.com/gm-supply-chain-prepayment-facility-procura-081226",
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3833189/magnera-magn-q3-2026-earnings-call-transcript/",
           "urlType": "article"
         }
       ],
-      "url": "https://qz.com/gm-supply-chain-prepayment-facility-procura-081226",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3833189/magnera-magn-q3-2026-earnings-call-transcript/",
       "urlType": "article",
-      "publishedAt": "2026-08-12T13:38:10.000Z",
-      "date": "2026-08-12",
+      "publishedAt": "2026-08-13T15:10:22.000Z",
+      "date": "2026-08-13",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "9cd645945931f74abd76",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Nasdaq-listed NXP Semiconductors expands Malaysia assembly, test capacity with new plant",
-      "summary": "NXP Semiconductors NV is expanding its assembly and test operations in Malaysia with a new highly automated facility, the North Campus, which will more than double its production capacity. Expected to be completed by Q3 2028, the facility will add 500,000 sq ft of production space, bringing NXP Malaysia's total to 900,000 sq ft. This expansion aims to enhance supply chain resilience, support AI adoption, and contribute to Malaysia's digital economy growth targets.",
-      "source": "The Edge Malaysia",
-      "sources": [
-        {
-          "name": "The Edge Malaysia",
-          "url": "https://theedgemalaysia.com/node/814284",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://theedgemalaysia.com/node/814284",
-      "urlType": "article",
-      "publishedAt": "2026-08-12T13:01:03.000Z",
-      "date": "2026-08-12",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "3724199ce83bce7d9525",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Three Reasons Why Bitcoin Adoption Will Keep Rising",
-      "summary": "Grayscale's Head of Research, Zach Pandl, outlines three key reasons why Bitcoin adoption is expected to continue rising in the medium- to longer-term, despite recent market fluctuations. These reasons include unchecked government deficits leading to inflation and currency debasement, the increasing ubiquity of blockchain technology through stablecoins and tokenization, and a generational shift in portfolio construction among younger investors who favor digital assets. The article concludes that the Bitcoin bear market has not altered the expectation for sustained adoption.",
-      "source": "Grayscale",
-      "sources": [
-        {
-          "name": "Grayscale",
-          "url": "https://www.grayscale.com/the-stack/three-reasons-why-bitcoin-adoption-will-keep-rising",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.grayscale.com/the-stack/three-reasons-why-bitcoin-adoption-will-keep-rising",
-      "urlType": "article",
-      "publishedAt": "2026-08-12T12:41:04.000Z",
-      "date": "2026-08-12",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 21
     }
   ]
 }
