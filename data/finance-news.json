@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-14",
-  "generatedAt": "2026-08-14T22:56:46.839Z",
-  "targetDate": "2026-08-14",
+  "updated": "2026-08-15",
+  "generatedAt": "2026-08-15T22:54:37.952Z",
+  "targetDate": "2026-08-15",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "status": "failed",
+      "itemCount": 0,
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 3,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -28,9 +28,9 @@
     },
     {
       "name": "Alpha Vantage",
-      "status": "degraded",
-      "itemCount": 50,
-      "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
+      "status": "ok",
+      "itemCount": 203,
+      "message": ""
     },
     {
       "name": "GDELT",
@@ -43,224 +43,229 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "e23b4e349e6985598d73",
+      "id": "d08e81dd950ac298a8ce",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Gencor Stock Surges Post Q3 Earnings, Revenues and Backlog Increase",
-      "summary": "Gencor Industries (GENC) shares surged 24.4% following strong Q3 fiscal 2026 earnings, with net revenues up 25.3% to $33.8 million and earnings per share increasing 50% to $0.39. The company also reported a record backlog of $79.2 million and significant increases in cash and marketable securities. Management expressed confidence in continued performance, driven by infrastructure spending and strong operational execution, despite potential risks from tariffs, inflation, and geopolitical instability.",
-      "source": "TradingView",
+      "title": "Westwater Resources announces $25 million loan to advance Kellyton graphite plant",
+      "summary": "Westwater Resources secured a $25 million direct loan from the Export-Import Bank of the United States (EXIM) to further develop its Kellyton graphite plant in Alabama. This funding, part of EXIM's Make More in America Initiative, will support construction, equipment installation, commissioning, and operational readiness, aiming for commercial production by 2027. The project is crucial for establishing a domestic supply chain for battery-grade natural graphite, reducing U.S. reliance on foreign sources for this critical mineral.",
+      "source": "TPI Media Group",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:dc909910b094b:0-gencor-stock-surges-post-q3-earnings-revenues-and-backlog-increase/",
+          "name": "TPI Media Group",
+          "url": "https://www.tpimediagroup.org/alexcityoutlook/westwater-resources-announces-25-million-loan-to-advance-kellyton-graphite-plant/article_48efb781-d666-4244-82e8-1352e44056ec.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:dc909910b094b:0-gencor-stock-surges-post-q3-earnings-revenues-and-backlog-increase/",
+      "url": "https://www.tpimediagroup.org/alexcityoutlook/westwater-resources-announces-25-million-loan-to-advance-kellyton-graphite-plant/article_48efb781-d666-4244-82e8-1352e44056ec.html",
       "urlType": "article",
-      "publishedAt": "2026-08-14T15:11:10.000Z",
-      "date": "2026-08-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 37
-    },
-    {
-      "id": "4548c475ae2660028f07",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "How e.l.f. Beauty Shifted Its Supply Chain Away From China",
-      "summary": "e.l.f. Beauty CEO Tarang P. Amin discusses the company's strategic move to reduce its manufacturing dependence on China. He explains how e.l.f. Beauty navigated tariff pressures and expanded its global supply chain to meet growing international demand. This initiative is part of a broader strategy to enhance supply chain resilience and address market dynamics.",
-      "source": "WSJ",
-      "sources": [
-        {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/video/series/wsj-leadership-institute-leaders/how-elf-beauty-shifted-its-supply-chain-away-from-china/7E522DDA-D2BA-404B-8E4D-D7B5FEE497BF",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.wsj.com/video/series/wsj-leadership-institute-leaders/how-elf-beauty-shifted-its-supply-chain-away-from-china/7E522DDA-D2BA-404B-8E4D-D7B5FEE497BF",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T14:10:54.000Z",
-      "date": "2026-08-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 37
-    },
-    {
-      "id": "2f2ed4a8c311b7324bec",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "3 Oil & Gas Drilling Stocks Bucking a Bearish Industry Trend",
-      "summary": "Despite a bearish industry outlook, the Oil and Gas - Drilling sector has seen strong performance over the past year, with a 68.9% gain. This article highlights Patterson-UTI Energy (PTEN), Nabors Industries (NBR), and Helmerich & Payne (HP) as standout companies. These companies are well-positioned due to their advanced assets, international opportunities, technology investments, and improving earnings prospects, allowing them to buck negative industry trends like commodity price volatility and geopolitical risks.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:c61ddfdcb094b:0-3-oil-gas-drilling-stocks-bucking-a-bearish-industry-trend/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:c61ddfdcb094b:0-3-oil-gas-drilling-stocks-bucking-a-bearish-industry-trend/",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T12:54:11.000Z",
-      "date": "2026-08-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "778ae8fe96ae7a8d6bc9",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行公告﹝2026﹞第21号",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081417014187625/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081417014187625/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T09:01:41.000Z",
-      "date": "2026-08-14",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "d4f84e88d24d67bfe8f1",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国证监会发布上市公司2025年年度财务报告会计监管报告",
-      "summary": "截至2026年4月30日，共5,517家上市公司披露了2025年年度财务报告，其中主板3,201家、创业板1,397家、科创",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7652148/content.shtml",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7652148/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T08:12:19.000Z",
-      "date": "2026-08-14",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "44873a69070f37dcf1aa",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行 国家外汇管理局发布《关于跨国公司本外币跨境资金集中运营业务有关事宜的通知》",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081410142217598/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081410142217598/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T02:14:22.000Z",
-      "date": "2026-08-14",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "df8dcab12a3e726ae9e3",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "2026年7月金融统计数据报告",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081414193264304/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081414193264304/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T06:19:32.000Z",
-      "date": "2026-08-14",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "bbaf84460ed3ade57605",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Wall Street Pricey? Try These 5 Dividend ETFs Under $50",
-      "summary": "With Wall Street rallying despite geopolitical tensions and interest rate concerns, many retail investors are finding individual stocks less accessible due to high prices. This article suggests dividend ETFs under $50 as an alternative, offering diversified exposure and income without a large upfront investment. It highlights five specific dividend ETFs: SCHD, IDOG, IDV, LVHI, and DIV, detailing their fees, yields, and year-to-date performance.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:e3df81475094b:0-wall-street-pricey-try-these-5-dividend-etfs-under-50/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:e3df81475094b:0-wall-street-pricey-try-these-5-dividend-etfs-under-50/",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T11:40:16.000Z",
-      "date": "2026-08-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
-    },
-    {
-      "id": "8a070c71c894af4bc1fa",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "The Friday Checkout: Can Kroger’s new e-commerce chief sort out its messy online business?",
-      "summary": "Kroger's new chief e-commerce officer, Nate Faust, faces the challenge of streamlining the company's complex and costly online business, particularly its Ocado-powered delivery service. Faust, with his background in founding online services like Jet.com and leading Walmart's e-commerce supply chain, is expected to bring fresh perspectives and logistics expertise to address the inefficiencies and struggles of Kroger's current digital operations. The article highlights the need for Kroger to sort out its online strategy to effectively compete with major players like Walmart and Amazon, especially as its Ocado network faces global challenges and fulfillment shifts towards stores.",
-      "source": "Grocery Dive",
-      "sources": [
-        {
-          "name": "Grocery Dive",
-          "url": "https://www.grocerydive.com/news/the-friday-checkout-kroger-messy-ecommerce-nate-faust/827846/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.grocerydive.com/news/the-friday-checkout-kroger-messy-ecommerce-nate-faust/827846/",
-      "urlType": "article",
-      "publishedAt": "2026-08-14T15:58:47.000Z",
-      "date": "2026-08-14",
+      "publishedAt": "2026-08-15T14:11:52.000Z",
+      "date": "2026-08-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "c8ba66dc8ff8363ce37f",
+      "id": "7be91c5c96791143a7dc",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Crocs Raises 2026 Outlook as DTC Growth Helps Offset Tariff Pressure",
-      "summary": "Crocs, Inc. (CROX) has raised its 2026 outlook due to a stronger second quarter, driven by direct-to-consumer growth, international expansion, and new products. These positives are partially offset by weakness in the HEYDUDE brand and tariff-related margin pressures. The company's ability to continue improving channel and geographic momentum will be key to sustaining earnings growth.",
-      "source": "Yahoo Finance Australia",
+      "title": "Transocean Share Surge Narrows Gap to Analyst Consensus View",
+      "summary": "Transocean (NYSE:RIG) shares gained 0.7% on Friday, closing at $5.76, despite underperforming the broader S&P 500 energy sector. The stock's current price is 11.2% below the analyst consensus target of $6.40, indicating a narrowing gap. The company's proposed acquisition of Valaris Ltd. (NYSE:VAL) and recent oil price increases are key factors influencing its valuation and future prospects.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "Yahoo Finance Australia",
-          "url": "https://au.finance.yahoo.com/news/crocs-raises-2026-outlook-dtc-135900744.html",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/transocean-stocks-oil-rally-leaves-just-11-to-consensus-target/",
           "urlType": "article"
         }
       ],
-      "url": "https://au.finance.yahoo.com/news/crocs-raises-2026-outlook-dtc-135900744.html",
+      "url": "https://ts2.tech/en/transocean-stocks-oil-rally-leaves-just-11-to-consensus-target/",
       "urlType": "article",
-      "publishedAt": "2026-08-14T13:40:35.000Z",
-      "date": "2026-08-14",
+      "publishedAt": "2026-08-15T12:40:16.000Z",
+      "date": "2026-08-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 22
+    },
+    {
+      "id": "4004f46603f7af0c4684",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "GM to Halt Chevrolet Sales in China, Ford Shifts Lincoln Output to US",
+      "summary": "General Motors is ending Chevrolet sales in China after a significant decline in units over the past decade, choosing instead to focus on its Buick and Cadillac brands within the country. Concurrently, Ford will cease producing Lincoln vehicles in China for the U.S. market by 2030, citing tariffs and connected-vehicle regulations as key factors, and will shift to domestic manufacturing. These moves highlight the diminishing influence of U.S. automakers in China, as domestic brands like BYD and Geely increasingly dominate the market.",
+      "source": "BigGo Finance",
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/41728245-077d-4fb5-8bfc-19c9c772b5f9",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://finance.biggo.com/news/41728245-077d-4fb5-8bfc-19c9c772b5f9",
+      "urlType": "article",
+      "publishedAt": "2026-08-15T11:05:11.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "b937373fb2abe91a5d8f",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
+      "summary": "Representative Carol Devine Miller sold stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp through her United Bank Brokerage Account. These transactions, valued between $15,001 and $50,000 each, occurred on March 10, 2025, and were disclosed as part of her congressional transparency requirements. The sales reflect her personal investment strategy rather than an assessment of the companies' performance.",
+      "source": "Investing.com South Africa",
+      "sources": [
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://m.za.investing.com/news/stock-market-news/carol-devine-miller-sells-stocks-in-pfizer-quest-diagnostics-target-and-us-bancorp-93CH-4430357?ampMode=1",
+          "urlType": "article"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/carol-devine-miller-sells-stocks-in-pfizer-quest-diagnostics-target-and-us-bancorp-93CH-4861428",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.za.investing.com/news/stock-market-news/carol-devine-miller-sells-stocks-in-pfizer-quest-diagnostics-target-and-us-bancorp-93CH-4430357?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-08-15T10:37:42.000Z",
+      "date": "2026-08-15",
+      "verification": "cross_verified",
+      "whySelected": "已发现 2 个相互独立的相关来源",
+      "score": 34
+    },
+    {
+      "id": "4de663c9346bc98cb34b",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "Ford and GM Are Locked in a New Battle Over Who’s the Most American Carmaker",
+      "summary": "Ford and General Motors are engaged in a new rivalry, vying to be seen as the most American carmaker amidst the ongoing U.S. trade war. This struggle involves tariffs on imports and batteries, forcing the Detroit giants to compete on who is more crucial to the U.S. economy, despite previously attempting a united front against chaotic trade policies.",
+      "source": "WSJ",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/business/autos/gm-ford-tariffs-87b02b95",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.wsj.com/business/autos/gm-ford-tariffs-87b02b95",
+      "urlType": "article",
+      "publishedAt": "2026-08-15T09:08:03.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "score": 27
+    },
+    {
+      "id": "37dc1770e8d9af17b82c",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "HSBC Stock And 2 Global Bank Picks for Trade and Rate Rule Changes",
+      "summary": "This article identifies three global banking stocks—Banco Bilbao Vizcaya Argentaria (BBVA), Banco Santander (SAN), and HSBC Holdings (HSBA)—that are well-positioned to navigate the evolving landscape of trade, interest rates, and compliance regulations. These banks offer diversified operations, significant digital banking investments, and varying risk-reward profiles due to their exposure to emerging markets and credit quality considerations. The analysis emphasizes that careful stock selection is crucial as policy changes can rapidly shift market leadership.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/es/banks/bme-bbva/banco-bilbao-vizcaya-argentaria-shares/news/hsbc-stock-and-2-global-bank-picks-for-trade-and-rate-rule-c",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/es/banks/bme-bbva/banco-bilbao-vizcaya-argentaria-shares/news/hsbc-stock-and-2-global-bank-picks-for-trade-and-rate-rule-c",
+      "urlType": "article",
+      "publishedAt": "2026-08-14T16:42:54.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "e397c24084ec10c9ce13",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Intuit Stock Is Up 7,369% Since Its 1993 IPO and It’s Down 45% This Year. Here’s the Fuller Picture.",
+      "summary": "Intuit stock (INTU) has experienced a significant 45% drop in 2026, primarily due to intensifying AI-driven tax competition, despite a long-term gain of 7,369% since its 1993 IPO. While analysts have significantly cut their price targets, they still see an average 31% upside. TIKR’s model suggests an even higher valuation of $592 by 2030, implying a 71% total return, believing the market has overly discounted the AI threat compared to Intuit's underlying business strength.",
+      "source": "TIKR.com",
+      "sources": [
+        {
+          "name": "TIKR.com",
+          "url": "https://www.tikr.com/blog/intuit-stock-is-up-7369-since-its-1993-ipo-and-its-down-45-this-year-heres-the-fuller-picture",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tikr.com/blog/intuit-stock-is-up-7369-since-its-1993-ipo-and-its-down-45-this-year-heres-the-fuller-picture",
+      "urlType": "article",
+      "publishedAt": "2026-08-15T14:49:06.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 32
+    },
+    {
+      "id": "d81d7c48404764f05160",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Helix Acquisition Corp III Posts Q2 Profit on IPO Trust Interest",
+      "summary": "Helix Acquisition Corp. III (Nasdaq: HLXC) reported a net income of $1.33 million for the second quarter of 2026, stemming from interest earned on its IPO trust account. The company, a SPAC, completed a $172.5 million IPO in January 2026 and now holds $175.05 million in its trust, reflecting a per-share value of $10.15. HLXC has until January 26, 2028, to complete a business combination, as it currently has no operations or revenue.",
+      "source": "Minichart",
+      "sources": [
+        {
+          "name": "Minichart",
+          "url": "https://www.minichart.com.sg/2026/08/15/helix-acquisition-corp-iii-posts-q2-profit-on-ipo-trust-interest/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.minichart.com.sg/2026/08/15/helix-acquisition-corp-iii-posts-q2-profit-on-ipo-trust-interest/",
+      "urlType": "article",
+      "publishedAt": "2026-08-15T09:43:04.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 32
+    },
+    {
+      "id": "0b15db0ba74104c1fab2",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "APMD SEC Filings - Apnimed, Inc. 10-K, 10-Q, 8-K Forms",
+      "summary": "This page provides a comprehensive resource for Apnimed, Inc. (APMD) SEC filings, including 10-K, 10-Q, and 8-K forms, enhanced with AI-generated summaries, sentiment, and impact scores. It highlights recent filings detailing director equity reclassifications, an IPO plan to fund the Oxnimbi sleep apnea drug, and major amendments to the company's charter and bylaws. The platform offers detailed insights into the potential market impact of these regulatory disclosures for investors and professionals.",
+      "source": "Stock Titan",
+      "sources": [
+        {
+          "name": "Stock Titan",
+          "url": "https://www.stocktitan.net/sec-filings/APMD/page-2.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stocktitan.net/sec-filings/APMD/page-2.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-14T21:42:05.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 31
+    },
+    {
+      "id": "c8c3290ce052561ae59a",
+      "category": "company_ipo",
+      "categoryLabel": "公司与上市",
+      "title": "Mountain Crest Acquisition 6 Corp. Q2 2026: Net income $349K, EPS $0.05— 10-Q Summary",
+      "summary": "Mountain Crest Acquisition 6 Corp. (MCAH) reported a Q2 2026 net income of $348,644 and diluted EPS of $0.05. As a blank-check special purpose acquisition company (SPAC), it has not reported any operating revenue for the period. The company completed an IPO, placing $60.0 million in a trust for a future acquisition, and is currently engaged in due diligence and target evaluation.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/tradingview:b912c9bc46954:0-mountain-crest-acquisition-6-corp-q2-2026-net-income-349k-eps-0-05-10-q-summary/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/tradingview:b912c9bc46954:0-mountain-crest-acquisition-6-corp-q2-2026-net-income-349k-eps-0-05-10-q-summary/",
+      "urlType": "article",
+      "publishedAt": "2026-08-14T21:42:04.000Z",
+      "date": "2026-08-15",
+      "verification": "single_source",
+      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
+      "score": 30
     }
   ]
 }

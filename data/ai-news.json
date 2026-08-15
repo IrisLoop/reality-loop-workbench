@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-14",
-  "generatedAt": "2026-08-14T22:56:38.664Z",
-  "targetDate": "2026-08-14",
+  "updated": "2026-08-15",
+  "generatedAt": "2026-08-15T22:54:00.720Z",
+  "targetDate": "2026-08-15",
   "timezone": "Asia/Shanghai",
-  "itemCount": 10,
+  "itemCount": 2,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,184 +14,40 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmssv94cg0h4mroffsb9e7a88",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "originalTitle": "dots3-note Preview：迈向服务真实生活的长程智能体，坚定的第一步",
-      "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-      "source": "AI HOT · AI 摘要 · 公众号：小红书技术（dots.llm）",
-      "url": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "aihotUrl": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88",
+      "id": "cmsuaf2hr05zgroe0y1e7275v",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+      "originalTitle": "AI-generated books are flooding Amazon and tanking sales for human authors",
+      "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
+      "originalUrl": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
+      "tags": [
+        "论文"
+      ],
+      "category": "paper",
+      "score": 70,
+      "date": "2026-08-15",
+      "publishedAt": "2026-08-15T11:00:50.000Z",
+      "discoveredAt": "2026-08-15T11:23:17.740Z"
+    },
+    {
+      "id": "cmst9yj3c05utrodz443l0odv",
+      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+      "originalTitle": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+      "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+      "source": "AI HOT · AI 摘要 · X：Gemini (@GeminiApp)",
+      "url": "https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv",
+      "originalUrl": "https://x.com/GeminiApp/status/2088326407730692538",
+      "aihotUrl": "https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
-      "score": 79,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T11:25:29.000Z",
-      "discoveredAt": "2026-08-14T11:31:00.943Z"
-    },
-    {
-      "id": "cmst2gs6d02lmro06sb7as7av",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "originalTitle": null,
-      "summary": null,
-      "source": "AI HOT · AI 摘要 · Ars Technica：AI（RSS）",
-      "url": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av",
-      "originalUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "aihotUrl": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 76,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T14:27:14.000Z",
-      "discoveredAt": "2026-08-14T14:52:53.220Z"
-    },
-    {
-      "id": "cmssir12d047oroffnpn5pcx1",
-      "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-      "originalTitle": "GLM-5.3：前沿编程能力与涌现的网络安全能力",
-      "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-      "source": "AI HOT · AI 摘要 · 公众号：智谱（GLM）",
-      "url": "https://aihot.virxact.com/items/cmssir12d047oroffnpn5pcx1",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-      "aihotUrl": "https://aihot.virxact.com/items/cmssir12d047oroffnpn5pcx1",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 73,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T05:31:04.000Z",
-      "discoveredAt": "2026-08-14T05:41:00.950Z"
-    },
-    {
-      "id": "cmsrscwfn03f7ro0n7qijclds",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-      "originalTitle": "Introducing Gemini 3.7 Flash",
-      "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
-      "source": "AI HOT · AI 摘要 · Google DeepMind：Blog（RSS）",
-      "url": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds",
-      "originalUrl": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 72,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-13T17:04:18.000Z",
-      "discoveredAt": "2026-08-13T17:22:11.372Z"
-    },
-    {
-      "id": "cmst3j53e03ncro068tgsr4xn",
-      "title": "通义千问开源 Qwen3.8 系列模型",
-      "originalTitle": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-      "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-      "source": "AI HOT · AI 摘要 · X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "url": "https://aihot.virxact.com/items/cmst3j53e03ncro068tgsr4xn",
-      "originalUrl": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "aihotUrl": "https://aihot.virxact.com/items/cmst3j53e03ncro068tgsr4xn",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 71,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T15:02:48.000Z",
-      "discoveredAt": "2026-08-14T15:22:45.052Z"
-    },
-    {
-      "id": "cmst4z2qp05boro06ce7kxtgd",
-      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-      "originalTitle": "State of Open Models： Summer 2026 Observations",
-      "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-      "source": "AI HOT · AI 摘要 · Hugging Face：Blog（RSS）",
-      "url": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd",
-      "originalUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "aihotUrl": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 71,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T16:03:07.993Z"
-    },
-    {
-      "id": "cmss6lsb701tsroib0kxz9q8q",
-      "title": "从0到1带你速通DeepSeek Harness。",
-      "originalTitle": null,
-      "summary": null,
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-      "aihotUrl": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 69,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-13T23:58:00.000Z",
-      "discoveredAt": "2026-08-14T00:01:01.197Z"
-    },
-    {
-      "id": "cmst3joqo03pwro0658o4g1m3",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "originalTitle": "Cursor is now a part of SpaceX",
-      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-      "source": "AI HOT · AI 摘要 · Cursor Blog",
-      "url": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3",
-      "originalUrl": "https://cursor.com/blog/joining-spacex",
-      "aihotUrl": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 68,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "discoveredAt": "2026-08-14T15:23:09.332Z"
-    },
-    {
-      "id": "cmss20h5g02uxroh6q6r1nqu9",
-      "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-      "originalTitle": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-      "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-      "source": "AI HOT · AI 摘要 · X：Boris Cherny (@bcherny)",
-      "url": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9",
-      "originalUrl": "https://x.com/bcherny/status/2088014489438621990",
-      "aihotUrl": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
       "score": 66,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-13T21:27:02.000Z",
-      "discoveredAt": "2026-08-13T21:52:28.613Z"
-    },
-    {
-      "id": "cmssi38vn03o9rofffr0z8lyb",
-      "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
-      "originalTitle": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-      "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
-      "source": "AI HOT · AI 摘要 · X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "url": "https://aihot.virxact.com/items/cmssi38vn03o9rofffr0z8lyb",
-      "originalUrl": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-      "aihotUrl": "https://aihot.virxact.com/items/cmssi38vn03o9rofffr0z8lyb",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 65,
-      "date": "2026-08-14",
-      "publishedAt": "2026-08-14T04:55:56.000Z",
-      "discoveredAt": "2026-08-14T05:22:30.653Z"
+      "date": "2026-08-15",
+      "publishedAt": "2026-08-14T18:06:29.000Z",
+      "discoveredAt": "2026-08-14T18:22:41.004Z"
     }
   ]
 }
