@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-15",
-  "generatedAt": "2026-08-15T22:54:37.952Z",
-  "targetDate": "2026-08-15",
+  "updated": "2026-08-16",
+  "generatedAt": "2026-08-16T22:53:32.336Z",
+  "targetDate": "2026-08-16",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -28,9 +28,9 @@
     },
     {
       "name": "Alpha Vantage",
-      "status": "ok",
-      "itemCount": 203,
-      "message": ""
+      "status": "degraded",
+      "itemCount": 50,
+      "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
       "name": "GDELT",
@@ -43,229 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "d08e81dd950ac298a8ce",
+      "id": "f8f8c8882f2a279ff18b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Westwater Resources announces $25 million loan to advance Kellyton graphite plant",
-      "summary": "Westwater Resources secured a $25 million direct loan from the Export-Import Bank of the United States (EXIM) to further develop its Kellyton graphite plant in Alabama. This funding, part of EXIM's Make More in America Initiative, will support construction, equipment installation, commissioning, and operational readiness, aiming for commercial production by 2027. The project is crucial for establishing a domestic supply chain for battery-grade natural graphite, reducing U.S. reliance on foreign sources for this critical mineral.",
-      "source": "TPI Media Group",
+      "title": "Halliburton (NYSE:HAL) stock in focus as geopolitical supply concerns lift oilfield services",
+      "summary": "Halliburton (NYSE:HAL) shares recently rose due to heightened geopolitical supply concerns, which brought the oilfield services sector into focus. As a major player in providing essential services for oil and gas extraction, Halliburton's stock performance reflects market sensitivity to supply-side developments and their impact on demand for oilfield services. The company's role in supporting global drilling and completion activity positions it sensitively within the industry.",
+      "source": "Kalkine Media",
       "sources": [
         {
-          "name": "TPI Media Group",
-          "url": "https://www.tpimediagroup.org/alexcityoutlook/westwater-resources-announces-25-million-loan-to-advance-kellyton-graphite-plant/article_48efb781-d666-4244-82e8-1352e44056ec.html",
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/oil-gas/halliburton-nysehal-stock-in-focus-as-geopolitical-supply-concerns-lift-oilfield-services",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tpimediagroup.org/alexcityoutlook/westwater-resources-announces-25-million-loan-to-advance-kellyton-graphite-plant/article_48efb781-d666-4244-82e8-1352e44056ec.html",
+      "url": "https://kalkinemedia.com/us/stocks/oil-gas/halliburton-nysehal-stock-in-focus-as-geopolitical-supply-concerns-lift-oilfield-services",
       "urlType": "article",
-      "publishedAt": "2026-08-15T14:11:52.000Z",
-      "date": "2026-08-15",
+      "publishedAt": "2026-08-16T06:08:13.000Z",
+      "date": "2026-08-16",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 23
     },
     {
-      "id": "7be91c5c96791143a7dc",
+      "id": "8c618f05bb5a873ff9c0",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Transocean Share Surge Narrows Gap to Analyst Consensus View",
-      "summary": "Transocean (NYSE:RIG) shares gained 0.7% on Friday, closing at $5.76, despite underperforming the broader S&P 500 energy sector. The stock's current price is 11.2% below the analyst consensus target of $6.40, indicating a narrowing gap. The company's proposed acquisition of Valaris Ltd. (NYSE:VAL) and recent oil price increases are key factors influencing its valuation and future prospects.",
-      "source": "TechStock²",
-      "sources": [
-        {
-          "name": "TechStock²",
-          "url": "https://ts2.tech/en/transocean-stocks-oil-rally-leaves-just-11-to-consensus-target/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ts2.tech/en/transocean-stocks-oil-rally-leaves-just-11-to-consensus-target/",
-      "urlType": "article",
-      "publishedAt": "2026-08-15T12:40:16.000Z",
-      "date": "2026-08-15",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "4004f46603f7af0c4684",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "GM to Halt Chevrolet Sales in China, Ford Shifts Lincoln Output to US",
-      "summary": "General Motors is ending Chevrolet sales in China after a significant decline in units over the past decade, choosing instead to focus on its Buick and Cadillac brands within the country. Concurrently, Ford will cease producing Lincoln vehicles in China for the U.S. market by 2030, citing tariffs and connected-vehicle regulations as key factors, and will shift to domestic manufacturing. These moves highlight the diminishing influence of U.S. automakers in China, as domestic brands like BYD and Geely increasingly dominate the market.",
-      "source": "BigGo Finance",
-      "sources": [
-        {
-          "name": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/41728245-077d-4fb5-8bfc-19c9c772b5f9",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://finance.biggo.com/news/41728245-077d-4fb5-8bfc-19c9c772b5f9",
-      "urlType": "article",
-      "publishedAt": "2026-08-15T11:05:11.000Z",
-      "date": "2026-08-15",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "b937373fb2abe91a5d8f",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
-      "summary": "Representative Carol Devine Miller sold stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp through her United Bank Brokerage Account. These transactions, valued between $15,001 and $50,000 each, occurred on March 10, 2025, and were disclosed as part of her congressional transparency requirements. The sales reflect her personal investment strategy rather than an assessment of the companies' performance.",
-      "source": "Investing.com South Africa",
-      "sources": [
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://m.za.investing.com/news/stock-market-news/carol-devine-miller-sells-stocks-in-pfizer-quest-diagnostics-target-and-us-bancorp-93CH-4430357?ampMode=1",
-          "urlType": "article"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/carol-devine-miller-sells-stocks-in-pfizer-quest-diagnostics-target-and-us-bancorp-93CH-4861428",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.za.investing.com/news/stock-market-news/carol-devine-miller-sells-stocks-in-pfizer-quest-diagnostics-target-and-us-bancorp-93CH-4430357?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-15T10:37:42.000Z",
-      "date": "2026-08-15",
-      "verification": "cross_verified",
-      "whySelected": "已发现 2 个相互独立的相关来源",
-      "score": 34
-    },
-    {
-      "id": "4de663c9346bc98cb34b",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "Ford and GM Are Locked in a New Battle Over Who’s the Most American Carmaker",
-      "summary": "Ford and General Motors are engaged in a new rivalry, vying to be seen as the most American carmaker amidst the ongoing U.S. trade war. This struggle involves tariffs on imports and batteries, forcing the Detroit giants to compete on who is more crucial to the U.S. economy, despite previously attempting a united front against chaotic trade policies.",
-      "source": "WSJ",
-      "sources": [
-        {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/business/autos/gm-ford-tariffs-87b02b95",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.wsj.com/business/autos/gm-ford-tariffs-87b02b95",
-      "urlType": "article",
-      "publishedAt": "2026-08-15T09:08:03.000Z",
-      "date": "2026-08-15",
-      "verification": "single_source",
-      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
-      "score": 27
-    },
-    {
-      "id": "37dc1770e8d9af17b82c",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "HSBC Stock And 2 Global Bank Picks for Trade and Rate Rule Changes",
-      "summary": "This article identifies three global banking stocks—Banco Bilbao Vizcaya Argentaria (BBVA), Banco Santander (SAN), and HSBC Holdings (HSBA)—that are well-positioned to navigate the evolving landscape of trade, interest rates, and compliance regulations. These banks offer diversified operations, significant digital banking investments, and varying risk-reward profiles due to their exposure to emerging markets and credit quality considerations. The analysis emphasizes that careful stock selection is crucial as policy changes can rapidly shift market leadership.",
+      "title": "Aramark (ARMK) Is Up 11.5% After Nexus-Driven Q3 Beat And New Campus Deal - Has The Bull Case Changed?",
+      "summary": "Aramark (ARMK) recently reported a strong Q3 2026, with sales of US$5,057.91 million and net income of US$97.66 million, driven by the Nexus platform and new educational contracts. This performance, including a new partnership with the University of Colorado Colorado Springs, supports a positive short-term outlook but the long-term investment narrative still needs to consider the risks of wage and healthcare cost inflation. Despite these challenges, Aramark's forecast projects significant revenue and earnings growth by 2029.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/es/banks/bme-bbva/banco-bilbao-vizcaya-argentaria-shares/news/hsbc-stock-and-2-global-bank-picks-for-trade-and-rate-rule-c",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nyse-armk/aramark/news/aramark-armk-is-up-115-after-nexus-driven-q3-beat-and-new-ca/amp",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/es/banks/bme-bbva/banco-bilbao-vizcaya-argentaria-shares/news/hsbc-stock-and-2-global-bank-picks-for-trade-and-rate-rule-c",
+      "url": "https://simplywall.st/stocks/us/consumer-services/nyse-armk/aramark/news/aramark-armk-is-up-115-after-nexus-driven-q3-beat-and-new-ca/amp",
       "urlType": "article",
-      "publishedAt": "2026-08-14T16:42:54.000Z",
-      "date": "2026-08-15",
+      "publishedAt": "2026-08-16T12:40:09.000Z",
+      "date": "2026-08-16",
       "verification": "single_source",
-      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
-      "score": 26
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
     },
     {
-      "id": "e397c24084ec10c9ce13",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Intuit Stock Is Up 7,369% Since Its 1993 IPO and It’s Down 45% This Year. Here’s the Fuller Picture.",
-      "summary": "Intuit stock (INTU) has experienced a significant 45% drop in 2026, primarily due to intensifying AI-driven tax competition, despite a long-term gain of 7,369% since its 1993 IPO. While analysts have significantly cut their price targets, they still see an average 31% upside. TIKR’s model suggests an even higher valuation of $592 by 2030, implying a 71% total return, believing the market has overly discounted the AI threat compared to Intuit's underlying business strength.",
-      "source": "TIKR.com",
+      "id": "eb034b0340b2339e242e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Rapid7, 8x8, Doximity, Marqeta, and Tenable Shares Are Soaring, What You Need To Know",
+      "summary": "Shares of Rapid7, 8x8, Doximity, Marqeta, and Tenable saw gains after the Bureau of Labor Statistics reported a flat July Producer Price Index, signaling moderating inflation. This data, combined with a cooling Consumer Price Index, suggests a less aggressive stance from the Federal Reserve, which positively impacts software companies valued on future cash flows. Rapid7, specifically, experienced a jump following a recent earnings beat and raised profit guidance, despite a decline in revenue and ARR, as investors reacted positively to its profitability push and integration of AI.",
+      "source": "Yahoo Finance UK",
       "sources": [
         {
-          "name": "TIKR.com",
-          "url": "https://www.tikr.com/blog/intuit-stock-is-up-7369-since-its-1993-ipo-and-its-down-45-this-year-heres-the-fuller-picture",
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/rapid7-8x8-doximity-marqeta-tenable-062100356.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tikr.com/blog/intuit-stock-is-up-7369-since-its-1993-ipo-and-its-down-45-this-year-heres-the-fuller-picture",
+      "url": "https://uk.finance.yahoo.com/news/rapid7-8x8-doximity-marqeta-tenable-062100356.html",
       "urlType": "article",
-      "publishedAt": "2026-08-15T14:49:06.000Z",
-      "date": "2026-08-15",
+      "publishedAt": "2026-08-16T06:21:00.000Z",
+      "date": "2026-08-16",
       "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 32
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
     },
     {
-      "id": "d81d7c48404764f05160",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Helix Acquisition Corp III Posts Q2 Profit on IPO Trust Interest",
-      "summary": "Helix Acquisition Corp. III (Nasdaq: HLXC) reported a net income of $1.33 million for the second quarter of 2026, stemming from interest earned on its IPO trust account. The company, a SPAC, completed a $172.5 million IPO in January 2026 and now holds $175.05 million in its trust, reflecting a per-share value of $10.15. HLXC has until January 26, 2028, to complete a business combination, as it currently has no operations or revenue.",
-      "source": "Minichart",
+      "id": "13ab607b436da0381011",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Dollar Tree Stock Leads 3 Value Retail Picks As Consumers Trade Down",
+      "summary": "As cooling inflation and flat real earnings pressure household budgets, consumers are trading down, benefiting value-focused retailers. This article highlights Dollar Tree (DLTR), Groupon (GRPN), and Wendy's (WEN) as three such stocks with potential due to their models appealing to budget-conscious shoppers and ongoing strategic initiatives, despite facing various risks.",
+      "source": "Sahm",
       "sources": [
         {
-          "name": "Minichart",
-          "url": "https://www.minichart.com.sg/2026/08/15/helix-acquisition-corp-iii-posts-q2-profit-on-ipo-trust-interest/",
+          "name": "Sahm",
+          "url": "https://www.sahmcapital.com/news/content/dollar-tree-stock-leads-3-value-retail-picks-as-consumers-trade-down-2026-08-14",
           "urlType": "article"
         }
       ],
-      "url": "https://www.minichart.com.sg/2026/08/15/helix-acquisition-corp-iii-posts-q2-profit-on-ipo-trust-interest/",
+      "url": "https://www.sahmcapital.com/news/content/dollar-tree-stock-leads-3-value-retail-picks-as-consumers-trade-down-2026-08-14",
       "urlType": "article",
-      "publishedAt": "2026-08-15T09:43:04.000Z",
-      "date": "2026-08-15",
+      "publishedAt": "2026-08-16T02:07:49.000Z",
+      "date": "2026-08-16",
       "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 32
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
     },
     {
-      "id": "0b15db0ba74104c1fab2",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "APMD SEC Filings - Apnimed, Inc. 10-K, 10-Q, 8-K Forms",
-      "summary": "This page provides a comprehensive resource for Apnimed, Inc. (APMD) SEC filings, including 10-K, 10-Q, and 8-K forms, enhanced with AI-generated summaries, sentiment, and impact scores. It highlights recent filings detailing director equity reclassifications, an IPO plan to fund the Oxnimbi sleep apnea drug, and major amendments to the company's charter and bylaws. The platform offers detailed insights into the potential market impact of these regulatory disclosures for investors and professionals.",
-      "source": "Stock Titan",
+      "id": "59b10174ed3fac1d2e78",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Applied Materials Trades More Than 25% Below Its High With Revenue at a Record",
+      "summary": "Applied Materials (NASDAQ: AMAT) reported record fiscal third-quarter results, with revenue up 25% year-over-year to $9.1 billion and non-GAAP EPS up 41% to $3.50. Despite this strong performance and an impressive outlook for Q4 driven by AI demand, the stock fell, trading over 25% below its 52-week high. The market appears cautious due to the cyclical nature of the semiconductor equipment business and concerns about how long the current AI spending boom will last.",
+      "source": "Currently.com",
       "sources": [
         {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/APMD/page-2.html",
+          "name": "Currently.com",
+          "url": "https://currently.att.yahoo.com/att/applied-materials-trades-more-25-150100547.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.stocktitan.net/sec-filings/APMD/page-2.html",
+      "url": "https://currently.att.yahoo.com/att/applied-materials-trades-more-25-150100547.html",
       "urlType": "article",
-      "publishedAt": "2026-08-14T21:42:05.000Z",
-      "date": "2026-08-15",
+      "publishedAt": "2026-08-16T15:07:03.000Z",
+      "date": "2026-08-16",
       "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 31
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     },
     {
-      "id": "c8c3290ce052561ae59a",
-      "category": "company_ipo",
-      "categoryLabel": "公司与上市",
-      "title": "Mountain Crest Acquisition 6 Corp. Q2 2026: Net income $349K, EPS $0.05— 10-Q Summary",
-      "summary": "Mountain Crest Acquisition 6 Corp. (MCAH) reported a Q2 2026 net income of $348,644 and diluted EPS of $0.05. As a blank-check special purpose acquisition company (SPAC), it has not reported any operating revenue for the period. The company completed an IPO, placing $60.0 million in a trust for a future acquisition, and is currently engaged in due diligence and target evaluation.",
-      "source": "TradingView",
+      "id": "399e07cc1cae1db3366a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Melco Resorts & Entertainment Limited Just Missed Earnings - But Analysts Have Updated Their Models",
+      "summary": "Melco Resorts & Entertainment Limited (NASDAQ:MLCO) recently reported disappointing Q2 results, missing revenue and EPS expectations. Following this, analysts have slightly downgraded their EPS forecasts for 2026, though revenue estimates remain largely unchanged. Despite the earnings miss and slower projected revenue growth compared to the industry, the consensus price target of US$7.42 for the stock remained broadly stable, suggesting analysts don't foresee a major impact on valuation.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/tradingview:b912c9bc46954:0-mountain-crest-acquisition-6-corp-q2-2026-net-income-349k-eps-0-05-10-q-summary/",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mlco/melco-resorts-entertainment/news/melco-resorts-entertainment-limited-just-missed-earnings-but",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/tradingview:b912c9bc46954:0-mountain-crest-acquisition-6-corp-q2-2026-net-income-349k-eps-0-05-10-q-summary/",
+      "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mlco/melco-resorts-entertainment/news/melco-resorts-entertainment-limited-just-missed-earnings-but",
       "urlType": "article",
-      "publishedAt": "2026-08-14T21:42:04.000Z",
-      "date": "2026-08-15",
+      "publishedAt": "2026-08-16T14:09:26.000Z",
+      "date": "2026-08-16",
       "verification": "single_source",
-      "whySelected": "与“公司与上市”主题高度相关，当前仅有单一来源",
-      "score": 30
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "e79fc357c19f02f9a67b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Western Alliance Bancorporation (WAL) Leans On Growth Narratives, Is A 10% Discount Warranted?",
+      "summary": "Western Alliance Bancorporation (WAL) is trading near $82.32, with a widely followed narrative suggesting a fair value of $91.93, indicating it may be 10.5% undervalued. This optimism stems from accelerating investments in high-growth banking verticals and digital transformation efforts. However, concerns exist regarding its concentration in commercial real estate and reliance on specialty lending, which could impact earnings.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/banks/nyse-wal/western-alliance-bancorporation/news/western-alliance-bancorporation-wal-leans-on-growth-narrativ",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/banks/nyse-wal/western-alliance-bancorporation/news/western-alliance-bancorporation-wal-leans-on-growth-narrativ",
+      "urlType": "article",
+      "publishedAt": "2026-08-16T13:11:13.000Z",
+      "date": "2026-08-16",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "2c68478d1786e5549a4b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Why Honda Motor (TSE:7267) Is Back In The Spotlight",
+      "summary": "Honda Motor (TSE:7267) is gaining attention after strong Q1 2027 results and an upgraded full-year earnings outlook, influenced by currency trends and global demand. While the stock has seen significant gains, there's a debate on whether it's overvalued or still has room for growth, with different models offering varying fair value estimates. The company's ongoing cost optimization and profitability improvements are key factors in its future outlook.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/jp/automobiles/tse-7267/honda-motor-shares/news/why-honda-motor-tse7267-is-back-in-the-spotlight/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/jp/automobiles/tse-7267/honda-motor-shares/news/why-honda-motor-tse7267-is-back-in-the-spotlight/amp",
+      "urlType": "article",
+      "publishedAt": "2026-08-16T12:43:11.000Z",
+      "date": "2026-08-16",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "396be78ed2c35936c7e4",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "AMG’s Alternatives Boom Powers Record Growth",
+      "summary": "Affiliated Managers Group (AMG) has reported record second-quarter earnings and assets under management, largely driven by a strategic shift towards higher-fee alternative investments. While the company's stock has seen a significant rally and analysts maintain a bullish outlook, the current share price is close to the consensus target, suggesting that much of the positive news may already be factored in. The firm's focus on alternatives now accounts for over 60% of its earnings, though market exposure remains a potential risk.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/articles/amgs-alternatives-boom-powers-record-growth/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/articles/amgs-alternatives-boom-powers-record-growth/",
+      "urlType": "article",
+      "publishedAt": "2026-08-16T12:41:11.000Z",
+      "date": "2026-08-16",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "570dbb99876b318d0ec1",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "State of Wyoming Takes $1.35 Million Position in Bank Of Montreal $BMO",
+      "summary": "The State of Wyoming has acquired a new position of $1.35 million in Bank of Montreal (NYSE:BMO) during the second quarter, making it one of many institutional investors holding 45.82% of the stock. Despite mixed analyst ratings, the bank exceeded its recent quarterly earnings and revenue estimates, reporting EPS of $2.68 and revenue of $7.04 billion, and subsequently raised its quarterly dividend to $1.71, yielding 3.7%.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-state-of-wyoming-takes-135-million-position-in-bank-of-montreal-bmo-2026-08-16/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-state-of-wyoming-takes-135-million-position-in-bank-of-montreal-bmo-2026-08-16/",
+      "urlType": "article",
+      "publishedAt": "2026-08-16T12:13:41.000Z",
+      "date": "2026-08-16",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
