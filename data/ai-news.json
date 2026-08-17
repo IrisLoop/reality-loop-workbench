@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-16",
-  "generatedAt": "2026-08-16T22:52:54.678Z",
-  "targetDate": "2026-08-16",
+  "updated": "2026-08-17",
+  "generatedAt": "2026-08-17T22:58:11.575Z",
+  "targetDate": "2026-08-17",
   "timezone": "Asia/Shanghai",
-  "itemCount": 2,
+  "itemCount": 6,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,40 +14,112 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmsvptx2m061frovmjoavsi0l",
-      "title": "新兴多智能体系统的模式与问题",
-      "originalTitle": null,
-      "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
-      "originalUrl": "https://www.anthropic.com/research/multiagent-systems",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 73,
-      "date": "2026-08-16",
-      "publishedAt": "2026-08-16T11:17:57.393Z",
-      "discoveredAt": "2026-08-16T11:22:31.379Z"
-    },
-    {
-      "id": "cmsuto7hk0912rouhodiiywlk",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "originalTitle": "Cursor 现已成为 SpaceX 的一部分",
-      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
-      "originalUrl": "https://cursor.com/blog/joining-spacex",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
+      "id": "cmsx9jvre05y6romms3bo1umb",
+      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+      "originalTitle": "Securing the Infrastructure of Intelligence",
+      "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+      "source": "AI HOT · AI 摘要 · NVIDIA Blog（RSS）",
+      "url": "https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb",
+      "originalUrl": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsx9jvre05y6romms3bo1umb",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 71,
-      "date": "2026-08-16",
-      "publishedAt": "2026-08-15T20:05:54.703Z",
-      "discoveredAt": "2026-08-15T20:22:17.762Z"
+      "score": 77,
+      "date": "2026-08-17",
+      "publishedAt": "2026-08-17T12:34:51.000Z",
+      "discoveredAt": "2026-08-17T13:22:19.094Z"
+    },
+    {
+      "id": "cmsx8zij405t2rommm4gwgzjh",
+      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
+      "originalTitle": "https://x.com/i/article/2089330332369588224",
+      "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
+      "source": "AI HOT · AI 摘要 · X：Jensen Huang (@JensenHuang)",
+      "url": "https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh",
+      "originalUrl": "https://x.com/JensenHuang/status/2089331487342829862",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 74,
+      "date": "2026-08-17",
+      "publishedAt": "2026-08-17T12:40:19.000Z",
+      "discoveredAt": "2026-08-17T13:06:32.046Z"
+    },
+    {
+      "id": "cmsx9696t05u7rommdoa60l4p",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+      "originalTitle": "The Defender's Window",
+      "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.virxact.com/items/cmsx9696t05u7rommdoa60l4p",
+      "originalUrl": "https://openai.com/index/the-defenders-window",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsx9696t05u7rommdoa60l4p",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 74,
+      "date": "2026-08-17",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "discoveredAt": "2026-08-17T13:11:44.722Z"
+    },
+    {
+      "id": "cmsx9jy2a05yerommy1e0jc6t",
+      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+      "originalTitle": null,
+      "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
+      "url": "https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t",
+      "originalUrl": "https://www.ithome.com/0/990/812.htm",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 73,
+      "date": "2026-08-17",
+      "publishedAt": "2026-08-17T12:25:27.000Z",
+      "discoveredAt": "2026-08-17T13:22:19.094Z"
+    },
+    {
+      "id": "cmswesk6a0r2hrovml2edcl2c",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "originalTitle": "Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+      "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+      "source": "AI HOT · AI 摘要 · Simon Willison 博客",
+      "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+      "originalUrl": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "aihotUrl": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 73,
+      "date": "2026-08-17",
+      "publishedAt": "2026-08-16T22:00:39.000Z",
+      "discoveredAt": "2026-08-16T23:01:19.206Z"
+    },
+    {
+      "id": "cmsx7ffrz049uromm6en3if02",
+      "title": "OpenRouter 推出 Activity 仪表盘与 Analytics API：按智能体、模型、请求追踪 AI 使用成本",
+      "originalTitle": "Understand your AI usage： every agent， model， and request",
+      "summary": "OpenRouter 发布 Activity 仪表盘和 beta Analytics API，可按智能体、模型、请求维度查看支出、token 量、缓存命中率等指标，并支持下钻至单条请求日志。",
+      "source": "AI HOT · AI 摘要 · OpenRouter：Announcements（RSS）",
+      "url": "https://aihot.virxact.com/items/cmsx7ffrz049uromm6en3if02",
+      "originalUrl": "https://openrouter.ai/blog/announcements/activity-dashboard",
+      "aihotUrl": "https://aihot.virxact.com/items/cmsx7ffrz049uromm6en3if02",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 63,
+      "date": "2026-08-17",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "discoveredAt": "2026-08-17T12:22:55.595Z"
     }
   ]
 }
