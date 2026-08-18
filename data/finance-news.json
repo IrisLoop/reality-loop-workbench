@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-17",
-  "generatedAt": "2026-08-17T22:58:19.700Z",
-  "targetDate": "2026-08-17",
+  "updated": "2026-08-18",
+  "generatedAt": "2026-08-18T22:57:55.881Z",
+  "targetDate": "2026-08-18",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -17,14 +17,14 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "Alpha Vantage",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "22bc14b958184c3462bf",
+      "id": "1266acfae973046810de",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Investors Are Excited About European Stocks. This Europe ETF is Up 23% in 1 Year. Here's Why.",
-      "summary": "European stocks are experiencing a boom, with the iShares Core MSCI Europe ETF (IEUR) up 23% in the past year, driven by better earnings, lower oil prices, and the spread of the AI trade. While this ETF offers diversification from U.S. tech stocks and a strong dividend yield of 3.11%, it has historically underperformed the S&P 500. Investors should consider their long-term outlook for European economic growth when evaluating this investment.",
-      "source": "The Globe and Mail",
+      "title": "Exxon shares climb 1.5% as Brent at $91 challenges Vance’s lower-oil target",
+      "summary": "Exxon Mobil (NYSE:XOM) shares rose 1.5% as Brent crude hit $91.22, significantly above Vice President JD Vance's target of $79. While higher oil prices generally boost Exxon's upstream profits, ongoing Middle East instability has led to production disruptions, including a 450,000 barrels per day reduction in Qatar during Q2. Analysts maintain a generally favorable outlook on Exxon, with a consensus price target suggesting a modest upside, balancing the benefits of high crude prices against operational uncertainties and geopolitical risks.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3888475/investors-are-excited-about-european-stocks-this-europe-etf-is-up-23-in-1-year-here-s-why/",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/exxon-stock-rises-1-5-as-91-brent-tests-vances-lower-oil-goal/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/3888475/investors-are-excited-about-european-stocks-this-europe-etf-is-up-23-in-1-year-here-s-why/",
+      "url": "https://ts2.tech/en/exxon-stock-rises-1-5-as-91-brent-tests-vances-lower-oil-goal/",
       "urlType": "article",
-      "publishedAt": "2026-08-17T15:41:16.000Z",
-      "date": "2026-08-17",
+      "publishedAt": "2026-08-18T10:42:52.000Z",
+      "date": "2026-08-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 28
     },
     {
-      "id": "213e026513bbbc93a9d4",
+      "id": "b000d9ce29f868e409b2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Fastenal Stock Climbs 14% in a Month: Buy the High Now or Wait?",
-      "summary": "Fastenal (FAST) stock has risen 14% in the past month, outperforming its industry and the S&P 500, driven by strong Q2 2026 results with increased earnings and sales. The company's growth is attributed to technology-driven customer relationships, favorable pricing, and strong demand, despite challenges like unfavorable price-cost dynamics and inflation. While Fastenal shows strong prospects, its premium valuation and near-term margin pressures suggest investors might want to wait for a more attractive entry point, earning it a Zacks Rank #3 (Hold).",
-      "source": "Yahoo Finance Singapore",
-      "sources": [
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/fastenal-stock-climbs-14-month-151200885.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://sg.finance.yahoo.com/news/fastenal-stock-climbs-14-month-151200885.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-17T15:38:07.000Z",
-      "date": "2026-08-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "47d21d2ba9b82d52a9a9",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Corning Inc Stock (GLW) Moved Up by 5.69% on Aug 17: Key Drivers Unveiled",
-      "summary": "Corning Inc (GLW) stock rose by 5.69% on August 17, driven primarily by high demand for its optical communications infrastructure due to AI data center expansion. The company's localized manufacturing strategy has insulated it from trade tariffs, and strong quarterly earnings with robust revenue and profit margins further boosted investor confidence. Analysts have responded favorably to management's optimistic outlook and long-term strategy, highlighting Corning's strong execution across its segments.",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 6.00% on Aug 18: Key Drivers Unveiled",
+      "summary": "Lam Research Corp (LRCX) stock dropped by 6.00% on August 18, driven by valuation-driven profit-taking, sector adjustments, and cautious market sentiment due to R&D capital commitments and insider share sales. Despite fundamental strengths in revenue and net profit, technical indicators show a neutral MACD and RSI, but an overbought Williams %R. Key risks include increased capital expenditure, geopolitical trade restrictions impacting China revenue, memory market cyclicality, and an elevated valuation multiple.",
       "source": "TradingKey",
       "sources": [
         {
           "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262112553-market-movers-glw-20260817",
+          "url": "https://www.tradingkey.com/news/market-movers/262115379-market-movers-lrcx-20260818",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262112553-market-movers-glw-20260817",
+      "url": "https://www.tradingkey.com/news/market-movers/262115379-market-movers-lrcx-20260818",
       "urlType": "article",
-      "publishedAt": "2026-08-17T15:15:17.000Z",
-      "date": "2026-08-17",
+      "publishedAt": "2026-08-18T14:20:36.000Z",
+      "date": "2026-08-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 27
     },
     {
-      "id": "2bde19444d4d7826c219",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行新增8家数字人民币业务运营机构",
-      "summary": null,
-      "source": "中国人民银行",
+      "id": "224e2d233fe23aaa762a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Applied Materials Inc Stock (AMAT) Opened Down by 4.09% on Aug 18: Facts Behind the Movement",
+      "summary": "Applied Materials Inc. (AMAT) stock opened down by 4.09% despite reporting record third-quarter revenue and earnings, with investors reacting cautiously to a flat quarter-over-quarter gross margin outlook and declining revenue from China. The stock's weakness is attributed to profit-taking and valuation repricing after a multi-month rally, alongside concerns over operating leverage and geopolitical risks. Technical indicators suggest neutral market conditions, while analysts maintain an average price target of $635.19.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081714114337358/index.html",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262115291-market-movers-amat-20260818",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081714114337358/index.html",
+      "url": "https://www.tradingkey.com/news/market-movers/262115291-market-movers-amat-20260818",
       "urlType": "article",
-      "publishedAt": "2026-08-17T06:11:43.000Z",
-      "date": "2026-08-17",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
+      "publishedAt": "2026-08-18T13:47:03.000Z",
+      "date": "2026-08-18",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
     },
     {
-      "id": "213e026513bbbc93a9d4",
+      "id": "1f308d55325fe1045f49",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "国务院关于修改《住房公积金管理条例》的决定",
+      "summary": null,
+      "source": "中国政府网",
+      "sources": [
+        {
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+      "urlType": "article",
+      "publishedAt": "2026-08-18T04:00:00.000Z",
+      "date": "2026-08-18",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 47
+    },
+    {
+      "id": "5f87fc93cd319033d607",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Fastenal Stock Climbs 14% in a Month: Buy the High Now or Wait?",
-      "summary": "Fastenal's stock has climbed 14% in the past month, outperforming industry benchmarks, driven by strong Q2 2026 results with increased earnings and sales, and growth in technology-driven customer relationships. However, the company faces headwinds from unfavorable price-cost dynamics, transportation expenses, and inflation. Despite its growth momentum and robust operating leverage, its premium valuation compared to peers suggests investors might consider waiting for a more attractive entry point, as indicated by its Zacks Rank #3 (Hold).",
+      "title": "Marvell Technology, Vishay Intertechnology, and Allegro MicroSystems Shares Plummet, What You Need To Know",
+      "summary": "Shares of Marvell Technology, Vishay Intertechnology, and Allegro MicroSystems plummeted due to the 30-year U.S. Treasury yield hitting a 19-year high and elevated oil prices, which negatively impact chip stocks by raising the discount rate for future earnings and financing costs. This market overreaction could present buying opportunities for high-quality stocks. Vishay Intertechnology, in particular, has shown extreme volatility, though its recent drop comes after a mixed second-quarter report and strong year-to-date performance.",
       "source": "TradingView",
       "sources": [
         {
           "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:490f4e98d094b:0-fastenal-stock-climbs-14-in-a-month-buy-the-high-now-or-wait/",
+          "url": "https://www.tradingview.com/news/stockstory:7578cde61094b:0-marvell-technology-vishay-intertechnology-and-allegro-microsystems-shares-plummet-what-you-need-to-know/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:490f4e98d094b:0-fastenal-stock-climbs-14-in-a-month-buy-the-high-now-or-wait/",
+      "url": "https://www.tradingview.com/news/stockstory:7578cde61094b:0-marvell-technology-vishay-intertechnology-and-allegro-microsystems-shares-plummet-what-you-need-to-know/",
       "urlType": "article",
-      "publishedAt": "2026-08-17T15:08:25.000Z",
-      "date": "2026-08-17",
+      "publishedAt": "2026-08-18T15:41:30.000Z",
+      "date": "2026-08-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 22
     },
     {
-      "id": "8b199431f0d1057d6a18",
+      "id": "0577831976dc823cb5d4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Iran war costing CAE millions of dollars, as it drastically reduces global footprint",
-      "summary": "CAE Inc. is facing significant financial setbacks due to the Middle East war, which cost the company millions in its latest quarter and is forcing a drastic reduction in its global footprint. The company's CEO, Matthew Bromberg, announced plans to shed 1.7 million square feet of space and retire or relocate a significant number of full-flight simulators, aiming to lower expenses amidst rising fuel costs and decreased demand for pilot training. Despite these challenges, CAE surpassed analyst expectations for adjusted earnings, and long-term fundamentals for pilot training are viewed positively.",
-      "source": "Wings Magazine",
+      "title": "What prompted US' Wolverine Worldwide to lift its 2026 forecast?",
+      "summary": "Wolverine Worldwide reported strong second-quarter results with revenue up 6.8% year-on-year, driven by Merrell and Saucony, and robust international sales growth. Despite higher US tariffs impacting gross margin, the company raised its full-year 2026 revenue and EPS outlook due to continued business momentum and strong brand performance. This positive performance has led to an optimistic forecast for the fiscal year.",
+      "source": "Fibre2Fashion",
       "sources": [
         {
-          "name": "Wings Magazine",
-          "url": "https://www.wingsmagazine.com/iran-war-costing-cae-millions-of-dollars-as-it-drastically-reduces-global-footprint/",
+          "name": "Fibre2Fashion",
+          "url": "https://www.fibre2fashion.com/news/apparel-news/what-prompted-us-wolverine-worldwide-to-lift-its-2026-forecast--312751-newsdetails.htm",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wingsmagazine.com/iran-war-costing-cae-millions-of-dollars-as-it-drastically-reduces-global-footprint/",
+      "url": "https://www.fibre2fashion.com/news/apparel-news/what-prompted-us-wolverine-worldwide-to-lift-its-2026-forecast--312751-newsdetails.htm",
       "urlType": "article",
-      "publishedAt": "2026-08-17T14:11:56.000Z",
-      "date": "2026-08-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "164792962b2e8c3008c0",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "‘Gold has been in a bull market for 25 Years’ – Morgan Stanley CIO Wilson",
-      "summary": "Morgan Stanley CIO Mike Wilson states that gold has been in a bull market for 25 years and serves as a crucial defensive asset, particularly in environments where traditional 60/40 portfolios fail. He emphasizes gold's role alongside other commodities in providing diversification and hedging against inflation, especially given the current economic landscape where bonds offer less protection. Despite recent struggles, Morgan Stanley maintains a long-term bullish outlook on gold, reiterating a $5,200 per ounce target, although ETF demand and Federal Reserve policies remain key factors influencing its short-term performance.",
-      "source": "KITCO",
-      "sources": [
-        {
-          "name": "KITCO",
-          "url": "https://www.kitco.com/news/article/2026-08-17/gold-has-been-bull-market-25-years-morgan-stanley-cio-wilson",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.kitco.com/news/article/2026-08-17/gold-has-been-bull-market-25-years-morgan-stanley-cio-wilson",
-      "urlType": "article",
-      "publishedAt": "2026-08-17T14:09:15.000Z",
-      "date": "2026-08-17",
+      "publishedAt": "2026-08-18T13:12:14.000Z",
+      "date": "2026-08-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "037754fa41ff978735c1",
+      "id": "26f8831d9df45935dce8",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Precious Metals StoneX Bullion weekly round-up; Indian silver licences issued",
-      "summary": "The StoneX Bullion weekly round-up discusses the performance of precious metals, noting that gold and silver found buoyancy despite weak US retail sales, partially due to seasonal factors and a weakening dollar. A significant development for the silver market is the issuance of import licenses in India, which is expected to stabilize prices and allow jewelers to build inventory for the upcoming wedding season. The report also touches on technical indicators for gold and silver, the impact of US tariffs on polysilicon products affecting silver demand, and ETF activity for both metals.",
-      "source": "www.stonex.com",
+      "title": "Why MP Materials (MP) Is Up 7.0% After Stronger NdPr Output and a Narrower Quarterly Loss",
+      "summary": "MP Materials reported stronger second-quarter 2026 results with increased NdPr output of 840 MT and a narrower net loss of US$20.3 million, contributing to a 7.0% stock price increase. This performance indicates a shift towards higher-value rare earth materials production and supports its strategy of building U.S.-backed, non-China rare earth supply chains. While the results are a positive data point, the company's reliance on a single mine and capital-intensive expansion projects, like the 10X magnet campus, remain key investment considerations.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "www.stonex.com",
-          "url": "https://www.stonex.com/en/insights/precious-metals-stonex-bullion-weekly-round-up-indian-silver-licences-issued/",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/why-mp-materials-mp-is-up-70-after-stronger-ndpr-output-and",
           "urlType": "article"
         }
       ],
-      "url": "https://www.stonex.com/en/insights/precious-metals-stonex-bullion-weekly-round-up-indian-silver-licences-issued/",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/why-mp-materials-mp-is-up-70-after-stronger-ndpr-output-and",
       "urlType": "article",
-      "publishedAt": "2026-08-17T12:47:00.000Z",
-      "date": "2026-08-17",
+      "publishedAt": "2026-08-18T12:40:22.000Z",
+      "date": "2026-08-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 20
     },
     {
-      "id": "9055cfcfccd5e240f87e",
+      "id": "d656adb19795c9c39f3f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Lululemon Athletica stock holds around $119 as guidance weighs on sentiment",
-      "summary": "Lululemon Athletica's stock is trading around $119, with investors reacting coolly to its Q1 earnings, which showed modest revenue growth but softer full-year earnings guidance. The stock is down over 40% year-to-date in 2026 and more than 75% from its 2023 peak, indicating a significant de-rating despite continued demand for its products. The market is now focused on how the company will manage to improve profitability and close the performance gap relative to the broader market.",
+      "title": "Brunswick bets on tech and recurring revenue to offset slow new boat sales",
+      "summary": "Brunswick Corp., owner of Sea Ray and Boston Whaler, is countering an expected slowdown in new boat sales through 2026 by focusing on advanced navigation technology and its expanding Freedom Boat Club. The company plans to boost recurring revenue from marine electronics, software, and the boat club's growing membership of over 63,000 globally. Brunswick aims for $7-8 billion in revenue by 2030, driven by innovation, market share gains, and reduced supply chain risks.",
+      "source": "Pluang",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/brunswick-berinvestasi-teknologi-navigasi-ai-dan-pendapatan-berulang",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://pluang.com/en/news-feed/brunswick-berinvestasi-teknologi-navigasi-ai-dan-pendapatan-berulang",
+      "urlType": "article",
+      "publishedAt": "2026-08-18T12:40:06.000Z",
+      "date": "2026-08-18",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "2b53efb5b323f0936c66",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "CAAP Q2 2026 Earnings: Revenue Grew as EBITDA Margin Contracted",
+      "summary": "Corporación América Airports (CAAP) reported a 12.0% increase in Q2 2026 revenue to $534.0 million, driven by higher commercial and aeronautical revenue, while basic EPS rose 6.0% to $0.32. However, adjusted EBITDA declined by 4.5% and margins contracted due to weaker performance in Argentina and Uruguay, along with accounting factors like IAS 29 hyperinflation. The company maintains strong liquidity and approved $150 million in dividends, but investors should monitor regional capacity constraints, cost control, and capital allocation given acquisition opportunities.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/earnings/262115154-tradingkey",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/earnings/262115154-tradingkey",
+      "urlType": "article",
+      "publishedAt": "2026-08-18T12:40:05.000Z",
+      "date": "2026-08-18",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "7189749ce4cb5ec3718e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "M&T Bank stock holds near its consensus target as Q2 2026 earnings beat forecasts",
+      "summary": "M&T Bank's stock is trading near its Wall Street consensus target following a stronger-than-expected Q2 2026 earnings report, with GAAP normalized earnings per share of $5.32 significantly beating the $4.66 estimate. The shares closed at $252.86 on August 17, 2026, slightly above the average analyst target of $252.28, suggesting that the positive results are largely priced in. Institutional interest remains strong, but future upside will likely depend on factors beyond current performance, such as credit quality stability and fee income growth.",
       "source": "AD HOC NEWS",
       "sources": [
         {
           "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lululemon-athletica-stock-holds-around-119-as-guidance-weighs-on/69959698",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/m-and-t-bank-stock-holds-near-its-consensus-target-as-q2-2026-earnings/69965453",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lululemon-athletica-stock-holds-around-119-as-guidance-weighs-on/69959698",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/m-and-t-bank-stock-holds-near-its-consensus-target-as-q2-2026-earnings/69965453",
       "urlType": "article",
-      "publishedAt": "2026-08-17T15:44:00.000Z",
-      "date": "2026-08-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "851b8c8faf01597184a3",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Marvell Shares Surge 7.5%, Market Value Rises $14.6 Billion Ahead of Earnings",
-      "summary": "Marvell Technology shares surged 7.5%, increasing its market value by $14.6 billion, driven by investor anticipation of strong AI networking demand ahead of its fiscal second-quarter earnings report. The stock's current valuation, at 25.5 times projected fiscal 2026 revenue, sets a high bar for the upcoming earnings announcement. Analysts maintain a positive outlook, with an average price target of $269.85, but options markets are pricing in a significant 14% swing around the earnings release.",
-      "source": "TechStock²",
-      "sources": [
-        {
-          "name": "TechStock²",
-          "url": "https://ts2.tech/en/marvell-stock-jumps-7-5-adding-14-6-billion-before-earnings/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ts2.tech/en/marvell-stock-jumps-7-5-adding-14-6-billion-before-earnings/",
-      "urlType": "article",
-      "publishedAt": "2026-08-17T15:40:40.000Z",
-      "date": "2026-08-17",
+      "publishedAt": "2026-08-18T15:46:49.000Z",
+      "date": "2026-08-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
