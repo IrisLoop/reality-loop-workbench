@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-18",
-  "generatedAt": "2026-08-18T22:57:55.881Z",
-  "targetDate": "2026-08-18",
+  "updated": "2026-08-19",
+  "generatedAt": "2026-08-19T22:59:04.326Z",
+  "targetDate": "2026-08-19",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -23,8 +23,8 @@
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "Alpha Vantage",
@@ -43,221 +43,226 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "1266acfae973046810de",
+      "id": "29000fd1f2239b96bde5",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Exxon shares climb 1.5% as Brent at $91 challenges Vance’s lower-oil target",
-      "summary": "Exxon Mobil (NYSE:XOM) shares rose 1.5% as Brent crude hit $91.22, significantly above Vice President JD Vance's target of $79. While higher oil prices generally boost Exxon's upstream profits, ongoing Middle East instability has led to production disruptions, including a 450,000 barrels per day reduction in Qatar during Q2. Analysts maintain a generally favorable outlook on Exxon, with a consensus price target suggesting a modest upside, balancing the benefits of high crude prices against operational uncertainties and geopolitical risks.",
-      "source": "TechStock²",
+      "title": "Ameriprise Gains 14.6% YTD: Should You Buy the Stock Now?",
+      "summary": "Ameriprise Financial (AMP) has seen a 14.6% year-to-date gain, outperforming the S&P 500 and its peers. The company's strong performance is attributed to its diversified business model, robust revenue growth, strategic portfolio optimization, solid balance sheet, and efficient capital returns. Analysts have revised earnings estimates upward, and the stock appears undervalued, suggesting a potential buying opportunity.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "TechStock²",
-          "url": "https://ts2.tech/en/exxon-stock-rises-1-5-as-91-brent-tests-vances-lower-oil-goal/",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:623ea0693094b:0-ameriprise-gains-14-6-ytd-should-you-buy-the-stock-now/",
+          "urlType": "article"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/ameriprise-gains-14-6-ytd-142900408.html",
           "urlType": "article"
         }
       ],
-      "url": "https://ts2.tech/en/exxon-stock-rises-1-5-as-91-brent-tests-vances-lower-oil-goal/",
+      "url": "https://www.tradingview.com/news/zacks:623ea0693094b:0-ameriprise-gains-14-6-ytd-should-you-buy-the-stock-now/",
       "urlType": "article",
-      "publishedAt": "2026-08-18T10:42:52.000Z",
-      "date": "2026-08-18",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 28
+      "publishedAt": "2026-08-19T14:07:06.000Z",
+      "date": "2026-08-19",
+      "verification": "cross_verified",
+      "whySelected": "已发现 2 个相互独立的相关来源",
+      "score": 34
     },
     {
-      "id": "b000d9ce29f868e409b2",
+      "id": "b54e58b2a60caa387290",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Lam Research Corp Stock (LRCX) Moved Down by 6.00% on Aug 18: Key Drivers Unveiled",
-      "summary": "Lam Research Corp (LRCX) stock dropped by 6.00% on August 18, driven by valuation-driven profit-taking, sector adjustments, and cautious market sentiment due to R&D capital commitments and insider share sales. Despite fundamental strengths in revenue and net profit, technical indicators show a neutral MACD and RSI, but an overbought Williams %R. Key risks include increased capital expenditure, geopolitical trade restrictions impacting China revenue, memory market cyclicality, and an elevated valuation multiple.",
-      "source": "TradingKey",
+      "title": "The Cyclospora Scare Cost CAVA Sales in July. August Erased the Doubt.",
+      "summary": "Cava Group (CAVA) exceeded Q2 expectations with strong revenue and same-restaurant sales growth despite a Cyclospora outbreak affecting July sales. Management, however, maintained its full-year guidance, exercising caution due to lingering concerns and a \"fluid macroeconomic and geopolitical backdrop.\" Analysts' target prices have tracked the stock's performance rather than leading it, though TIKR's model suggests a significant upside for CAVA based on its long-term growth potential.",
+      "source": "TIKR.com",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262115379-market-movers-lrcx-20260818",
+          "name": "TIKR.com",
+          "url": "https://www.tikr.com/blog/the-cyclospora-scare-cost-cava-sales-in-july-august-erased-the-doubt",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262115379-market-movers-lrcx-20260818",
+      "url": "https://www.tikr.com/blog/the-cyclospora-scare-cost-cava-sales-in-july-august-erased-the-doubt",
       "urlType": "article",
-      "publishedAt": "2026-08-18T14:20:36.000Z",
-      "date": "2026-08-18",
+      "publishedAt": "2026-08-19T15:41:13.000Z",
+      "date": "2026-08-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 27
     },
     {
-      "id": "224e2d233fe23aaa762a",
+      "id": "010dc6fbe22ac4f706e2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Applied Materials Inc Stock (AMAT) Opened Down by 4.09% on Aug 18: Facts Behind the Movement",
-      "summary": "Applied Materials Inc. (AMAT) stock opened down by 4.09% despite reporting record third-quarter revenue and earnings, with investors reacting cautiously to a flat quarter-over-quarter gross margin outlook and declining revenue from China. The stock's weakness is attributed to profit-taking and valuation repricing after a multi-month rally, alongside concerns over operating leverage and geopolitical risks. Technical indicators suggest neutral market conditions, while analysts maintain an average price target of $635.19.",
-      "source": "TradingKey",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262115291-market-movers-amat-20260818",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingkey.com/news/market-movers/262115291-market-movers-amat-20260818",
-      "urlType": "article",
-      "publishedAt": "2026-08-18T13:47:03.000Z",
-      "date": "2026-08-18",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "1f308d55325fe1045f49",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "国务院关于修改《住房公积金管理条例》的决定",
-      "summary": null,
-      "source": "中国政府网",
-      "sources": [
-        {
-          "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
-      "urlType": "article",
-      "publishedAt": "2026-08-18T04:00:00.000Z",
-      "date": "2026-08-18",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "5f87fc93cd319033d607",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Marvell Technology, Vishay Intertechnology, and Allegro MicroSystems Shares Plummet, What You Need To Know",
-      "summary": "Shares of Marvell Technology, Vishay Intertechnology, and Allegro MicroSystems plummeted due to the 30-year U.S. Treasury yield hitting a 19-year high and elevated oil prices, which negatively impact chip stocks by raising the discount rate for future earnings and financing costs. This market overreaction could present buying opportunities for high-quality stocks. Vishay Intertechnology, in particular, has shown extreme volatility, though its recent drop comes after a mixed second-quarter report and strong year-to-date performance.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/stockstory:7578cde61094b:0-marvell-technology-vishay-intertechnology-and-allegro-microsystems-shares-plummet-what-you-need-to-know/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/stockstory:7578cde61094b:0-marvell-technology-vishay-intertechnology-and-allegro-microsystems-shares-plummet-what-you-need-to-know/",
-      "urlType": "article",
-      "publishedAt": "2026-08-18T15:41:30.000Z",
-      "date": "2026-08-18",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "0577831976dc823cb5d4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "What prompted US' Wolverine Worldwide to lift its 2026 forecast?",
-      "summary": "Wolverine Worldwide reported strong second-quarter results with revenue up 6.8% year-on-year, driven by Merrell and Saucony, and robust international sales growth. Despite higher US tariffs impacting gross margin, the company raised its full-year 2026 revenue and EPS outlook due to continued business momentum and strong brand performance. This positive performance has led to an optimistic forecast for the fiscal year.",
-      "source": "Fibre2Fashion",
-      "sources": [
-        {
-          "name": "Fibre2Fashion",
-          "url": "https://www.fibre2fashion.com/news/apparel-news/what-prompted-us-wolverine-worldwide-to-lift-its-2026-forecast--312751-newsdetails.htm",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.fibre2fashion.com/news/apparel-news/what-prompted-us-wolverine-worldwide-to-lift-its-2026-forecast--312751-newsdetails.htm",
-      "urlType": "article",
-      "publishedAt": "2026-08-18T13:12:14.000Z",
-      "date": "2026-08-18",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "26f8831d9df45935dce8",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Why MP Materials (MP) Is Up 7.0% After Stronger NdPr Output and a Narrower Quarterly Loss",
-      "summary": "MP Materials reported stronger second-quarter 2026 results with increased NdPr output of 840 MT and a narrower net loss of US$20.3 million, contributing to a 7.0% stock price increase. This performance indicates a shift towards higher-value rare earth materials production and supports its strategy of building U.S.-backed, non-China rare earth supply chains. While the results are a positive data point, the company's reliance on a single mine and capital-intensive expansion projects, like the 10X magnet campus, remain key investment considerations.",
+      "title": "Procter And Gamble And Other US Staples Stocks Worth Watching On Tariff Costs",
+      "summary": "This article examines how new U.S. tariffs might impact consumer staples companies and highlights three stocks—Spectrum Brands Holdings (SPB), Tyson Foods (TSN), and Procter & Gamble (PG)—for investors to watch. It discusses each company's operations, market cap, and strategies for managing increased import costs, such as passing on costs, supply chain adjustments, or relying on brand loyalty. The analysis also touches on the risks and rewards associated with each stock in the context of changing trade policies and consumer sentiment.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/why-mp-materials-mp-is-up-70-after-stronger-ndpr-output-and",
+          "url": "https://simplywall.st/stocks/us/household/nyse-spb/spectrum-brands-holdings/news/procter-and-gamble-and-other-us-staples-stocks-worth-watchin",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/why-mp-materials-mp-is-up-70-after-stronger-ndpr-output-and",
+      "url": "https://simplywall.st/stocks/us/household/nyse-spb/spectrum-brands-holdings/news/procter-and-gamble-and-other-us-staples-stocks-worth-watchin",
       "urlType": "article",
-      "publishedAt": "2026-08-18T12:40:22.000Z",
-      "date": "2026-08-18",
+      "publishedAt": "2026-08-19T13:31:16.000Z",
+      "date": "2026-08-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 25
     },
     {
-      "id": "d656adb19795c9c39f3f",
+      "id": "eee302131e33d16b1fce",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Brunswick bets on tech and recurring revenue to offset slow new boat sales",
-      "summary": "Brunswick Corp., owner of Sea Ray and Boston Whaler, is countering an expected slowdown in new boat sales through 2026 by focusing on advanced navigation technology and its expanding Freedom Boat Club. The company plans to boost recurring revenue from marine electronics, software, and the boat club's growing membership of over 63,000 globally. Brunswick aims for $7-8 billion in revenue by 2030, driven by innovation, market share gains, and reduced supply chain risks.",
-      "source": "Pluang",
+      "title": "4 Stocks Defying Geopolitical Headwinds With Recent Dividend Hikes",
+      "summary": "Amid geopolitical tensions and market volatility, dividend-paying stocks offer stability and income for conservative investors. This article highlights four companies—EnerSys (ENS), H&R Block (HRB), Badger Meter (BMI), and United Community Banks (UCB)—that have recently announced dividend hikes, providing consistent returns despite economic uncertainties. Each company's dividend history, yield, and payout ratio are detailed.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/brunswick-berinvestasi-teknologi-navigasi-ai-dan-pendapatan-berulang",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:df3a75d94094b:0-4-stocks-defying-geopolitical-headwinds-with-recent-dividend-hikes/",
           "urlType": "article"
         }
       ],
-      "url": "https://pluang.com/en/news-feed/brunswick-berinvestasi-teknologi-navigasi-ai-dan-pendapatan-berulang",
+      "url": "https://www.tradingview.com/news/zacks:df3a75d94094b:0-4-stocks-defying-geopolitical-headwinds-with-recent-dividend-hikes/",
       "urlType": "article",
-      "publishedAt": "2026-08-18T12:40:06.000Z",
-      "date": "2026-08-18",
+      "publishedAt": "2026-08-19T12:41:01.000Z",
+      "date": "2026-08-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 24
     },
     {
-      "id": "2b53efb5b323f0936c66",
+      "id": "3ca9fc6e212dff3aa4dc",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "CAAP Q2 2026 Earnings: Revenue Grew as EBITDA Margin Contracted",
-      "summary": "Corporación América Airports (CAAP) reported a 12.0% increase in Q2 2026 revenue to $534.0 million, driven by higher commercial and aeronautical revenue, while basic EPS rose 6.0% to $0.32. However, adjusted EBITDA declined by 4.5% and margins contracted due to weaker performance in Argentina and Uruguay, along with accounting factors like IAS 29 hyperinflation. The company maintains strong liquidity and approved $150 million in dividends, but investors should monitor regional capacity constraints, cost control, and capital allocation given acquisition opportunities.",
-      "source": "TradingKey",
+      "title": "A Solid Strategy & Recent Buyouts Aid ABM Amid Stiff Competition",
+      "summary": "ABM Industries is benefiting from its multi-year strategic plan, ELEVATE, and growth in the data center market driven by AI investments and strategic acquisitions like WGNSTAR. The company demonstrates strong shareholder commitment through consistent dividends and share buybacks, and maintains robust liquidity. However, ABM faces challenges from increasing costs impacting margins and intense competition within the facilities management sector.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/earnings/262115154-tradingkey",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:3126b7a77094b:0-a-solid-strategy-recent-buyouts-aid-abm-amid-stiff-competition/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/earnings/262115154-tradingkey",
+      "url": "https://www.tradingview.com/news/zacks:3126b7a77094b:0-a-solid-strategy-recent-buyouts-aid-abm-amid-stiff-competition/",
       "urlType": "article",
-      "publishedAt": "2026-08-18T12:40:05.000Z",
-      "date": "2026-08-18",
+      "publishedAt": "2026-08-19T15:40:19.000Z",
+      "date": "2026-08-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 17
     },
     {
-      "id": "7189749ce4cb5ec3718e",
+      "id": "29bdb71543c832f72977",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "M&T Bank stock holds near its consensus target as Q2 2026 earnings beat forecasts",
-      "summary": "M&T Bank's stock is trading near its Wall Street consensus target following a stronger-than-expected Q2 2026 earnings report, with GAAP normalized earnings per share of $5.32 significantly beating the $4.66 estimate. The shares closed at $252.86 on August 17, 2026, slightly above the average analyst target of $252.28, suggesting that the positive results are largely priced in. Institutional interest remains strong, but future upside will likely depend on factors beyond current performance, such as credit quality stability and fee income growth.",
-      "source": "AD HOC NEWS",
+      "title": "Buy, Hold or Sell Tesla Stock Ahead of Cybercab Launch?",
+      "summary": "Tesla is preparing to launch its Cybercab in Austin, TX, a purpose-built autonomous vehicle designed to be a major growth engine for its robotaxi ambitions. While Tesla's EV and energy businesses show growth in deliveries, profitability is declining, and significant spending on future technologies like autonomy, AI, and robotics is impacting free cash flow. The article suggests that while Tesla's long-term potential is compelling, the stock is currently a \"Hold\" due to uncertain short-term profitability and unproven scalability of its new ventures, especially when compared to competitors like Waymo and Zoox.",
+      "source": "Yahoo Finance UK",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/m-and-t-bank-stock-holds-near-its-consensus-target-as-q2-2026-earnings/69965453",
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/buy-hold-sell-tesla-stock-134400558.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/m-and-t-bank-stock-holds-near-its-consensus-target-as-q2-2026-earnings/69965453",
+      "url": "https://uk.finance.yahoo.com/news/buy-hold-sell-tesla-stock-134400558.html",
       "urlType": "article",
-      "publishedAt": "2026-08-18T15:46:49.000Z",
-      "date": "2026-08-18",
+      "publishedAt": "2026-08-19T15:39:50.000Z",
+      "date": "2026-08-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "c188c66b34d387396e15",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Can Starbucks' Solid Comps Growth Support Stronger FY26 Earnings?",
+      "summary": "Starbucks (SBUX) demonstrated strong comparable sales and earnings trends in Q3 fiscal 2026, with global comparable sales up 7.9% and EPS increasing 70%. The company raised its fiscal 2026 outlook, projecting U.S. comparable sales growth of over 6% and consolidated operating margin above 11%. Despite anticipated consumer variability, Starbucks aims to maintain growth and margin gains, supported by its $2 billion cost-savings plan.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:41d474968094b:0-can-starbucks-solid-comps-growth-support-stronger-fy26-earnings/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:41d474968094b:0-can-starbucks-solid-comps-growth-support-stronger-fy26-earnings/",
+      "urlType": "article",
+      "publishedAt": "2026-08-19T15:39:14.000Z",
+      "date": "2026-08-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "5c04b15f770335bf123e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "McDonald's Stock Down 19% in 6 Months: Is This a Buying Opportunity?",
+      "summary": "McDonald's (MCD) shares have dropped 18.9% in the past six months due to weak U.S. traffic, inconsistent value offerings, and marketing missteps, underperforming its industry and the S&P 500. While the company faces near-term challenges in its U.S. business, it has levers for recovery, including improved value propositions, international growth, and a new beverage platform. Despite some analyst revisions, long-term growth is expected, and the stock currently trades at a discount, though new investors may want to await clearer signs of U.S. improvement.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:d9fd75edf094b:0-mcdonald-s-stock-down-19-in-6-months-is-this-a-buying-opportunity/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:d9fd75edf094b:0-mcdonald-s-stock-down-19-in-6-months-is-this-a-buying-opportunity/",
+      "urlType": "article",
+      "publishedAt": "2026-08-19T15:38:49.000Z",
+      "date": "2026-08-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "5f465a4045318842c1aa",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "International Flavors & Fragrances (NYSE:IFF) Insider Sells 5,718 Shares of Stock",
+      "summary": "An insider at International Flavors & Fragrances (NYSE:IFF), De Mendonca Ana Paula Teles, sold 5,718 shares of the company's stock for approximately $475,680. This comes as the company missed analyst expectations for quarterly EPS and revenue but maintained its dividend and authorized a $2.5 billion stock repurchase program. Analysts generally rate the stock as a \"Moderate Buy.\"",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/international-flavors-fragrances-nyseiff-insider-sells-5718-shares-of-stock-2026-08-19/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/international-flavors-fragrances-nyseiff-insider-sells-5718-shares-of-stock-2026-08-19/",
+      "urlType": "article",
+      "publishedAt": "2026-08-19T15:11:23.000Z",
+      "date": "2026-08-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "778329e1ae168bfa511f",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Calix (CALX) Up 4.5% Since Last Earnings Report: Can It Continue?",
+      "summary": "Calix (CALX) shares have increased by approximately 4.5% since its last earnings report, outperforming the S&P 500. The company reported strong second-quarter 2026 results, with both revenue and earnings per share exceeding Zacks Consensus Estimates, driven by robust demand and growth in its Appliance and Software and service segments. Despite a positive recent performance, investor estimates for the stock have shown a downward trend, leading Zacks to assign a \"Hold\" rank.",
+      "source": "Yahoo Finance Singapore",
+      "sources": [
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/calix-calx-4-5-since-153002019.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://sg.finance.yahoo.com/news/calix-calx-4-5-since-153002019.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-19T15:10:16.000Z",
+      "date": "2026-08-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
