@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-19",
-  "generatedAt": "2026-08-19T22:58:56.205Z",
-  "targetDate": "2026-08-19",
+  "updated": "2026-08-20",
+  "generatedAt": "2026-08-20T23:02:51.086Z",
+  "targetDate": "2026-08-20",
   "timezone": "Asia/Shanghai",
-  "itemCount": 6,
+  "itemCount": 4,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,112 +14,76 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmszeb2mx0b3srodpef1ub0j0",
-      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-      "originalTitle": "GLM-5.3上线：拓展智能上界的可及边界",
-      "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-      "source": "AI HOT · AI 摘要 · 公众号：智谱（GLM）",
-      "url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "aihotUrl": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 79,
-      "date": "2026-08-19",
-      "publishedAt": "2026-08-19T01:03:29.000Z",
-      "discoveredAt": "2026-08-19T01:11:01.484Z"
-    },
-    {
-      "id": "cmsz79zol04j8rodpvun6zobl",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "originalTitle": "Mojo 现已开源！",
-      "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "originalUrl": "https://www.modular.com/blog/mojo-open-source",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 74,
-      "date": "2026-08-19",
-      "publishedAt": "2026-08-18T21:26:01.095Z",
-      "discoveredAt": "2026-08-18T21:54:13.934Z"
-    },
-    {
-      "id": "cmt0d2tsl1961rodpnvzxo4cc",
-      "title": "OpenRouter 宣布加入 Stripe",
-      "originalTitle": "OpenRouter is Joining Stripe",
-      "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-      "source": "AI HOT · AI 摘要 · OpenRouter：Announcements（RSS）",
-      "url": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc",
-      "originalUrl": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "aihotUrl": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 72,
-      "date": "2026-08-19",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "discoveredAt": "2026-08-19T17:24:22.858Z"
-    },
-    {
-      "id": "cmsz1974l06hbro20gosn5d78",
-      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-      "originalTitle": "How Much Memory Does Your Agent Actually Need？",
-      "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-      "source": "AI HOT · AI 摘要 · Hugging Face：Blog（RSS）",
-      "url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-      "originalUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 66,
-      "date": "2026-08-19",
-      "publishedAt": "2026-08-18T18:09:38.000Z",
-      "discoveredAt": "2026-08-18T19:05:39.262Z"
-    },
-    {
-      "id": "cmsz49ptt022qrodp5mc1nt1x",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-      "originalTitle": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-      "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-      "source": "AI HOT · AI 摘要 · X：Claude (@claudeai)",
-      "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-      "originalUrl": "https://x.com/claudeai/status/2089806039088517356",
-      "aihotUrl": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 65,
-      "date": "2026-08-19",
-      "publishedAt": "2026-08-18T20:06:01.000Z",
-      "discoveredAt": "2026-08-18T20:30:00.860Z"
-    },
-    {
-      "id": "cmt05zhyg139trodp6bxsy9e2",
-      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-      "originalTitle": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
-      "source": "AI HOT · AI 摘要 · Hugging Face：Blog（RSS）",
-      "url": "https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2",
-      "originalUrl": "https://huggingface.co/blog/LiquidAI/qad",
-      "aihotUrl": "https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2",
+      "id": "cmt1di48c04vuro1q95i06dby",
+      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+      "originalTitle": null,
+      "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
+      "url": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby",
+      "originalUrl": "https://www.ithome.com/0/992/239.htm",
+      "aihotUrl": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
-      "score": 64,
-      "date": "2026-08-19",
-      "publishedAt": "2026-08-19T13:48:49.000Z",
-      "discoveredAt": "2026-08-19T14:05:48.972Z"
+      "score": 72,
+      "date": "2026-08-20",
+      "publishedAt": "2026-08-20T09:45:51.000Z",
+      "discoveredAt": "2026-08-20T10:24:01.577Z"
+    },
+    {
+      "id": "cmt0s2ems0dkxro2oylebzxob",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "originalTitle": null,
+      "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
+      "url": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
+      "originalUrl": "https://www.ithome.com/0/991/886.htm",
+      "aihotUrl": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 71,
+      "date": "2026-08-20",
+      "publishedAt": "2026-08-20T00:17:26.000Z",
+      "discoveredAt": "2026-08-20T00:23:57.005Z"
+    },
+    {
+      "id": "cmt0kxcuu07f2ro2owuqpbjc8",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+      "originalTitle": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+      "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+      "source": "AI HOT · AI 摘要 · X：Sky Computing Lab (@haoailab)",
+      "url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+      "originalUrl": "https://x.com/haoailab/status/2090177721913770407",
+      "aihotUrl": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 71,
+      "date": "2026-08-20",
+      "publishedAt": "2026-08-19T20:42:57.000Z",
+      "discoveredAt": "2026-08-19T21:04:04.391Z"
+    },
+    {
+      "id": "cmt1k19bn06qgrokx1p75h1gv",
+      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+      "originalTitle": "The Claude Code Guide For Startups",
+      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+      "source": "AI HOT · AI 摘要 · Claude：Blog（网页）",
+      "url": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+      "originalUrl": "https://claude.com/blog/claude-code-guide-for-startups",
+      "aihotUrl": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 65,
+      "date": "2026-08-20",
+      "publishedAt": "2026-08-20T13:26:53.704Z",
+      "discoveredAt": "2026-08-20T13:26:53.704Z"
     }
   ]
 }

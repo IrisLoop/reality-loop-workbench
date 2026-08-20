@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-19",
-  "generatedAt": "2026-08-19T22:59:04.326Z",
-  "targetDate": "2026-08-19",
+  "updated": "2026-08-20",
+  "generatedAt": "2026-08-20T23:02:59.238Z",
+  "targetDate": "2026-08-20",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,226 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "29000fd1f2239b96bde5",
+      "id": "c4ce470adde2e004d125",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ameriprise Gains 14.6% YTD: Should You Buy the Stock Now?",
-      "summary": "Ameriprise Financial (AMP) has seen a 14.6% year-to-date gain, outperforming the S&P 500 and its peers. The company's strong performance is attributed to its diversified business model, robust revenue growth, strategic portfolio optimization, solid balance sheet, and efficient capital returns. Analysts have revised earnings estimates upward, and the stock appears undervalued, suggesting a potential buying opportunity.",
-      "source": "TradingView",
+      "title": "Starbucks Sheds More Than 100 Jobs as It Wraps Up Restructuring",
+      "summary": "Starbucks eliminated 104 roles as part of a restructuring effort aimed at boosting growth. The job cuts include positions in the store design and construction team and affect employees who declined to relocate to the company's new Nashville office. This move is part of a broader restructuring announced in May, impacting roles in the U.S. and internationally.",
+      "source": "Bloomberg.com",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:623ea0693094b:0-ameriprise-gains-14-6-ytd-should-you-buy-the-stock-now/",
-          "urlType": "article"
-        },
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/ameriprise-gains-14-6-ytd-142900408.html",
+          "name": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/starbucks-sheds-more-than-100-jobs-as-it-wraps-up-restructuring",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:623ea0693094b:0-ameriprise-gains-14-6-ytd-should-you-buy-the-stock-now/",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/starbucks-sheds-more-than-100-jobs-as-it-wraps-up-restructuring",
       "urlType": "article",
-      "publishedAt": "2026-08-19T14:07:06.000Z",
-      "date": "2026-08-19",
-      "verification": "cross_verified",
-      "whySelected": "已发现 2 个相互独立的相关来源",
-      "score": 34
-    },
-    {
-      "id": "b54e58b2a60caa387290",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "The Cyclospora Scare Cost CAVA Sales in July. August Erased the Doubt.",
-      "summary": "Cava Group (CAVA) exceeded Q2 expectations with strong revenue and same-restaurant sales growth despite a Cyclospora outbreak affecting July sales. Management, however, maintained its full-year guidance, exercising caution due to lingering concerns and a \"fluid macroeconomic and geopolitical backdrop.\" Analysts' target prices have tracked the stock's performance rather than leading it, though TIKR's model suggests a significant upside for CAVA based on its long-term growth potential.",
-      "source": "TIKR.com",
-      "sources": [
-        {
-          "name": "TIKR.com",
-          "url": "https://www.tikr.com/blog/the-cyclospora-scare-cost-cava-sales-in-july-august-erased-the-doubt",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tikr.com/blog/the-cyclospora-scare-cost-cava-sales-in-july-august-erased-the-doubt",
-      "urlType": "article",
-      "publishedAt": "2026-08-19T15:41:13.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T14:31:44.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
+      "score": 28
     },
     {
-      "id": "010dc6fbe22ac4f706e2",
+      "id": "d15490afe19579d833c0",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Procter And Gamble And Other US Staples Stocks Worth Watching On Tariff Costs",
-      "summary": "This article examines how new U.S. tariffs might impact consumer staples companies and highlights three stocks—Spectrum Brands Holdings (SPB), Tyson Foods (TSN), and Procter & Gamble (PG)—for investors to watch. It discusses each company's operations, market cap, and strategies for managing increased import costs, such as passing on costs, supply chain adjustments, or relying on brand loyalty. The analysis also touches on the risks and rewards associated with each stock in the context of changing trade policies and consumer sentiment.",
-      "source": "Simply Wall Street",
+      "title": "US Canada Trade Talks Put These Cross Border Stocks In Focus",
+      "summary": "Ongoing US-Canada trade talks have created a mix of relief and risk for cross-border trade stocks after a pause in tariffs. This article highlights three companies – Turning Point Brands (TPB), Uranium Energy (UEC), and Greenfire Resources (GFR) – whose performance could be significantly impacted by the evolving trade landscape, due to their direct exposure to cross-border consumer demand, energy supply chains, and oil sands operations, respectively. Investors are encouraged to monitor these stocks closely as trade negotiations progress.",
+      "source": "Sahm",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/household/nyse-spb/spectrum-brands-holdings/news/procter-and-gamble-and-other-us-staples-stocks-worth-watchin",
+          "name": "Sahm",
+          "url": "https://www.sahmcapital.com/news/content/us-canada-trade-talks-put-these-cross-border-stocks-in-focus-2026-08-19",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/household/nyse-spb/spectrum-brands-holdings/news/procter-and-gamble-and-other-us-staples-stocks-worth-watchin",
+      "url": "https://www.sahmcapital.com/news/content/us-canada-trade-talks-put-these-cross-border-stocks-in-focus-2026-08-19",
       "urlType": "article",
-      "publishedAt": "2026-08-19T13:31:16.000Z",
-      "date": "2026-08-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "eee302131e33d16b1fce",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "4 Stocks Defying Geopolitical Headwinds With Recent Dividend Hikes",
-      "summary": "Amid geopolitical tensions and market volatility, dividend-paying stocks offer stability and income for conservative investors. This article highlights four companies—EnerSys (ENS), H&R Block (HRB), Badger Meter (BMI), and United Community Banks (UCB)—that have recently announced dividend hikes, providing consistent returns despite economic uncertainties. Each company's dividend history, yield, and payout ratio are detailed.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:df3a75d94094b:0-4-stocks-defying-geopolitical-headwinds-with-recent-dividend-hikes/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:df3a75d94094b:0-4-stocks-defying-geopolitical-headwinds-with-recent-dividend-hikes/",
-      "urlType": "article",
-      "publishedAt": "2026-08-19T12:41:01.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T11:41:56.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 24
     },
     {
-      "id": "3ca9fc6e212dff3aa4dc",
+      "id": "5d775f1ef679ed312929",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "A Solid Strategy & Recent Buyouts Aid ABM Amid Stiff Competition",
-      "summary": "ABM Industries is benefiting from its multi-year strategic plan, ELEVATE, and growth in the data center market driven by AI investments and strategic acquisitions like WGNSTAR. The company demonstrates strong shareholder commitment through consistent dividends and share buybacks, and maintains robust liquidity. However, ABM faces challenges from increasing costs impacting margins and intense competition within the facilities management sector.",
-      "source": "TradingView",
+      "title": "Walmart Sales Are Growing, but Stores Aren’t the Engine",
+      "summary": "Walmart reported its smallest sales gain in over six years, with U.S. comparable sales increasing by 2.6%. This growth was primarily driven by e-commerce, membership, and advertising sales, rather than its physical stores. The company's stock fell over 6% in premarket trading following the announcement.",
+      "source": "WSJ",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:3126b7a77094b:0-a-solid-strategy-recent-buyouts-aid-abm-amid-stiff-competition/",
+          "name": "WSJ",
+          "url": "https://www.wsj.com/business/earnings/walmart-sales-are-growing-but-stores-arent-the-engine-122b69ee",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:3126b7a77094b:0-a-solid-strategy-recent-buyouts-aid-abm-amid-stiff-competition/",
+      "url": "https://www.wsj.com/business/earnings/walmart-sales-are-growing-but-stores-arent-the-engine-122b69ee",
       "urlType": "article",
-      "publishedAt": "2026-08-19T15:40:19.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T11:09:49.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 24
     },
     {
-      "id": "29bdb71543c832f72977",
+      "id": "e7a690a3c30647831fcf",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Buy, Hold or Sell Tesla Stock Ahead of Cybercab Launch?",
-      "summary": "Tesla is preparing to launch its Cybercab in Austin, TX, a purpose-built autonomous vehicle designed to be a major growth engine for its robotaxi ambitions. While Tesla's EV and energy businesses show growth in deliveries, profitability is declining, and significant spending on future technologies like autonomy, AI, and robotics is impacting free cash flow. The article suggests that while Tesla's long-term potential is compelling, the stock is currently a \"Hold\" due to uncertain short-term profitability and unproven scalability of its new ventures, especially when compared to competitors like Waymo and Zoox.",
-      "source": "Yahoo Finance UK",
+      "title": "Valero Energy stock hits all-time high at 351.2 USD",
+      "summary": "Valero Energy Corporation's stock has reached an all-time high of $351.20, driven by robust performance in the energy sector, a 149.73% 1-year change, and strong Q2 earnings. Despite being overvalued according to InvestingPro, the company boasts a \"GREAT\" financial health rating and positive market conditions, including rising oil prices. Analysts have raised price targets following these strong results, reflecting continued investor confidence.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/buy-hold-sell-tesla-stock-134400558.html",
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-3512-usd-93CH-4870031",
           "urlType": "article"
         }
       ],
-      "url": "https://uk.finance.yahoo.com/news/buy-hold-sell-tesla-stock-134400558.html",
+      "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-3512-usd-93CH-4870031",
       "urlType": "article",
-      "publishedAt": "2026-08-19T15:39:50.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T14:14:11.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 22
     },
     {
-      "id": "c188c66b34d387396e15",
+      "id": "2e119b46416ea116771b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Can Starbucks' Solid Comps Growth Support Stronger FY26 Earnings?",
-      "summary": "Starbucks (SBUX) demonstrated strong comparable sales and earnings trends in Q3 fiscal 2026, with global comparable sales up 7.9% and EPS increasing 70%. The company raised its fiscal 2026 outlook, projecting U.S. comparable sales growth of over 6% and consolidated operating margin above 11%. Despite anticipated consumer variability, Starbucks aims to maintain growth and margin gains, supported by its $2 billion cost-savings plan.",
-      "source": "TradingView",
+      "title": "Earnings call transcript: AIR Global posts H1 2026 growth despite supply shocks",
+      "summary": "AIR Global PLC reported resilient financial results for H1 2026, with revenue up 3.7% and adjusted EBITDA remaining stable despite supply chain disruptions caused by the closure of the Straits of Hormuz and one-time listing costs. The company's shares rose 2.97%, indicating investor confidence in its underlying performance and management's strategy to navigate challenges. AIR Global also outlined its full-year 2026 guidance, expecting stable shipment volumes and mid-single-digit revenue and adjusted EBITDA growth, while investing in next-generation products like Crown Switch and nicotine pouches.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:41d474968094b:0-can-starbucks-solid-comps-growth-support-stronger-fy26-earnings/",
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-air-global-posts-h1-2026-growth-despite-supply-shocks-93CH-4869997?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:41d474968094b:0-can-starbucks-solid-comps-growth-support-stronger-fy26-earnings/",
+      "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-air-global-posts-h1-2026-growth-despite-supply-shocks-93CH-4869997?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-19T15:39:14.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T14:11:02.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 21
     },
     {
-      "id": "5c04b15f770335bf123e",
+      "id": "d8c9899052b7d7fe4bcf",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "McDonald's Stock Down 19% in 6 Months: Is This a Buying Opportunity?",
-      "summary": "McDonald's (MCD) shares have dropped 18.9% in the past six months due to weak U.S. traffic, inconsistent value offerings, and marketing missteps, underperforming its industry and the S&P 500. While the company faces near-term challenges in its U.S. business, it has levers for recovery, including improved value propositions, international growth, and a new beverage platform. Despite some analyst revisions, long-term growth is expected, and the stock currently trades at a discount, though new investors may want to await clearer signs of U.S. improvement.",
-      "source": "TradingView",
+      "title": "Deere Raises 2026 Profit View as AI Construction Boom Lifts Quarterly Income",
+      "summary": "Deere, the largest farm equipment manufacturer, raised its full-year net income forecast for 2026 and reported its first quarterly profit increase in three years. This growth is primarily attributed to an AI-driven construction boom and tariff refunds, which have boosted its construction and forestry segment, offsetting a slowdown in demand for agricultural equipment. The company now expects 2026 net income between $4.75 billion and $5 billion.",
+      "source": "Successful Farming",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:d9fd75edf094b:0-mcdonald-s-stock-down-19-in-6-months-is-this-a-buying-opportunity/",
+          "name": "Successful Farming",
+          "url": "https://www.agriculture.com/partners-deere-raises-2026-profit-view-as-ai-construction-boom-lifts-quarterly-income-12064171",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:d9fd75edf094b:0-mcdonald-s-stock-down-19-in-6-months-is-this-a-buying-opportunity/",
+      "url": "https://www.agriculture.com/partners-deere-raises-2026-profit-view-as-ai-construction-boom-lifts-quarterly-income-12064171",
       "urlType": "article",
-      "publishedAt": "2026-08-19T15:38:49.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T14:00:32.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 21
     },
     {
-      "id": "5f465a4045318842c1aa",
+      "id": "87fb706aa9c185b53e80",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "International Flavors & Fragrances (NYSE:IFF) Insider Sells 5,718 Shares of Stock",
-      "summary": "An insider at International Flavors & Fragrances (NYSE:IFF), De Mendonca Ana Paula Teles, sold 5,718 shares of the company's stock for approximately $475,680. This comes as the company missed analyst expectations for quarterly EPS and revenue but maintained its dividend and authorized a $2.5 billion stock repurchase program. Analysts generally rate the stock as a \"Moderate Buy.\"",
-      "source": "MarketBeat",
+      "title": "Do Record Q2 2026 Results And Higher Dividend Change The Bull Case For Southern Copper (SCCO)?",
+      "summary": "Southern Copper (SCCO) recently reported record Q2 2026 results with net sales of US$4.29 billion, net income of US$1.67 billion, and a raised quarterly dividend of US$1.10 per share. While these strong results and increased payouts reinforce the near-term earnings story, the article emphasizes that key risks like potential tariffs, rising operating costs, and social/permitting challenges for projects like Tia Maria and Los Chancas remain. The company's narrative projects significant revenue and earnings growth by 2029, suggesting a fair value of $167.79, which is 14% below its current price.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/international-flavors-fragrances-nyseiff-insider-sells-5718-shares-of-stock-2026-08-19/",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/materials/nyse-scco/southern-copper/news/do-record-q2-2026-results-and-higher-dividend-change-the-bul",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/international-flavors-fragrances-nyseiff-insider-sells-5718-shares-of-stock-2026-08-19/",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-scco/southern-copper/news/do-record-q2-2026-results-and-higher-dividend-change-the-bul",
       "urlType": "article",
-      "publishedAt": "2026-08-19T15:11:23.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T13:40:40.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 21
     },
     {
-      "id": "778329e1ae168bfa511f",
+      "id": "d00a9d91678c5af8265d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Calix (CALX) Up 4.5% Since Last Earnings Report: Can It Continue?",
-      "summary": "Calix (CALX) shares have increased by approximately 4.5% since its last earnings report, outperforming the S&P 500. The company reported strong second-quarter 2026 results, with both revenue and earnings per share exceeding Zacks Consensus Estimates, driven by robust demand and growth in its Appliance and Software and service segments. Despite a positive recent performance, investor estimates for the stock have shown a downward trend, leading Zacks to assign a \"Hold\" rank.",
-      "source": "Yahoo Finance Singapore",
+      "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
+      "summary": "McDonald's experienced a significant financial setback last quarter, losing $310 million in sales from low-income diners. This decline, the first in a year for this demographic, was attributed to a failed value promotion that customers perceived as a price increase. Rival Wendy's faced similar challenges, indicating a broader trend of low-income consumers cutting back on dining due to inflation.",
+      "source": "Restaurant Business",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/calix-calx-4-5-since-153002019.html",
+          "name": "Restaurant Business",
+          "url": "https://www.restaurantbusinessonline.com/financing/loss-low-income-diners-cost-mcdonalds-lot-money-last-quarter",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/calix-calx-4-5-since-153002019.html",
+      "url": "https://www.restaurantbusinessonline.com/financing/loss-low-income-diners-cost-mcdonalds-lot-money-last-quarter",
       "urlType": "article",
-      "publishedAt": "2026-08-19T15:10:16.000Z",
-      "date": "2026-08-19",
+      "publishedAt": "2026-08-20T13:03:32.000Z",
+      "date": "2026-08-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "0408749db056382b6bba",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Leon Cooperman Warns of AI Bust and Recession: 4 ETFs to Take Cover In",
+      "summary": "Billionaire investor Leon Cooperman predicts a potential recession next year, which could end the market's AI-driven growth. In response, investors may consider defensive ETFs offering exposure to less economically sensitive sectors, lower volatility, or traditional safe havens like gold. Four specific ETFs mentioned for this strategy are Vanguard Consumer Staples ETF (VDC), Vanguard Utilities ETF (VPU), Invesco S&P 500 Low Volatility ETF (SPLV), and SPDR Gold Shares (GLD).",
+      "source": "Sahm",
+      "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://www.sahmcapital.com/news/content/leon-cooperman-warns-of-ai-bust-and-recession-4-etfs-to-take-cover-in-2026-08-19",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.sahmcapital.com/news/content/leon-cooperman-warns-of-ai-bust-and-recession-4-etfs-to-take-cover-in-2026-08-19",
+      "urlType": "article",
+      "publishedAt": "2026-08-20T11:10:06.000Z",
+      "date": "2026-08-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "4da2bde815b950bcaab2",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Aptiv stock slips after a $300 million guidance cut",
+      "summary": "Aptiv plc's stock (JE00B783TY65) is facing pressure after the company reduced its midpoint revenue outlook for 2026 by $300 million, now expecting $12.6 billion to $12.8 billion in sales and adjusted EPS of $5.60 to $5.80. The revised forecast is attributed to weaker production schedules, delayed launches, and softer software and services sales. Despite the guidance cut, the company achieved $5 billion in second-quarter awards, reaching $10 billion year-to-date and halfway to its $20 billion full-year target.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-slips-after-a-300-million-guidance-cut/69976777",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-slips-after-a-300-million-guidance-cut/69976777",
+      "urlType": "article",
+      "publishedAt": "2026-08-20T15:18:06.000Z",
+      "date": "2026-08-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
