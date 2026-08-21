@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-20",
-  "generatedAt": "2026-08-20T23:02:59.238Z",
-  "targetDate": "2026-08-20",
+  "updated": "2026-08-21",
+  "generatedAt": "2026-08-21T22:58:41.851Z",
+  "targetDate": "2026-08-21",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,221 +43,231 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "c4ce470adde2e004d125",
+      "id": "acecf18d40ab548812ba",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Starbucks Sheds More Than 100 Jobs as It Wraps Up Restructuring",
-      "summary": "Starbucks eliminated 104 roles as part of a restructuring effort aimed at boosting growth. The job cuts include positions in the store design and construction team and affect employees who declined to relocate to the company's new Nashville office. This move is part of a broader restructuring announced in May, impacting roles in the U.S. and internationally.",
-      "source": "Bloomberg.com",
+      "title": "Walmart promises price cuts after $2.9B tariff refund",
+      "summary": "Walmart announced it will use a $2.9 billion tariff refund to implement price cuts for consumers, following slower sales growth at its U.S. stores. This comes as higher gas prices have impacted consumer spending, leading to the slowest sales growth since early 2020. Other major retailers like Target and TJX also received significant tariff refunds after a Supreme Court ruling deemed certain past tariffs illegal.",
+      "source": "ABC7 Chicago",
       "sources": [
         {
-          "name": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-20/starbucks-sheds-more-than-100-jobs-as-it-wraps-up-restructuring",
+          "name": "ABC7 Chicago",
+          "url": "https://abc7chicago.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
+          "urlType": "article"
+        },
+        {
+          "name": "6abc Philadelphia",
+          "url": "https://6abc.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
+          "urlType": "article"
+        },
+        {
+          "name": "ABC7 New York",
+          "url": "https://abc7ny.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/starbucks-sheds-more-than-100-jobs-as-it-wraps-up-restructuring",
+      "url": "https://abc7chicago.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
       "urlType": "article",
-      "publishedAt": "2026-08-20T14:31:44.000Z",
-      "date": "2026-08-20",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 28
+      "publishedAt": "2026-08-21T15:39:38.000Z",
+      "date": "2026-08-21",
+      "verification": "cross_verified",
+      "whySelected": "已发现 3 个相互独立的相关来源",
+      "score": 40
     },
     {
-      "id": "d15490afe19579d833c0",
+      "id": "dd98ddd85fae0d03aceb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "US Canada Trade Talks Put These Cross Border Stocks In Focus",
-      "summary": "Ongoing US-Canada trade talks have created a mix of relief and risk for cross-border trade stocks after a pause in tariffs. This article highlights three companies – Turning Point Brands (TPB), Uranium Energy (UEC), and Greenfire Resources (GFR) – whose performance could be significantly impacted by the evolving trade landscape, due to their direct exposure to cross-border consumer demand, energy supply chains, and oil sands operations, respectively. Investors are encouraged to monitor these stocks closely as trade negotiations progress.",
-      "source": "Sahm",
+      "title": "Perspective: Morning Commentary for August 21",
+      "summary": "Stock futures rallied despite negative headlines, with the VIX near 15 and the dollar index at three-month lows. Grain and oilseed markets were weaker overnight. The article discusses impending U.S. sanctions on Iran, the delicate diplomatic dance between the U.S. and China concerning Iran and trade agreements, and the impact of these geopolitical factors on global markets, especially ahead of the U.S. midterm elections.",
+      "source": "StoneX",
       "sources": [
         {
-          "name": "Sahm",
-          "url": "https://www.sahmcapital.com/news/content/us-canada-trade-talks-put-these-cross-border-stocks-in-focus-2026-08-19",
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en/insights/perspective-morning-commentary-for-august-21-2026-08-21/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.sahmcapital.com/news/content/us-canada-trade-talks-put-these-cross-border-stocks-in-focus-2026-08-19",
+      "url": "https://www.stonex.com/en/insights/perspective-morning-commentary-for-august-21-2026-08-21/",
       "urlType": "article",
-      "publishedAt": "2026-08-20T11:41:56.000Z",
-      "date": "2026-08-20",
+      "publishedAt": "2026-08-21T14:11:57.000Z",
+      "date": "2026-08-21",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 36
     },
     {
-      "id": "5d775f1ef679ed312929",
+      "id": "aceadfed9771861a0623",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Walmart Sales Are Growing, but Stores Aren’t the Engine",
-      "summary": "Walmart reported its smallest sales gain in over six years, with U.S. comparable sales increasing by 2.6%. This growth was primarily driven by e-commerce, membership, and advertising sales, rather than its physical stores. The company's stock fell over 6% in premarket trading following the announcement.",
-      "source": "WSJ",
+      "title": "WTI Surges, Yet Phillips 66's Refining Backdrop Looks Supportive",
+      "summary": "Despite West Texas Intermediate crude oil prices trading above $85 per barrel due to Middle East tensions, the refining environment for companies like Phillips 66 (PSX) appears supportive. A global shortage of refining capacity and low fuel inventories are keeping refining margins high, a trend expected to continue into 2027. This favorable outlook is also likely to benefit other refiners such as Par Pacific Holdings Inc (PARR) and Valero Energy (VLO).",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/business/earnings/walmart-sales-are-growing-but-stores-arent-the-engine-122b69ee",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:fe51c1419094b:0-wti-surges-yet-phillips-66-s-refining-backdrop-looks-supportive/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/business/earnings/walmart-sales-are-growing-but-stores-arent-the-engine-122b69ee",
+      "url": "https://www.tradingview.com/news/zacks:fe51c1419094b:0-wti-surges-yet-phillips-66-s-refining-backdrop-looks-supportive/",
       "urlType": "article",
-      "publishedAt": "2026-08-20T11:09:49.000Z",
-      "date": "2026-08-20",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
-    },
-    {
-      "id": "e7a690a3c30647831fcf",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Valero Energy stock hits all-time high at 351.2 USD",
-      "summary": "Valero Energy Corporation's stock has reached an all-time high of $351.20, driven by robust performance in the energy sector, a 149.73% 1-year change, and strong Q2 earnings. Despite being overvalued according to InvestingPro, the company boasts a \"GREAT\" financial health rating and positive market conditions, including rising oil prices. Analysts have raised price targets following these strong results, reflecting continued investor confidence.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-3512-usd-93CH-4870031",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investing.com/news/company-news/valero-energy-stock-hits-alltime-high-at-3512-usd-93CH-4870031",
-      "urlType": "article",
-      "publishedAt": "2026-08-20T14:14:11.000Z",
-      "date": "2026-08-20",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "2e119b46416ea116771b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Earnings call transcript: AIR Global posts H1 2026 growth despite supply shocks",
-      "summary": "AIR Global PLC reported resilient financial results for H1 2026, with revenue up 3.7% and adjusted EBITDA remaining stable despite supply chain disruptions caused by the closure of the Straits of Hormuz and one-time listing costs. The company's shares rose 2.97%, indicating investor confidence in its underlying performance and management's strategy to navigate challenges. AIR Global also outlined its full-year 2026 guidance, expecting stable shipment volumes and mid-single-digit revenue and adjusted EBITDA growth, while investing in next-generation products like Crown Switch and nicotine pouches.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-air-global-posts-h1-2026-growth-despite-supply-shocks-93CH-4869997?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-air-global-posts-h1-2026-growth-despite-supply-shocks-93CH-4869997?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-20T14:11:02.000Z",
-      "date": "2026-08-20",
+      "publishedAt": "2026-08-21T14:39:07.000Z",
+      "date": "2026-08-21",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "d8c9899052b7d7fe4bcf",
+      "id": "be1aea81c639d015441d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Deere Raises 2026 Profit View as AI Construction Boom Lifts Quarterly Income",
-      "summary": "Deere, the largest farm equipment manufacturer, raised its full-year net income forecast for 2026 and reported its first quarterly profit increase in three years. This growth is primarily attributed to an AI-driven construction boom and tariff refunds, which have boosted its construction and forestry segment, offsetting a slowdown in demand for agricultural equipment. The company now expects 2026 net income between $4.75 billion and $5 billion.",
-      "source": "Successful Farming",
+      "title": "Logitech stock steadies as consensus points to 14.66% upside",
+      "summary": "Logitech International S.A. stock is showing stability despite recent fluctuations, with a 12-analyst consensus target of $109.69, indicating a 14.66% upside from its last close of $95.66. The company recently reported strong quarterly revenue and earnings per share, but withdrew its fiscal 2026 guidance due to tariff developments, leading to a valuation debate among analysts. Individual price targets vary widely, reflecting differing views on the impact of tariffs and demand resilience.",
+      "source": "Ad-hoc-news.de",
       "sources": [
         {
-          "name": "Successful Farming",
-          "url": "https://www.agriculture.com/partners-deere-raises-2026-profit-view-as-ai-construction-boom-lifts-quarterly-income-12064171",
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/logitech-stock-steadies-as-consensus-points-to-14-66-percent-upside/69981743",
           "urlType": "article"
         }
       ],
-      "url": "https://www.agriculture.com/partners-deere-raises-2026-profit-view-as-ai-construction-boom-lifts-quarterly-income-12064171",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/logitech-stock-steadies-as-consensus-points-to-14-66-percent-upside/69981743",
       "urlType": "article",
-      "publishedAt": "2026-08-20T14:00:32.000Z",
-      "date": "2026-08-20",
+      "publishedAt": "2026-08-21T14:10:32.000Z",
+      "date": "2026-08-21",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "87fb706aa9c185b53e80",
+      "id": "880288fb2f6d0c2bc7c3",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Do Record Q2 2026 Results And Higher Dividend Change The Bull Case For Southern Copper (SCCO)?",
-      "summary": "Southern Copper (SCCO) recently reported record Q2 2026 results with net sales of US$4.29 billion, net income of US$1.67 billion, and a raised quarterly dividend of US$1.10 per share. While these strong results and increased payouts reinforce the near-term earnings story, the article emphasizes that key risks like potential tariffs, rising operating costs, and social/permitting challenges for projects like Tia Maria and Los Chancas remain. The company's narrative projects significant revenue and earnings growth by 2029, suggesting a fair value of $167.79, which is 14% below its current price.",
-      "source": "Simply Wall Street",
+      "title": "Flower Foods misses Q2 estimates, lowers guidance on 'cautious view' for FY26 (FLO:NYSE)",
+      "summary": "Flower Foods (FLO) missed its Q2 earnings estimates and lowered its full-year guidance, citing ongoing macroeconomic pressures, competitive activity, and higher input costs. The company reported a 30% drop in profits due to inflation and rising costs. In response, Flower Foods plans to strengthen competitiveness, improve execution, and optimize its cost structure to enhance long-term value.",
+      "source": "Seeking Alpha",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/materials/nyse-scco/southern-copper/news/do-record-q2-2026-results-and-higher-dividend-change-the-bul",
+          "name": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4635858-flower-foods-misses-q2-estimates-lowers-guidance-on-cautious-view-for-fy26",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/materials/nyse-scco/southern-copper/news/do-record-q2-2026-results-and-higher-dividend-change-the-bul",
+      "url": "https://seekingalpha.com/news/4635858-flower-foods-misses-q2-estimates-lowers-guidance-on-cautious-view-for-fy26",
       "urlType": "article",
-      "publishedAt": "2026-08-20T13:40:40.000Z",
-      "date": "2026-08-20",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "d00a9d91678c5af8265d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "The loss of low-income diners cost McDonald’s a lot of money last quarter",
-      "summary": "McDonald's experienced a significant financial setback last quarter, losing $310 million in sales from low-income diners. This decline, the first in a year for this demographic, was attributed to a failed value promotion that customers perceived as a price increase. Rival Wendy's faced similar challenges, indicating a broader trend of low-income consumers cutting back on dining due to inflation.",
-      "source": "Restaurant Business",
-      "sources": [
-        {
-          "name": "Restaurant Business",
-          "url": "https://www.restaurantbusinessonline.com/financing/loss-low-income-diners-cost-mcdonalds-lot-money-last-quarter",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.restaurantbusinessonline.com/financing/loss-low-income-diners-cost-mcdonalds-lot-money-last-quarter",
-      "urlType": "article",
-      "publishedAt": "2026-08-20T13:03:32.000Z",
-      "date": "2026-08-20",
+      "publishedAt": "2026-08-21T14:10:12.000Z",
+      "date": "2026-08-21",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "0408749db056382b6bba",
+      "id": "850c8eddf53582f2268c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Leon Cooperman Warns of AI Bust and Recession: 4 ETFs to Take Cover In",
-      "summary": "Billionaire investor Leon Cooperman predicts a potential recession next year, which could end the market's AI-driven growth. In response, investors may consider defensive ETFs offering exposure to less economically sensitive sectors, lower volatility, or traditional safe havens like gold. Four specific ETFs mentioned for this strategy are Vanguard Consumer Staples ETF (VDC), Vanguard Utilities ETF (VPU), Invesco S&P 500 Low Volatility ETF (SPLV), and SPDR Gold Shares (GLD).",
-      "source": "Sahm",
+      "title": "With Physical AI On the Rise, The West Needs Magnets More than Ever (NASDAQ: EMAT)",
+      "summary": "The article highlights the critical need for high-strength rare-earth magnets for the burgeoning field of Physical AI, particularly humanoid robots, and emphasizes the Western world's dependence on China for these essential components. It points to Evolution Metals & Technologies Corp. (EMAT) as a key U.S.-owned company that is already commercially producing these magnets, positioning it as a significant player in bolstering national resilience against supply chain risks. The piece details EMAT's production history, expansion plans, and strategic board appointments, signaling its readiness to meet the growing demand for non-China sourced magnets.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "Sahm",
-          "url": "https://www.sahmcapital.com/news/content/leon-cooperman-warns-of-ai-bust-and-recession-4-etfs-to-take-cover-in-2026-08-19",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/financewire:08cd0b4d8094b:0-with-physical-ai-on-the-rise-the-west-needs-magnets-more-than-ever-nasdaq-emat/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.sahmcapital.com/news/content/leon-cooperman-warns-of-ai-bust-and-recession-4-etfs-to-take-cover-in-2026-08-19",
+      "url": "https://www.tradingview.com/news/financewire:08cd0b4d8094b:0-with-physical-ai-on-the-rise-the-west-needs-magnets-more-than-ever-nasdaq-emat/",
       "urlType": "article",
-      "publishedAt": "2026-08-20T11:10:06.000Z",
-      "date": "2026-08-20",
+      "publishedAt": "2026-08-21T13:10:19.000Z",
+      "date": "2026-08-21",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
+      "score": 19
     },
     {
-      "id": "4da2bde815b950bcaab2",
+      "id": "c756c8b3ce8ebc4c5942",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Aptiv stock slips after a $300 million guidance cut",
-      "summary": "Aptiv plc's stock (JE00B783TY65) is facing pressure after the company reduced its midpoint revenue outlook for 2026 by $300 million, now expecting $12.6 billion to $12.8 billion in sales and adjusted EPS of $5.60 to $5.80. The revised forecast is attributed to weaker production schedules, delayed launches, and softer software and services sales. Despite the guidance cut, the company achieved $5 billion in second-quarter awards, reaching $10 billion year-to-date and halfway to its $20 billion full-year target.",
+      "title": "Steel Dynamics stock falls on tariff pressure and valuation",
+      "summary": "Steel Dynamics stock experienced a significant drop due to pressure from tariff headlines, which suggested a potential cut in import tariffs on Canadian steel and aluminum. Despite a strong year-to-date performance, the stock's valuation is considered high, with its current price exceeding a cited fair value. Analyst consensus, however, remains moderately positive with an average target price suggesting an upside.",
       "source": "Ad-hoc-news.de",
       "sources": [
         {
           "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-slips-after-a-300-million-guidance-cut/69976777",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-slips-after-a-300-million-guidance-cut/69976777",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
       "urlType": "article",
-      "publishedAt": "2026-08-20T15:18:06.000Z",
-      "date": "2026-08-20",
+      "publishedAt": "2026-08-21T13:01:21.000Z",
+      "date": "2026-08-21",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "4dc3b8c591e9ee1b0ee4",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Weyerhaeuser stock holds steady as housing demand supports valuations",
+      "summary": "Weyerhaeuser stock is trading in the mid-$20s, supported by steady timber demand and dividend income, despite higher interest rates impacting the US housing market. Analysts maintain a \"moderate buy\" consensus with a target price of $29.00, indicating potential upside, and institutional investors continue to show interest in the timberland REIT. The company's valuation reflects its core business of sustainable timberland management and exposure to cyclical housing activity, with its dividend policy sensitive to lumber demand and log prices.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/weyerhaeuser-stock-holds-steady-as-housing-demand-supports-valuations/69982204",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/weyerhaeuser-stock-holds-steady-as-housing-demand-supports-valuations/69982204",
+      "urlType": "article",
+      "publishedAt": "2026-08-21T15:48:00.000Z",
+      "date": "2026-08-21",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "484ec5f710a7b5c308eb",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Here's Why You Should Hold Stryker Stock in Your Portfolio for Now",
+      "summary": "Stryker (SYK) entered 2026 facing a cyber disruption but maintains strong demand, robotics adoption, and international momentum. The company reported robust Q2 2026 organic sales growth and expanded margins, despite ongoing challenges from the cyber incident and supply disruptions in its Peripheral Vascular business. Analysts expect continued earnings improvement, with a positive estimate revision trend for 2026, making it a \"Hold\" according to Zacks Investment Research.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:37e09a3ca094b:0-here-s-why-you-should-hold-stryker-stock-in-your-portfolio-for-now/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:37e09a3ca094b:0-here-s-why-you-should-hold-stryker-stock-in-your-portfolio-for-now/",
+      "urlType": "article",
+      "publishedAt": "2026-08-21T15:39:24.000Z",
+      "date": "2026-08-21",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "30e0a7c9db8a27c794f5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "HCA Healthcare Inc Stock (HCA) Moved Up by 5.35% on Aug 21: Drivers Behind the Movement",
+      "summary": "HCA Healthcare Inc (HCA) stock surged by 5.35% on August 21, driven by robust quarterly operating results with strong patient admissions, institutional accumulation, and strategic outpatient expansion. The company reported annual revenue of $75.60 billion and a net profit of $6.78 billion. Technical indicators show a buy signal with a neutral RSI, while fundamental analysis highlights its strong industry ranking despite low media coverage and some company-specific risks like potential price target cuts.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262124927-market-movers-hca-20260821",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262124927-market-movers-hca-20260821",
+      "urlType": "article",
+      "publishedAt": "2026-08-21T15:15:10.000Z",
+      "date": "2026-08-21",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
