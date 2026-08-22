@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-21",
-  "generatedAt": "2026-08-21T22:58:41.851Z",
-  "targetDate": "2026-08-21",
+  "updated": "2026-08-22",
+  "generatedAt": "2026-08-22T22:54:34.732Z",
+  "targetDate": "2026-08-22",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,231 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "acecf18d40ab548812ba",
+      "id": "7999a7aa73d8fe0b42dc",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Walmart promises price cuts after $2.9B tariff refund",
-      "summary": "Walmart announced it will use a $2.9 billion tariff refund to implement price cuts for consumers, following slower sales growth at its U.S. stores. This comes as higher gas prices have impacted consumer spending, leading to the slowest sales growth since early 2020. Other major retailers like Target and TJX also received significant tariff refunds after a Supreme Court ruling deemed certain past tariffs illegal.",
-      "source": "ABC7 Chicago",
-      "sources": [
-        {
-          "name": "ABC7 Chicago",
-          "url": "https://abc7chicago.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
-          "urlType": "article"
-        },
-        {
-          "name": "6abc Philadelphia",
-          "url": "https://6abc.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
-          "urlType": "article"
-        },
-        {
-          "name": "ABC7 New York",
-          "url": "https://abc7ny.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://abc7chicago.com/story/walmart-promises-price-cuts-29-billion-tariff-refund/19713516/",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T15:39:38.000Z",
-      "date": "2026-08-21",
-      "verification": "cross_verified",
-      "whySelected": "已发现 3 个相互独立的相关来源",
-      "score": 40
-    },
-    {
-      "id": "dd98ddd85fae0d03aceb",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Perspective: Morning Commentary for August 21",
-      "summary": "Stock futures rallied despite negative headlines, with the VIX near 15 and the dollar index at three-month lows. Grain and oilseed markets were weaker overnight. The article discusses impending U.S. sanctions on Iran, the delicate diplomatic dance between the U.S. and China concerning Iran and trade agreements, and the impact of these geopolitical factors on global markets, especially ahead of the U.S. midterm elections.",
-      "source": "StoneX",
-      "sources": [
-        {
-          "name": "StoneX",
-          "url": "https://www.stonex.com/en/insights/perspective-morning-commentary-for-august-21-2026-08-21/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stonex.com/en/insights/perspective-morning-commentary-for-august-21-2026-08-21/",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T14:11:57.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 36
-    },
-    {
-      "id": "aceadfed9771861a0623",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "WTI Surges, Yet Phillips 66's Refining Backdrop Looks Supportive",
-      "summary": "Despite West Texas Intermediate crude oil prices trading above $85 per barrel due to Middle East tensions, the refining environment for companies like Phillips 66 (PSX) appears supportive. A global shortage of refining capacity and low fuel inventories are keeping refining margins high, a trend expected to continue into 2027. This favorable outlook is also likely to benefit other refiners such as Par Pacific Holdings Inc (PARR) and Valero Energy (VLO).",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:fe51c1419094b:0-wti-surges-yet-phillips-66-s-refining-backdrop-looks-supportive/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:fe51c1419094b:0-wti-surges-yet-phillips-66-s-refining-backdrop-looks-supportive/",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T14:39:07.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "be1aea81c639d015441d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Logitech stock steadies as consensus points to 14.66% upside",
-      "summary": "Logitech International S.A. stock is showing stability despite recent fluctuations, with a 12-analyst consensus target of $109.69, indicating a 14.66% upside from its last close of $95.66. The company recently reported strong quarterly revenue and earnings per share, but withdrew its fiscal 2026 guidance due to tariff developments, leading to a valuation debate among analysts. Individual price targets vary widely, reflecting differing views on the impact of tariffs and demand resilience.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/logitech-stock-steadies-as-consensus-points-to-14-66-percent-upside/69981743",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/logitech-stock-steadies-as-consensus-points-to-14-66-percent-upside/69981743",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T14:10:32.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "880288fb2f6d0c2bc7c3",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Flower Foods misses Q2 estimates, lowers guidance on 'cautious view' for FY26 (FLO:NYSE)",
-      "summary": "Flower Foods (FLO) missed its Q2 earnings estimates and lowered its full-year guidance, citing ongoing macroeconomic pressures, competitive activity, and higher input costs. The company reported a 30% drop in profits due to inflation and rising costs. In response, Flower Foods plans to strengthen competitiveness, improve execution, and optimize its cost structure to enhance long-term value.",
-      "source": "Seeking Alpha",
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4635858-flower-foods-misses-q2-estimates-lowers-guidance-on-cautious-view-for-fy26",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://seekingalpha.com/news/4635858-flower-foods-misses-q2-estimates-lowers-guidance-on-cautious-view-for-fy26",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T14:10:12.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "850c8eddf53582f2268c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "With Physical AI On the Rise, The West Needs Magnets More than Ever (NASDAQ: EMAT)",
-      "summary": "The article highlights the critical need for high-strength rare-earth magnets for the burgeoning field of Physical AI, particularly humanoid robots, and emphasizes the Western world's dependence on China for these essential components. It points to Evolution Metals & Technologies Corp. (EMAT) as a key U.S.-owned company that is already commercially producing these magnets, positioning it as a significant player in bolstering national resilience against supply chain risks. The piece details EMAT's production history, expansion plans, and strategic board appointments, signaling its readiness to meet the growing demand for non-China sourced magnets.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/financewire:08cd0b4d8094b:0-with-physical-ai-on-the-rise-the-west-needs-magnets-more-than-ever-nasdaq-emat/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/financewire:08cd0b4d8094b:0-with-physical-ai-on-the-rise-the-west-needs-magnets-more-than-ever-nasdaq-emat/",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T13:10:19.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "c756c8b3ce8ebc4c5942",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Steel Dynamics stock falls on tariff pressure and valuation",
-      "summary": "Steel Dynamics stock experienced a significant drop due to pressure from tariff headlines, which suggested a potential cut in import tariffs on Canadian steel and aluminum. Despite a strong year-to-date performance, the stock's valuation is considered high, with its current price exceeding a cited fair value. Analyst consensus, however, remains moderately positive with an average target price suggesting an upside.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/steel-dynamics-stock-falls-on-tariff-pressure-and-valuation/69981226",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T13:01:21.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "4dc3b8c591e9ee1b0ee4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Weyerhaeuser stock holds steady as housing demand supports valuations",
-      "summary": "Weyerhaeuser stock is trading in the mid-$20s, supported by steady timber demand and dividend income, despite higher interest rates impacting the US housing market. Analysts maintain a \"moderate buy\" consensus with a target price of $29.00, indicating potential upside, and institutional investors continue to show interest in the timberland REIT. The company's valuation reflects its core business of sustainable timberland management and exposure to cyclical housing activity, with its dividend policy sensitive to lumber demand and log prices.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/weyerhaeuser-stock-holds-steady-as-housing-demand-supports-valuations/69982204",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/weyerhaeuser-stock-holds-steady-as-housing-demand-supports-valuations/69982204",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T15:48:00.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "484ec5f710a7b5c308eb",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Here's Why You Should Hold Stryker Stock in Your Portfolio for Now",
-      "summary": "Stryker (SYK) entered 2026 facing a cyber disruption but maintains strong demand, robotics adoption, and international momentum. The company reported robust Q2 2026 organic sales growth and expanded margins, despite ongoing challenges from the cyber incident and supply disruptions in its Peripheral Vascular business. Analysts expect continued earnings improvement, with a positive estimate revision trend for 2026, making it a \"Hold\" according to Zacks Investment Research.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:37e09a3ca094b:0-here-s-why-you-should-hold-stryker-stock-in-your-portfolio-for-now/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:37e09a3ca094b:0-here-s-why-you-should-hold-stryker-stock-in-your-portfolio-for-now/",
-      "urlType": "article",
-      "publishedAt": "2026-08-21T15:39:24.000Z",
-      "date": "2026-08-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "30e0a7c9db8a27c794f5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "HCA Healthcare Inc Stock (HCA) Moved Up by 5.35% on Aug 21: Drivers Behind the Movement",
-      "summary": "HCA Healthcare Inc (HCA) stock surged by 5.35% on August 21, driven by robust quarterly operating results with strong patient admissions, institutional accumulation, and strategic outpatient expansion. The company reported annual revenue of $75.60 billion and a net profit of $6.78 billion. Technical indicators show a buy signal with a neutral RSI, while fundamental analysis highlights its strong industry ranking despite low media coverage and some company-specific risks like potential price target cuts.",
+      "title": "Valero Energy Q2: Revenue $44.48B Beat, EPS $12.54 Crushes Estimates, Refining Profit Surges 247% on Tight Supply",
+      "summary": "Valero Energy (VLO) reported record second-quarter revenue of $44.48 billion and adjusted EPS of $12.54, significantly beating analyst estimates due to strong refining margins and global supply imbalances. The company saw its net income surge by 419% year-over-year to $3.7 billion and returned $2.6 billion to shareholders, increasing its dividend to $1.20 per share. While structural refining dynamics suggest a higher margin floor, potential economic slowdowns and geopolitical shifts impacting oil production pose key risks to future performance.",
       "source": "TradingKey",
       "sources": [
         {
           "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262124927-market-movers-hca-20260821",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262124275-valero-energy-vlo-q2-2026-44-48b-revenue-beat-eps-12-54-refining-oi-4-5b-renewable-diesel-717m-swing-dividend-1-20-tradingkey",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262124927-market-movers-hca-20260821",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262124275-valero-energy-vlo-q2-2026-44-48b-revenue-beat-eps-12-54-refining-oi-4-5b-renewable-diesel-717m-swing-dividend-1-20-tradingkey",
       "urlType": "article",
-      "publishedAt": "2026-08-21T15:15:10.000Z",
-      "date": "2026-08-21",
+      "publishedAt": "2026-08-22T13:01:57.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 27
+    },
+    {
+      "id": "fdc6502a5ffd941a89c5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Trump Media & Technology Group (NASDAQ: DJT) Faces New Investor Questions As Canada Tariff Pause Reshapes Trade Outlook",
+      "summary": "Trump Media & Technology Group (DJT) is under fresh investor scrutiny after the US temporarily suspended tariffs on Canadian imports. While the company's financial figures show limited direct impact from tariffs due to low revenue and significant net losses, investors are focusing on its political connections and potential digital trade alignment in future US-Canada agreements. The broader market context highlights the intertwining of trade policy and political branding for companies like Trump Media.",
+      "source": "Foreign Policy Journal",
+      "sources": [
+        {
+          "name": "Foreign Policy Journal",
+          "url": "https://www.foreignpolicyjournal.com/2026/08/22/trump-media-technology-group-nasdaq-djt-faces-new-investor-questions-as-canada-tariff-pause-reshapes-trade-outlook/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.foreignpolicyjournal.com/2026/08/22/trump-media-technology-group-nasdaq-djt-faces-new-investor-questions-as-canada-tariff-pause-reshapes-trade-outlook/",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T12:41:12.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "782270133e7a712dafa6",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Pembina Approves Greenlight Power Project for AI Data Centers",
+      "summary": "Pembina Pipeline Corporation has approved the Greenlight Electricity Center (GLEC) project in Alberta, a significant energy infrastructure development. This project, a collaboration with Morgan Stanley Infrastructure Partners and Kineticor Asset Management, will supply dedicated electricity to a hyperscale data center, generating long-term fee-based earnings for Pembina. The GLEC will utilize advanced combined cycle technology and operate under a long-term commercial agreement, supporting Alberta's growing digital economy and AI investments.",
+      "source": "Eastern Progress",
+      "sources": [
+        {
+          "name": "Eastern Progress",
+          "url": "https://www.easternprogress.com/pembina-approves-greenlight-power-project-for-ai-data-centers/article_f4be5e38-147b-5177-b092-d66c86a06536.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.easternprogress.com/pembina-approves-greenlight-power-project-for-ai-data-centers/article_f4be5e38-147b-5177-b092-d66c86a06536.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T15:12:23.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "371ee89526885ec2c3e8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Berkshire Hathaway stock holds above $743,000 as Buffett reshapes the portfolio",
+      "summary": "Berkshire Hathaway's Class A stock is trading above $743,000, reflecting its status as a high-priced but widely followed investment vehicle. Recent portfolio adjustments include reducing stakes in Bank of America while benefiting from energy holdings like Occidental Petroleum, aligning with Buffett's capital allocation strategy. The article highlights Berkshire's defensive qualities amidst broader debt concerns and elevated interest rates, positioning it as a hedge against macroeconomic risks.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/berkshire-hathaway-stock-holds-above-743-000-as-buffett-reshapes-the/69986296",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/berkshire-hathaway-stock-holds-above-743-000-as-buffett-reshapes-the/69986296",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T14:11:10.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "e9573f2d28318a1a6d3e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Fed Approves NatWest Office in Connecticut",
+      "summary": "The Federal Reserve has approved National Westminster Bank Plc's application to establish a representative office in Stamford, Connecticut. This office will allow NatWest to engage with U.S. customers and promote services but will not permit full banking operations like accepting deposits or making loans. This approval expands NatWest's existing presence in Stamford, complementing NatWest Markets' operations, and is subject to continued regulatory oversight by both federal and state authorities.",
+      "source": "STL.News",
+      "sources": [
+        {
+          "name": "STL.News",
+          "url": "https://www.stl.news/fed-approves-natwest-office-in-connecticut/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stl.news/fed-approves-natwest-office-in-connecticut/",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T14:10:49.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "b0892c0180aed8f1951d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
+      "summary": "The article argues that Realty Income (NYSE: O), a real estate investment trust (REIT), is a better dividend stock than tech giants like Microsoft or Apple. While tech stocks offer dividend growth, Realty Income provides a higher yield (over 5%) and dependable monthly dividend payments that have consistently increased over time. Its stable cash flow, conservative payout ratio, and strong balance sheet make it an ideal choice for passive income investors.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3986151/why-i-think-the-best-dividend-stock-isn-t-a-tech-name-it-s-realty-income/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3986151/why-i-think-the-best-dividend-stock-isn-t-a-tech-name-it-s-realty-income/",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T14:08:59.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "b8471d0b1068a243e490",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Arabica Coffee Futures Open Interest Up 504 contracts, August 21",
+      "summary": "Open interest for Arabica coffee futures at ICE Futures increased by 504 contracts, reaching a total of 193,951 contracts on August 21. This rise was accompanied by a trading volume of 46,275. The information is presented as market commentary, offering insights into the coffee market.",
+      "source": "www.stonex.com",
+      "sources": [
+        {
+          "name": "www.stonex.com",
+          "url": "https://www.stonex.com/en/insights/arabica-coffee-futures-open-interest-up-504-contracts,-august-21-1517692/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stonex.com/en/insights/arabica-coffee-futures-open-interest-up-504-contracts,-august-21-1517692/",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T13:44:00.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "1aed09838e5cf899bdb8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Robert Half stock holds steady as investors digest recent earnings and guidance",
+      "summary": "Robert Half's stock is trading steadily in the low-$40 range, with investors evaluating the company's recent earnings and its outlook for staffing and consulting demand. The latest financial reports show solid revenue and cash generation, reflecting a normalization in the staffing market rather than a structural downturn. Analysts anticipate continued profitability, supported by cost control and diversified services like consulting, which help mitigate softer hiring in traditional staffing.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/robert-half-stock-holds-steady-as-investors-digest-recent-earnings-and/69985955",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/robert-half-stock-holds-steady-as-investors-digest-recent-earnings-and/69985955",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T13:25:00.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "fbc6cdeb643a9ef67be5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "National Grid stock holds steady as market digests latest prospectus details",
+      "summary": "National Grid (GB00BDR05C01) stock is holding steady at 1,188.75 GBX, reflecting a modest year-to-date gain of 3.98%. Investors are evaluating a new prospectus that outlines the company's capital structure and regulatory environment, crucial for income-focused investors. The market response indicates a period of consolidation rather than sharp revaluation, with the stock maintaining a stable position as a defensive holding.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/national-grid-stock-holds-steady-as-market-digests-latest-prospectus/69985951",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/national-grid-stock-holds-steady-as-market-digests-latest-prospectus/69985951",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T13:24:00.000Z",
+      "date": "2026-08-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "38965c652841a78886fd",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Qorvo stock holds focus as analysts and results frame August 22",
+      "summary": "Qorvo Inc. (QRVO) remains a focus for investors as the company's latest results, guidance, and current market conditions are weighed by traders. The article emphasizes that the key factors for evaluating the stock are Qorvo's recent revenue, earnings, and margin updates, and how these figures compare to previous quarters. It also highlights the importance of market context, including valuation signals like market cap and the 52-week range, in understanding the stock's performance.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/qorvo-stock-holds-focus-as-analysts-and-results-frame-august-22/69986439",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/qorvo-stock-holds-focus-as-analysts-and-results-frame-august-22/69986439",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T13:10:14.000Z",
+      "date": "2026-08-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
