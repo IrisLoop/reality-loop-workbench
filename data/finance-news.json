@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-22",
-  "generatedAt": "2026-08-22T22:54:34.732Z",
-  "targetDate": "2026-08-22",
+  "updated": "2026-08-23",
+  "generatedAt": "2026-08-23T22:54:59.783Z",
+  "targetDate": "2026-08-23",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "7999a7aa73d8fe0b42dc",
+      "id": "0a6d5c9f397417d94bf7",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Valero Energy Q2: Revenue $44.48B Beat, EPS $12.54 Crushes Estimates, Refining Profit Surges 247% on Tight Supply",
-      "summary": "Valero Energy (VLO) reported record second-quarter revenue of $44.48 billion and adjusted EPS of $12.54, significantly beating analyst estimates due to strong refining margins and global supply imbalances. The company saw its net income surge by 419% year-over-year to $3.7 billion and returned $2.6 billion to shareholders, increasing its dividend to $1.20 per share. While structural refining dynamics suggest a higher margin floor, potential economic slowdowns and geopolitical shifts impacting oil production pose key risks to future performance.",
-      "source": "TradingKey",
+      "title": "Home Depot Beats Estimates but Loses $1.5 Billion as Transactions Keep Falling",
+      "summary": "Home Depot beat second-quarter sales and profit estimates, yet its stock fell 0.96%, erasing about $1.5 billion in market value. The company saw a 1% decline in customer transactions despite a larger average ticket and a significant $730 million tariff refund. Analysts remain positive, but the market's focus shifts to upcoming PCE inflation data and the Federal Reserve's Jackson Hole symposium, which will influence housing-sensitive shares.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262124275-valero-energy-vlo-q2-2026-44-48b-revenue-beat-eps-12-54-refining-oi-4-5b-renewable-diesel-717m-swing-dividend-1-20-tradingkey",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/home-depot-beats-estimates-but-loses-1-5-billion-as-transactions-keep-falling/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262124275-valero-energy-vlo-q2-2026-44-48b-revenue-beat-eps-12-54-refining-oi-4-5b-renewable-diesel-717m-swing-dividend-1-20-tradingkey",
+      "url": "https://ts2.tech/en/home-depot-beats-estimates-but-loses-1-5-billion-as-transactions-keep-falling/",
       "urlType": "article",
-      "publishedAt": "2026-08-22T13:01:57.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-23T10:08:26.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
+      "score": 26
     },
     {
-      "id": "fdc6502a5ffd941a89c5",
+      "id": "2297e1e53963d4537cce",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Trump Media & Technology Group (NASDAQ: DJT) Faces New Investor Questions As Canada Tariff Pause Reshapes Trade Outlook",
-      "summary": "Trump Media & Technology Group (DJT) is under fresh investor scrutiny after the US temporarily suspended tariffs on Canadian imports. While the company's financial figures show limited direct impact from tariffs due to low revenue and significant net losses, investors are focusing on its political connections and potential digital trade alignment in future US-Canada agreements. The broader market context highlights the intertwining of trade policy and political branding for companies like Trump Media.",
-      "source": "Foreign Policy Journal",
+      "title": "DECK Stock Falls Overnight As Q2 Sales Growth Slows — Retail Calls The Drop 'Absurd'",
+      "summary": "Deckers Brands (DECK) stock declined overnight despite beating Q1 earnings expectations, as investors focused on slowing sales growth, margin pressures from tariffs and freight costs, and cautious annual guidance. The company reported record revenue of $1.02 billion, but growth slowed to 5.7%. Retail sentiment, however, remained \"extremely bullish,\" with many calling the stock's drop \"absurd\" and highlighting strong fundamentals like debt-to-cash and free cash flow.",
+      "source": "Stocktwits",
       "sources": [
         {
-          "name": "Foreign Policy Journal",
-          "url": "https://www.foreignpolicyjournal.com/2026/08/22/trump-media-technology-group-nasdaq-djt-faces-new-investor-questions-as-canada-tariff-pause-reshapes-trade-outlook/",
+          "name": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/deck-stock-falls-overnight-as-q2-sales-growth-slows-retail-calls-the-drop-absurd/cZZYkYLR7yG",
           "urlType": "article"
         }
       ],
-      "url": "https://www.foreignpolicyjournal.com/2026/08/22/trump-media-technology-group-nasdaq-djt-faces-new-investor-questions-as-canada-tariff-pause-reshapes-trade-outlook/",
+      "url": "https://stocktwits.com/news-articles/markets/equity/deck-stock-falls-overnight-as-q2-sales-growth-slows-retail-calls-the-drop-absurd/cZZYkYLR7yG",
       "urlType": "article",
-      "publishedAt": "2026-08-22T12:41:12.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-23T06:38:25.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "782270133e7a712dafa6",
+      "id": "84a90d25e5365ed07d16",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Pembina Approves Greenlight Power Project for AI Data Centers",
-      "summary": "Pembina Pipeline Corporation has approved the Greenlight Electricity Center (GLEC) project in Alberta, a significant energy infrastructure development. This project, a collaboration with Morgan Stanley Infrastructure Partners and Kineticor Asset Management, will supply dedicated electricity to a hyperscale data center, generating long-term fee-based earnings for Pembina. The GLEC will utilize advanced combined cycle technology and operate under a long-term commercial agreement, supporting Alberta's growing digital economy and AI investments.",
-      "source": "Eastern Progress",
+      "title": "Vista Energy Sheds Over Two-Thirds of Thiel Gains Even as Brent Advances 6.4%",
+      "summary": "Vista Energy (NYSE:VIST) lost roughly two-thirds of the market value surge it experienced on Monday, despite a 6.4% rise in Brent crude prices over the week. The initial boost was driven by news of Peter Thiel's investment firm holding a stake in Vista. Analysts maintain a \"Buy\" or \"Strong Buy\" rating for Vista, with an average target price significantly above its current trading level, indicating potential for renewed momentum if oil prices remain firm.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "Eastern Progress",
-          "url": "https://www.easternprogress.com/pembina-approves-greenlight-power-project-for-ai-data-centers/article_f4be5e38-147b-5177-b092-d66c86a06536.html",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/vista-energy-gives-back-two-thirds-of-thiel-pop-despite-brents-6-4-rally/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.easternprogress.com/pembina-approves-greenlight-power-project-for-ai-data-centers/article_f4be5e38-147b-5177-b092-d66c86a06536.html",
+      "url": "https://ts2.tech/en/vista-energy-gives-back-two-thirds-of-thiel-pop-despite-brents-6-4-rally/",
       "urlType": "article",
-      "publishedAt": "2026-08-22T15:12:23.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-22T22:04:29.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 20
     },
     {
-      "id": "371ee89526885ec2c3e8",
+      "id": "d714c1a414eff6b826af",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Berkshire Hathaway stock holds above $743,000 as Buffett reshapes the portfolio",
-      "summary": "Berkshire Hathaway's Class A stock is trading above $743,000, reflecting its status as a high-priced but widely followed investment vehicle. Recent portfolio adjustments include reducing stakes in Bank of America while benefiting from energy holdings like Occidental Petroleum, aligning with Buffett's capital allocation strategy. The article highlights Berkshire's defensive qualities amidst broader debt concerns and elevated interest rates, positioning it as a hedge against macroeconomic risks.",
+      "title": "CNH CFO Says Tariffs Are Eating Into Gains That Should Have Gone to Shareholders",
+      "summary": "CNH Industrial NV saw its stock jump nearly 14% after reporting strong second-quarter results that beat analyst estimates and raising its full-year earnings outlook. Despite operational improvements in pricing, sourcing, and manufacturing, CFO Jim Nicholas stated that higher tariffs have absorbed much of the potential gains that should have benefited shareholders. However, the company lowered its estimated 2026 tariff impact and updated its full-year adjusted EPS forecast, anticipating that future price-cost improvements will increasingly flow to shareholders if tariff rates remain stable.",
+      "source": "Sahm",
+      "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://www.sahmcapital.com/news/content/cnh-cfo-says-tariffs-are-eating-into-gains-that-should-have-gone-to-shareholders-2026-08-03",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.sahmcapital.com/news/content/cnh-cfo-says-tariffs-are-eating-into-gains-that-should-have-gone-to-shareholders-2026-08-03",
+      "urlType": "article",
+      "publishedAt": "2026-08-22T21:48:47.000Z",
+      "date": "2026-08-23",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "5f2e40572d682f1c0dff",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Dow stock holds steady as investors look beyond the broader index record",
+      "summary": "Dow Inc. stock is trading against a backdrop of the Dow Jones Industrial Average reaching record highs, yet the company's fundamentals and income profile, particularly its dividend policy, are what drive the investment case. While the index's performance indicates a constructive sentiment in US blue-chip equities, investors are encouraged to look beyond the headline index number and consider Dow's specific operational profile, capital allocation decisions, and ability to generate returns through both price appreciation and cash distributions. The article highlights that individual stock movements can diverge from the benchmark, making Dow's consistent dividend and strategic product offerings key for assessing its investment potential.",
       "source": "Ad-hoc-news.de",
       "sources": [
         {
           "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/berkshire-hathaway-stock-holds-above-743-000-as-buffett-reshapes-the/69986296",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dow-stock-holds-steady-as-investors-look-beyond-the-broader-index-record/69990510",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/berkshire-hathaway-stock-holds-above-743-000-as-buffett-reshapes-the/69986296",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dow-stock-holds-steady-as-investors-look-beyond-the-broader-index-record/69990510",
       "urlType": "article",
-      "publishedAt": "2026-08-22T14:11:10.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-23T15:07:59.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "e9573f2d28318a1a6d3e",
+      "id": "e8b561666c4ec3eac0ff",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Fed Approves NatWest Office in Connecticut",
-      "summary": "The Federal Reserve has approved National Westminster Bank Plc's application to establish a representative office in Stamford, Connecticut. This office will allow NatWest to engage with U.S. customers and promote services but will not permit full banking operations like accepting deposits or making loans. This approval expands NatWest's existing presence in Stamford, complementing NatWest Markets' operations, and is subject to continued regulatory oversight by both federal and state authorities.",
-      "source": "STL.News",
-      "sources": [
-        {
-          "name": "STL.News",
-          "url": "https://www.stl.news/fed-approves-natwest-office-in-connecticut/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stl.news/fed-approves-natwest-office-in-connecticut/",
-      "urlType": "article",
-      "publishedAt": "2026-08-22T14:10:49.000Z",
-      "date": "2026-08-22",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "b0892c0180aed8f1951d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
-      "summary": "The article argues that Realty Income (NYSE: O), a real estate investment trust (REIT), is a better dividend stock than tech giants like Microsoft or Apple. While tech stocks offer dividend growth, Realty Income provides a higher yield (over 5%) and dependable monthly dividend payments that have consistently increased over time. Its stable cash flow, conservative payout ratio, and strong balance sheet make it an ideal choice for passive income investors.",
-      "source": "The Globe and Mail",
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3986151/why-i-think-the-best-dividend-stock-isn-t-a-tech-name-it-s-realty-income/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3986151/why-i-think-the-best-dividend-stock-isn-t-a-tech-name-it-s-realty-income/",
-      "urlType": "article",
-      "publishedAt": "2026-08-22T14:08:59.000Z",
-      "date": "2026-08-22",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "b8471d0b1068a243e490",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Arabica Coffee Futures Open Interest Up 504 contracts, August 21",
-      "summary": "Open interest for Arabica coffee futures at ICE Futures increased by 504 contracts, reaching a total of 193,951 contracts on August 21. This rise was accompanied by a trading volume of 46,275. The information is presented as market commentary, offering insights into the coffee market.",
-      "source": "www.stonex.com",
-      "sources": [
-        {
-          "name": "www.stonex.com",
-          "url": "https://www.stonex.com/en/insights/arabica-coffee-futures-open-interest-up-504-contracts,-august-21-1517692/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stonex.com/en/insights/arabica-coffee-futures-open-interest-up-504-contracts,-august-21-1517692/",
-      "urlType": "article",
-      "publishedAt": "2026-08-22T13:44:00.000Z",
-      "date": "2026-08-22",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "1aed09838e5cf899bdb8",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Robert Half stock holds steady as investors digest recent earnings and guidance",
-      "summary": "Robert Half's stock is trading steadily in the low-$40 range, with investors evaluating the company's recent earnings and its outlook for staffing and consulting demand. The latest financial reports show solid revenue and cash generation, reflecting a normalization in the staffing market rather than a structural downturn. Analysts anticipate continued profitability, supported by cost control and diversified services like consulting, which help mitigate softer hiring in traditional staffing.",
+      "title": "Costco stock holds above $940 as analysts back long-term growth",
+      "summary": "Costco stock is trading near $947 in late August 2026, supported by strong year-to-date gains and a consensus price target of over $1,050 from analysts. The warehouse retailer's membership model, expansion into new markets like Medicare insurance, and its Kirkland Signature gasoline offering are cited as key drivers of its long-term growth and resilience, even amidst fluctuating economic conditions.",
       "source": "Ad-hoc-news.de",
       "sources": [
         {
           "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/robert-half-stock-holds-steady-as-investors-digest-recent-earnings-and/69985955",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-stock-holds-above-940-as-analysts-back-long-term-growth/69990494",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/robert-half-stock-holds-steady-as-investors-digest-recent-earnings-and/69985955",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-stock-holds-above-940-as-analysts-back-long-term-growth/69990494",
       "urlType": "article",
-      "publishedAt": "2026-08-22T13:25:00.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-23T15:03:12.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "fbc6cdeb643a9ef67be5",
+      "id": "90b7455acb55076fd651",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "National Grid stock holds steady as market digests latest prospectus details",
-      "summary": "National Grid (GB00BDR05C01) stock is holding steady at 1,188.75 GBX, reflecting a modest year-to-date gain of 3.98%. Investors are evaluating a new prospectus that outlines the company's capital structure and regulatory environment, crucial for income-focused investors. The market response indicates a period of consolidation rather than sharp revaluation, with the stock maintaining a stable position as a defensive holding.",
+      "title": "3M stock holds firm after Q2 2026 earnings beat and steady guidance",
+      "summary": "3M stock is holding firm after reporting strong Q2 2026 results, surpassing earnings and revenue expectations. The company reaffirmed its full-year guidance, emphasizing continued focus on profitability and cash generation through cost controls and portfolio discipline. Analysts noted 3M's consistent outperformance against EPS estimates, contributing to investor confidence in its operational efficiency across diverse segments.",
       "source": "Ad-hoc-news.de",
       "sources": [
         {
           "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/national-grid-stock-holds-steady-as-market-digests-latest-prospectus/69985951",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/3m-stock-holds-firm-after-q2-2026-earnings-beat-and-steady-guidance/69990476",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/national-grid-stock-holds-steady-as-market-digests-latest-prospectus/69985951",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/3m-stock-holds-firm-after-q2-2026-earnings-beat-and-steady-guidance/69990476",
       "urlType": "article",
-      "publishedAt": "2026-08-22T13:24:00.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-23T14:58:25.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "38965c652841a78886fd",
+      "id": "483b7538e1b08d69c218",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Qorvo stock holds focus as analysts and results frame August 22",
-      "summary": "Qorvo Inc. (QRVO) remains a focus for investors as the company's latest results, guidance, and current market conditions are weighed by traders. The article emphasizes that the key factors for evaluating the stock are Qorvo's recent revenue, earnings, and margin updates, and how these figures compare to previous quarters. It also highlights the importance of market context, including valuation signals like market cap and the 52-week range, in understanding the stock's performance.",
+      "title": "Corporación América Airports (CAAP) Reports Q2 2026 Results, Is The 28% Undervaluation Real?",
+      "summary": "Corporación América Airports (CAAP) has reported its Q2 2026 results, showing a recent stock pullback despite a strong multi-year performance. Simply Wall St's analysis suggests the stock is 27.7% undervalued with a fair value of $32.43, driven by expected passenger growth in key markets. However, investors should consider risks like Argentina's economic instability and a canceled Baghdad airport contract.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/transportation/nyse-caap/corporacion-america-airports/news/corporacin-amrica-airports-caap-reports-q2-2026-results-is-t",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/transportation/nyse-caap/corporacion-america-airports/news/corporacin-amrica-airports-caap-reports-q2-2026-results-is-t",
+      "urlType": "article",
+      "publishedAt": "2026-08-23T14:47:05.000Z",
+      "date": "2026-08-23",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "ddfa9f17fa5e1f559b64",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Anheuser-Busch InBev stock holds in the upper 60s as China sales slide deepens",
+      "summary": "Anheuser-Busch InBev (ABI) stock is trading in the high 60s despite its China business experiencing a twelfth consecutive quarter of declining sales, with second-quarter 2026 volumes down 9.7% and revenue down 8.6%. The company is attempting to counter this decline by focusing on premium brands like Budweiser, Stella Artois, and Corona, and investors are balancing optimism about growth in other regions against the persistent weakness in China. As of August 21, 2026, ABI shares closed at EUR 67.10, showing a 22.45% year-to-date gain, but the ongoing struggles in the Chinese market remain a significant risk factor.",
       "source": "Ad-hoc-news.de",
       "sources": [
         {
           "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/qorvo-stock-holds-focus-as-analysts-and-results-frame-august-22/69986439",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/anheuser-busch-inbev-stock-holds-in-the-upper-60s-as-china-sales-slide/69990479",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/qorvo-stock-holds-focus-as-analysts-and-results-frame-august-22/69986439",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/anheuser-busch-inbev-stock-holds-in-the-upper-60s-as-china-sales-slide/69990479",
       "urlType": "article",
-      "publishedAt": "2026-08-22T13:10:14.000Z",
-      "date": "2026-08-22",
+      "publishedAt": "2026-08-23T14:46:50.000Z",
+      "date": "2026-08-23",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "6cdbeef4efda958b179e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Labor Strains and Show Closure Could Be A Game Changer For Wynn Resorts (WYNN)",
+      "summary": "Wynn Resorts is facing operational challenges with potential strike action at Encore Boston Harbor and the closure of the \"Awakening\" show at Wynn Las Vegas due to financial losses. These issues highlight the impact of labor relations and entertainment decisions on the company's costs and guest experience. Investors are urged to consider how these developments, alongside Q2 2026 earnings, might affect Wynn's long-term financial outlook and fair value, especially in the context of rising union demands and fixed entertainment costs.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-wynn/wynn-resorts/news/labor-strains-and-show-closure-could-be-a-game-changer-for-w/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-wynn/wynn-resorts/news/labor-strains-and-show-closure-could-be-a-game-changer-for-w/amp",
+      "urlType": "article",
+      "publishedAt": "2026-08-23T14:42:32.000Z",
+      "date": "2026-08-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
