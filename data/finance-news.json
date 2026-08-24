@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-23",
-  "generatedAt": "2026-08-23T22:54:59.783Z",
-  "targetDate": "2026-08-23",
+  "updated": "2026-08-24",
+  "generatedAt": "2026-08-24T23:01:07.610Z",
+  "targetDate": "2026-08-24",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "0a6d5c9f397417d94bf7",
+      "id": "db478d03e672f2d0bf6f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Home Depot Beats Estimates but Loses $1.5 Billion as Transactions Keep Falling",
-      "summary": "Home Depot beat second-quarter sales and profit estimates, yet its stock fell 0.96%, erasing about $1.5 billion in market value. The company saw a 1% decline in customer transactions despite a larger average ticket and a significant $730 million tariff refund. Analysts remain positive, but the market's focus shifts to upcoming PCE inflation data and the Federal Reserve's Jackson Hole symposium, which will influence housing-sensitive shares.",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.11% on Aug 24: Facts Behind the Movement",
+      "summary": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) stock declined by 3.11% on August 24, primarily due to investor profit-taking after a significant rally in the semiconductor sector, exacerbated by concerns over heavy capital expenditures and valuation. Technical indicators show a MACD sell signal and an oversold Williams %R, while fundamental analysis highlights substantial revenue and net profit figures within the Technology Equipment industry. Key risks include surging capital expenditure, valuation premia, geopolitical concentration, and operational complexities from international expansion.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262127968-market-movers-tsm-20260824",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262127968-market-movers-tsm-20260824",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T14:42:49.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 25
+    },
+    {
+      "id": "8254c0b3781275dd3f91",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "DA Davidson raises Emerson stock price target on power demand outlook",
+      "summary": "DA Davidson has increased its price target for Emerson Electric Co. (NYSE:EMR) to $155 from $145, maintaining a Neutral rating, due to slightly higher fiscal year 2027 estimates and confidence in Emerson's strong position in the current upcycle. The new target is based on 18.9 times the firm's fiscal year 2028 EPS forecast of $8.20, with the stock currently trading above this target. Emerson is well-positioned to meet its 2025 targets, supported by secular tailwinds such as increasing power generation demands and LNG investment, despite risks from project delays and geopolitical headwinds.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/analyst-ratings/da-davidson-raises-emerson-stock-price-target-on-power-demand-outlook-93CH-4873833?ampMode=1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.investing.com/news/analyst-ratings/da-davidson-raises-emerson-stock-price-target-on-power-demand-outlook-93CH-4873833?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T14:37:56.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 25
+    },
+    {
+      "id": "30edd47790bef2c4b57f",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Applied Materials Inc Stock (AMAT) Opened Down by 3.02% on Aug 24: What Investors Need To Know",
+      "summary": "Applied Materials Inc (AMAT) stock opened down by 3.02% despite reporting record quarterly earnings driven by strong AI infrastructure demand. The decline is attributed to high investor expectations, profit-taking, and concerns over near-term margin headwinds from expansion costs and capital expenditures. Technical indicators show a MACD sell signal, and analysts have set an average price target of $635.01, with identified risks including margin stagnation, lack of long-term revenue visibility, and geopolitical trade exposure.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T13:47:11.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "d86c3a0e485229551649",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Morgan Stanley warns bond yields could rise in post-WWII-style era",
+      "summary": "Morgan Stanley is cautioning investors that bond yields may continue to rise, citing a shift in economic cycles that resembles the post-World War II era. The investment bank believes market dynamics have moved away from the disinflationary period observed from 1982 to 2020. This prediction was initially made by Morgan Stanley in 2021, suggesting a sustained change in economic conditions.",
+      "source": "Quartz",
+      "sources": [
+        {
+          "name": "Quartz",
+          "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T13:45:46.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "2523cbe4afd1ed6a6b5d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Managing Risk in the Infrastructure Project Lifecycle",
+      "summary": "The article discusses the increasing volatility and complexity of the geopolitical environment, which significantly impacts infrastructure projects. It outlines a lifecycle framework for managing these risks, emphasizing continuous assessment, integrated risk management, and proactive engagement across dealmaking, permitting, construction, and operations. The piece concludes by highlighting the critical role of the legal team in leading these integrated efforts to turn volatility into a competitive advantage.",
+      "source": "FTI Consulting",
+      "sources": [
+        {
+          "name": "FTI Consulting",
+          "url": "https://www.fticonsulting.com/insights/articles/managing-risk-across-infrastructure-project-lifecycle",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.fticonsulting.com/insights/articles/managing-risk-across-infrastructure-project-lifecycle",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T13:45:06.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "ae5f26c1ad92780fc618",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Precious Metals StoneX Bullion weekly round-up; bond yields, debasement; conflicting influences on gold",
+      "summary": "This StoneX Bullion weekly round-up analyzes the conflicting influences on gold prices, noting that an exogenous shock from a Treasury announcement spurred a rally, yet rising bond yields act as a headwind. The report details the impact of the Treasury's intervention in long-term bond markets, increasing U.S. debt, and the dollar's defensive stance, all of which generally support gold. Despite this, gold's momentum is tempered by bond activity, with the long-term outlook dependent on geopolitics and financial management.",
+      "source": "StoneX",
+      "sources": [
+        {
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en/insights/precious-metals-stonex-bullion-weekly-round-up-bond-yields-debasement-conflicting-influences-on-gold/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stonex.com/en/insights/precious-metals-stonex-bullion-weekly-round-up-bond-yields-debasement-conflicting-influences-on-gold/",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T13:42:57.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 23
+    },
+    {
+      "id": "7e6b95998c5954a7ed87",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Cost to Ship a VLCC Through Hormuz Hits $20 Million, TotalEnergies CEO Says",
+      "summary": "TotalEnergies CEO Patrick Pouyanne stated that shipping oil on a supertanker through the Strait of Hormuz costs around $20 million, translating to about $10 a barrel. This high freight cost creates significant profit margins for traders and shipowners, as producers sell oil inside the Persian Gulf at $50-$60 per barrel due to ongoing conflict. Despite fears of price surges, increased oil flows through Hormuz have kept benchmark Brent futures below $100, while fuel markets remain tight due to attacks on Russian refineries.",
+      "source": "gCaptain",
+      "sources": [
+        {
+          "name": "gCaptain",
+          "url": "https://gcaptain.com/cost-to-ship-a-vlcc-through-hormuz-hits-20-million-totalenergies-ceo-says/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://gcaptain.com/cost-to-ship-a-vlcc-through-hormuz-hits-20-million-totalenergies-ceo-says/",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T15:44:08.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "ed74a6fc9035837c2a58",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Caterpillar's Q2 Adjusted Operating Margin Rebounds: Is the Worst Over?",
+      "summary": "Caterpillar (CAT) saw a significant rebound in its Q2 2026 adjusted operating margin, expanding 430 basis points year-over-year to 21.9%, driven by higher sales volumes and favorable pricing despite increased costs and tariffs. The company has raised its 2026 sales and revenue outlook to mid-to-high teens growth and expects full-year adjusted operating margin to improve meaningfully from 2025. While peers like Terex and Komatsu faced margin declines due to similar cost and tariff pressures, Caterpillar's stock has outperformed the industry, and its earnings estimates for 2026 and 2027 show strong growth.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:baabfd72d094b:0-caterpillar-s-q2-adjusted-operating-margin-rebounds-is-the-worst-over/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:baabfd72d094b:0-caterpillar-s-q2-adjusted-operating-margin-rebounds-is-the-worst-over/",
+      "urlType": "article",
+      "publishedAt": "2026-08-24T15:37:32.000Z",
+      "date": "2026-08-24",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "8d422c1c906317b86867",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
+      "summary": "Frontline shares are nearing a 14-year high, trading just 3.3% below their 52-week peak, driven by a 6% weekly surge in oil prices and tightening tanker availability due to Strait of Hormuz shipping constraints. Unlike major integrated oil producers like Exxon and Chevron, Frontline provides more direct exposure to these market dynamics, resulting in a 5.97% stock increase last week. The company, set to announce Q2 results on August 31, is operating on solid financial ground, having reported strong Q1 adjusted earnings and a dividend in line with EPS.",
       "source": "TechStock²",
       "sources": [
         {
           "name": "TechStock²",
-          "url": "https://ts2.tech/en/home-depot-beats-estimates-but-loses-1-5-billion-as-transactions-keep-falling/",
+          "url": "https://ts2.tech/en/oils-6-weekly-surge-pushes-frontline-near-a-14-year-high/",
           "urlType": "article"
         }
       ],
-      "url": "https://ts2.tech/en/home-depot-beats-estimates-but-loses-1-5-billion-as-transactions-keep-falling/",
+      "url": "https://ts2.tech/en/oils-6-weekly-surge-pushes-frontline-near-a-14-year-high/",
       "urlType": "article",
-      "publishedAt": "2026-08-23T10:08:26.000Z",
-      "date": "2026-08-23",
+      "publishedAt": "2026-08-24T14:12:58.000Z",
+      "date": "2026-08-24",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
+      "score": 19
     },
     {
-      "id": "2297e1e53963d4537cce",
+      "id": "fd9939f1452c6faa2039",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "DECK Stock Falls Overnight As Q2 Sales Growth Slows — Retail Calls The Drop 'Absurd'",
-      "summary": "Deckers Brands (DECK) stock declined overnight despite beating Q1 earnings expectations, as investors focused on slowing sales growth, margin pressures from tariffs and freight costs, and cautious annual guidance. The company reported record revenue of $1.02 billion, but growth slowed to 5.7%. Retail sentiment, however, remained \"extremely bullish,\" with many calling the stock's drop \"absurd\" and highlighting strong fundamentals like debt-to-cash and free cash flow.",
-      "source": "Stocktwits",
+      "title": "Bernstein SocGen maintains StandardAero stock rating after Q2 results",
+      "summary": "Bernstein SocGen has reaffirmed its Outperform rating and $39.00 price target for StandardAero Inc (NYSE:SARO) following the company's second-quarter earnings report, noting solid revenues but short-term margin issues. Despite a recent stock decline and margin pressure, Bernstein SocGen suggests the stock appears undervalued and that StandardAero should be insulated from short-term oil price movements. The company reported a 4.6% revenue increase, 24% adjusted earnings rise, and an uplifted full-year 2026 outlook.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/deck-stock-falls-overnight-as-q2-sales-growth-slows-retail-calls-the-drop-absurd/cZZYkYLR7yG",
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/analyst-ratings/bernstein-socgen-maintains-standardaero-stock-rating-after-q2-results-93CH-4873743?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://stocktwits.com/news-articles/markets/equity/deck-stock-falls-overnight-as-q2-sales-growth-slows-retail-calls-the-drop-absurd/cZZYkYLR7yG",
+      "url": "https://m.investing.com/news/analyst-ratings/bernstein-socgen-maintains-standardaero-stock-rating-after-q2-results-93CH-4873743?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-23T06:38:25.000Z",
-      "date": "2026-08-23",
+      "publishedAt": "2026-08-24T14:12:50.000Z",
+      "date": "2026-08-24",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "84a90d25e5365ed07d16",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Vista Energy Sheds Over Two-Thirds of Thiel Gains Even as Brent Advances 6.4%",
-      "summary": "Vista Energy (NYSE:VIST) lost roughly two-thirds of the market value surge it experienced on Monday, despite a 6.4% rise in Brent crude prices over the week. The initial boost was driven by news of Peter Thiel's investment firm holding a stake in Vista. Analysts maintain a \"Buy\" or \"Strong Buy\" rating for Vista, with an average target price significantly above its current trading level, indicating potential for renewed momentum if oil prices remain firm.",
-      "source": "TechStock²",
-      "sources": [
-        {
-          "name": "TechStock²",
-          "url": "https://ts2.tech/en/vista-energy-gives-back-two-thirds-of-thiel-pop-despite-brents-6-4-rally/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ts2.tech/en/vista-energy-gives-back-two-thirds-of-thiel-pop-despite-brents-6-4-rally/",
-      "urlType": "article",
-      "publishedAt": "2026-08-22T22:04:29.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "d714c1a414eff6b826af",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "CNH CFO Says Tariffs Are Eating Into Gains That Should Have Gone to Shareholders",
-      "summary": "CNH Industrial NV saw its stock jump nearly 14% after reporting strong second-quarter results that beat analyst estimates and raising its full-year earnings outlook. Despite operational improvements in pricing, sourcing, and manufacturing, CFO Jim Nicholas stated that higher tariffs have absorbed much of the potential gains that should have benefited shareholders. However, the company lowered its estimated 2026 tariff impact and updated its full-year adjusted EPS forecast, anticipating that future price-cost improvements will increasingly flow to shareholders if tariff rates remain stable.",
-      "source": "Sahm",
-      "sources": [
-        {
-          "name": "Sahm",
-          "url": "https://www.sahmcapital.com/news/content/cnh-cfo-says-tariffs-are-eating-into-gains-that-should-have-gone-to-shareholders-2026-08-03",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.sahmcapital.com/news/content/cnh-cfo-says-tariffs-are-eating-into-gains-that-should-have-gone-to-shareholders-2026-08-03",
-      "urlType": "article",
-      "publishedAt": "2026-08-22T21:48:47.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "5f2e40572d682f1c0dff",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Dow stock holds steady as investors look beyond the broader index record",
-      "summary": "Dow Inc. stock is trading against a backdrop of the Dow Jones Industrial Average reaching record highs, yet the company's fundamentals and income profile, particularly its dividend policy, are what drive the investment case. While the index's performance indicates a constructive sentiment in US blue-chip equities, investors are encouraged to look beyond the headline index number and consider Dow's specific operational profile, capital allocation decisions, and ability to generate returns through both price appreciation and cash distributions. The article highlights that individual stock movements can diverge from the benchmark, making Dow's consistent dividend and strategic product offerings key for assessing its investment potential.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dow-stock-holds-steady-as-investors-look-beyond-the-broader-index-record/69990510",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dow-stock-holds-steady-as-investors-look-beyond-the-broader-index-record/69990510",
-      "urlType": "article",
-      "publishedAt": "2026-08-23T15:07:59.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "e8b561666c4ec3eac0ff",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Costco stock holds above $940 as analysts back long-term growth",
-      "summary": "Costco stock is trading near $947 in late August 2026, supported by strong year-to-date gains and a consensus price target of over $1,050 from analysts. The warehouse retailer's membership model, expansion into new markets like Medicare insurance, and its Kirkland Signature gasoline offering are cited as key drivers of its long-term growth and resilience, even amidst fluctuating economic conditions.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-stock-holds-above-940-as-analysts-back-long-term-growth/69990494",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-stock-holds-above-940-as-analysts-back-long-term-growth/69990494",
-      "urlType": "article",
-      "publishedAt": "2026-08-23T15:03:12.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "90b7455acb55076fd651",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "3M stock holds firm after Q2 2026 earnings beat and steady guidance",
-      "summary": "3M stock is holding firm after reporting strong Q2 2026 results, surpassing earnings and revenue expectations. The company reaffirmed its full-year guidance, emphasizing continued focus on profitability and cash generation through cost controls and portfolio discipline. Analysts noted 3M's consistent outperformance against EPS estimates, contributing to investor confidence in its operational efficiency across diverse segments.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/3m-stock-holds-firm-after-q2-2026-earnings-beat-and-steady-guidance/69990476",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/3m-stock-holds-firm-after-q2-2026-earnings-beat-and-steady-guidance/69990476",
-      "urlType": "article",
-      "publishedAt": "2026-08-23T14:58:25.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "483b7538e1b08d69c218",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Corporación América Airports (CAAP) Reports Q2 2026 Results, Is The 28% Undervaluation Real?",
-      "summary": "Corporación América Airports (CAAP) has reported its Q2 2026 results, showing a recent stock pullback despite a strong multi-year performance. Simply Wall St's analysis suggests the stock is 27.7% undervalued with a fair value of $32.43, driven by expected passenger growth in key markets. However, investors should consider risks like Argentina's economic instability and a canceled Baghdad airport contract.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/transportation/nyse-caap/corporacion-america-airports/news/corporacin-amrica-airports-caap-reports-q2-2026-results-is-t",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/transportation/nyse-caap/corporacion-america-airports/news/corporacin-amrica-airports-caap-reports-q2-2026-results-is-t",
-      "urlType": "article",
-      "publishedAt": "2026-08-23T14:47:05.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "ddfa9f17fa5e1f559b64",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Anheuser-Busch InBev stock holds in the upper 60s as China sales slide deepens",
-      "summary": "Anheuser-Busch InBev (ABI) stock is trading in the high 60s despite its China business experiencing a twelfth consecutive quarter of declining sales, with second-quarter 2026 volumes down 9.7% and revenue down 8.6%. The company is attempting to counter this decline by focusing on premium brands like Budweiser, Stella Artois, and Corona, and investors are balancing optimism about growth in other regions against the persistent weakness in China. As of August 21, 2026, ABI shares closed at EUR 67.10, showing a 22.45% year-to-date gain, but the ongoing struggles in the Chinese market remain a significant risk factor.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/anheuser-busch-inbev-stock-holds-in-the-upper-60s-as-china-sales-slide/69990479",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/anheuser-busch-inbev-stock-holds-in-the-upper-60s-as-china-sales-slide/69990479",
-      "urlType": "article",
-      "publishedAt": "2026-08-23T14:46:50.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "6cdbeef4efda958b179e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Labor Strains and Show Closure Could Be A Game Changer For Wynn Resorts (WYNN)",
-      "summary": "Wynn Resorts is facing operational challenges with potential strike action at Encore Boston Harbor and the closure of the \"Awakening\" show at Wynn Las Vegas due to financial losses. These issues highlight the impact of labor relations and entertainment decisions on the company's costs and guest experience. Investors are urged to consider how these developments, alongside Q2 2026 earnings, might affect Wynn's long-term financial outlook and fair value, especially in the context of rising union demands and fixed entertainment costs.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-wynn/wynn-resorts/news/labor-strains-and-show-closure-could-be-a-game-changer-for-w/amp",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-wynn/wynn-resorts/news/labor-strains-and-show-closure-could-be-a-game-changer-for-w/amp",
-      "urlType": "article",
-      "publishedAt": "2026-08-23T14:42:32.000Z",
-      "date": "2026-08-23",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 19
     }
   ]
 }
