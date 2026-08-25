@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-24",
-  "generatedAt": "2026-08-24T23:01:07.610Z",
-  "targetDate": "2026-08-24",
+  "updated": "2026-08-25",
+  "generatedAt": "2026-08-25T23:03:22.161Z",
+  "targetDate": "2026-08-25",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "db478d03e672f2d0bf6f",
+      "id": "6ca0ac22d28e315dc5a4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.11% on Aug 24: Facts Behind the Movement",
-      "summary": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) stock declined by 3.11% on August 24, primarily due to investor profit-taking after a significant rally in the semiconductor sector, exacerbated by concerns over heavy capital expenditures and valuation. Technical indicators show a MACD sell signal and an oversold Williams %R, while fundamental analysis highlights substantial revenue and net profit figures within the Technology Equipment industry. Key risks include surging capital expenditure, valuation premia, geopolitical concentration, and operational complexities from international expansion.",
-      "source": "TradingKey",
+      "title": "Kraft Heinz Q2 Earnings Beat as 2026 Organic Sales Outlook Improves",
+      "summary": "Kraft Heinz (KHC) exceeded Q2 earnings and sales expectations and improved its 2026 organic sales outlook, signaling potential execution improvements despite ongoing challenges. While North American volumes remain weak and full-year margins are expected to contract, growth in emerging markets and an increased sales outlook offer a more optimistic long-term view. The company's immediate profitability is still pressured by investments and inflation, reflected in its current \"Hold\" rating from Zacks.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262127968-market-movers-tsm-20260824",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:f008ca06f094b:0-kraft-heinz-q2-earnings-beat-as-2026-organic-sales-outlook-improves/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262127968-market-movers-tsm-20260824",
+      "url": "https://www.tradingview.com/news/zacks:f008ca06f094b:0-kraft-heinz-q2-earnings-beat-as-2026-organic-sales-outlook-improves/",
       "urlType": "article",
-      "publishedAt": "2026-08-24T14:42:49.000Z",
-      "date": "2026-08-24",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "8254c0b3781275dd3f91",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "DA Davidson raises Emerson stock price target on power demand outlook",
-      "summary": "DA Davidson has increased its price target for Emerson Electric Co. (NYSE:EMR) to $155 from $145, maintaining a Neutral rating, due to slightly higher fiscal year 2027 estimates and confidence in Emerson's strong position in the current upcycle. The new target is based on 18.9 times the firm's fiscal year 2028 EPS forecast of $8.20, with the stock currently trading above this target. Emerson is well-positioned to meet its 2025 targets, supported by secular tailwinds such as increasing power generation demands and LNG investment, despite risks from project delays and geopolitical headwinds.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/analyst-ratings/da-davidson-raises-emerson-stock-price-target-on-power-demand-outlook-93CH-4873833?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/analyst-ratings/da-davidson-raises-emerson-stock-price-target-on-power-demand-outlook-93CH-4873833?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-24T14:37:56.000Z",
-      "date": "2026-08-24",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "30edd47790bef2c4b57f",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Applied Materials Inc Stock (AMAT) Opened Down by 3.02% on Aug 24: What Investors Need To Know",
-      "summary": "Applied Materials Inc (AMAT) stock opened down by 3.02% despite reporting record quarterly earnings driven by strong AI infrastructure demand. The decline is attributed to high investor expectations, profit-taking, and concerns over near-term margin headwinds from expansion costs and capital expenditures. Technical indicators show a MACD sell signal, and analysts have set an average price target of $635.01, with identified risks including margin stagnation, lack of long-term revenue visibility, and geopolitical trade exposure.",
-      "source": "TradingKey",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
-      "urlType": "article",
-      "publishedAt": "2026-08-24T13:47:11.000Z",
-      "date": "2026-08-24",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
-    },
-    {
-      "id": "d86c3a0e485229551649",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Morgan Stanley warns bond yields could rise in post-WWII-style era",
-      "summary": "Morgan Stanley is cautioning investors that bond yields may continue to rise, citing a shift in economic cycles that resembles the post-World War II era. The investment bank believes market dynamics have moved away from the disinflationary period observed from 1982 to 2020. This prediction was initially made by Morgan Stanley in 2021, suggesting a sustained change in economic conditions.",
-      "source": "Quartz",
-      "sources": [
-        {
-          "name": "Quartz",
-          "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://qz.com/morgan-stanley-bond-yields-higher-economic-cycles-082426",
-      "urlType": "article",
-      "publishedAt": "2026-08-24T13:45:46.000Z",
-      "date": "2026-08-24",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
-    },
-    {
-      "id": "2523cbe4afd1ed6a6b5d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Managing Risk in the Infrastructure Project Lifecycle",
-      "summary": "The article discusses the increasing volatility and complexity of the geopolitical environment, which significantly impacts infrastructure projects. It outlines a lifecycle framework for managing these risks, emphasizing continuous assessment, integrated risk management, and proactive engagement across dealmaking, permitting, construction, and operations. The piece concludes by highlighting the critical role of the legal team in leading these integrated efforts to turn volatility into a competitive advantage.",
-      "source": "FTI Consulting",
-      "sources": [
-        {
-          "name": "FTI Consulting",
-          "url": "https://www.fticonsulting.com/insights/articles/managing-risk-across-infrastructure-project-lifecycle",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.fticonsulting.com/insights/articles/managing-risk-across-infrastructure-project-lifecycle",
-      "urlType": "article",
-      "publishedAt": "2026-08-24T13:45:06.000Z",
-      "date": "2026-08-24",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
-    },
-    {
-      "id": "ae5f26c1ad92780fc618",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Precious Metals StoneX Bullion weekly round-up; bond yields, debasement; conflicting influences on gold",
-      "summary": "This StoneX Bullion weekly round-up analyzes the conflicting influences on gold prices, noting that an exogenous shock from a Treasury announcement spurred a rally, yet rising bond yields act as a headwind. The report details the impact of the Treasury's intervention in long-term bond markets, increasing U.S. debt, and the dollar's defensive stance, all of which generally support gold. Despite this, gold's momentum is tempered by bond activity, with the long-term outlook dependent on geopolitics and financial management.",
-      "source": "StoneX",
-      "sources": [
-        {
-          "name": "StoneX",
-          "url": "https://www.stonex.com/en/insights/precious-metals-stonex-bullion-weekly-round-up-bond-yields-debasement-conflicting-influences-on-gold/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stonex.com/en/insights/precious-metals-stonex-bullion-weekly-round-up-bond-yields-debasement-conflicting-influences-on-gold/",
-      "urlType": "article",
-      "publishedAt": "2026-08-24T13:42:57.000Z",
-      "date": "2026-08-24",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
-    },
-    {
-      "id": "7e6b95998c5954a7ed87",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Cost to Ship a VLCC Through Hormuz Hits $20 Million, TotalEnergies CEO Says",
-      "summary": "TotalEnergies CEO Patrick Pouyanne stated that shipping oil on a supertanker through the Strait of Hormuz costs around $20 million, translating to about $10 a barrel. This high freight cost creates significant profit margins for traders and shipowners, as producers sell oil inside the Persian Gulf at $50-$60 per barrel due to ongoing conflict. Despite fears of price surges, increased oil flows through Hormuz have kept benchmark Brent futures below $100, while fuel markets remain tight due to attacks on Russian refineries.",
-      "source": "gCaptain",
-      "sources": [
-        {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com/cost-to-ship-a-vlcc-through-hormuz-hits-20-million-totalenergies-ceo-says/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://gcaptain.com/cost-to-ship-a-vlcc-through-hormuz-hits-20-million-totalenergies-ceo-says/",
-      "urlType": "article",
-      "publishedAt": "2026-08-24T15:44:08.000Z",
-      "date": "2026-08-24",
+      "publishedAt": "2026-08-25T15:38:32.000Z",
+      "date": "2026-08-25",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "ed74a6fc9035837c2a58",
+      "id": "3c6cdd9a6f53a9daecd2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Caterpillar's Q2 Adjusted Operating Margin Rebounds: Is the Worst Over?",
-      "summary": "Caterpillar (CAT) saw a significant rebound in its Q2 2026 adjusted operating margin, expanding 430 basis points year-over-year to 21.9%, driven by higher sales volumes and favorable pricing despite increased costs and tariffs. The company has raised its 2026 sales and revenue outlook to mid-to-high teens growth and expects full-year adjusted operating margin to improve meaningfully from 2025. While peers like Terex and Komatsu faced margin declines due to similar cost and tariff pressures, Caterpillar's stock has outperformed the industry, and its earnings estimates for 2026 and 2027 show strong growth.",
-      "source": "TradingView",
+      "title": "Is Kraft Heinz Stock a Buy as Low Valuation Meets Execution Risk?",
+      "summary": "Kraft Heinz (KHC) presents a trade-off between its low valuation and ongoing execution risks. While its discounted earnings multiple and strong cash generation make it appealing to value investors, persistent volume weakness, inflation, and soft earnings trends remain concerns. The company's turnaround efforts are supported by robust free cash flow and strategic debt repayment, but a faster earnings recovery is challenged by affordability pressures and continued reinvestment.",
+      "source": "Yahoo Finance Singapore",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:baabfd72d094b:0-caterpillar-s-q2-adjusted-operating-margin-rebounds-is-the-worst-over/",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/kraft-heinz-stock-buy-low-153800220.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:baabfd72d094b:0-caterpillar-s-q2-adjusted-operating-margin-rebounds-is-the-worst-over/",
+      "url": "https://sg.finance.yahoo.com/news/kraft-heinz-stock-buy-low-153800220.html",
       "urlType": "article",
-      "publishedAt": "2026-08-24T15:37:32.000Z",
-      "date": "2026-08-24",
+      "publishedAt": "2026-08-25T15:37:40.000Z",
+      "date": "2026-08-25",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "e2e909ffc413f821de06",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Before The Surge, Caterpillar Stock’s Order Book Told A Different Story",
+      "summary": "Caterpillar (CAT) stock experienced a 96% surge between August 2025 and August 2026, despite initial appearances of stagnation in revenue and options market activity. A closer look revealed that the company's backlog, driven by increasing energy demands for data centers and generative AI, reached record levels before the stock price took off. The market's initial muted reaction was attributed to mixed signals, including tariff-related profitability headwinds, indicating that investors were pricing the company based on current performance rather than future orders.",
+      "source": "Trefis",
+      "sources": [
+        {
+          "name": "Trefis",
+          "url": "https://www.trefis.com/stock/cat/articles/612765/before-the-surge-caterpillar-stocks-order-book-told-a-different-story/2026-08-25",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.trefis.com/stock/cat/articles/612765/before-the-surge-caterpillar-stocks-order-book-told-a-different-story/2026-08-25",
+      "urlType": "article",
+      "publishedAt": "2026-08-25T15:16:23.000Z",
+      "date": "2026-08-25",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "1428e8f04753877fc321",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Williams-Sonoma faces earnings test as tariff costs peak Wednesday",
+      "summary": "Williams-Sonoma Inc. is set to report its fiscal second-quarter results on Wednesday, with analysts focusing on whether the company can maintain market share amidst soft demand and rising tariffs. Wall Street expects earnings of $2.06 per share on $1.92 billion in revenue, with tariff costs expected to peak this quarter. The company's ability to continue its strong performance, especially with potential tariff refunds and brand momentum, will be key to justifying its recent valuation expansion.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/earnings/williamssonoma-faces-earnings-test-as-tariff-costs-peak-wednesday-93CH-4875562?ampMode=1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.investing.com/news/earnings/williamssonoma-faces-earnings-test-as-tariff-costs-peak-wednesday-93CH-4875562?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-08-25T13:40:06.000Z",
+      "date": "2026-08-25",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "8d422c1c906317b86867",
+      "id": "39c418dd9c0f1772f5c5",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Frontline Approaches 14-Year Peak as Oil Climbs 6% on the Week",
-      "summary": "Frontline shares are nearing a 14-year high, trading just 3.3% below their 52-week peak, driven by a 6% weekly surge in oil prices and tightening tanker availability due to Strait of Hormuz shipping constraints. Unlike major integrated oil producers like Exxon and Chevron, Frontline provides more direct exposure to these market dynamics, resulting in a 5.97% stock increase last week. The company, set to announce Q2 results on August 31, is operating on solid financial ground, having reported strong Q1 adjusted earnings and a dividend in line with EPS.",
-      "source": "TechStock²",
+      "title": "DA Davidson initiates MasterBrand stock at neutral on near-term headwinds",
+      "summary": "DA Davidson has initiated coverage on MasterBrand Inc. (NYSE:MBC) with a neutral rating and a $10.00 price target, citing near-term headwinds despite long-term value potential. The company faces weak demand, unfavorable product mix, and cost inflation, which are expected to impact margins. MasterBrand recently reported Q2 adjusted earnings of $0.05 per share, significantly missing analyst expectations, but is ahead of schedule on integrating its merger with American Woodmark.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "TechStock²",
-          "url": "https://ts2.tech/en/oils-6-weekly-surge-pushes-frontline-near-a-14-year-high/",
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/analyst-ratings/da-davidson-initiates-masterbrand-stock-at-neutral-on-nearterm-headwinds-93CH-4875442?ampMode=1",
           "urlType": "article"
         }
       ],
-      "url": "https://ts2.tech/en/oils-6-weekly-surge-pushes-frontline-near-a-14-year-high/",
+      "url": "https://m.investing.com/news/analyst-ratings/da-davidson-initiates-masterbrand-stock-at-neutral-on-nearterm-headwinds-93CH-4875442?ampMode=1",
       "urlType": "article",
-      "publishedAt": "2026-08-24T14:12:58.000Z",
-      "date": "2026-08-24",
+      "publishedAt": "2026-08-25T12:42:00.000Z",
+      "date": "2026-08-25",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "0bfebd8bbafccd6e808a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Home Depot still faces frozen housing market",
+      "summary": "Home Depot's recent profits were boosted by significant tariff refunds, masking a potential decline if these were excluded. The company is facing challenges due to high mortgage rates in the US, which are deterring Americans from moving homes and consequently reducing visits to their stores. This suggests a frozen housing market is negatively impacting their core business.",
+      "source": "Investors' Chronicle",
+      "sources": [
+        {
+          "name": "Investors' Chronicle",
+          "url": "https://www.investorschronicle.co.uk/content/40a53747-cb87-4206-9c67-e3272a9c7ad1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investorschronicle.co.uk/content/40a53747-cb87-4206-9c67-e3272a9c7ad1",
+      "urlType": "article",
+      "publishedAt": "2026-08-25T11:49:32.000Z",
+      "date": "2026-08-25",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "fd9939f1452c6faa2039",
+      "id": "ad55d2d9e424472f75c3",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Bernstein SocGen maintains StandardAero stock rating after Q2 results",
-      "summary": "Bernstein SocGen has reaffirmed its Outperform rating and $39.00 price target for StandardAero Inc (NYSE:SARO) following the company's second-quarter earnings report, noting solid revenues but short-term margin issues. Despite a recent stock decline and margin pressure, Bernstein SocGen suggests the stock appears undervalued and that StandardAero should be insulated from short-term oil price movements. The company reported a 4.6% revenue increase, 24% adjusted earnings rise, and an uplifted full-year 2026 outlook.",
-      "source": "Investing.com",
+      "title": "Nucor stock holds above $240 as steel prices edge higher",
+      "summary": "Nucor stock is trading above $240 in late August 2026, supported by higher hot-rolled coil prices and fresh institutional buying interest. The company recently raised its hot-rolled coil base price to $1,180 per short ton, signaling strong demand. Analysts have a consensus \"moderate buy\" rating with an average 12-month price target of $272.38, implying potential double-digit upside.",
+      "source": "Ad-hoc-news.de",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/analyst-ratings/bernstein-socgen-maintains-standardaero-stock-rating-after-q2-results-93CH-4873743?ampMode=1",
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-stock-holds-above-240-as-steel-prices-edge-higher/69998792",
           "urlType": "article"
         }
       ],
-      "url": "https://m.investing.com/news/analyst-ratings/bernstein-socgen-maintains-standardaero-stock-rating-after-q2-results-93CH-4873743?ampMode=1",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-stock-holds-above-240-as-steel-prices-edge-higher/69998792",
       "urlType": "article",
-      "publishedAt": "2026-08-24T14:12:50.000Z",
-      "date": "2026-08-24",
+      "publishedAt": "2026-08-25T11:27:03.000Z",
+      "date": "2026-08-25",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
+    },
+    {
+      "id": "4e6609e486d9c8556566",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Old Dominion stock holds below recent highs as tariffs weigh on trucking",
+      "summary": "Old Dominion Freight Line stock is trading below recent highs, influenced by new auto tariffs which caused a sector-wide decline in trucking shares. Analysts maintain a \"Hold\" consensus with a modest projected upside, while institutional investors continue to adjust their positions. The company's performance is expected to depend on its ability to manage demand trends and operational efficiency in a changing economic environment.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-holds-below-recent-highs-as-tariffs-weigh-on-trucking/69998443",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-holds-below-recent-highs-as-tariffs-weigh-on-trucking/69998443",
+      "urlType": "article",
+      "publishedAt": "2026-08-25T10:10:00.000Z",
+      "date": "2026-08-25",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "d678de45a2b45da9f3fd",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Grupo Galicia (NYSE: GGAL) profit rises even as bad loans climb",
+      "summary": "Grupo Galicia (NYSE: GGAL) reported a consolidated net profit of Ps.258,322 million in Q2 2026, marking a 12% increase year-over-year. This profit rise occurred despite a significant deterioration in asset quality, with the group's non-performing loan (NPL) ratio climbing to 10.6% from 5.5% a year prior. The financial performance was boosted by lower interest rates, reduced refinancing costs, and improved government bond yields, while the increase in NPLs was particularly notable in its Naranja X subsidiary.",
+      "source": "Stock Titan",
+      "sources": [
+        {
+          "name": "Stock Titan",
+          "url": "https://www.stocktitan.net/sec-filings/GGAL/6-k-grupo-financiero-galicia-sa-current-report-foreign-issuer-cbfb8776fe51.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stocktitan.net/sec-filings/GGAL/6-k-grupo-financiero-galicia-sa-current-report-foreign-issuer-cbfb8776fe51.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-25T15:40:48.000Z",
+      "date": "2026-08-25",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "a772e060b64dd8c39ce1",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Should You Buy, Sell or Hold Ross Stores Stock Post Q2 Earnings?",
+      "summary": "Ross Stores (ROST) delivered strong second-quarter fiscal 2026 results, surpassing earnings and sales estimates due to robust customer traffic and merchandise assortments. The company raised its outlook for the second half and fiscal year 2026, driven by improving customer engagement, merchandising initiatives, inventory investments, and physical expansion plans. While potential risks like higher freight costs and macroeconomic uncertainty exist, the company's strong operating trends and growth strategies suggest a favorable investment outlook, earning it a Zacks Rank #2 (Buy).",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:e6161996f094b:0-should-you-buy-sell-or-hold-ross-stores-stock-post-q2-earnings/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:e6161996f094b:0-should-you-buy-sell-or-hold-ross-stores-stock-post-q2-earnings/",
+      "urlType": "article",
+      "publishedAt": "2026-08-25T15:39:25.000Z",
+      "date": "2026-08-25",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
