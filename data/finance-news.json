@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-25",
-  "generatedAt": "2026-08-25T23:03:22.161Z",
-  "targetDate": "2026-08-25",
+  "updated": "2026-08-27",
+  "generatedAt": "2026-08-28T05:36:44.039Z",
+  "targetDate": "2026-08-27",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 2,
+      "message": ""
     },
     {
       "name": "中国政府网",
@@ -29,235 +29,235 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 50,
+      "itemCount": 44,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
       "name": "GDELT",
       "status": "failed",
       "itemCount": 0,
-      "message": "geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout；company_ipo: The operation was aborted due to timeout"
+      "message": "policy_regulation: fetch failed；geopolitics_macro: fetch failed；company_ipo: The operation was aborted due to timeout"
     }
   ],
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "6ca0ac22d28e315dc5a4",
+      "id": "167f6f955cbccb5c8edd",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kraft Heinz Q2 Earnings Beat as 2026 Organic Sales Outlook Improves",
-      "summary": "Kraft Heinz (KHC) exceeded Q2 earnings and sales expectations and improved its 2026 organic sales outlook, signaling potential execution improvements despite ongoing challenges. While North American volumes remain weak and full-year margins are expected to contract, growth in emerging markets and an increased sales outlook offer a more optimistic long-term view. The company's immediate profitability is still pressured by investments and inflation, reflected in its current \"Hold\" rating from Zacks.",
-      "source": "TradingView",
+      "title": "Hormel Foods cuts annual sales forecast as sluggish consumer demand weighs",
+      "summary": "Hormel Foods has lowered its annual sales forecast due to a decline in its retail segment and weak demand for private-label snack nuts, reflecting broader inflationary pressures and higher living costs impacting consumer spending. Despite the sales challenges, the company raised its full-year adjusted earnings per share forecast, following strategic portfolio adjustments and new executive appointments. Its third-quarter revenue missed analyst estimates, primarily due to weaker performance in retail and international businesses.",
+      "source": "Reuters",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:f008ca06f094b:0-kraft-heinz-q2-earnings-beat-as-2026-organic-sales-outlook-improves/",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/hormel-foods-cuts-annual-sales-forecast-sluggish-consumer-demand-weighs-2026-08-27/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:f008ca06f094b:0-kraft-heinz-q2-earnings-beat-as-2026-organic-sales-outlook-improves/",
+      "url": "https://www.reuters.com/business/retail-consumer/hormel-foods-cuts-annual-sales-forecast-sluggish-consumer-demand-weighs-2026-08-27/",
       "urlType": "article",
-      "publishedAt": "2026-08-25T15:38:32.000Z",
-      "date": "2026-08-25",
+      "publishedAt": "2026-08-27T11:40:00.000Z",
+      "date": "2026-08-27",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 31
+    },
+    {
+      "id": "5f59f91ba7a56ae93c9b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Assisted by Halliburton, Two Startups Slash Costs of Critical Minerals Refining",
+      "summary": "Halliburton Labs, a subsidiary of Halliburton Company, is collaborating with two startups, Electroflow Technologies and SiTration Inc., to significantly reduce the costs and processing steps for critical minerals. Electroflow has developed a three-step process for extracting and refining lithium from brines, while SiTration offers a single-step method for recovering copper from mining waste streams. This initiative highlights the oil industry's increasing diversification into critical minerals, driven by energy security concerns and shifting political incentives.",
+      "source": "Industrial Info Resources",
+      "sources": [
+        {
+          "name": "Industrial Info Resources",
+          "url": "https://www.industrialinfo.com/iirenergy/industry-news/article/assisted-by-halliburton-two-startups-slash-costs-of-critical-minerals-refining--361823",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.industrialinfo.com/iirenergy/industry-news/article/assisted-by-halliburton-two-startups-slash-costs-of-critical-minerals-refining--361823",
+      "urlType": "article",
+      "publishedAt": "2026-08-27T07:16:17.000Z",
+      "date": "2026-08-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "3c6cdd9a6f53a9daecd2",
+      "id": "37f9e6113113a0770d09",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Is Kraft Heinz Stock a Buy as Low Valuation Meets Execution Risk?",
-      "summary": "Kraft Heinz (KHC) presents a trade-off between its low valuation and ongoing execution risks. While its discounted earnings multiple and strong cash generation make it appealing to value investors, persistent volume weakness, inflation, and soft earnings trends remain concerns. The company's turnaround efforts are supported by robust free cash flow and strategic debt repayment, but a faster earnings recovery is challenged by affordability pressures and continued reinvestment.",
-      "source": "Yahoo Finance Singapore",
+      "title": "America’s Industrial Comeback Requires a New Financial Playbook and a Fatter Checkbook",
+      "summary": "Jim Zelter, President of Apollo Global Management, argues that America's industrial comeback, driven by investments in power, infrastructure, manufacturing, and critical supply chains, demands a new financial approach and significant capital. He emphasizes that rebuilding the industrial base will require trillions of dollars and a more connected capital system to finance this transformation. The article highlights Apollo's role as a principal investor providing flexible capital solutions for leading companies globally.",
+      "source": "Apollo Global Management",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/kraft-heinz-stock-buy-low-153800220.html",
+          "name": "Apollo Global Management",
+          "url": "https://www.apollo.com/institutional/insights-news/insights/2026/08/america-industrial-comeback-new-financial-playbook",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/kraft-heinz-stock-buy-low-153800220.html",
+      "url": "https://www.apollo.com/institutional/insights-news/insights/2026/08/america-industrial-comeback-new-financial-playbook",
       "urlType": "article",
-      "publishedAt": "2026-08-25T15:37:40.000Z",
-      "date": "2026-08-25",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "e2e909ffc413f821de06",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Before The Surge, Caterpillar Stock’s Order Book Told A Different Story",
-      "summary": "Caterpillar (CAT) stock experienced a 96% surge between August 2025 and August 2026, despite initial appearances of stagnation in revenue and options market activity. A closer look revealed that the company's backlog, driven by increasing energy demands for data centers and generative AI, reached record levels before the stock price took off. The market's initial muted reaction was attributed to mixed signals, including tariff-related profitability headwinds, indicating that investors were pricing the company based on current performance rather than future orders.",
-      "source": "Trefis",
-      "sources": [
-        {
-          "name": "Trefis",
-          "url": "https://www.trefis.com/stock/cat/articles/612765/before-the-surge-caterpillar-stocks-order-book-told-a-different-story/2026-08-25",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.trefis.com/stock/cat/articles/612765/before-the-surge-caterpillar-stocks-order-book-told-a-different-story/2026-08-25",
-      "urlType": "article",
-      "publishedAt": "2026-08-25T15:16:23.000Z",
-      "date": "2026-08-25",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "1428e8f04753877fc321",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Williams-Sonoma faces earnings test as tariff costs peak Wednesday",
-      "summary": "Williams-Sonoma Inc. is set to report its fiscal second-quarter results on Wednesday, with analysts focusing on whether the company can maintain market share amidst soft demand and rising tariffs. Wall Street expects earnings of $2.06 per share on $1.92 billion in revenue, with tariff costs expected to peak this quarter. The company's ability to continue its strong performance, especially with potential tariff refunds and brand momentum, will be key to justifying its recent valuation expansion.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/earnings/williamssonoma-faces-earnings-test-as-tariff-costs-peak-wednesday-93CH-4875562?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/earnings/williamssonoma-faces-earnings-test-as-tariff-costs-peak-wednesday-93CH-4875562?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-25T13:40:06.000Z",
-      "date": "2026-08-25",
+      "publishedAt": "2026-08-27T01:54:06.000Z",
+      "date": "2026-08-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "39c418dd9c0f1772f5c5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "DA Davidson initiates MasterBrand stock at neutral on near-term headwinds",
-      "summary": "DA Davidson has initiated coverage on MasterBrand Inc. (NYSE:MBC) with a neutral rating and a $10.00 price target, citing near-term headwinds despite long-term value potential. The company faces weak demand, unfavorable product mix, and cost inflation, which are expected to impact margins. MasterBrand recently reported Q2 adjusted earnings of $0.05 per share, significantly missing analyst expectations, but is ahead of schedule on integrating its merger with American Woodmark.",
-      "source": "Investing.com",
+      "id": "a978d0af526525be22ab",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行副行长陆磊出席第十五届中国支付清算论坛",
+      "summary": null,
+      "source": "中国人民银行",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/analyst-ratings/da-davidson-initiates-masterbrand-stock-at-neutral-on-nearterm-headwinds-93CH-4875442?ampMode=1",
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026082717390451589/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://m.investing.com/news/analyst-ratings/da-davidson-initiates-masterbrand-stock-at-neutral-on-nearterm-headwinds-93CH-4875442?ampMode=1",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026082717390451589/index.html",
       "urlType": "article",
-      "publishedAt": "2026-08-25T12:42:00.000Z",
-      "date": "2026-08-25",
+      "publishedAt": "2026-08-27T09:39:04.000Z",
+      "date": "2026-08-27",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "c768bb3b9b37f01dfd3a",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行新增西藏自治区分行支农支小再贷款额度50亿元 支持救灾及灾后重建",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026082717370314545/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026082717370314545/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-08-27T09:37:03.000Z",
+      "date": "2026-08-27",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "7c1e0cd49bb9b3192533",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Why Is Hormel Foods Stock Falling Thursday? - Hormel Foods (NYSE:HRL)",
+      "summary": "Hormel Foods (NYSE: HRL) stock fell after reporting mixed fiscal third-quarter results. While adjusted earnings beat estimates, sales missed expectations, and the company noted continued pressure on consumers due to inflation and fuel costs. Hormel updated its fiscal 2026 outlook, raising its adjusted earnings forecast but lowering its annual sales outlook, anticipating choppy consumer conditions to persist.",
+      "source": "Benzinga",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/earnings/26/08/61468679/meat-processor-hormel-says-consumers-remain-strained-as-inflation-and-fuel-costs-pile-up",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61468679/meat-processor-hormel-says-consumers-remain-strained-as-inflation-and-fuel-costs-pile-up",
+      "urlType": "article",
+      "publishedAt": "2026-08-27T14:48:15.000Z",
+      "date": "2026-08-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "0bfebd8bbafccd6e808a",
+      "id": "811dc276ebfc6737bea4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Home Depot still faces frozen housing market",
-      "summary": "Home Depot's recent profits were boosted by significant tariff refunds, masking a potential decline if these were excluded. The company is facing challenges due to high mortgage rates in the US, which are deterring Americans from moving homes and consequently reducing visits to their stores. This suggests a frozen housing market is negatively impacting their core business.",
-      "source": "Investors' Chronicle",
+      "title": "Enphase Energy (NASDAQ:ENPH) stock moves as home-solar demand stays in view",
+      "summary": "Enphase Energy's stock moved as the broader energy sector firmed due to strengthening crude prices, highlighting renewed interest in home-solar demand. The company, known for its microinverters and home-battery systems, benefits from themes of energy security and self-reliance, especially as residential electricity consumption continues to rise. Enphase positions itself at the forefront of distributed home energy systems, leveraging its integrated hardware and software to offer resilient and intelligent power solutions amidst competitive market dynamics.",
+      "source": "Kalkine Media",
       "sources": [
         {
-          "name": "Investors' Chronicle",
-          "url": "https://www.investorschronicle.co.uk/content/40a53747-cb87-4206-9c67-e3272a9c7ad1",
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/energy/enphase-energy-nasdaqenph-stock-moves-as-home-solar-demand-stays-in-view",
           "urlType": "article"
         }
       ],
-      "url": "https://www.investorschronicle.co.uk/content/40a53747-cb87-4206-9c67-e3272a9c7ad1",
+      "url": "https://kalkinemedia.com/us/stocks/energy/enphase-energy-nasdaqenph-stock-moves-as-home-solar-demand-stays-in-view",
       "urlType": "article",
-      "publishedAt": "2026-08-25T11:49:32.000Z",
-      "date": "2026-08-25",
+      "publishedAt": "2026-08-27T08:41:48.000Z",
+      "date": "2026-08-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "ad55d2d9e424472f75c3",
+      "id": "5131d266dba97f01794b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Nucor stock holds above $240 as steel prices edge higher",
-      "summary": "Nucor stock is trading above $240 in late August 2026, supported by higher hot-rolled coil prices and fresh institutional buying interest. The company recently raised its hot-rolled coil base price to $1,180 per short ton, signaling strong demand. Analysts have a consensus \"moderate buy\" rating with an average 12-month price target of $272.38, implying potential double-digit upside.",
-      "source": "Ad-hoc-news.de",
+      "title": "GE Aerospace: Full-Throttle Ahead, Full Valuation, Technical Froth Eases (NYSE:GE)",
+      "summary": "GE Aerospace reported strong Q2 results with significant revenue and EPS growth, leading management to raise its full-year 2026 guidance across all key metrics. Despite robust execution and upward earnings revisions, the author maintains a \"Hold\" rating due to the stock's full valuation, evidenced by a 35x P/E and a 2.5x PEG ratio. While technical indicators show a bullish trend with a rising 200-day moving average, recent negative RSI divergence and seasonal risks suggest caution for investors.",
+      "source": "Seeking Alpha",
       "sources": [
         {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-stock-holds-above-240-as-steel-prices-edge-higher/69998792",
+          "name": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4940892-ge-aerospace-full-throttle-ahead-full-valuation-technical-froth-eases",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-stock-holds-above-240-as-steel-prices-edge-higher/69998792",
+      "url": "https://seekingalpha.com/article/4940892-ge-aerospace-full-throttle-ahead-full-valuation-technical-froth-eases",
       "urlType": "article",
-      "publishedAt": "2026-08-25T11:27:03.000Z",
-      "date": "2026-08-25",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "4e6609e486d9c8556566",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Old Dominion stock holds below recent highs as tariffs weigh on trucking",
-      "summary": "Old Dominion Freight Line stock is trading below recent highs, influenced by new auto tariffs which caused a sector-wide decline in trucking shares. Analysts maintain a \"Hold\" consensus with a modest projected upside, while institutional investors continue to adjust their positions. The company's performance is expected to depend on its ability to manage demand trends and operational efficiency in a changing economic environment.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-holds-below-recent-highs-as-tariffs-weigh-on-trucking/69998443",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-holds-below-recent-highs-as-tariffs-weigh-on-trucking/69998443",
-      "urlType": "article",
-      "publishedAt": "2026-08-25T10:10:00.000Z",
-      "date": "2026-08-25",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "d678de45a2b45da9f3fd",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Grupo Galicia (NYSE: GGAL) profit rises even as bad loans climb",
-      "summary": "Grupo Galicia (NYSE: GGAL) reported a consolidated net profit of Ps.258,322 million in Q2 2026, marking a 12% increase year-over-year. This profit rise occurred despite a significant deterioration in asset quality, with the group's non-performing loan (NPL) ratio climbing to 10.6% from 5.5% a year prior. The financial performance was boosted by lower interest rates, reduced refinancing costs, and improved government bond yields, while the increase in NPLs was particularly notable in its Naranja X subsidiary.",
-      "source": "Stock Titan",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/GGAL/6-k-grupo-financiero-galicia-sa-current-report-foreign-issuer-cbfb8776fe51.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stocktitan.net/sec-filings/GGAL/6-k-grupo-financiero-galicia-sa-current-report-foreign-issuer-cbfb8776fe51.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-25T15:40:48.000Z",
-      "date": "2026-08-25",
+      "publishedAt": "2026-08-27T15:59:24.000Z",
+      "date": "2026-08-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "a772e060b64dd8c39ce1",
+      "id": "71fe1f0f78bcb26608b4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Should You Buy, Sell or Hold Ross Stores Stock Post Q2 Earnings?",
-      "summary": "Ross Stores (ROST) delivered strong second-quarter fiscal 2026 results, surpassing earnings and sales estimates due to robust customer traffic and merchandise assortments. The company raised its outlook for the second half and fiscal year 2026, driven by improving customer engagement, merchandising initiatives, inventory investments, and physical expansion plans. While potential risks like higher freight costs and macroeconomic uncertainty exist, the company's strong operating trends and growth strategies suggest a favorable investment outlook, earning it a Zacks Rank #2 (Buy).",
+      "title": "Masco stock trades in low-$70s range as valuation and earnings narrative evolves",
+      "summary": "Masco stock is currently trading in the low-$70s range, below a consensus target of nearly $80, despite positive valuation commentary and recent product launches from its Behr brand. The market is weighing Masco's earnings trajectory, margin trends, and its discounted price-to-earnings multiple compared to industry averages. Investors are watching to see if new product initiatives, especially from Behr paint, will help the stock converge toward its target price and peer valuations.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/masco-stock-trades-in-low-70s-range-as-valuation-and-earnings-narrative/70009555",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/masco-stock-trades-in-low-70s-range-as-valuation-and-earnings-narrative/70009555",
+      "urlType": "article",
+      "publishedAt": "2026-08-27T15:33:03.000Z",
+      "date": "2026-08-27",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "a9a7a3b6ca96486a6e97",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "lululemon Q2 Earnings Upcoming: Is It Likely to Surprise Investors?",
+      "summary": "lululemon Athletica Inc. (LULU) is expected to report declines in both top and bottom lines for Q2 fiscal 2026, with revenue growth projected at 2.3% and EPS expected to drop by 42.3%. While the company has a history of earnings surprises and strong international growth, especially in Mainland China, it faces significant headwinds from softening demand in North America and margin pressures due to higher markdowns and increased SG&A expenses. The Zacks model does not predict an earnings beat for LULU this quarter.",
       "source": "TradingView",
       "sources": [
         {
           "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:e6161996f094b:0-should-you-buy-sell-or-hold-ross-stores-stock-post-q2-earnings/",
+          "url": "https://www.tradingview.com/news/zacks:77f53b1a7094b:0-lululemon-q2-earnings-upcoming-is-it-likely-to-surprise-investors/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:e6161996f094b:0-should-you-buy-sell-or-hold-ross-stores-stock-post-q2-earnings/",
+      "url": "https://www.tradingview.com/news/zacks:77f53b1a7094b:0-lululemon-q2-earnings-upcoming-is-it-likely-to-surprise-investors/",
       "urlType": "article",
-      "publishedAt": "2026-08-25T15:39:25.000Z",
-      "date": "2026-08-25",
+      "publishedAt": "2026-08-27T14:32:55.000Z",
+      "date": "2026-08-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
