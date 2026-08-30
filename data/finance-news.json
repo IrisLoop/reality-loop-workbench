@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-28",
-  "generatedAt": "2026-08-29T03:41:39.426Z",
-  "targetDate": "2026-08-28",
+  "updated": "2026-08-29",
+  "generatedAt": "2026-08-30T00:14:35.909Z",
+  "targetDate": "2026-08-29",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -11,14 +11,14 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -29,235 +29,235 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 37,
+      "itemCount": 30,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
       "name": "GDELT",
       "status": "failed",
       "itemCount": 0,
-      "message": "company_ipo: fetch failed；geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout"
+      "message": "geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout；company_ipo: The operation was aborted due to timeout"
     }
   ],
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "bcd5de5a72c7b1f3db46",
+      "id": "f25f587549d188b2187e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "General Electric Co Stock (GE) Moved Down by 3.07% on Aug 27: Drivers Behind the Movement",
-      "summary": "General Electric Co (GE) stock fell by 3.07% on August 27th, primarily due to valuation concerns, margin pressure from cost inflation and R&D investments, and profit-taking after a recent rally. Despite strong quarterly performance and robust backlogs, investors are scrutinizing short-term operating margins and elevated multiples. The company faces risks from stretched valuations, rising operational costs, supply chain issues, and recent insider share divestments.",
-      "source": "TradingKey",
+      "title": "Ball Corp. stock holds in the low $60s as investors digest recent rating and earnings backdrop",
+      "summary": "Ball Corp. (US05722G1004) stock is trading in the low $60s, specifically at $63.69 as of August 29, 2026, while analysts maintain a moderate buy rating with a consensus price target of $71.69. The company's recent earnings show revenue growth and positive net income, but also highlight pressures from financing costs and inflation. Investors are weighing the company's debt-reduction efforts and the performance of its diversified packaging and aerospace segments.",
+      "source": "Ad-hoc-news.de",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262136669-market-movers-ge-20260827",
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-holds-in-the-low-60s-as-investors-digest-recent-rating/70020371",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262136669-market-movers-ge-20260827",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-holds-in-the-low-60s-as-investors-digest-recent-rating/70020371",
       "urlType": "article",
-      "publishedAt": "2026-08-27T17:59:24.000Z",
-      "date": "2026-08-28",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "93f713be2b02e4a1a738",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Tariff refunds lift TJX (NYSE: TJX) profit and Q2 EPS",
-      "summary": "TJX Companies, Inc. (TJX) reported strong Q2 fiscal 2027 results with net sales up 5% to $15.2 billion and diluted EPS of $1.36, a significant increase from $1.10 in the prior year. The improved profitability was largely driven by a net benefit of $219 million from IEEPA tariff refunds, which contributed $0.14 to EPS, though these refunds are noted as a non-recurring factor. The company also demonstrated robust operating cash flow and returned $1.3 billion to shareholders through repurchases and dividends, while increasing its long-term global store target to 7,500 locations.",
-      "source": "Stock Titan",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/TJX/10-q-tjx-companies-inc-de-quarterly-earnings-report-16eaf617142b.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stocktitan.net/sec-filings/TJX/10-q-tjx-companies-inc-de-quarterly-earnings-report-16eaf617142b.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-28T14:54:27.000Z",
-      "date": "2026-08-28",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "a1b3f2516aeb9674d3dc",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "The bull market for stocks is defying everything, but Bank of America warns that an autumn reality check is coming",
-      "summary": "Bank of America strategists, led by Michael Hartnett, are cautioning that the current bullish stock market, which has shrugged off events like the Iran war and a summer tech-stock downturn, is likely to face a reality check this autumn. Despite the \"summer consensus\" favoring riskier assets like stocks, they predict a shift where contrarians will challenge the prevailing optimism.",
-      "source": "MarketWatch",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-bull-market-for-stocks-is-defying-everything-but-bank-of-america-warns-that-an-autumn-reality-check-is-coming-8cdf831f",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketwatch.com/story/the-bull-market-for-stocks-is-defying-everything-but-bank-of-america-warns-that-an-autumn-reality-check-is-coming-8cdf831f",
-      "urlType": "article",
-      "publishedAt": "2026-08-28T10:39:00.000Z",
-      "date": "2026-08-28",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "843d5103f75c16bc6582",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "关于资本市场支持构建房地产发展新模式的意见",
-      "summary": "中国证监会各派出机构，各交易所，各下属单位，各协会，会内各司局：为贯彻落实党中央、国务院关于加快构建",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7655025/content.shtml",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7655027/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-08-28T07:25:29.000Z",
-      "date": "2026-08-28",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "21279e8b9dbbcfedb681",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Why Is Masco (MAS) Up 0.9% Since Last Earnings Report?",
-      "summary": "Masco (MAS) shares have increased by 0.9% since its last earnings report, underperforming the S&P 500. The company reported mixed Q2 2026 results, with adjusted earnings beating estimates due to tariff refunds, but net sales missing expectations. Masco raised its 2026 adjusted earnings outlook, primarily benefiting from an anticipated $85 million in tariff refunds, while underlying business performance remains consistent with previous forecasts.",
-      "source": "Yahoo Finance",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-masco-mas-0-9-153022170.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-masco-mas-0-9-153022170.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-28T15:17:09.000Z",
-      "date": "2026-08-28",
+      "publishedAt": "2026-08-29T12:42:09.000Z",
+      "date": "2026-08-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "e9498440ceb9f81fd5bf",
+      "id": "8e5656b735f6e01d2117",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's How Much $25,000 Invested Pays Annually.",
-      "summary": "Procter & Gamble (NYSE: PG) has a remarkable track record of 70 consecutive years of dividend increases, making it a reliable choice for income investors. A $25,000 investment in P&G currently yields about $750 annually, with a 3% forward-looking dividend yield. The company's consistent dividend growth, averaging 4.8% annually over the last decade, outpaces inflation and many other Dividend Kings, offering significant long-term income potential due to the stable nature of its consumer product brands.",
+      "title": "Steel Dynamics (STLD) Stock Rallies On Proposed 50% Tariff",
+      "summary": "Steel Dynamics (STLD) stock rallied following a proposed 50% tariff on Canadian steel and vehicles, as investors anticipate reduced competition in the US market. The article discusses how this trade policy could impact Steel Dynamics' competitive position and earnings, highlighting that the stock's performance is significantly tied to expectations of policy support. It suggests investors consider whether the company's investment thesis relies more on trade barriers or underlying market demand.",
       "source": "Yahoo Finance",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-raised-dividend-70-154100762.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/steel-dynamics-stld-stock-rallies-001608828.html",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-raised-dividend-70-154100762.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/steel-dynamics-stld-stock-rallies-001608828.html",
       "urlType": "article",
-      "publishedAt": "2026-08-27T20:19:23.000Z",
-      "date": "2026-08-28",
+      "publishedAt": "2026-08-29T00:36:50.000Z",
+      "date": "2026-08-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "ceebc6d33b290a39c68e",
+      "id": "a238efa4781b085a3942",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "American Express Stock And 2 Consumer Service Picks For Sticky Inflation",
-      "summary": "This article examines three consumer-driven service stocks—Marsh & McLennan Companies (MRSH), Jack Henry & Associates (JKHY), and American Express (AXP)—that may perform well in an environment of sticky inflation, solid consumer spending, and uncertain Fed policy. It details each company's operations, market cap, and investment considerations, highlighting their strengths and potential risks within the current economic climate. The analysis aims to help investors identify resilient companies in the consumer service sector.",
-      "source": "Simply Wall Street",
+      "title": "Ross Stores (ROST) Delivers a Strong Quarter, but Can the Momentum Last?",
+      "summary": "Ross Stores (ROST) reported stronger-than-expected second-quarter results, with revenue up 13% and an increased full-year EPS forecast. This momentum is attributed to consumers seeking value in off-price retailers and Ross's flexible buying strategy, along with a significant tariff refund. However, concerns remain about the one-time nature of the tariff boost, potential consumer weakening, high investor expectations, and strong competition.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/insurance/nyse-mrsh/marsh-mclennan-companies/news/american-express-stock-and-2-consumer-service-picks-for-stic",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-delivers-strong-000727697.html",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/insurance/nyse-mrsh/marsh-mclennan-companies/news/american-express-stock-and-2-consumer-service-picks-for-stic",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-delivers-strong-000727697.html",
       "urlType": "article",
-      "publishedAt": "2026-08-27T18:41:31.000Z",
-      "date": "2026-08-28",
+      "publishedAt": "2026-08-28T19:48:19.000Z",
+      "date": "2026-08-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 20
     },
     {
-      "id": "931e1bafe843547c7fd4",
+      "id": "d0ade08e386c0899ed1f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Illinois Tool Works (ITW) Stock Looks Fully Priced On Welding Automation News",
-      "summary": "Illinois Tool Works (ITW) has shown a 37.1% total return over the last five years, but its current valuation suggests it is fairly priced rather than clearly cheap. The recent launch of Miller Electric's Copilot Builder with Blue iQ, aiming to simplify welding automation, could support ITW's industrial technology portfolio. The stock's P/E ratio of 25.1x is slightly below industry and peer averages, indicating a roughly fair valuation with little room for significant upside without stronger earnings growth.",
-      "source": "Simply Wall Street",
+      "title": "Advocates look to lower We Energies, WPS proposed double-digit rate hikes",
+      "summary": "Advocacy groups are pushing back against proposed double-digit electricity rate hikes from We Energies and Wisconsin Public Service Corp. (WPS). We Energies is seeking a 16.3% residential increase, while WPS also proposes significant hikes, both citing new power plants, solar projects, inflation, fuel costs, and higher profit margins. The Citizens Utility Board (CUB) argues for a lower return on equity for both companies, which they say would save consumers millions, highlighting that Wisconsin utilities already have high-profit rates.",
+      "source": "apg-wi.com",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-itw/illinois-tool-works/news/illinois-tool-works-itw-stock-looks-fully-priced-on-welding/amp",
+          "name": "apg-wi.com",
+          "url": "https://www.apg-wi.com/news/state/advocates-look-to-lower-we-energies-wps-proposed-double-digit-rate-hikes/article_08e101e3-d4d6-533c-a3a4-d4e02c7dc313.html",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-itw/illinois-tool-works/news/illinois-tool-works-itw-stock-looks-fully-priced-on-welding/amp",
+      "url": "https://www.apg-wi.com/news/state/advocates-look-to-lower-we-energies-wps-proposed-double-digit-rate-hikes/article_08e101e3-d4d6-533c-a3a4-d4e02c7dc313.html",
       "urlType": "article",
-      "publishedAt": "2026-08-28T13:31:25.000Z",
-      "date": "2026-08-28",
+      "publishedAt": "2026-08-28T19:21:03.000Z",
+      "date": "2026-08-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "d874c63319a1f07f931f",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Kimco Realty stock trades around $23.78 as institutional buying and moderate analyst optimism shape",
+      "summary": "Kimco Realty stock is trading at $23.78, reflecting a 17.3% year-to-date gain and positioning itself in the middle of its 52-week range. The company benefits from significant institutional investment and a \"moderate buy\" analyst consensus with a target price of $26.56, suggesting an 11.3% upside. Kimco Realty operates a portfolio of grocery-anchored, open-air shopping centers, a strategy that contributes to stable rental income and a dividend yield of 4.32%.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-trades-around-23-78-as-institutional-buying-and/70020461",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-trades-around-23-78-as-institutional-buying-and/70020461",
+      "urlType": "article",
+      "publishedAt": "2026-08-29T13:15:25.000Z",
+      "date": "2026-08-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "fb82b935390065d06413",
+      "id": "4bc7f65575514a13d325",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Jefferies Financial Group Inc. Makes New $32.61 Million Investment in BlackRock $BLK",
-      "summary": "Jefferies Financial Group Inc. recently invested $32.61 million in BlackRock, acquiring 33,912 shares. This comes as BlackRock reported strong quarterly earnings, exceeding analyst estimates with $13.91 EPS and $7.08 billion in revenue, a 30.6% year-over-year increase. The company also declared a quarterly dividend of $5.73 per share, contributing to a 2.0% yield, and maintains a \"Moderate Buy\" consensus rating from analysts with a target price of $1,311.06.",
+      "title": "68,125 Shares in Kimco Realty Corporation $KIM Bought by Kimelman & Baird LLC",
+      "summary": "Kimelman & Baird LLC has acquired a new stake of 68,125 shares in Kimco Realty Corporation (NYSE:KIM), valued at approximately $1.73 million. This purchase is part of broader institutional investment, with various firms increasing their positions in the REIT, which has reported strong quarterly earnings and increased its dividend payout. Kimco Realty maintains a \"Moderate Buy\" consensus rating from analysts, with a target price of $26.56.",
       "source": "MarketBeat",
       "sources": [
         {
           "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-jefferies-financial-group-inc-makes-new-3261-million-investment-in-blackrock-blk-2026-08-28/",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-68125-shares-in-kimco-realty-corporation-kim-bought-by-kimelman-baird-llc-2026-08-29/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jefferies-financial-group-inc-makes-new-3261-million-investment-in-blackrock-blk-2026-08-28/",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-68125-shares-in-kimco-realty-corporation-kim-bought-by-kimelman-baird-llc-2026-08-29/",
       "urlType": "article",
-      "publishedAt": "2026-08-28T10:42:15.000Z",
-      "date": "2026-08-28",
+      "publishedAt": "2026-08-29T10:15:25.000Z",
+      "date": "2026-08-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "a26756ee3e5303206eed",
+      "id": "6fb05aaddeb7157cd0d7",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Glenview Trust Co Invests $4.43 Million in Sysco Corporation $SYY",
-      "summary": "Glenview Trust Co. recently acquired 52,985 shares of Sysco Corporation (NYSE:SYY), valued at approximately $4.43 million, marking a new position for the institutional investor. This acquisition is part of a broader trend where institutional investors own a significant portion (83.41%) of Sysco's outstanding stock. Sysco has shown strong financial performance, exceeding quarterly expectations with $1.53 EPS and $22.12 billion in revenue, and maintains an annualized dividend of $2.20 per share, with analysts rating it a \"Moderate Buy.\"",
-      "source": "MarketBeat",
+      "title": "Southern Company stock trades close to $89 as investors weigh income and growth",
+      "summary": "Southern Company stock is trading in the high-$80s, supported by its regulated utility profile and institutional interest, with a consensus price target suggesting modest upside. The company's business model, focused on regulated electric and gas services, provides stable earnings and dividends, making it attractive for investors seeking stability and moderate growth. Analysts maintain a \"Hold\" rating, anticipating much of the total return will come from dividends and moderate capital appreciation rather than aggressive growth.",
+      "source": "Ad-hoc-news.de",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-invests-443-million-in-sysco-corporation-syy-2026-08-28/",
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southern-company-stock-trades-close-to-89-as-investors-weigh-income-and/70019440",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-invests-443-million-in-sysco-corporation-syy-2026-08-28/",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southern-company-stock-trades-close-to-89-as-investors-weigh-income-and/70019440",
       "urlType": "article",
-      "publishedAt": "2026-08-28T10:37:05.000Z",
-      "date": "2026-08-28",
+      "publishedAt": "2026-08-29T09:34:46.000Z",
+      "date": "2026-08-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "48e66d1acb8236767900",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Fair Isaac stock consolidates near $1,150 as earnings beat and bullish targets frame upside",
+      "summary": "Fair Isaac (FICO) stock is consolidating around $1,150 following a recent earnings beat and strong analyst targets. Despite a 31.1% decline from its early 2026 peak, the company's valuation remains premium, driven by its essential FICO credit scoring platform and expanding analytics offerings. Analysts project a significant upside, with a consensus target of $1,553.69 and a \"moderate buy\" rating, indicating that its fundamental strength supports the current premium.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fair-isaac-stock-consolidates-near-1-150-as-earnings-beat-and-bullish/70019365",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fair-isaac-stock-consolidates-near-1-150-as-earnings-beat-and-bullish/70019365",
+      "urlType": "article",
+      "publishedAt": "2026-08-29T09:28:31.000Z",
+      "date": "2026-08-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "846edb925defde2d1db1",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "W.W. Grainger stock looks rich after Q2 beat and raised 2026 outlook",
+      "summary": "W.W. Grainger's stock has surged following a strong Q2 2026 earnings beat and a raised full-year outlook, leading to a valuation that appears rich compared to intrinsic value estimates. Despite outperforming major indices and sector ETFs, analysts maintain a \"Hold\" consensus, suggesting future returns will depend on sustained cash flow growth and margin management rather than further multiple expansion. The company's operational strength, including growth in both High-Touch and Endless Assortment businesses and the opening of a new distribution center, underpins its strong performance.",
+      "source": "Ad-hoc-news.de",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-looks-rich-after-q2-beat-and-raised-2026-outlook/70019344",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-looks-rich-after-q2-beat-and-raised-2026-outlook/70019344",
+      "urlType": "article",
+      "publishedAt": "2026-08-29T09:13:24.000Z",
+      "date": "2026-08-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "a04758e827eedbaf4b6a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "JPMorgan Chase (JPM) Faces Fresh Regulatory Scrutiny, Is It Still Below Fair Value?",
+      "summary": "JPMorgan Chase (JPM) is facing renewed regulatory scrutiny, including debates over capital rules, an SEC probe, and legal challenges. Despite recent stock performance and a diversified business model, concerns about tighter capital rules and fintech competition persist. While a narrative suggests JPM is 4.3% undervalued, trading at a P/E of 14.9x suggests less obvious room for re-rating compared to industry averages.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-faces-fresh-regulatory-scrutiny-is-it-sti",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-faces-fresh-regulatory-scrutiny-is-it-sti",
+      "urlType": "article",
+      "publishedAt": "2026-08-29T05:47:55.000Z",
+      "date": "2026-08-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
