@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-29",
-  "generatedAt": "2026-08-30T00:14:35.909Z",
-  "targetDate": "2026-08-29",
+  "updated": "2026-08-30",
+  "generatedAt": "2026-08-31T00:30:17.731Z",
+  "targetDate": "2026-08-30",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -29,7 +29,7 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 30,
+      "itemCount": 14,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "f25f587549d188b2187e",
+      "id": "220a755088d4df1e3607",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ball Corp. stock holds in the low $60s as investors digest recent rating and earnings backdrop",
-      "summary": "Ball Corp. (US05722G1004) stock is trading in the low $60s, specifically at $63.69 as of August 29, 2026, while analysts maintain a moderate buy rating with a consensus price target of $71.69. The company's recent earnings show revenue growth and positive net income, but also highlight pressures from financing costs and inflation. Investors are weighing the company's debt-reduction efforts and the performance of its diversified packaging and aerospace segments.",
-      "source": "Ad-hoc-news.de",
+      "title": "SLB Shares Climb 4.2% After Venezuela Data Agreement, Analysts Remain 8% Above Consensus",
+      "summary": "SLB stock rose 4.2% after securing a new data agreement with Venezuela's PDVSA, gaining access to critical oilfield data and production monitoring. Despite the gains, analysts maintain a consensus target of $61.93, suggesting an 8.03% potential upside from its closing price of $57.33. The deal's financial terms are undisclosed, and risks include payment delays and geopolitical factors, although SLB's strong second-quarter revenue of $8.97 billion and positive regional growth offer a solid operational foundation.",
+      "source": "TechStock²",
       "sources": [
         {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-holds-in-the-low-60s-as-investors-digest-recent-rating/70020371",
+          "name": "TechStock²",
+          "url": "https://ts2.tech/en/slb-stock-jumps-4-2-as-venezuela-data-deal-leaves-8-consensus-upside/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-holds-in-the-low-60s-as-investors-digest-recent-rating/70020371",
+      "url": "https://ts2.tech/en/slb-stock-jumps-4-2-as-venezuela-data-deal-leaves-8-consensus-upside/",
       "urlType": "article",
-      "publishedAt": "2026-08-29T12:42:09.000Z",
-      "date": "2026-08-29",
+      "publishedAt": "2026-08-29T19:50:03.000Z",
+      "date": "2026-08-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 27
     },
     {
-      "id": "8e5656b735f6e01d2117",
+      "id": "3054cfab72067912480f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Steel Dynamics (STLD) Stock Rallies On Proposed 50% Tariff",
-      "summary": "Steel Dynamics (STLD) stock rallied following a proposed 50% tariff on Canadian steel and vehicles, as investors anticipate reduced competition in the US market. The article discusses how this trade policy could impact Steel Dynamics' competitive position and earnings, highlighting that the stock's performance is significantly tied to expectations of policy support. It suggests investors consider whether the company's investment thesis relies more on trade barriers or underlying market demand.",
+      "title": "Dollar Tree Says Higher Fuel Prices Are Becoming a ‘Very, Very Meaningful’ Headwind",
+      "summary": "Dollar Tree reported strong second-quarter results, with adjusted diluted earnings of $2.70 per share, including a significant benefit from tariff refunds, and sales rising 7% to $4.89 billion. However, the company's CFO warned that higher fuel prices are creating a \"very, very meaningful\" headwind, leading to increased freight surcharges and an expected decline in fourth-quarter gross margin. Despite this, Dollar Tree raised its fiscal 2026 adjusted earnings outlook but maintained its annual sales forecast.",
       "source": "Yahoo Finance",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/steel-dynamics-stld-stock-rallies-001608828.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-says-higher-fuel-170108132.html",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/economy/policy/articles/steel-dynamics-stld-stock-rallies-001608828.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-says-higher-fuel-170108132.html",
       "urlType": "article",
-      "publishedAt": "2026-08-29T00:36:50.000Z",
-      "date": "2026-08-29",
+      "publishedAt": "2026-08-30T10:31:00.000Z",
+      "date": "2026-08-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 22
     },
     {
-      "id": "a238efa4781b085a3942",
+      "id": "dab5cd5f550f89da70aa",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ross Stores (ROST) Delivers a Strong Quarter, but Can the Momentum Last?",
-      "summary": "Ross Stores (ROST) reported stronger-than-expected second-quarter results, with revenue up 13% and an increased full-year EPS forecast. This momentum is attributed to consumers seeking value in off-price retailers and Ross's flexible buying strategy, along with a significant tariff refund. However, concerns remain about the one-time nature of the tariff boost, potential consumer weakening, high investor expectations, and strong competition.",
-      "source": "Yahoo Finance",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-delivers-strong-000727697.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-delivers-strong-000727697.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-28T19:48:19.000Z",
-      "date": "2026-08-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "d0ade08e386c0899ed1f",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Advocates look to lower We Energies, WPS proposed double-digit rate hikes",
-      "summary": "Advocacy groups are pushing back against proposed double-digit electricity rate hikes from We Energies and Wisconsin Public Service Corp. (WPS). We Energies is seeking a 16.3% residential increase, while WPS also proposes significant hikes, both citing new power plants, solar projects, inflation, fuel costs, and higher profit margins. The Citizens Utility Board (CUB) argues for a lower return on equity for both companies, which they say would save consumers millions, highlighting that Wisconsin utilities already have high-profit rates.",
-      "source": "apg-wi.com",
-      "sources": [
-        {
-          "name": "apg-wi.com",
-          "url": "https://www.apg-wi.com/news/state/advocates-look-to-lower-we-energies-wps-proposed-double-digit-rate-hikes/article_08e101e3-d4d6-533c-a3a4-d4e02c7dc313.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.apg-wi.com/news/state/advocates-look-to-lower-we-energies-wps-proposed-double-digit-rate-hikes/article_08e101e3-d4d6-533c-a3a4-d4e02c7dc313.html",
-      "urlType": "article",
-      "publishedAt": "2026-08-28T19:21:03.000Z",
-      "date": "2026-08-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "d874c63319a1f07f931f",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Kimco Realty stock trades around $23.78 as institutional buying and moderate analyst optimism shape",
-      "summary": "Kimco Realty stock is trading at $23.78, reflecting a 17.3% year-to-date gain and positioning itself in the middle of its 52-week range. The company benefits from significant institutional investment and a \"moderate buy\" analyst consensus with a target price of $26.56, suggesting an 11.3% upside. Kimco Realty operates a portfolio of grocery-anchored, open-air shopping centers, a strategy that contributes to stable rental income and a dividend yield of 4.32%.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-trades-around-23-78-as-institutional-buying-and/70020461",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kimco-realty-stock-trades-around-23-78-as-institutional-buying-and/70020461",
-      "urlType": "article",
-      "publishedAt": "2026-08-29T13:15:25.000Z",
-      "date": "2026-08-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "4bc7f65575514a13d325",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "68,125 Shares in Kimco Realty Corporation $KIM Bought by Kimelman & Baird LLC",
-      "summary": "Kimelman & Baird LLC has acquired a new stake of 68,125 shares in Kimco Realty Corporation (NYSE:KIM), valued at approximately $1.73 million. This purchase is part of broader institutional investment, with various firms increasing their positions in the REIT, which has reported strong quarterly earnings and increased its dividend payout. Kimco Realty maintains a \"Moderate Buy\" consensus rating from analysts, with a target price of $26.56.",
+      "title": "Flputnam Investment Management Co. Decreases Stock Holdings in Lam Research Corporation $LRCX",
+      "summary": "Flputnam Investment Management Co. reduced its stake in Lam Research Corporation by 24% in Q2, selling 92,333 shares but still holding 292,741 shares valued at $126.9 million. Despite this reduction and recent insider selling, institutional investors collectively own 84.61% of the company, and analysts maintain a \"Moderate Buy\" rating with an average target price of $357.31. Lam Research exceeded Q2 earnings expectations, increased its dividend by 27%, and is investing $3 billion in a new AI semiconductor lab, though concerns over U.S.-China trade relations and tariffs persist.",
       "source": "MarketBeat",
       "sources": [
         {
           "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-68125-shares-in-kimco-realty-corporation-kim-bought-by-kimelman-baird-llc-2026-08-29/",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-flputnam-investment-management-co-decreases-stock-holdings-in-lam-research-corporation-lrcx-2026-08-30/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-68125-shares-in-kimco-realty-corporation-kim-bought-by-kimelman-baird-llc-2026-08-29/",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-flputnam-investment-management-co-decreases-stock-holdings-in-lam-research-corporation-lrcx-2026-08-30/",
       "urlType": "article",
-      "publishedAt": "2026-08-29T10:15:25.000Z",
-      "date": "2026-08-29",
+      "publishedAt": "2026-08-30T08:50:01.000Z",
+      "date": "2026-08-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 22
     },
     {
-      "id": "6fb05aaddeb7157cd0d7",
+      "id": "dcd4fc1c5823fb95a9aa",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Southern Company stock trades close to $89 as investors weigh income and growth",
-      "summary": "Southern Company stock is trading in the high-$80s, supported by its regulated utility profile and institutional interest, with a consensus price target suggesting modest upside. The company's business model, focused on regulated electric and gas services, provides stable earnings and dividends, making it attractive for investors seeking stability and moderate growth. Analysts maintain a \"Hold\" rating, anticipating much of the total return will come from dividends and moderate capital appreciation rather than aggressive growth.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southern-company-stock-trades-close-to-89-as-investors-weigh-income-and/70019440",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southern-company-stock-trades-close-to-89-as-investors-weigh-income-and/70019440",
-      "urlType": "article",
-      "publishedAt": "2026-08-29T09:34:46.000Z",
-      "date": "2026-08-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "48e66d1acb8236767900",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Fair Isaac stock consolidates near $1,150 as earnings beat and bullish targets frame upside",
-      "summary": "Fair Isaac (FICO) stock is consolidating around $1,150 following a recent earnings beat and strong analyst targets. Despite a 31.1% decline from its early 2026 peak, the company's valuation remains premium, driven by its essential FICO credit scoring platform and expanding analytics offerings. Analysts project a significant upside, with a consensus target of $1,553.69 and a \"moderate buy\" rating, indicating that its fundamental strength supports the current premium.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fair-isaac-stock-consolidates-near-1-150-as-earnings-beat-and-bullish/70019365",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fair-isaac-stock-consolidates-near-1-150-as-earnings-beat-and-bullish/70019365",
-      "urlType": "article",
-      "publishedAt": "2026-08-29T09:28:31.000Z",
-      "date": "2026-08-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "846edb925defde2d1db1",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "W.W. Grainger stock looks rich after Q2 beat and raised 2026 outlook",
-      "summary": "W.W. Grainger's stock has surged following a strong Q2 2026 earnings beat and a raised full-year outlook, leading to a valuation that appears rich compared to intrinsic value estimates. Despite outperforming major indices and sector ETFs, analysts maintain a \"Hold\" consensus, suggesting future returns will depend on sustained cash flow growth and margin management rather than further multiple expansion. The company's operational strength, including growth in both High-Touch and Endless Assortment businesses and the opening of a new distribution center, underpins its strong performance.",
-      "source": "Ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-looks-rich-after-q2-beat-and-raised-2026-outlook/70019344",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-looks-rich-after-q2-beat-and-raised-2026-outlook/70019344",
-      "urlType": "article",
-      "publishedAt": "2026-08-29T09:13:24.000Z",
-      "date": "2026-08-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "a04758e827eedbaf4b6a",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "JPMorgan Chase (JPM) Faces Fresh Regulatory Scrutiny, Is It Still Below Fair Value?",
-      "summary": "JPMorgan Chase (JPM) is facing renewed regulatory scrutiny, including debates over capital rules, an SEC probe, and legal challenges. Despite recent stock performance and a diversified business model, concerns about tighter capital rules and fintech competition persist. While a narrative suggests JPM is 4.3% undervalued, trading at a P/E of 14.9x suggests less obvious room for re-rating compared to industry averages.",
+      "title": "General Motors (GM) Stock May Still Look Like A Bargain After Brake Probe",
+      "summary": "General Motors (GM) stock presents a mixed valuation picture: a Discounted Cash Flow (DCF) analysis suggests it is undervalued by 37.6% at $138 per share compared to its current $86.27, yet its P/E ratio of 40.8x indicates it is overvalued relative to the auto industry and peers. This discrepancy reflects solid cash flow prospects against market concerns over a federal brake investigation and potential tariffs. The article concludes that while the DCF points to upside, broader valuation checks are weak, suggesting GM is not a straightforward bargain.",
       "source": "Simply Wall Street",
       "sources": [
         {
           "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-faces-fresh-regulatory-scrutiny-is-it-sti",
+          "url": "https://simplywall.st/stocks/us/automobiles/nyse-gm/general-motors/news/general-motors-gm-stock-may-still-look-like-a-bargain-after",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/jpmorgan-chase-jpm-faces-fresh-regulatory-scrutiny-is-it-sti",
+      "url": "https://simplywall.st/stocks/us/automobiles/nyse-gm/general-motors/news/general-motors-gm-stock-may-still-look-like-a-bargain-after",
       "urlType": "article",
-      "publishedAt": "2026-08-29T05:47:55.000Z",
-      "date": "2026-08-29",
+      "publishedAt": "2026-08-30T07:14:14.000Z",
+      "date": "2026-08-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "2b5074d2ad2c90158598",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Man Group plc Takes $6.46 Million Position in Bank of America Corporation $BAC",
+      "summary": "Man Group plc has acquired a new position in Bank of America Corporation, purchasing 123,981 shares valued at approximately $6.46 million during the second quarter. This move comes as several other institutional investors have also adjusted their holdings in Bank of America, which is rated \"Moderate Buy\" by analysts with an average price target of $64.08. The company recently increased its quarterly dividend to $0.32 per share and reported strong quarterly earnings, surpassing analyst estimates.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-takes-646-million-position-in-bank-of-america-corporation-bac-2026-08-30/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-man-group-plc-takes-646-million-position-in-bank-of-america-corporation-bac-2026-08-30/",
+      "urlType": "article",
+      "publishedAt": "2026-08-30T09:28:52.000Z",
+      "date": "2026-08-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
+    },
+    {
+      "id": "392d1fb25bd97ad2de22",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "The Manufacturers Life Insurance Company Purchases New Position in Dollar Tree, Inc. $DLTR",
+      "summary": "The Manufacturers Life Insurance Company has acquired a new position in Dollar Tree, Inc. (DLTR) by purchasing 90,704 shares valued at approximately $11.0 million in the second quarter. This move comes as Dollar Tree reported strong second-quarter results, beating revenue and EPS estimates, and raising full-year adjusted EPS guidance. However, the company's third-quarter EPS guidance fell below expectations, leading to a \"Hold\" consensus rating from analysts, with an average price target of $129.18.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-purchases-new-position-in-dollar-tree-inc-dltr-2026-08-30/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-purchases-new-position-in-dollar-tree-inc-dltr-2026-08-30/",
+      "urlType": "article",
+      "publishedAt": "2026-08-30T09:27:46.000Z",
+      "date": "2026-08-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "2657f78a15e141f3237e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Rakuten Investment Management Inc. Takes Position in General Motors Company $GM",
+      "summary": "Rakuten Investment Management Inc. recently acquired 147,609 shares of General Motors (GM) valued at approximately $11.4 million in the second quarter. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $101.41 for GM. Despite a federal safety investigation into nearly a million vehicles posing a near-term risk, GM exceeded quarterly expectations with adjusted EPS of $3.57 and revenue of $48.03 billion, and institutional investors now collectively own 92.67% of the company.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-rakuten-investment-management-inc-takes-position-in-general-motors-company-gm-2026-08-30/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rakuten-investment-management-inc-takes-position-in-general-motors-company-gm-2026-08-30/",
+      "urlType": "article",
+      "publishedAt": "2026-08-30T09:14:14.000Z",
+      "date": "2026-08-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "dd70d51f2cc5e2f4c658",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Bank OZK Purchases 11,161 Shares of Bank of America Corporation $BAC",
+      "summary": "Bank OZK increased its stake in Bank of America Corporation (NYSE:BAC) by 10.2% in the second quarter, acquiring an additional 11,161 shares to own a total of 120,468 shares valued at $6.864 million. The article also details other institutional investor activity, analyst ratings, Bank of America's recent earnings, and dividend increase. It further highlights key news stories impacting BAC, ranging from positive sentiment on AI initiatives to negative sentiment regarding regulatory challenges and executive departures.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-united-capital-financial-advisors-llc-purchases-10507-shares-of-bank-of-america-corporation-bac-2026-08-30/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-ozk-purchases-11161-shares-of-bank-of-america-corporation-bac-2026-08-30/",
+      "urlType": "article",
+      "publishedAt": "2026-08-30T07:54:53.000Z",
+      "date": "2026-08-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "5559a830933874f38eae",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Think Six Months Ahead",
+      "summary": "Torsten Slok, Apollo's Chief Economist, discusses the future of long-term interest rates, predicting they could be significantly lower in six months due to the impact of Artificial Intelligence. He explains that both the success of AI, leading to deflation, and the failure of AI, causing a market bubble burst and a flight to safety, would drive rates down. The article emphasizes that financial markets are driven by narratives, and the AI narrative will dominate the discussion around rates in early 2027.",
+      "source": "Apollo Global Management",
+      "sources": [
+        {
+          "name": "Apollo Global Management",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/think-six-months-ahead",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/think-six-months-ahead",
+      "urlType": "article",
+      "publishedAt": "2026-08-29T21:24:23.000Z",
+      "date": "2026-08-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "7f509f4a7a97f3da9453",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Caisse de depot et placement du Quebec Buys New Holdings in Essex Property Trust, Inc. $ESS",
+      "summary": "Caisse de depot et placement du Quebec has acquired a new stake in Essex Property Trust, purchasing 36,950 shares valued at approximately $10.77 million during the second quarter. Other institutional investors like BlackRock Inc., Legal & General Group Plc, and Norges Bank also made significant investments in the real estate investment trust. Analysts have issued a \"Moderate Buy\" rating for Essex Property Trust, with a consensus price target of $304.79.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-caisse-de-depot-et-placement-du-quebec-buys-new-holdings-in-essex-property-trust-inc-ess-2026-08-30/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-caisse-de-depot-et-placement-du-quebec-buys-new-holdings-in-essex-property-trust-inc-ess-2026-08-30/",
+      "urlType": "article",
+      "publishedAt": "2026-08-30T08:41:40.000Z",
+      "date": "2026-08-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 16
     }
   ]
 }
