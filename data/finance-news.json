@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-08-31",
-  "generatedAt": "2026-09-01T01:15:54.254Z",
-  "targetDate": "2026-08-31",
+  "updated": "2026-09-01",
+  "generatedAt": "2026-09-02T00:04:37.792Z",
+  "targetDate": "2026-09-01",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -29,235 +29,235 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 19,
+      "itemCount": 50,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
       "name": "GDELT",
       "status": "failed",
       "itemCount": 0,
-      "message": "policy_regulation: fetch failed；geopolitics_macro: fetch failed；company_ipo: The operation was aborted due to timeout"
+      "message": "geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout；company_ipo: The operation was aborted due to timeout"
     }
   ],
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "fab30c8bf562e64e70bb",
+      "id": "b97fe67966bbaf569817",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Fortinet stock holds strong as cybersecurity demand and education push support the outlook",
-      "summary": "Fortinet stock has shown strong year-to-date performance, more than doubling in value, driven by robust demand for cybersecurity solutions and positive investor reception to recent earnings. The company is also expanding its federal market presence through CMMC Level 2 certification and is launching a free cybersecurity curriculum for U.S. high schools, addressing the industry's skills gap. Despite strong gains, analyst sentiment is mixed, with the average price target suggesting limited upside from current levels.",
-      "source": "AD HOC NEWS",
+      "title": "Citi boosts headcount, Invesco names new executive in Asia expansion",
+      "summary": "US financial firms Citigroup and Invesco are expanding their presence in Asia despite geopolitical uncertainties. Citi is boosting its North Asia and Japan corporate banking desk headcount by 25% and expanding its China desk network. Invesco has appointed a new Asia-Pacific head, demonstrating continued investment in the region.",
+      "source": "South China Morning Post",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fortinet-stock-holds-strong-as-cybersecurity-demand-and-education-push/70030432",
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/business/banking-finance/article/3365945/citigroup-boosts-headcount-25-north-asia-desk-invesco-has-new-asia-pacific-head",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fortinet-stock-holds-strong-as-cybersecurity-demand-and-education-push/70030432",
+      "url": "https://www.scmp.com/business/banking-finance/article/3365945/citigroup-boosts-headcount-25-north-asia-desk-invesco-has-new-asia-pacific-head",
       "urlType": "article",
-      "publishedAt": "2026-08-31T15:12:53.000Z",
-      "date": "2026-08-31",
+      "publishedAt": "2026-09-01T14:36:00.000Z",
+      "date": "2026-09-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 27
     },
     {
-      "id": "5041d2da1d263fce0281",
+      "id": "13b67797fe53df3ae1cb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Southern Co stock hits 52-week low at 19.61 USD",
-      "summary": "Southern Co (SO) stock has fallen to a 52-week low of $19.61, marking a 1-year decline of 12.19%. The utility company, valued at $101.5 billion, has a P/E ratio of 21.41 and reported revenues of $30.2 billion with 6.4% growth. This downturn reflects broader market and sector-specific challenges, prompting investors to watch for the company's strategic responses.",
-      "source": "Investing.com",
+      "title": "[US Stocks] Dow Inc continues to fall, down $374 amid rising Middle East tensions (31st) ☆ Replacement",
+      "summary": "This article reports on Dow Inc.'s continued stock decline, falling $374 amidst escalating tensions in the Middle East. The ongoing geopolitical situation appears to be impacting market performance, contributing to the downward trend for Dow Inc.",
+      "source": "Moomoo",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/southern-co-stock-hits-52week-low-at-1961-usd-93CH-4882899",
+          "name": "Moomoo",
+          "url": "https://www.moomoo.com/news/post/75588226/us-stocks-dow-inc-continues-decline-down-374-amid-rising",
           "urlType": "article"
         }
       ],
-      "url": "https://www.investing.com/news/company-news/southern-co-stock-hits-52week-low-at-1961-usd-93CH-4882899",
+      "url": "https://www.moomoo.com/news/post/75588226/us-stocks-dow-inc-continues-decline-down-374-amid-rising",
       "urlType": "article",
-      "publishedAt": "2026-08-31T14:20:29.000Z",
-      "date": "2026-08-31",
+      "publishedAt": "2026-09-01T00:29:27.000Z",
+      "date": "2026-09-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 23
     },
     {
-      "id": "12331fcdadb3391cf727",
+      "id": "7ccf1c9e5624e258df16",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "AutoZone stock holds steady as investors look beyond recent earnings",
-      "summary": "AutoZone Inc. (AZO) stock is trading steadily as investors focus on the company's long-term growth drivers rather than short-term market fluctuations. Recent quarterly results show improved sales and earnings per share, supported by store network expansion, operational efficiency, and consistent demand for key products like Duralast batteries. The market is valuing AutoZone based on its sustained profitability and strategic growth initiatives compared to historical performance.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autozone-stock-holds-steady-as-investors-look-beyond-recent-earnings/70030026",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autozone-stock-holds-steady-as-investors-look-beyond-recent-earnings/70030026",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T13:54:25.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "5fc1a45b349f2297c829",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "TD Cowen lowers AutoZone stock price target on DIY headwinds",
-      "summary": "TD Cowen has reduced its price target for AutoZone Inc. (NYSE:AZO) to $3,500 from $3,700, while maintaining a Buy rating. This adjustment is due to expected headwinds from weather and inconsistent do-it-yourself (DIY) trends, leading to a lowered fourth-quarter comparable sales estimate. Despite these challenges, AutoZone is noted to be gaining market share in the do-it-for-me (DIFM) segment, and its current valuation at 17 times earnings is seen as providing downside support.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://m.investing.com/news/analyst-ratings/td-cowen-lowers-autozone-stock-price-target-on-diy-headwinds-93CH-4882922?ampMode=1",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://m.investing.com/news/analyst-ratings/td-cowen-lowers-autozone-stock-price-target-on-diy-headwinds-93CH-4882922?ampMode=1",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T13:54:25.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "85fe768772bf287329bf",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Capital One stock holds steady as analysts maintain a moderate buy view",
-      "summary": "Capital One Financial Corp. (COF) stock is trading steadily with analysts maintaining a \"moderate buy\" recommendation and an average 12-month price target of $258.91, suggesting an almost 20% upside from its opening price of $215.81 on August 31, 2026. This outlook is supported by expectations of earnings growth, prudent credit management, and the strength of its credit card franchise, despite a volatile macro environment and recent regulatory headlines.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/capital-one-stock-holds-steady-as-analysts-maintain-a-moderate-buy-view/70029254",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/capital-one-stock-holds-steady-as-analysts-maintain-a-moderate-buy-view/70029254",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T11:26:39.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "a1e29ee49bd683516363",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Citigroup Inc. $C is Quantitative Investment Management LLC's 7th Largest Position",
-      "summary": "Quantitative Investment Management LLC significantly increased its stake in Citigroup Inc. (NYSE:C) by 1,319.6% in Q2, making it their seventh-largest holding. Despite strong earnings and a dividend increase, the company faces potential regulatory concerns due to an SEC probe into margin lending practices. Analysts currently have a \"Moderate Buy\" rating with an average price target of $145.22.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-is-quantitative-investment-management-llcs-7th-largest-position-2026-08-31/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-is-quantitative-investment-management-llcs-7th-largest-position-2026-08-31/",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T10:25:19.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "c6e01336b26a087939ae",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Jupiter Topco LLC Makes New $8.04 Million Investment in PACCAR Inc. $PCAR",
-      "summary": "Jupiter Topco LLC has made a new investment of $8.04 million in PACCAR Inc., acquiring 66,969 shares. Other institutional investors like Brighton Jones LLC, Focus Partners Wealth, and Treasurer of the State of North Carolina have also adjusted their stakes. Analysts have issued varied ratings for PACCAR, with a consensus \"Hold\" and an average target price of $131.70.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-topco-llc-makes-new-804-million-investment-in-paccar-inc-pcar-2026-08-31/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-topco-llc-makes-new-804-million-investment-in-paccar-inc-pcar-2026-08-31/",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T09:52:03.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "79479f60c8774982b1e5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "KeyCorp stock holds steady as buyback plan and latest earnings shape outlook",
-      "summary": "KeyCorp's stock is stable as investors evaluate its recent quarterly earnings, a significant multi-billion dollar share buyback authorization, and current valuation metrics. The bank reported an EPS beat of $0.02 with 6.7% year-over-year revenue growth, reinforcing its position as a steady operator. A $3 billion stock buyback program approved in May 2026 further supports investor confidence by potentially boosting per-share value.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/keycorp-stock-holds-steady-as-buyback-plan-and-latest-earnings-shape/70027642",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/keycorp-stock-holds-steady-as-buyback-plan-and-latest-earnings-shape/70027642",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T07:27:12.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "6d0983d81074f608acab",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Omnicom Group stock holds in the high $80s as investors weigh recent earnings and analyst views",
-      "summary": "Omnicom Group stock is trading in the high $80s as investors analyze its recent quarterly financial results and a \"Hold\" consensus from analysts. The company reported modest year-over-year revenue growth and consistent profitability, maintaining strong cash flow and a history of dividend payments. While analysts acknowledge the company's stability and market position, the \"Hold\" recommendation reflects ongoing structural changes and competition within the advertising industry.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/omnicom-group-stock-holds-in-the-high-80s-as-investors-weigh-recent/70027718",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/omnicom-group-stock-holds-in-the-high-80s-as-investors-weigh-recent/70027718",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T07:17:01.000Z",
-      "date": "2026-08-31",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "d846a4bbbcdbe4a97633",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Realty Income (O) Q1 2026 Earnings: Results, Market Reaction & History",
-      "summary": "Realty Income (O) reported strong Q1 2026 earnings, with AFFO per share increasing 6.6% year-over-year to $1.13 and revenue reaching $1.55 billion. The company significantly increased its investment activity, deploying $2.80 billion, and raised its full-year investment volume target and AFFO per share guidance. Strategic initiatives, including a joint venture with Apollo, also contributed to its growth and expanded private capital AUM.",
+      "title": "Eastman Chemical (EMN) Q1 2025 Earnings: Results, Market Reaction & History",
+      "summary": "Eastman Chemical (EMN) reported Q1 2025 earnings with adjusted EPS of $1.91, beating estimates, while revenue of $2.29 billion missed expectations. The company saw improved adjusted EBIT margins and strong performance in Additives and Functional Products and Chemical Intermediates. Due to tariff uncertainty, Eastman is shifting to quarterly EPS guidance, projecting $1.70 to $1.90 for Q2 2025, and has increased cost reduction targets while decreasing capital expenditures.",
       "source": "24/7 Wall St.",
       "sources": [
         {
           "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/companies/o/earnings/2026/Q1/",
+          "url": "https://247wallst.com/companies/emn/earnings/2025/Q1/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/companies/o/earnings/2026/Q1/",
+      "url": "https://247wallst.com/companies/emn/earnings/2025/Q1/",
       "urlType": "article",
-      "publishedAt": "2026-08-30T23:33:19.000Z",
-      "date": "2026-08-31",
+      "publishedAt": "2026-09-01T15:47:03.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "12021bd6f0f340d9e801",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "NOVONIX Selected for South Korea-U.S. Infrastructure Initiative",
+      "summary": "NOVONIX Limited's Riverside synthetic graphite AAM manufacturing project has been chosen for a South Korea-U.S. government-led infrastructure initiative. This program aims to connect major U.S. projects with Korean companies, investors, and financing partners, facilitating commercial opportunities and potential strategic financial support from the Korean government. NOVONIX CEO Mike O'Kronley expressed honor at the selection, seeing it as a crucial opportunity to advance North America's battery materials manufacturing.",
+      "source": "The Manila Times",
+      "sources": [
+        {
+          "name": "The Manila Times",
+          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/novonix-selected-for-south-korea-us-infrastructure-initiative/2415860/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/novonix-selected-for-south-korea-us-infrastructure-initiative/2415860/amp",
+      "urlType": "article",
+      "publishedAt": "2026-09-01T11:41:16.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "22329aa76975c8577d61",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Genuine Parts’ 70th Straight Dividend Increase Raises New Questions About Its Capital Allocation Priorities (GPC)",
+      "summary": "Genuine Parts Company announced its 70th consecutive annual dividend increase, raising the 2026 payout by 3.2%. This decision reinforces its commitment to shareholders and is supported by management's expectations for improved operating and free cash flow in 2026, despite recent earnings and cash flow pressures. The article questions whether this dividend increase and management's cash flow outlook can sustain profitability amidst margin pressures and cost inflation.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/retail/nyse-gpc/genuine-parts/news/genuine-parts-70th-straight-dividend-increase-raises-new-que/amp",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/retail/nyse-gpc/genuine-parts/news/genuine-parts-70th-straight-dividend-increase-raises-new-que/amp",
+      "urlType": "article",
+      "publishedAt": "2026-09-01T05:01:59.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "a35f876e658022bc96c8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Smackover Lithium signs $1.5 billion agreement with LG for South West Arkansas project",
+      "summary": "Smackover Lithium, a joint venture between Standard Lithium Ltd. and Equinor ASA, has secured a $1.5 billion agreement with LG Energy Solution to supply 8,800 metric tons of battery-quality lithium carbonate annually for 10 years from its South West Arkansas project. This deal, combined with a previous agreement with Trafigura Trading LLC, means that approximately 90% of the project's targeted offtake volume has been committed, allowing the company to proceed with project financing and a final investment decision. Commercial production is anticipated to begin in 2029, with the project aiming to support domestic battery production and reduce reliance on Chinese supply chains.",
+      "source": "The Arkansas Democrat-Gazette",
+      "sources": [
+        {
+          "name": "The Arkansas Democrat-Gazette",
+          "url": "https://www.arkansasonline.com/news/2026/aug/31/smackover-lithium-signs-15-billion-agreement-with/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.arkansasonline.com/news/2026/aug/31/smackover-lithium-signs-15-billion-agreement-with/",
+      "urlType": "article",
+      "publishedAt": "2026-08-31T23:06:56.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "1a965ba35ce42432bc42",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Kolibri Global Energy Stock Rises 3.33% as Oil Production Growth and Operating Leverage Lift Investor Sentiment",
+      "summary": "Kolibri Global Energy Inc. (TSX:KEI) saw its stock rise by 3.33% due to investor optimism regarding its oil-development strategy, production potential, and leverage to supportive energy market conditions. The company's core operations are in Oklahoma, USA, focusing on horizontal drilling and modern completion techniques to enhance hydrocarbon recovery. Future performance will depend on the consistent translation of drilling capital into productive wells, higher output, attractive operating margins, and stronger free cash flow.",
+      "source": "kalkine.ca",
+      "sources": [
+        {
+          "name": "kalkine.ca",
+          "url": "https://kalkine.ca/news/energy/kolibri-global-energy-stock-rises-333-as-oil-production-growth-and-operating-leverage-lift-investor-sentiment",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://kalkine.ca/news/energy/kolibri-global-energy-stock-rises-333-as-oil-production-growth-and-operating-leverage-lift-investor-sentiment",
+      "urlType": "article",
+      "publishedAt": "2026-09-01T15:30:03.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "a5643b84c299ce424840",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "UBS cuts Edison International stock price target on wildfire law setback",
+      "summary": "UBS has lowered its price target for Edison International (EIX) to $63 from $75, while maintaining a Neutral rating, following the failure of California wildfire legislation. This setback, which would have strengthened the state's liability framework, caused Edison International shares to fall 23% on August 31st. Despite the stock's decline near its 52-week low, InvestingPro analysis suggests it remains undervalued, with the company continuing to project earnings per share growth and maintaining a 6.5% dividend yield.",
+      "source": "Investing.com UK",
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://uk.investing.com/news/stock-market-news/ubs-cuts-edison-international-stock-price-target-on-wildfire-law-setback-93CH-4854191",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://uk.investing.com/news/stock-market-news/ubs-cuts-edison-international-stock-price-target-on-wildfire-law-setback-93CH-4854191",
+      "urlType": "article",
+      "publishedAt": "2026-09-01T14:53:30.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "1de64e09551ba5bd3451",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Why Is ISRG Investing More Aggressively in R&D Despite Macro Headwinds?",
+      "summary": "Intuitive Surgical (ISRG) is prioritizing aggressive investment in research and development (R&D) to ensure long-term growth, despite current macroeconomic challenges and competitive pressures. This strategy focuses on innovation, including AI/ML and robotics, to expand into new disease areas like GI, cardiac, and lung interventions, rather than short-term cost-cutting. The company believes this will broaden its addressable market and strengthen its competitive moat, similar to peers like Edwards Lifesciences and Glaukos who also maintain substantial R&D spending.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:f9135a831094b:0-why-is-isrg-investing-more-aggressively-in-r-d-despite-macro-headwinds/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:f9135a831094b:0-why-is-isrg-investing-more-aggressively-in-r-d-despite-macro-headwinds/",
+      "urlType": "article",
+      "publishedAt": "2026-09-01T14:34:26.000Z",
+      "date": "2026-09-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "94c3501d5c080230fbea",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Tennessee American Water Issues PFAS Settlement Credits to Customers",
+      "summary": "Tennessee American Water has issued an $11.92 bill credit to its active customers as of August 28, 2026, bringing the total PFAS settlement proceeds distributed to over $71 per customer. This action follows the Tennessee Public Utility Commission's approval of a plan to distribute PFAS settlement funds directly to customers through bill credits. The company is also investing over $45 million in capital improvements to ensure safe water services and comply with new PFAS regulations.",
+      "source": "Intellectia AI",
+      "sources": [
+        {
+          "name": "Intellectia AI",
+          "url": "https://intellectia.ai/news/stock/tennessee-american-water-issues-pfas-settlement-credits-to-customers",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://intellectia.ai/news/stock/tennessee-american-water-issues-pfas-settlement-credits-to-customers",
+      "urlType": "article",
+      "publishedAt": "2026-09-01T14:27:21.000Z",
+      "date": "2026-09-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
