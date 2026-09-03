@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-01",
-  "generatedAt": "2026-09-02T00:04:29.672Z",
-  "targetDate": "2026-09-01",
+  "updated": "2026-09-02",
+  "generatedAt": "2026-09-03T00:08:55.642Z",
+  "targetDate": "2026-09-02",
   "timezone": "Asia/Shanghai",
-  "itemCount": 6,
+  "itemCount": 10,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,112 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmthxjvrp04jarofqqqgvxrpe",
-      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-      "originalTitle": "Anthropic 详解 7·30 安全事件：配置错误致 Claude\"入侵\"真实企业，已加强沙箱隔离与实时监控",
-      "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
-      "url": "https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe",
-      "originalUrl": "https://www.ithome.com/0/996/711.htm",
-      "aihotUrl": "https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe",
+      "id": "cmtjhy5ze07gorobv62fpf0wi",
+      "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
+      "originalTitle": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
+      "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
+      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2094975190468010368",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi",
       "tags": [
-        "技巧"
+        "行业"
       ],
-      "category": "tip",
-      "score": 84,
-      "date": "2026-09-01",
-      "publishedAt": "2026-08-31T23:55:44.000Z",
-      "discoveredAt": "2026-09-01T00:29:24.646Z"
-    },
-    {
-      "id": "cmtj42kz5057qroh9yw6fjh9h",
-      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-      "originalTitle": "Path to Astra： critical capabilities and frontier safeguards",
-      "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
-      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "url": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
-      "originalUrl": "https://openai.com/index/path-to-astra",
-      "aihotUrl": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
+      "category": "industry",
       "score": 82,
-      "date": "2026-09-01",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
-      "discoveredAt": "2026-09-01T20:19:52.274Z"
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T02:26:22.000Z",
+      "discoveredAt": "2026-09-02T02:48:18.699Z"
     },
     {
-      "id": "cmtipeu1u01a2ro9yi22t9cev",
-      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-      "originalTitle": "美国 AI 数据中心现大量\"幽灵用电需求\"，多州出手整治",
-      "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
-      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
-      "url": "https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev",
-      "originalUrl": "https://www.ithome.com/0/997/147.htm",
-      "aihotUrl": "https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 76,
-      "date": "2026-09-01",
-      "publishedAt": "2026-09-01T12:40:19.000Z",
-      "discoveredAt": "2026-09-01T13:29:28.929Z"
-    },
-    {
-      "id": "cmthxigqm04c1rofqqmk7pkqi",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-      "originalTitle": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-      "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-      "source": "AI HOT · AI 摘要 · X：Anthropic (@AnthropicAI)",
-      "url": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
-      "originalUrl": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "aihotUrl": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
+      "id": "cmtj2y06p04bwroh9d8oszszo",
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+      "originalTitle": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+      "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 73,
-      "date": "2026-09-01",
-      "publishedAt": "2026-09-01T00:07:51.000Z",
-      "discoveredAt": "2026-09-01T00:28:28.757Z"
+      "score": 79,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-01T19:43:09.000Z",
+      "discoveredAt": "2026-09-01T19:48:18.025Z"
     },
     {
-      "id": "cmtj04igz04xproel00pt2oju",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "originalTitle": "Claude Platform release notes - September 1， 2026",
-      "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
-      "source": "AI HOT · AI 摘要 · Claude Platform：开发者版本说明（RSS）",
-      "url": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
-      "originalUrl": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
-      "aihotUrl": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
+      "id": "cmtj484a00592roh9jjdf5xkd",
+      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+      "originalTitle": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+      "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+      "source": "AI HOT · AI 摘要 · X：Artificial Analysis (@ArtificialAnlys)",
+      "url": "https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd",
+      "originalUrl": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd",
       "tags": [
-        "AI 模型"
+        "技巧"
       ],
-      "category": "ai-models",
-      "score": 72,
-      "date": "2026-09-01",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "discoveredAt": "2026-09-01T18:29:22.881Z"
+      "category": "tip",
+      "score": 78,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-01T20:12:46.000Z",
+      "discoveredAt": "2026-09-01T20:24:09.522Z"
     },
     {
-      "id": "cmtitozyq04j2ro9ydv3oxgsd",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-      "originalTitle": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-      "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
-      "source": "AI HOT · AI 摘要 · Hugging Face：Blog（RSS）",
-      "url": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd",
-      "originalUrl": "https://huggingface.co/blog/webgpu-kernels",
-      "aihotUrl": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd",
+      "id": "cmtkaa7gs01v5romp7lhz3mwj",
+      "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+      "originalTitle": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
+      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
+      "url": "https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj",
+      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 77,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T14:35:03.000Z",
+      "discoveredAt": "2026-09-02T16:01:31.790Z"
+    },
+    {
+      "id": "cmtiy0v6k01dproel63pg10os",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "originalTitle": "Introducing agentic video understanding with Gemini",
+      "summary": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。",
+      "source": "AI HOT · AI 摘要 · Google DeepMind：Blog（RSS）",
+      "url": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os",
+      "originalUrl": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os",
       "tags": [
         "AI 产品"
       ],
       "category": "ai-products",
-      "score": 62,
-      "date": "2026-09-01",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "discoveredAt": "2026-09-01T15:29:20.486Z"
+      "score": 71,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-01T17:08:51.000Z",
+      "discoveredAt": "2026-09-01T17:30:33.159Z"
+    },
+    {
+      "id": "cmtk9u4ga01hwrompqmqchjqj",
+      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
+      "originalTitle": "What is harness engineering and why should I care？",
+      "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
+      "source": "AI HOT · AI 摘要 · Google AI：DEV 作者专属（RSS）",
+      "url": "https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj",
+      "originalUrl": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 69,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T15:28:05.000Z",
+      "discoveredAt": "2026-09-02T15:48:59.424Z"
+    },
+    {
+      "id": "cmtjimzgx083zrobvekm2zmje",
+      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
+      "originalTitle": "🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…",
+      "summary": "通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。",
+      "source": "AI HOT · AI 摘要 · X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "url": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje",
+      "originalUrl": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 68,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T02:57:07.000Z",
+      "discoveredAt": "2026-09-02T03:07:37.845Z"
+    },
+    {
+      "id": "cmtkffuf503cbrobqkwhimxmp",
+      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
+      "originalTitle": "Run cloud agents on machines you manage",
+      "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
+      "source": "AI HOT · AI 摘要 · Cursor Blog",
+      "url": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
+      "originalUrl": "https://cursor.com/blog/self-hosted-machines",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 67,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "discoveredAt": "2026-09-02T18:25:53.655Z"
+    },
+    {
+      "id": "cmtjkp6dc02j5rori29u5h7kl",
+      "title": "美团 LongCat-2.0 上线 Cline 免费试用",
+      "originalTitle": "LongCat-2.0 is now free to try in @cline ！ 🐱",
+      "summary": null,
+      "source": "AI HOT · AI 摘要 · X：美团 LongCat (@Meituan_LongCat)",
+      "url": "https://aihot.virxact.com/items/cmtjkp6dc02j5rori29u5h7kl",
+      "originalUrl": "https://x.com/Meituan_LongCat/status/2094996391387111865",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtjkp6dc02j5rori29u5h7kl",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 67,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T03:50:37.000Z",
+      "discoveredAt": "2026-09-02T04:05:19.828Z"
+    },
+    {
+      "id": "cmtjjt7360180roe43ggo0t09",
+      "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
+      "originalTitle": "UU远程史诗级升级，这就是如今远程Vibe Coding的第一神器。",
+      "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
+      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
+      "url": "https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
+      "aihotUrl": "https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 65,
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T03:32:20.000Z",
+      "discoveredAt": "2026-09-02T03:40:27.472Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-01",
-  "generatedAt": "2026-09-02T00:04:37.792Z",
-  "targetDate": "2026-09-01",
+  "updated": "2026-09-02",
+  "generatedAt": "2026-09-03T00:09:33.265Z",
+  "targetDate": "2026-09-02",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国政府网",
@@ -36,228 +36,228 @@
       "name": "GDELT",
       "status": "failed",
       "itemCount": 0,
-      "message": "geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout；company_ipo: The operation was aborted due to timeout"
+      "message": "company_ipo: fetch failed；geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout"
     }
   ],
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "b97fe67966bbaf569817",
+      "id": "30401276d92d6a61c0a6",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Citi boosts headcount, Invesco names new executive in Asia expansion",
-      "summary": "US financial firms Citigroup and Invesco are expanding their presence in Asia despite geopolitical uncertainties. Citi is boosting its North Asia and Japan corporate banking desk headcount by 25% and expanding its China desk network. Invesco has appointed a new Asia-Pacific head, demonstrating continued investment in the region.",
-      "source": "South China Morning Post",
+      "title": "F5, Braze, CrowdStrike, MongoDB, and Cloudflare Shares Plummet, What You Need To Know",
+      "summary": "Shares of F5, Braze, CrowdStrike, MongoDB, and Cloudflare plummeted due to escalating geopolitical tensions in the Middle East and rising global bond yields, which dampened investor risk appetite and revived inflation concerns. These factors, combined with the growing likelihood of a Federal Reserve interest rate hike, led to broad-based selling across equity indices. Despite the market downturn, analysts suggest that significant price drops can present buying opportunities for high-quality stocks.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "South China Morning Post",
-          "url": "https://www.scmp.com/business/banking-finance/article/3365945/citigroup-boosts-headcount-25-north-asia-desk-invesco-has-new-asia-pacific-head",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/f5-braze-crowdstrike-mongodb-cloudflare-203420404.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.scmp.com/business/banking-finance/article/3365945/citigroup-boosts-headcount-25-north-asia-desk-invesco-has-new-asia-pacific-head",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/f5-braze-crowdstrike-mongodb-cloudflare-203420404.html",
       "urlType": "article",
-      "publishedAt": "2026-09-01T14:36:00.000Z",
-      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T20:34:00.000Z",
+      "date": "2026-09-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
+      "score": 28
     },
     {
-      "id": "13b67797fe53df3ae1cb",
+      "id": "a0720398fbdd9b68e9c8",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "[US Stocks] Dow Inc continues to fall, down $374 amid rising Middle East tensions (31st) ☆ Replacement",
-      "summary": "This article reports on Dow Inc.'s continued stock decline, falling $374 amidst escalating tensions in the Middle East. The ongoing geopolitical situation appears to be impacting market performance, contributing to the downward trend for Dow Inc.",
-      "source": "Moomoo",
-      "sources": [
-        {
-          "name": "Moomoo",
-          "url": "https://www.moomoo.com/news/post/75588226/us-stocks-dow-inc-continues-decline-down-374-amid-rising",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.moomoo.com/news/post/75588226/us-stocks-dow-inc-continues-decline-down-374-amid-rising",
-      "urlType": "article",
-      "publishedAt": "2026-09-01T00:29:27.000Z",
-      "date": "2026-09-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
-    },
-    {
-      "id": "7ccf1c9e5624e258df16",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Eastman Chemical (EMN) Q1 2025 Earnings: Results, Market Reaction & History",
-      "summary": "Eastman Chemical (EMN) reported Q1 2025 earnings with adjusted EPS of $1.91, beating estimates, while revenue of $2.29 billion missed expectations. The company saw improved adjusted EBIT margins and strong performance in Additives and Functional Products and Chemical Intermediates. Due to tariff uncertainty, Eastman is shifting to quarterly EPS guidance, projecting $1.70 to $1.90 for Q2 2025, and has increased cost reduction targets while decreasing capital expenditures.",
+      "title": "Union Pacific (UNP) Q1 2026 Earnings: Results, Market Reaction & History",
+      "summary": "Union Pacific (UNP) reported strong Q1 2026 earnings, with adjusted diluted EPS of $2.93 beating estimates and revenue reaching $6.22 billion, exceeding expectations. The company highlighted significant operational improvements, including a record terminal dwell time and increased fuel efficiency, contributing to a 5% rise in net income. Management affirmed its 2026 outlook for mid-single digit EPS growth, expecting pricing to outpace inflation despite a muted economic forecast.",
       "source": "24/7 Wall St.",
       "sources": [
         {
           "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/companies/emn/earnings/2025/Q1/",
+          "url": "https://247wallst.com/companies/unp/earnings/2026/Q1/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/companies/emn/earnings/2025/Q1/",
+      "url": "https://247wallst.com/companies/unp/earnings/2026/Q1/",
       "urlType": "article",
-      "publishedAt": "2026-09-01T15:47:03.000Z",
-      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T22:14:50.000Z",
+      "date": "2026-09-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 19
     },
     {
-      "id": "12021bd6f0f340d9e801",
+      "id": "ee48a797fd03332cf01d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "NOVONIX Selected for South Korea-U.S. Infrastructure Initiative",
-      "summary": "NOVONIX Limited's Riverside synthetic graphite AAM manufacturing project has been chosen for a South Korea-U.S. government-led infrastructure initiative. This program aims to connect major U.S. projects with Korean companies, investors, and financing partners, facilitating commercial opportunities and potential strategic financial support from the Korean government. NOVONIX CEO Mike O'Kronley expressed honor at the selection, seeing it as a crucial opportunity to advance North America's battery materials manufacturing.",
-      "source": "The Manila Times",
+      "title": "Gap Sales Surge as Old Navy Reshapes Canadian Store Network",
+      "summary": "Gap Inc. is experiencing varied performance across its brands, with Gap comparable sales up 10% while Old Navy saw a 4% decline due to issues with women's summer merchandise and pricing. Old Navy is actively adjusting its Canadian store network, closing some prominent locations while opening new ones and investing in initiatives like Old Navy Sport and Old Navy Beauty Co. The company is also undergoing a leadership change at Old Navy and expects overall sales and profit growth for the year.",
+      "source": "Retail Insider",
       "sources": [
         {
-          "name": "The Manila Times",
-          "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/novonix-selected-for-south-korea-us-infrastructure-initiative/2415860/amp",
+          "name": "Retail Insider",
+          "url": "https://retail-insider.com/retail-insider/2026/09/gap-sales-surge-as-old-navy-reshapes-canadian-store-network/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/globenewswire/novonix-selected-for-south-korea-us-infrastructure-initiative/2415860/amp",
+      "url": "https://retail-insider.com/retail-insider/2026/09/gap-sales-surge-as-old-navy-reshapes-canadian-store-network/",
       "urlType": "article",
-      "publishedAt": "2026-09-01T11:41:16.000Z",
-      "date": "2026-09-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "22329aa76975c8577d61",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Genuine Parts’ 70th Straight Dividend Increase Raises New Questions About Its Capital Allocation Priorities (GPC)",
-      "summary": "Genuine Parts Company announced its 70th consecutive annual dividend increase, raising the 2026 payout by 3.2%. This decision reinforces its commitment to shareholders and is supported by management's expectations for improved operating and free cash flow in 2026, despite recent earnings and cash flow pressures. The article questions whether this dividend increase and management's cash flow outlook can sustain profitability amidst margin pressures and cost inflation.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/retail/nyse-gpc/genuine-parts/news/genuine-parts-70th-straight-dividend-increase-raises-new-que/amp",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/retail/nyse-gpc/genuine-parts/news/genuine-parts-70th-straight-dividend-increase-raises-new-que/amp",
-      "urlType": "article",
-      "publishedAt": "2026-09-01T05:01:59.000Z",
-      "date": "2026-09-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "a35f876e658022bc96c8",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Smackover Lithium signs $1.5 billion agreement with LG for South West Arkansas project",
-      "summary": "Smackover Lithium, a joint venture between Standard Lithium Ltd. and Equinor ASA, has secured a $1.5 billion agreement with LG Energy Solution to supply 8,800 metric tons of battery-quality lithium carbonate annually for 10 years from its South West Arkansas project. This deal, combined with a previous agreement with Trafigura Trading LLC, means that approximately 90% of the project's targeted offtake volume has been committed, allowing the company to proceed with project financing and a final investment decision. Commercial production is anticipated to begin in 2029, with the project aiming to support domestic battery production and reduce reliance on Chinese supply chains.",
-      "source": "The Arkansas Democrat-Gazette",
-      "sources": [
-        {
-          "name": "The Arkansas Democrat-Gazette",
-          "url": "https://www.arkansasonline.com/news/2026/aug/31/smackover-lithium-signs-15-billion-agreement-with/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.arkansasonline.com/news/2026/aug/31/smackover-lithium-signs-15-billion-agreement-with/",
-      "urlType": "article",
-      "publishedAt": "2026-08-31T23:06:56.000Z",
-      "date": "2026-09-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "1a965ba35ce42432bc42",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Kolibri Global Energy Stock Rises 3.33% as Oil Production Growth and Operating Leverage Lift Investor Sentiment",
-      "summary": "Kolibri Global Energy Inc. (TSX:KEI) saw its stock rise by 3.33% due to investor optimism regarding its oil-development strategy, production potential, and leverage to supportive energy market conditions. The company's core operations are in Oklahoma, USA, focusing on horizontal drilling and modern completion techniques to enhance hydrocarbon recovery. Future performance will depend on the consistent translation of drilling capital into productive wells, higher output, attractive operating margins, and stronger free cash flow.",
-      "source": "kalkine.ca",
-      "sources": [
-        {
-          "name": "kalkine.ca",
-          "url": "https://kalkine.ca/news/energy/kolibri-global-energy-stock-rises-333-as-oil-production-growth-and-operating-leverage-lift-investor-sentiment",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://kalkine.ca/news/energy/kolibri-global-energy-stock-rises-333-as-oil-production-growth-and-operating-leverage-lift-investor-sentiment",
-      "urlType": "article",
-      "publishedAt": "2026-09-01T15:30:03.000Z",
-      "date": "2026-09-01",
+      "publishedAt": "2026-09-02T15:37:58.000Z",
+      "date": "2026-09-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "a5643b84c299ce424840",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "UBS cuts Edison International stock price target on wildfire law setback",
-      "summary": "UBS has lowered its price target for Edison International (EIX) to $63 from $75, while maintaining a Neutral rating, following the failure of California wildfire legislation. This setback, which would have strengthened the state's liability framework, caused Edison International shares to fall 23% on August 31st. Despite the stock's decline near its 52-week low, InvestingPro analysis suggests it remains undervalued, with the company continuing to project earnings per share growth and maintaining a 6.5% dividend yield.",
-      "source": "Investing.com UK",
+      "id": "e2c65b416ad286a7cfbb",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行行长潘功胜会见国际金融机构负责人和相关国家财长及央行行长",
+      "summary": null,
+      "source": "中国人民银行",
       "sources": [
         {
-          "name": "Investing.com UK",
-          "url": "https://uk.investing.com/news/stock-market-news/ubs-cuts-edison-international-stock-price-target-on-wildfire-law-setback-93CH-4854191",
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214474837364/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://uk.investing.com/news/stock-market-news/ubs-cuts-edison-international-stock-price-target-on-wildfire-law-setback-93CH-4854191",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214474837364/index.html",
       "urlType": "article",
-      "publishedAt": "2026-09-01T14:53:30.000Z",
-      "date": "2026-09-01",
+      "publishedAt": "2026-09-02T06:47:48.000Z",
+      "date": "2026-09-02",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 57
+    },
+    {
+      "id": "c19d60c85a476a62e3d5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Dollar stores benefit as shoppers remain under pressure",
+      "summary": "Dollar General and Dollar Tree are experiencing strong sales growth, particularly in consumable products, as consumers face economic pressures and seek value. Both companies reported increased sales of consumables and noted that shoppers are gravitating towards their low-priced assortments. Dollar General is also seeing success with its $1 frozen food program and attracting higher-income shoppers, while Dollar Tree emphasizes the strong performance of both its consumable and discretionary categories.",
+      "source": "Grocery Dive",
+      "sources": [
+        {
+          "name": "Grocery Dive",
+          "url": "https://www.grocerydive.com/news/dollar-general-dollar-tree-grocery-second-quarter-2026/829312/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.grocerydive.com/news/dollar-general-dollar-tree-grocery-second-quarter-2026/829312/",
+      "urlType": "article",
+      "publishedAt": "2026-09-02T15:16:54.000Z",
+      "date": "2026-09-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "1de64e09551ba5bd3451",
+      "id": "e24042b920d63fb98b5d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Why Is ISRG Investing More Aggressively in R&D Despite Macro Headwinds?",
-      "summary": "Intuitive Surgical (ISRG) is prioritizing aggressive investment in research and development (R&D) to ensure long-term growth, despite current macroeconomic challenges and competitive pressures. This strategy focuses on innovation, including AI/ML and robotics, to expand into new disease areas like GI, cardiac, and lung interventions, rather than short-term cost-cutting. The company believes this will broaden its addressable market and strengthen its competitive moat, similar to peers like Edwards Lifesciences and Glaukos who also maintain substantial R&D spending.",
-      "source": "TradingView",
+      "title": "VICI Properties (VICI) Q3 2025 Earnings: Results, Market Reaction & History",
+      "summary": "VICI Properties reported strong Q3 2025 earnings, beating Wall Street expectations with diluted EPS of $0.71 and total revenues of $1.01 billion, driven by contractual rent escalators and 100% occupancy. The company also announced its eighth consecutive annual dividend increase and raised its full-year 2025 AFFO guidance, reflecting confidence in its long-term lease structure. Key drivers included 4.4% year-over-year revenue growth and 5.3% year-over-year AFFO per share growth, with a weighted average lease term of 40 years across its 93 experiential properties.",
+      "source": "24/7 Wall St.",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:f9135a831094b:0-why-is-isrg-investing-more-aggressively-in-r-d-despite-macro-headwinds/",
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/companies/vici/earnings/2025/Q3/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:f9135a831094b:0-why-is-isrg-investing-more-aggressively-in-r-d-despite-macro-headwinds/",
+      "url": "https://247wallst.com/companies/vici/earnings/2025/Q3/",
       "urlType": "article",
-      "publishedAt": "2026-09-01T14:34:26.000Z",
-      "date": "2026-09-01",
+      "publishedAt": "2026-09-02T15:13:51.000Z",
+      "date": "2026-09-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "94c3501d5c080230fbea",
+      "id": "7dbd883413f340de99fc",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Tennessee American Water Issues PFAS Settlement Credits to Customers",
-      "summary": "Tennessee American Water has issued an $11.92 bill credit to its active customers as of August 28, 2026, bringing the total PFAS settlement proceeds distributed to over $71 per customer. This action follows the Tennessee Public Utility Commission's approval of a plan to distribute PFAS settlement funds directly to customers through bill credits. The company is also investing over $45 million in capital improvements to ensure safe water services and comply with new PFAS regulations.",
-      "source": "Intellectia AI",
+      "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Plans $1.50 Quarterly Dividend",
+      "summary": "Royal Caribbean Cruises Ltd. (NYSE:RCL) announced a quarterly dividend of $1.50 per share, payable on October 8th to shareholders of record by September 17th. This dividend annualizes to $6.00 per share, representing a 2.2% yield, and is well-covered by the company's earnings with a payout ratio of 33.9%. Analysts maintain a \"Moderate Buy\" consensus rating for RCL, with an average price target of $353.40.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "Intellectia AI",
-          "url": "https://intellectia.ai/news/stock/tennessee-american-water-issues-pfas-settlement-credits-to-customers",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/dividend-royal-caribbean-cruises-ltd-nyse-rcl-plans-150-quarterly-dividend-2026-09-02/",
           "urlType": "article"
         }
       ],
-      "url": "https://intellectia.ai/news/stock/tennessee-american-water-issues-pfas-settlement-credits-to-customers",
+      "url": "https://www.marketbeat.com/instant-alerts/dividend-royal-caribbean-cruises-ltd-nyse-rcl-plans-150-quarterly-dividend-2026-09-02/",
       "urlType": "article",
-      "publishedAt": "2026-09-01T14:27:21.000Z",
-      "date": "2026-09-01",
+      "publishedAt": "2026-09-02T14:35:17.000Z",
+      "date": "2026-09-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "e7d1821e01bdfa43f477",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Time to start fading Caterpillar stock, says trader Tony Zhang",
+      "summary": "Trader Tony Zhang suggests that it's time to \"fade\" Caterpillar (CAT) stock, citing its recent 30% drop from summer highs, a break below the $800 support level, and weakening relative strength. He notes that Wall Street analysts are re-evaluating the AI power narrative that previously drove the stock, and a large options bet has been placed on further downside. Zhang recommends a bearish put spread strategy to capitalize on a potential move towards the $700 support level.",
+      "source": "CNBC",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/02/time-to-start-fading-caterpillar-stock-says-trader-tony-zhang.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.cnbc.com/2026/09/02/time-to-start-fading-caterpillar-stock-says-trader-tony-zhang.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-02T14:31:02.000Z",
+      "date": "2026-09-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "198bf53fecca642d6c3c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Animal Health Is at the Center of Society's Most Important Trends",
+      "summary": "Elanco Animal Health, guided by its belief in \"Food and Companionship Enriching Life,\" emphasizes the growing importance of animal health in addressing global trends such as increasing protein consumption, pet integration into families, and sustainable food production. The company's business strategy is deeply integrated with environmental, social, and governance (ESG) priorities, focusing on innovation and access to care for animals, economic value for customers, contributions to society, and fostering a strong internal culture. This approach aims to create meaningful societal value, making animal health an essential industry for a healthier and more sustainable future.",
+      "source": "CSRwire",
+      "sources": [
+        {
+          "name": "CSRwire",
+          "url": "https://csrwire.com/press-release/animal-health-center-societys-most-important-trends/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://csrwire.com/press-release/animal-health-center-societys-most-important-trends/",
+      "urlType": "article",
+      "publishedAt": "2026-09-02T14:28:25.000Z",
+      "date": "2026-09-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "93dfbb995d74caadc87e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Ford US sales drop 10% in August, as F-Series starts restock",
+      "summary": "Ford Motor Co.'s U.S. sales declined by 10.3% year-over-year in August, primarily due to decreases in daily rental and fleet sales and the discontinuation of some models for EV retooling. Despite the overall drop, retail share increased, driven by strong performance from models like Maverick and Ranger. F-Series truck production is ramping up after supplier issues, with Ford aiming to restock dealer inventory to 50-60 days of supply and maintain strong pricing.",
+      "source": "The Detroit News",
+      "sources": [
+        {
+          "name": "The Detroit News",
+          "url": "https://www.detroitnews.com/story/business/autos/ford/2026/09/02/ford-sales-august-f-150-super-duty-rob-kaffl/91575706007/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.detroitnews.com/story/business/autos/ford/2026/09/02/ford-sales-august-f-150-super-duty-rob-kaffl/91575706007/",
+      "urlType": "article",
+      "publishedAt": "2026-09-02T14:25:03.000Z",
+      "date": "2026-09-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
