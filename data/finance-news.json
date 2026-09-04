@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-02",
-  "generatedAt": "2026-09-03T00:09:33.265Z",
-  "targetDate": "2026-09-02",
+  "updated": "2026-09-03",
+  "generatedAt": "2026-09-04T00:00:52.276Z",
+  "targetDate": "2026-09-03",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
-      "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "status": "failed",
+      "itemCount": 0,
+      "message": "fetch failed"
     },
     {
       "name": "中国政府网",
@@ -36,228 +36,228 @@
       "name": "GDELT",
       "status": "failed",
       "itemCount": 0,
-      "message": "company_ipo: fetch failed；geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout"
+      "message": "geopolitics_macro: The operation was aborted due to timeout；policy_regulation: The operation was aborted due to timeout；company_ipo: The operation was aborted due to timeout"
     }
   ],
   "methodology": "按北京时间前一自然日采集候选信息，分为宏观与地缘、政策与监管、公司与上市三类；优先官方来源和多来源交叉印证，去重并按可复查规则评分后最多展示10条。",
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "30401276d92d6a61c0a6",
+      "id": "debf0aba376a5cbfbb51",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "F5, Braze, CrowdStrike, MongoDB, and Cloudflare Shares Plummet, What You Need To Know",
-      "summary": "Shares of F5, Braze, CrowdStrike, MongoDB, and Cloudflare plummeted due to escalating geopolitical tensions in the Middle East and rising global bond yields, which dampened investor risk appetite and revived inflation concerns. These factors, combined with the growing likelihood of a Federal Reserve interest rate hike, led to broad-based selling across equity indices. Despite the market downturn, analysts suggest that significant price drops can present buying opportunities for high-quality stocks.",
-      "source": "Yahoo Finance",
+      "title": "Campbell’s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations",
+      "summary": "Campbell’s has announced a significant workforce reduction, cutting 13% of its employees (over 1,750 jobs), as part of a cost-saving initiative aimed at revitalizing its struggling operations. This decision follows a quarterly loss driven by increased costs and soft consumer demand, trends that the company anticipates will continue. The company plans to achieve $500 million in cost reductions by fiscal year 2030.",
+      "source": "WSJ",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/f5-braze-crowdstrike-mongodb-cloudflare-203420404.html",
+          "name": "WSJ",
+          "url": "https://www.wsj.com/business/earnings/campbells-looks-to-reset-after-quarterly-loss-60335f2c",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/f5-braze-crowdstrike-mongodb-cloudflare-203420404.html",
+      "url": "https://www.wsj.com/business/earnings/campbells-looks-to-reset-after-quarterly-loss-60335f2c",
       "urlType": "article",
-      "publishedAt": "2026-09-01T20:34:00.000Z",
-      "date": "2026-09-02",
+      "publishedAt": "2026-09-03T14:20:43.000Z",
+      "date": "2026-09-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 28
     },
     {
-      "id": "a0720398fbdd9b68e9c8",
+      "id": "d6ddeee5714548ec00f7",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Union Pacific (UNP) Q1 2026 Earnings: Results, Market Reaction & History",
-      "summary": "Union Pacific (UNP) reported strong Q1 2026 earnings, with adjusted diluted EPS of $2.93 beating estimates and revenue reaching $6.22 billion, exceeding expectations. The company highlighted significant operational improvements, including a record terminal dwell time and increased fuel efficiency, contributing to a 5% rise in net income. Management affirmed its 2026 outlook for mid-single digit EPS growth, expecting pricing to outpace inflation despite a muted economic forecast.",
-      "source": "24/7 Wall St.",
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/companies/unp/earnings/2026/Q1/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://247wallst.com/companies/unp/earnings/2026/Q1/",
-      "urlType": "article",
-      "publishedAt": "2026-09-01T22:14:50.000Z",
-      "date": "2026-09-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "ee48a797fd03332cf01d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Gap Sales Surge as Old Navy Reshapes Canadian Store Network",
-      "summary": "Gap Inc. is experiencing varied performance across its brands, with Gap comparable sales up 10% while Old Navy saw a 4% decline due to issues with women's summer merchandise and pricing. Old Navy is actively adjusting its Canadian store network, closing some prominent locations while opening new ones and investing in initiatives like Old Navy Sport and Old Navy Beauty Co. The company is also undergoing a leadership change at Old Navy and expects overall sales and profit growth for the year.",
-      "source": "Retail Insider",
-      "sources": [
-        {
-          "name": "Retail Insider",
-          "url": "https://retail-insider.com/retail-insider/2026/09/gap-sales-surge-as-old-navy-reshapes-canadian-store-network/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://retail-insider.com/retail-insider/2026/09/gap-sales-surge-as-old-navy-reshapes-canadian-store-network/",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T15:37:58.000Z",
-      "date": "2026-09-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "e2c65b416ad286a7cfbb",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行行长潘功胜会见国际金融机构负责人和相关国家财长及央行行长",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214474837364/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214474837364/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T06:47:48.000Z",
-      "date": "2026-09-02",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 57
-    },
-    {
-      "id": "c19d60c85a476a62e3d5",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Dollar stores benefit as shoppers remain under pressure",
-      "summary": "Dollar General and Dollar Tree are experiencing strong sales growth, particularly in consumable products, as consumers face economic pressures and seek value. Both companies reported increased sales of consumables and noted that shoppers are gravitating towards their low-priced assortments. Dollar General is also seeing success with its $1 frozen food program and attracting higher-income shoppers, while Dollar Tree emphasizes the strong performance of both its consumable and discretionary categories.",
-      "source": "Grocery Dive",
-      "sources": [
-        {
-          "name": "Grocery Dive",
-          "url": "https://www.grocerydive.com/news/dollar-general-dollar-tree-grocery-second-quarter-2026/829312/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.grocerydive.com/news/dollar-general-dollar-tree-grocery-second-quarter-2026/829312/",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T15:16:54.000Z",
-      "date": "2026-09-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "e24042b920d63fb98b5d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "VICI Properties (VICI) Q3 2025 Earnings: Results, Market Reaction & History",
-      "summary": "VICI Properties reported strong Q3 2025 earnings, beating Wall Street expectations with diluted EPS of $0.71 and total revenues of $1.01 billion, driven by contractual rent escalators and 100% occupancy. The company also announced its eighth consecutive annual dividend increase and raised its full-year 2025 AFFO guidance, reflecting confidence in its long-term lease structure. Key drivers included 4.4% year-over-year revenue growth and 5.3% year-over-year AFFO per share growth, with a weighted average lease term of 40 years across its 93 experiential properties.",
-      "source": "24/7 Wall St.",
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/companies/vici/earnings/2025/Q3/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://247wallst.com/companies/vici/earnings/2025/Q3/",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T15:13:51.000Z",
-      "date": "2026-09-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "7dbd883413f340de99fc",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Plans $1.50 Quarterly Dividend",
-      "summary": "Royal Caribbean Cruises Ltd. (NYSE:RCL) announced a quarterly dividend of $1.50 per share, payable on October 8th to shareholders of record by September 17th. This dividend annualizes to $6.00 per share, representing a 2.2% yield, and is well-covered by the company's earnings with a payout ratio of 33.9%. Analysts maintain a \"Moderate Buy\" consensus rating for RCL, with an average price target of $353.40.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/dividend-royal-caribbean-cruises-ltd-nyse-rcl-plans-150-quarterly-dividend-2026-09-02/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/dividend-royal-caribbean-cruises-ltd-nyse-rcl-plans-150-quarterly-dividend-2026-09-02/",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T14:35:17.000Z",
-      "date": "2026-09-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "e7d1821e01bdfa43f477",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Time to start fading Caterpillar stock, says trader Tony Zhang",
-      "summary": "Trader Tony Zhang suggests that it's time to \"fade\" Caterpillar (CAT) stock, citing its recent 30% drop from summer highs, a break below the $800 support level, and weakening relative strength. He notes that Wall Street analysts are re-evaluating the AI power narrative that previously drove the stock, and a large options bet has been placed on further downside. Zhang recommends a bearish put spread strategy to capitalize on a potential move towards the $700 support level.",
+      "title": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
+      "summary": "Matthew Hornbach, Morgan Stanley global head of macro strategy, believes that inflation is likely to surprise to the downside. He joined 'Squawk Box' to discuss the economy's condition, the Federal Reserve's battle against inflation, the effects of tariffs, and the future path of interest rates. The discussion also covered various economic and policy topics.",
       "source": "CNBC",
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/02/time-to-start-fading-caterpillar-stock-says-trader-tony-zhang.html",
+          "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.cnbc.com/2026/09/02/time-to-start-fading-caterpillar-stock-says-trader-tony-zhang.html",
+      "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
       "urlType": "article",
-      "publishedAt": "2026-09-02T14:31:02.000Z",
-      "date": "2026-09-02",
+      "publishedAt": "2026-09-03T13:15:20.000Z",
+      "date": "2026-09-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 26
     },
     {
-      "id": "198bf53fecca642d6c3c",
+      "id": "d7241135673a4937dfcb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Animal Health Is at the Center of Society's Most Important Trends",
-      "summary": "Elanco Animal Health, guided by its belief in \"Food and Companionship Enriching Life,\" emphasizes the growing importance of animal health in addressing global trends such as increasing protein consumption, pet integration into families, and sustainable food production. The company's business strategy is deeply integrated with environmental, social, and governance (ESG) priorities, focusing on innovation and access to care for animals, economic value for customers, contributions to society, and fostering a strong internal culture. This approach aims to create meaningful societal value, making animal health an essential industry for a healthier and more sustainable future.",
-      "source": "CSRwire",
+      "title": "Broadcom Stock Falls Afterhours Despite Strong Earnings Report",
+      "summary": "Broadcom's shares declined by about 3.4% in after-hours trading despite the company reporting strong third-quarter results. The chipmaker exceeded analyst expectations for revenue, reaching $29.6 billion, an 86% increase year-over-year. However, the results, while positive, did not significantly surpass already high investor expectations, leading to the stock's dip.",
+      "source": "WSJ",
       "sources": [
         {
-          "name": "CSRwire",
-          "url": "https://csrwire.com/press-release/animal-health-center-societys-most-important-trends/",
+          "name": "WSJ",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/broadcom-stock-falls-afterhours-despite-strong-earnings-report-GWtWbfvZagc3HCyOHdcj",
           "urlType": "article"
         }
       ],
-      "url": "https://csrwire.com/press-release/animal-health-center-societys-most-important-trends/",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/broadcom-stock-falls-afterhours-despite-strong-earnings-report-GWtWbfvZagc3HCyOHdcj",
       "urlType": "article",
-      "publishedAt": "2026-09-02T14:28:25.000Z",
-      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T22:15:43.000Z",
+      "date": "2026-09-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 26
     },
     {
-      "id": "93dfbb995d74caadc87e",
+      "id": "d4928bde4266e61d5e96",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ford US sales drop 10% in August, as F-Series starts restock",
-      "summary": "Ford Motor Co.'s U.S. sales declined by 10.3% year-over-year in August, primarily due to decreases in daily rental and fleet sales and the discontinuation of some models for EV retooling. Despite the overall drop, retail share increased, driven by strong performance from models like Maverick and Ranger. F-Series truck production is ramping up after supplier issues, with Ford aiming to restock dealer inventory to 50-60 days of supply and maintain strong pricing.",
-      "source": "The Detroit News",
+      "title": "StealthGas Q2 2026 Earnings Call Transcript",
+      "summary": "StealthGas reported strong Q2 2026 earnings with a net income of $17.3 million and EPS of $0.46, despite lower revenue due to a reduced fleet. The company achieved a debt-free balance sheet with over $250 million in liquidity, primarily from an insurance settlement and asset sales, and plans to use this capital for fleet renewal while continuing to divest older vessels. Geopolitical disruptions in the Middle East have increased ton-miles and supported shipping rates, particularly for larger vessels, but also led to decreased LPG imports in India and China, creating market uncertainties.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "The Detroit News",
-          "url": "https://www.detroitnews.com/story/business/autos/ford/2026/09/02/ford-sales-august-f-150-super-duty-rob-kaffl/91575706007/",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-9-2-stealthgas-inc-stock/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.detroitnews.com/story/business/autos/ford/2026/09/02/ford-sales-august-f-150-super-duty-rob-kaffl/91575706007/",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-9-2-stealthgas-inc-stock/",
       "urlType": "article",
-      "publishedAt": "2026-09-02T14:25:03.000Z",
-      "date": "2026-09-02",
+      "publishedAt": "2026-09-03T09:27:51.000Z",
+      "date": "2026-09-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 25
+    },
+    {
+      "id": "f7468d8835fa15b7860c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
+      "summary": "Hewlett Packard Enterprise (HPE) stock dropped 5% despite strong Q3 results and raised guidance, primarily due to supply constraints limiting its ability to fulfill orders for memory, CPUs, and drives. While Dell and Super Micro Computer also navigate the high demand for AI infrastructure, HPE's long-term outlook remains positive with an Oracle networking deal and ambitious fiscal 2027 targets for revenue, EPS, and free cash flow. The company's performance highlights that strong AI demand doesn't always translate into immediate stock gains if supply chain issues persist.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/03/hewlett-packard-enterprise-falls-5-as-supply-constraints-overshadow-raised-guidance-super-micro-slips-dell-holds-steady/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/09/03/hewlett-packard-enterprise-falls-5-as-supply-constraints-overshadow-raised-guidance-super-micro-slips-dell-holds-steady/",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T13:52:15.000Z",
+      "date": "2026-09-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "ae6df72e31012efa5644",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "CN Reports August Grain Movement",
+      "summary": "Canadian National Railway Company (CN) announced a new monthly record for grain movement in August, transporting 2.50 million metric tonnes (MMT) from Western Canada, surpassing the previous record set in August 2020. This performance marks a strong start to the 2026–27 crop year, attributed to strong customer demand, collaboration with supply chain partners, and effective operational execution. CN plans to maintain this momentum through the fall harvest, ensuring reliable service for its partners.",
+      "source": "Yahoo! Finance Canada",
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://ca.finance.yahoo.com/news/cn-reports-august-grain-movement-133000746.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://ca.finance.yahoo.com/news/cn-reports-august-grain-movement-133000746.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T13:35:40.000Z",
+      "date": "2026-09-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "ed71f57056352d8a1ec4",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Exxon’s Dividend Looks Safe Today—But What If Oil Prices Tumble?",
+      "summary": "Exxon Mobil recently raised its dividend to $1.03 per share quarterly, extending a 43-year growth streak, even as crude oil prices briefly dropped below $58 a barrel in late 2025. CEO Darren Woods projects Exxon's free cash flow will double by 2030, driven by $16.3 billion in cost savings and profits from Guyana operations. Despite a 2.55% dividend yield, the company's strong coverage, recent share buyback plan, and significant year-to-date stock surge offer investors confidence in its financial durability against potential oil price declines.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/03/exxon-dividend-scorecard-how-an-oil-major-holds-up-when-crude-falls/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/09/03/exxon-dividend-scorecard-how-an-oil-major-holds-up-when-crude-falls/",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T13:13:59.000Z",
+      "date": "2026-09-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "e1f4dbbe1666058b4d3e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Making Sense of Indonesia’s Doom Loop: Opportunity Amid Uncertainty",
+      "summary": "Indonesia, under President Prabowo, presents a complex investment landscape characterized by both economic challenges like a plummeting rupiah and positive indicators such as projected GDP growth and increased foreign direct investment. The administration's centralized power allows swift policy enactment focused on economic nationalism, but a lack of consistent communication and frequent policy shifts create regulatory uncertainty. Despite these risks, Indonesia remains an attractive long-term growth market, requiring investors to adapt by focusing on continuous intelligence, robust stakeholder engagement, and comprehensive risk management.",
+      "source": "FTI Consulting",
+      "sources": [
+        {
+          "name": "FTI Consulting",
+          "url": "https://www.fticonsulting.com/insights/articles/making-sense-indonesias-doom-loop-opportunity-amid-uncertainty",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.fticonsulting.com/insights/articles/making-sense-indonesias-doom-loop-opportunity-amid-uncertainty",
+      "urlType": "article",
+      "publishedAt": "2026-09-02T22:28:12.000Z",
+      "date": "2026-09-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "a6fb3fcfa3ba7048ce6d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "PPL named one of nation’s top utilities for economic development",
+      "summary": "PPL Electric Utilities has been recognized by Site Selection magazine as one of the nation's Top Utilities in Economic Development. This award highlights PPL's efforts in attracting jobs, investment, and opportunities to its service territory in Eastern and Central Pennsylvania, working collaboratively with businesses, communities, and economic development partners. In 2025, PPL Electric supported 20 projects, resulting in over $12.8 billion in capital investment and 1,775 new jobs across various sectors.",
+      "source": "Lehigh Valley Business",
+      "sources": [
+        {
+          "name": "Lehigh Valley Business",
+          "url": "https://lvb.com/ppl-named-one-of-nations-top-utilities-for-economic-development/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://lvb.com/ppl-named-one-of-nations-top-utilities-for-economic-development/",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T15:08:52.000Z",
+      "date": "2026-09-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "78170b3d956758637b90",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Steelworkers remain working under contract extensions",
+      "summary": "Thousands of steelworkers in northeastern Minnesota continue to work under extended labor contracts as negotiations between the United Steelworkers (USW) union, Cleveland-Cliffs Inc., and United States Steel Corp. are ongoing. The previous contracts expired on September 1, and negotiations have been extended for 30 days. Key issues include healthcare, pensions, safety, wages, paid time off, and retiree healthcare.",
+      "source": "BusinessNorth",
+      "sources": [
+        {
+          "name": "BusinessNorth",
+          "url": "https://www.businessnorth.com/daily_briefing/steelworkers-remain-working-under-contract-extensions/article_4199ca50-1a72-42d9-a3fb-f7c44ae06970.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.businessnorth.com/daily_briefing/steelworkers-remain-working-under-contract-extensions/article_4199ca50-1a72-42d9-a3fb-f7c44ae06970.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T15:38:09.000Z",
+      "date": "2026-09-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
