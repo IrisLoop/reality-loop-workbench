@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-03",
-  "generatedAt": "2026-09-04T00:00:52.276Z",
-  "targetDate": "2026-09-03",
+  "updated": "2026-09-04",
+  "generatedAt": "2026-09-04T23:59:38.823Z",
+  "targetDate": "2026-09-04",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -11,14 +11,14 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国人民银行",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "debf0aba376a5cbfbb51",
+      "id": "9e11c96f69cc55cfee69",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Campbell’s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations",
-      "summary": "Campbell’s has announced a significant workforce reduction, cutting 13% of its employees (over 1,750 jobs), as part of a cost-saving initiative aimed at revitalizing its struggling operations. This decision follows a quarterly loss driven by increased costs and soft consumer demand, trends that the company anticipates will continue. The company plans to achieve $500 million in cost reductions by fiscal year 2030.",
-      "source": "WSJ",
+      "title": "ANET Rises 37.3% in Six Months: Is There More Room to Grow?",
+      "summary": "Arista Networks (ANET) has seen a 37.3% rise in six months, outperforming its industry and the broader market, driven by strong AI infrastructure growth and an expanding customer base. The company benefits from increased investment in networking capacity by cloud providers and hyperscalers, and its integrated hardware-and-software approach for complex AI deployments. Arista's proactive supply chain management and robust cash flow further strengthen its position, with expectations for continued growth in AI revenues and product development.",
+      "source": "Yahoo Finance Singapore",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/business/earnings/campbells-looks-to-reset-after-quarterly-loss-60335f2c",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/anet-rises-37-3-six-145900406.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/business/earnings/campbells-looks-to-reset-after-quarterly-loss-60335f2c",
+      "url": "https://sg.finance.yahoo.com/news/anet-rises-37-3-six-145900406.html",
       "urlType": "article",
-      "publishedAt": "2026-09-03T14:20:43.000Z",
-      "date": "2026-09-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 28
-    },
-    {
-      "id": "d6ddeee5714548ec00f7",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
-      "summary": "Matthew Hornbach, Morgan Stanley global head of macro strategy, believes that inflation is likely to surprise to the downside. He joined 'Squawk Box' to discuss the economy's condition, the Federal Reserve's battle against inflation, the effects of tariffs, and the future path of interest rates. The discussion also covered various economic and policy topics.",
-      "source": "CNBC",
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-03T13:15:20.000Z",
-      "date": "2026-09-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "d7241135673a4937dfcb",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Broadcom Stock Falls Afterhours Despite Strong Earnings Report",
-      "summary": "Broadcom's shares declined by about 3.4% in after-hours trading despite the company reporting strong third-quarter results. The chipmaker exceeded analyst expectations for revenue, reaching $29.6 billion, an 86% increase year-over-year. However, the results, while positive, did not significantly surpass already high investor expectations, leading to the stock's dip.",
-      "source": "WSJ",
-      "sources": [
-        {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/broadcom-stock-falls-afterhours-despite-strong-earnings-report-GWtWbfvZagc3HCyOHdcj",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/broadcom-stock-falls-afterhours-despite-strong-earnings-report-GWtWbfvZagc3HCyOHdcj",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T22:15:43.000Z",
-      "date": "2026-09-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "d4928bde4266e61d5e96",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "StealthGas Q2 2026 Earnings Call Transcript",
-      "summary": "StealthGas reported strong Q2 2026 earnings with a net income of $17.3 million and EPS of $0.46, despite lower revenue due to a reduced fleet. The company achieved a debt-free balance sheet with over $250 million in liquidity, primarily from an insurance settlement and asset sales, and plans to use this capital for fleet renewal while continuing to divest older vessels. Geopolitical disruptions in the Middle East have increased ton-miles and supported shipping rates, particularly for larger vessels, but also led to decreased LPG imports in India and China, creating market uncertainties.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/earnings/reports/2026-9-2-stealthgas-inc-stock/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/earnings/reports/2026-9-2-stealthgas-inc-stock/",
-      "urlType": "article",
-      "publishedAt": "2026-09-03T09:27:51.000Z",
-      "date": "2026-09-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "f7468d8835fa15b7860c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
-      "summary": "Hewlett Packard Enterprise (HPE) stock dropped 5% despite strong Q3 results and raised guidance, primarily due to supply constraints limiting its ability to fulfill orders for memory, CPUs, and drives. While Dell and Super Micro Computer also navigate the high demand for AI infrastructure, HPE's long-term outlook remains positive with an Oracle networking deal and ambitious fiscal 2027 targets for revenue, EPS, and free cash flow. The company's performance highlights that strong AI demand doesn't always translate into immediate stock gains if supply chain issues persist.",
-      "source": "24/7 Wall St.",
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/03/hewlett-packard-enterprise-falls-5-as-supply-constraints-overshadow-raised-guidance-super-micro-slips-dell-holds-steady/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://247wallst.com/investing/2026/09/03/hewlett-packard-enterprise-falls-5-as-supply-constraints-overshadow-raised-guidance-super-micro-slips-dell-holds-steady/",
-      "urlType": "article",
-      "publishedAt": "2026-09-03T13:52:15.000Z",
-      "date": "2026-09-03",
+      "publishedAt": "2026-09-04T15:24:41.000Z",
+      "date": "2026-09-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "ae6df72e31012efa5644",
+      "id": "eda3516ca48d75f8d7ce",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "CN Reports August Grain Movement",
-      "summary": "Canadian National Railway Company (CN) announced a new monthly record for grain movement in August, transporting 2.50 million metric tonnes (MMT) from Western Canada, surpassing the previous record set in August 2020. This performance marks a strong start to the 2026–27 crop year, attributed to strong customer demand, collaboration with supply chain partners, and effective operational execution. CN plans to maintain this momentum through the fall harvest, ensuring reliable service for its partners.",
-      "source": "Yahoo! Finance Canada",
+      "title": "Campbell’s targets cost cuts after tough year",
+      "summary": "Campbell's Co. experienced a challenging fiscal year, with net income and sales declining significantly, leading the company to target $500 million in cost savings by fiscal 2030. The company announced a dividend reduction, workforce cuts, and a revised marketing strategy focusing on key brands like Rao's, Goldfish, and Pepperidge Farm to improve performance amidst a volatile external environment and elevated inflation. Despite a difficult outlook for fiscal 2027, Campbell's aims to recover margins through productivity and pricing initiatives.",
+      "source": "Food Business News",
       "sources": [
         {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/cn-reports-august-grain-movement-133000746.html",
+          "name": "Food Business News",
+          "url": "https://www.foodbusinessnews.net/articles/30954-campbells-targets-cost-cuts-after-tough-year",
           "urlType": "article"
         }
       ],
-      "url": "https://ca.finance.yahoo.com/news/cn-reports-august-grain-movement-133000746.html",
+      "url": "https://www.foodbusinessnews.net/articles/30954-campbells-targets-cost-cuts-after-tough-year",
       "urlType": "article",
-      "publishedAt": "2026-09-03T13:35:40.000Z",
-      "date": "2026-09-03",
+      "publishedAt": "2026-09-04T12:27:49.000Z",
+      "date": "2026-09-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 22
     },
     {
-      "id": "ed71f57056352d8a1ec4",
+      "id": "1a9b6315c791c2eb175b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Exxon’s Dividend Looks Safe Today—But What If Oil Prices Tumble?",
-      "summary": "Exxon Mobil recently raised its dividend to $1.03 per share quarterly, extending a 43-year growth streak, even as crude oil prices briefly dropped below $58 a barrel in late 2025. CEO Darren Woods projects Exxon's free cash flow will double by 2030, driven by $16.3 billion in cost savings and profits from Guyana operations. Despite a 2.55% dividend yield, the company's strong coverage, recent share buyback plan, and significant year-to-date stock surge offer investors confidence in its financial durability against potential oil price declines.",
-      "source": "24/7 Wall St.",
+      "title": "Teva Ukraine warehouse hit twice in Russian attack, raising supply concerns",
+      "summary": "Teva Ukraine's warehouse was struck twice by a Russian attack, damaging infrastructure vital for the country's medicine supply chain. While no employees were injured, the pharmaceutical company is assessing the damage and working to prevent disruptions to medication availability for Ukrainian patients. This incident follows another attack on a Biocon pharmaceutical complex in the Kyiv region, highlighting the ongoing threat to critical civilian infrastructure.",
+      "source": "Ynetnews",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/03/exxon-dividend-scorecard-how-an-oil-major-holds-up-when-crude-falls/",
+          "name": "Ynetnews",
+          "url": "https://www.ynetnews.com/article/ry307l00ume",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/03/exxon-dividend-scorecard-how-an-oil-major-holds-up-when-crude-falls/",
+      "url": "https://www.ynetnews.com/article/ry307l00ume",
       "urlType": "article",
-      "publishedAt": "2026-09-03T13:13:59.000Z",
-      "date": "2026-09-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "e1f4dbbe1666058b4d3e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Making Sense of Indonesia’s Doom Loop: Opportunity Amid Uncertainty",
-      "summary": "Indonesia, under President Prabowo, presents a complex investment landscape characterized by both economic challenges like a plummeting rupiah and positive indicators such as projected GDP growth and increased foreign direct investment. The administration's centralized power allows swift policy enactment focused on economic nationalism, but a lack of consistent communication and frequent policy shifts create regulatory uncertainty. Despite these risks, Indonesia remains an attractive long-term growth market, requiring investors to adapt by focusing on continuous intelligence, robust stakeholder engagement, and comprehensive risk management.",
-      "source": "FTI Consulting",
-      "sources": [
-        {
-          "name": "FTI Consulting",
-          "url": "https://www.fticonsulting.com/insights/articles/making-sense-indonesias-doom-loop-opportunity-amid-uncertainty",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.fticonsulting.com/insights/articles/making-sense-indonesias-doom-loop-opportunity-amid-uncertainty",
-      "urlType": "article",
-      "publishedAt": "2026-09-02T22:28:12.000Z",
-      "date": "2026-09-03",
+      "publishedAt": "2026-09-04T07:33:39.000Z",
+      "date": "2026-09-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "a6fb3fcfa3ba7048ce6d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "PPL named one of nation’s top utilities for economic development",
-      "summary": "PPL Electric Utilities has been recognized by Site Selection magazine as one of the nation's Top Utilities in Economic Development. This award highlights PPL's efforts in attracting jobs, investment, and opportunities to its service territory in Eastern and Central Pennsylvania, working collaboratively with businesses, communities, and economic development partners. In 2025, PPL Electric supported 20 projects, resulting in over $12.8 billion in capital investment and 1,775 new jobs across various sectors.",
-      "source": "Lehigh Valley Business",
+      "id": "89ad81e1f6a8dccb3e49",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见",
+      "summary": "为深入贯彻落实《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》，进一步加强对",
+      "source": "中国证监会",
       "sources": [
         {
-          "name": "Lehigh Valley Business",
-          "url": "https://lvb.com/ppl-named-one-of-nations-top-utilities-for-economic-development/",
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
           "urlType": "article"
         }
       ],
-      "url": "https://lvb.com/ppl-named-one-of-nations-top-utilities-for-economic-development/",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
       "urlType": "article",
-      "publishedAt": "2026-09-03T15:08:52.000Z",
-      "date": "2026-09-03",
+      "publishedAt": "2026-09-04T07:58:04.000Z",
+      "date": "2026-09-04",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 67
+    },
+    {
+      "id": "00c605fc453e104c62a2",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Camden-based Campbell’s says salaried workforce has been reduced by 13%",
+      "summary": "Campbell's has reduced its salaried workforce by 13% through a voluntary early-retirement program and layoffs as part of a campaign to cut $500 million in costs by 2030. The company, facing challenges from inflation and struggling snack sales, announced these measures during an earnings call. Despite an anticipated volatile year, particularly in early fiscal 2027, Campbell's leadership believes these strategic changes, including streamlining operations, are necessary to improve financial performance.",
+      "source": "WHYY",
+      "sources": [
+        {
+          "name": "WHYY",
+          "url": "https://whyy.org/articles/campbells-workforce-reduction/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://whyy.org/articles/campbells-workforce-reduction/",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T22:04:24.000Z",
+      "date": "2026-09-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "95d97fe79db480128e39",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "U.S. Global Investors Reports $3.1 Million in Net Income for Fiscal Year 2026",
+      "summary": "U.S. Global Investors reported a net income of $3.1 million, or $0.24 per share, for the fiscal year ended June 30, 2026, a significant improvement from a net loss in the previous year. This growth was primarily driven by higher operating revenues, particularly from gold and natural resources funds, and increased net investment income. The company also highlighted the strong momentum of its WAR ETF and continued shareholder returns through share repurchases and monthly dividends.",
+      "source": "Yahoo Finance UK",
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/u-global-investors-reports-3-200500110.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://uk.finance.yahoo.com/news/u-global-investors-reports-3-200500110.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-03T20:31:38.000Z",
+      "date": "2026-09-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "78170b3d956758637b90",
+      "id": "6523d3de960f181718ec",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Steelworkers remain working under contract extensions",
-      "summary": "Thousands of steelworkers in northeastern Minnesota continue to work under extended labor contracts as negotiations between the United Steelworkers (USW) union, Cleveland-Cliffs Inc., and United States Steel Corp. are ongoing. The previous contracts expired on September 1, and negotiations have been extended for 30 days. Key issues include healthcare, pensions, safety, wages, paid time off, and retiree healthcare.",
-      "source": "BusinessNorth",
+      "title": "Is Texas Instruments (TXN) Cheap After Rising Oil Prices And Treasury Yields Hit Semis?",
+      "summary": "Texas Instruments (TXN) stock has recently seen a pullback due to macro shocks like rising oil prices and higher Treasury yields, impacting its share price by 5.29% over 30 days and 16.56% over 90 days, despite strong year-to-date performance. While a popular narrative suggests TXN is 41.5% undervalued with a fair value of $435.69 due to capacity expansion enhancing long-term competitive position, Simply Wall St's DCF model indicates it is currently overvalued at $254.80 against an estimated future cash flow value of $239.65. The article encourages investors to review data and consider both perspectives to decide on TXN's valuation.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "BusinessNorth",
-          "url": "https://www.businessnorth.com/daily_briefing/steelworkers-remain-working-under-contract-extensions/article_4199ca50-1a72-42d9-a3fb-f7c44ae06970.html",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-txn/texas-instruments/news/is-texas-instruments-txn-cheap-after-rising-oil-prices-and-t",
           "urlType": "article"
         }
       ],
-      "url": "https://www.businessnorth.com/daily_briefing/steelworkers-remain-working-under-contract-extensions/article_4199ca50-1a72-42d9-a3fb-f7c44ae06970.html",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-txn/texas-instruments/news/is-texas-instruments-txn-cheap-after-rising-oil-prices-and-t",
       "urlType": "article",
-      "publishedAt": "2026-09-03T15:38:09.000Z",
-      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T16:16:17.000Z",
+      "date": "2026-09-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "be06fcc920eaa1a52b05",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Costco August sales up 9,9% amid higher gas prices, digital growth",
+      "summary": "Costco Wholesale Corp. reported a 9.9% increase in net sales for August, reaching $23.70 billion, with strong digital growth and higher gas prices contributing to the momentum. Comparable sales rose 8.4% globally, with significant growth in the U.S. and in digitally enabled transactions. The company also noted the impact of a later Labor Day on sales figures and highlighted strong performance in non-food categories and ancillary businesses like gas and pharmacy.",
+      "source": "Chain Store Age",
+      "sources": [
+        {
+          "name": "Chain Store Age",
+          "url": "https://chainstoreage.com/costco-august-sales-99-amid-higher-gas-prices-digital-growth",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://chainstoreage.com/costco-august-sales-99-amid-higher-gas-prices-digital-growth",
+      "urlType": "article",
+      "publishedAt": "2026-09-04T15:40:31.000Z",
+      "date": "2026-09-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "99f898d09afd57060d9c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Micron, SanDisk Jump 4% Despite Hot Jobs Report Raising Fed Hike Odds - Micron Technology (NASDAQ:MU)",
+      "summary": "Micron Technology Inc. (NASDAQ: MU) and SanDisk Corp. (NASDAQ: SNDK) saw significant stock jumps despite a strong jobs report increasing the likelihood of a Federal Reserve rate hike. The unusual strength in memory stocks is attributed to ongoing supply shortages for DRAM and NAND, leading to expectations of significant price increases. This suggests that optimism surrounding the AI build-out and corporate earnings may be outweighing concerns about Fed policy.",
+      "source": "Benzinga",
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+      "urlType": "article",
+      "publishedAt": "2026-09-04T15:08:28.000Z",
+      "date": "2026-09-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "3ca7a875be9a1dea1c0d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "McDonald’s stock hits 52-week low at 256.1 USD",
+      "summary": "McDonald's stock has dropped to a 52-week low of $256.10, representing an 18.45% decrease over the past year. Despite this downturn and recent downward earnings revisions from 15 analysts, InvestingPro analysis suggests the stock is undervalued. McDonald's maintains a 50-year streak of dividend increases and a 2.87% current yield, with varied analyst perspectives on its future performance.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/mcdonalds-stock-hits-52week-low-at-2561-usd-93CH-4889778",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/company-news/mcdonalds-stock-hits-52week-low-at-2561-usd-93CH-4889778",
+      "urlType": "article",
+      "publishedAt": "2026-09-04T14:21:47.000Z",
+      "date": "2026-09-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
