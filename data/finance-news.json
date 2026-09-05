@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-04",
-  "generatedAt": "2026-09-04T23:59:38.823Z",
-  "targetDate": "2026-09-04",
+  "updated": "2026-09-05",
+  "generatedAt": "2026-09-05T23:50:19.140Z",
+  "targetDate": "2026-09-05",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -11,8 +11,8 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "9e11c96f69cc55cfee69",
+      "id": "696443b3f7db9bf607b3",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "ANET Rises 37.3% in Six Months: Is There More Room to Grow?",
-      "summary": "Arista Networks (ANET) has seen a 37.3% rise in six months, outperforming its industry and the broader market, driven by strong AI infrastructure growth and an expanding customer base. The company benefits from increased investment in networking capacity by cloud providers and hyperscalers, and its integrated hardware-and-software approach for complex AI deployments. Arista's proactive supply chain management and robust cash flow further strengthen its position, with expectations for continued growth in AI revenues and product development.",
+      "title": "Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?",
+      "summary": "This article compares Dollar General (DG) and Dollar Tree (DLTR), both of which reported strong quarterly results driven by consumer demand for lower-priced essentials and tariff refunds. While both companies show improving momentum and hedge fund interest, a significant concern is the temporary nature of the tariff refunds which heavily contributed to their profitability. Investors are advised to monitor their performance once these temporary boosts fade.",
       "source": "Yahoo Finance Singapore",
       "sources": [
         {
           "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/anet-rises-37-3-six-145900406.html",
+          "url": "https://sg.finance.yahoo.com/news/dollar-general-dg-dollar-tree-124227102.html",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/anet-rises-37-3-six-145900406.html",
+      "url": "https://sg.finance.yahoo.com/news/dollar-general-dg-dollar-tree-124227102.html",
       "urlType": "article",
-      "publishedAt": "2026-09-04T15:24:41.000Z",
-      "date": "2026-09-04",
+      "publishedAt": "2026-09-05T12:17:45.000Z",
+      "date": "2026-09-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "eda3516ca48d75f8d7ce",
+      "id": "18ef96b0acf584b39d1d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Campbell’s targets cost cuts after tough year",
-      "summary": "Campbell's Co. experienced a challenging fiscal year, with net income and sales declining significantly, leading the company to target $500 million in cost savings by fiscal 2030. The company announced a dividend reduction, workforce cuts, and a revised marketing strategy focusing on key brands like Rao's, Goldfish, and Pepperidge Farm to improve performance amidst a volatile external environment and elevated inflation. Despite a difficult outlook for fiscal 2027, Campbell's aims to recover margins through productivity and pricing initiatives.",
-      "source": "Food Business News",
+      "title": "Strive Financial Group LLC Sells 13,269 Shares of Church & Dwight Co., Inc. $CHD",
+      "summary": "Strive Financial Group LLC significantly reduced its stake in Church & Dwight Co., Inc. (NYSE:CHD) by selling 13,269 shares, decreasing its holdings by 75.9% to 4,224 shares valued at $409,000. This divestment comes as other hedge funds have also adjusted their positions, and institutional investors collectively own a substantial portion of the company's stock. The article also highlights recent analyst ratings, insider trading activity, and Church & Dwight's financial performance, including its latest quarterly earnings and dividend announcement.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "Food Business News",
-          "url": "https://www.foodbusinessnews.net/articles/30954-campbells-targets-cost-cuts-after-tough-year",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-strive-financial-group-llc-sells-13269-shares-of-church-dwight-co-inc-chd-2026-09-05/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.foodbusinessnews.net/articles/30954-campbells-targets-cost-cuts-after-tough-year",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-strive-financial-group-llc-sells-13269-shares-of-church-dwight-co-inc-chd-2026-09-05/",
       "urlType": "article",
-      "publishedAt": "2026-09-04T12:27:49.000Z",
-      "date": "2026-09-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "1a9b6315c791c2eb175b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Teva Ukraine warehouse hit twice in Russian attack, raising supply concerns",
-      "summary": "Teva Ukraine's warehouse was struck twice by a Russian attack, damaging infrastructure vital for the country's medicine supply chain. While no employees were injured, the pharmaceutical company is assessing the damage and working to prevent disruptions to medication availability for Ukrainian patients. This incident follows another attack on a Biocon pharmaceutical complex in the Kyiv region, highlighting the ongoing threat to critical civilian infrastructure.",
-      "source": "Ynetnews",
-      "sources": [
-        {
-          "name": "Ynetnews",
-          "url": "https://www.ynetnews.com/article/ry307l00ume",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ynetnews.com/article/ry307l00ume",
-      "urlType": "article",
-      "publishedAt": "2026-09-04T07:33:39.000Z",
-      "date": "2026-09-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "89ad81e1f6a8dccb3e49",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》公开征求意见",
-      "summary": "为深入贯彻落实《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》，进一步加强对",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7656676/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-09-04T07:58:04.000Z",
-      "date": "2026-09-04",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 67
-    },
-    {
-      "id": "00c605fc453e104c62a2",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Camden-based Campbell’s says salaried workforce has been reduced by 13%",
-      "summary": "Campbell's has reduced its salaried workforce by 13% through a voluntary early-retirement program and layoffs as part of a campaign to cut $500 million in costs by 2030. The company, facing challenges from inflation and struggling snack sales, announced these measures during an earnings call. Despite an anticipated volatile year, particularly in early fiscal 2027, Campbell's leadership believes these strategic changes, including streamlining operations, are necessary to improve financial performance.",
-      "source": "WHYY",
-      "sources": [
-        {
-          "name": "WHYY",
-          "url": "https://whyy.org/articles/campbells-workforce-reduction/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://whyy.org/articles/campbells-workforce-reduction/",
-      "urlType": "article",
-      "publishedAt": "2026-09-03T22:04:24.000Z",
-      "date": "2026-09-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "95d97fe79db480128e39",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "U.S. Global Investors Reports $3.1 Million in Net Income for Fiscal Year 2026",
-      "summary": "U.S. Global Investors reported a net income of $3.1 million, or $0.24 per share, for the fiscal year ended June 30, 2026, a significant improvement from a net loss in the previous year. This growth was primarily driven by higher operating revenues, particularly from gold and natural resources funds, and increased net investment income. The company also highlighted the strong momentum of its WAR ETF and continued shareholder returns through share repurchases and monthly dividends.",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/u-global-investors-reports-3-200500110.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://uk.finance.yahoo.com/news/u-global-investors-reports-3-200500110.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-03T20:31:38.000Z",
-      "date": "2026-09-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "6523d3de960f181718ec",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Is Texas Instruments (TXN) Cheap After Rising Oil Prices And Treasury Yields Hit Semis?",
-      "summary": "Texas Instruments (TXN) stock has recently seen a pullback due to macro shocks like rising oil prices and higher Treasury yields, impacting its share price by 5.29% over 30 days and 16.56% over 90 days, despite strong year-to-date performance. While a popular narrative suggests TXN is 41.5% undervalued with a fair value of $435.69 due to capacity expansion enhancing long-term competitive position, Simply Wall St's DCF model indicates it is currently overvalued at $254.80 against an estimated future cash flow value of $239.65. The article encourages investors to review data and consider both perspectives to decide on TXN's valuation.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-txn/texas-instruments/news/is-texas-instruments-txn-cheap-after-rising-oil-prices-and-t",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-txn/texas-instruments/news/is-texas-instruments-txn-cheap-after-rising-oil-prices-and-t",
-      "urlType": "article",
-      "publishedAt": "2026-09-03T16:16:17.000Z",
-      "date": "2026-09-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "be06fcc920eaa1a52b05",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Costco August sales up 9,9% amid higher gas prices, digital growth",
-      "summary": "Costco Wholesale Corp. reported a 9.9% increase in net sales for August, reaching $23.70 billion, with strong digital growth and higher gas prices contributing to the momentum. Comparable sales rose 8.4% globally, with significant growth in the U.S. and in digitally enabled transactions. The company also noted the impact of a later Labor Day on sales figures and highlighted strong performance in non-food categories and ancillary businesses like gas and pharmacy.",
-      "source": "Chain Store Age",
-      "sources": [
-        {
-          "name": "Chain Store Age",
-          "url": "https://chainstoreage.com/costco-august-sales-99-amid-higher-gas-prices-digital-growth",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://chainstoreage.com/costco-august-sales-99-amid-higher-gas-prices-digital-growth",
-      "urlType": "article",
-      "publishedAt": "2026-09-04T15:40:31.000Z",
-      "date": "2026-09-04",
+      "publishedAt": "2026-09-05T09:58:38.000Z",
+      "date": "2026-09-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "99f898d09afd57060d9c",
+      "id": "a0464cc3121deb185be1",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Micron, SanDisk Jump 4% Despite Hot Jobs Report Raising Fed Hike Odds - Micron Technology (NASDAQ:MU)",
-      "summary": "Micron Technology Inc. (NASDAQ: MU) and SanDisk Corp. (NASDAQ: SNDK) saw significant stock jumps despite a strong jobs report increasing the likelihood of a Federal Reserve rate hike. The unusual strength in memory stocks is attributed to ongoing supply shortages for DRAM and NAND, leading to expectations of significant price increases. This suggests that optimism surrounding the AI build-out and corporate earnings may be outweighing concerns about Fed policy.",
-      "source": "Benzinga",
+      "title": "NXP Semiconductors Q2 Earnings Beat Estimates, Revenues Rise Y/Y",
+      "summary": "NXP Semiconductors reported better-than-expected second-quarter 2026 results, with earnings of $3.61 per share and revenues of $3.50 billion, exceeding analyst estimates. Growth was driven by strength across all end markets, including automotive, industrial & IoT, and communication infrastructure, along with increasing demand from AI data center infrastructure. The company also provided strong guidance for the third quarter of 2026, projecting continued revenue and earnings growth.",
+      "source": "Eastern Progress",
       "sources": [
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+          "name": "Eastern Progress",
+          "url": "https://www.easternprogress.com/nxp-semiconductors-q2-earnings-beat-estimates-revenues-rise-y-y/article_bffa08cb-2f2f-520d-9ff5-bbbfe9d0cd7a.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+      "url": "https://www.easternprogress.com/nxp-semiconductors-q2-earnings-beat-estimates-revenues-rise-y-y/article_bffa08cb-2f2f-520d-9ff5-bbbfe9d0cd7a.html",
       "urlType": "article",
-      "publishedAt": "2026-09-04T15:08:28.000Z",
-      "date": "2026-09-04",
+      "publishedAt": "2026-09-05T09:43:16.000Z",
+      "date": "2026-09-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "3ca7a875be9a1dea1c0d",
+      "id": "05b5e666600989cd0259",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "McDonald’s stock hits 52-week low at 256.1 USD",
-      "summary": "McDonald's stock has dropped to a 52-week low of $256.10, representing an 18.45% decrease over the past year. Despite this downturn and recent downward earnings revisions from 15 analysts, InvestingPro analysis suggests the stock is undervalued. McDonald's maintains a 50-year streak of dividend increases and a 2.87% current yield, with varied analyst perspectives on its future performance.",
-      "source": "Investing.com",
+      "title": "Nykredit A S Invests $14.32 Million in Microchip Technology Incorporated $MCHP",
+      "summary": "Nykredit A S has acquired a new stake of 157,037 shares in Microchip Technology Incorporated, valued at approximately $14.32 million during the second quarter. Other institutional investors have also adjusted their positions in MCHP, which has received a \"Moderate Buy\" consensus rating from analysts with an average price target of $98.67. Additionally, the company's CFO recently sold a portion of his holdings, and Microchip Technology announced a quarterly dividend.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/mcdonalds-stock-hits-52week-low-at-2561-usd-93CH-4889778",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-invests-1432-million-in-microchip-technology-incorporated-mchp-2026-09-05/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.investing.com/news/company-news/mcdonalds-stock-hits-52week-low-at-2561-usd-93CH-4889778",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-invests-1432-million-in-microchip-technology-incorporated-mchp-2026-09-05/",
       "urlType": "article",
-      "publishedAt": "2026-09-04T14:21:47.000Z",
-      "date": "2026-09-04",
+      "publishedAt": "2026-09-05T09:42:12.000Z",
+      "date": "2026-09-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "0c488dd2794801389761",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "79,746 Shares in Equitable Holdings, Inc. $EQH Purchased by Public Employees Retirement System of Ohio",
+      "summary": "The Public Employees Retirement System of Ohio has acquired 79,746 shares of Equitable Holdings, Inc. (NYSE:EQH) for approximately $3.5 million, as disclosed in their recent 13F filing. Institutional investors now own 92.70% of the company, which maintains a \"Moderate Buy\" consensus rating from analysts with an average target price of $61.75. Despite a revenue decline of 29.8% year-over-year, Equitable exceeded quarterly earnings expectations with an EPS of $1.70 against an estimated $1.65.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-79746-shares-in-equitable-holdings-inc-eqh-purchased-by-public-employees-retirement-system-of-ohio-2026-09-05/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-79746-shares-in-equitable-holdings-inc-eqh-purchased-by-public-employees-retirement-system-of-ohio-2026-09-05/",
+      "urlType": "article",
+      "publishedAt": "2026-09-05T08:53:54.000Z",
+      "date": "2026-09-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "ab6602ae84eb7044242d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Legal & General Group Plc Purchases Shares of 61,573 Century Communities, Inc. $CCS",
+      "summary": "Legal & General Group Plc has acquired a new position in Century Communities, Inc. (NYSE:CCS), purchasing 61,573 shares valued at approximately $4.412 million during the second quarter. This investment makes Legal & General Group Plc the owner of about 0.22% of Century Communities' stock. The article also notes other institutional investors' recent activities with CCS shares and provides an overview of analyst ratings and the company's financial performance.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-purchases-shares-of-61573-century-communities-inc-ccs-2026-09-05/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-purchases-shares-of-61573-century-communities-inc-ccs-2026-09-05/",
+      "urlType": "article",
+      "publishedAt": "2026-09-05T08:22:33.000Z",
+      "date": "2026-09-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "658b03a9ae48b274a29e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "BlackRock Inc. Makes New $8.40 Million Investment in ECB Bancorp, Inc. $ECBK",
+      "summary": "BlackRock Inc. has acquired a new stake of 418,386 shares, valued at approximately $8.40 million, in ECB Bancorp, Inc. during the second quarter, making it a significant institutional investor with about 4.78% ownership. Other institutional investors like Geode Capital Management LLC and HighTower Advisors LLC also increased their positions in ECBK. ECB Bancorp's stock performance and recent earnings results are detailed, alongside analyst ratings, with the company currently holding an average \"Strong Buy\" rating.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-blackrock-inc-makes-new-840-million-investment-in-ecb-bancorp-inc-ecbk-2026-09-05/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blackrock-inc-makes-new-840-million-investment-in-ecb-bancorp-inc-ecbk-2026-09-05/",
+      "urlType": "article",
+      "publishedAt": "2026-09-05T07:30:14.000Z",
+      "date": "2026-09-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "57514de3eeb93c69c359",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Bank of New York Mellon Corp Purchases Shares of 165,361 Marcus & Millichap, Inc. $MMI",
+      "summary": "Bank of New York Mellon Corp acquired 165,361 shares of Marcus & Millichap, Inc. (NYSE:MMI) worth approximately $5.15 million, representing a 0.44% stake in the company. This comes as institutional investors collectively own 62.78% of MMI, despite analysts holding a cautious \"Reduce\" rating with an average price target of $28.00. Marcus & Millichap recently reported strong quarterly earnings, beating EPS and revenue estimates, and announced a dividend of $0.25 per share.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-165361-marcus-millichap-inc-mmi-2026-09-05/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-purchases-shares-of-165361-marcus-millichap-inc-mmi-2026-09-05/",
+      "urlType": "article",
+      "publishedAt": "2026-09-05T07:27:30.000Z",
+      "date": "2026-09-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "085423a42e1e185a0403",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "AXQ Capital LP Makes New $1.50 Million Investment in Kraft Heinz Company $KHC",
+      "summary": "AXQ Capital LP has acquired a new stake worth $1.50 million in Kraft Heinz Company during the second quarter. This move is part of broader institutional investor activity, with several other firms also adjusting their positions in KHC. Despite some insider selling, Kraft Heinz recently announced a quarterly dividend and reported earnings that topped analyst expectations, though it also lowered its 2026 outlook due to anticipated price cuts and affordability pressures.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-axq-capital-lp-makes-new-150-million-investment-in-kraft-heinz-company-khc-2026-09-05/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-axq-capital-lp-makes-new-150-million-investment-in-kraft-heinz-company-khc-2026-09-05/",
+      "urlType": "article",
+      "publishedAt": "2026-09-05T06:48:38.000Z",
+      "date": "2026-09-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "c0fa0dfa67155d595216",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "First Industrial Realty Trust, Inc. (NYSE:FR) Receives Consensus Rating of \"Moderate Buy\" from Analysts",
+      "summary": "First Industrial Realty Trust (NYSE:FR) has received a consensus \"Moderate Buy\" rating from analysts, with an average 12-month price target of $67.43, exceeding its current share price of $61.81. Institutional investors own a significant 99.85% of the company, with notable increases in holdings by major funds. The REIT recently reported quarterly revenue up 8.2% year-over-year but missed earnings per share estimates, while declaring a quarterly dividend of $0.50, yielding 3.2% annually.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/consensus-first-industrial-realty-trust-inc-nyse-fr-receives-consensus-rating-of-moderate-buy-from-analysts-2026-09-05/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-first-industrial-realty-trust-inc-nyse-fr-receives-consensus-rating-of-moderate-buy-from-analysts-2026-09-05/",
+      "urlType": "article",
+      "publishedAt": "2026-09-05T05:50:18.000Z",
+      "date": "2026-09-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
