@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-06",
-  "generatedAt": "2026-09-06T23:49:35.062Z",
-  "targetDate": "2026-09-06",
+  "updated": "2026-09-07",
+  "generatedAt": "2026-09-08T00:18:28.504Z",
+  "targetDate": "2026-09-07",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
@@ -29,7 +29,7 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 44,
+      "itemCount": 50,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "a520785947fab67321e7",
+      "id": "7e24866fe5c5cf29538e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "MW Advisory LLC Takes Position in Walmart Inc. $WMT",
-      "summary": "MW Advisory LLC has acquired 11,552 shares of Walmart Inc. (WMT) valued at approximately $1.31 million in the second quarter. Despite some analyst target reductions, Walmart holds a \"Moderate Buy\" consensus rating with an average price target of $131.88 and exceeded Q2 earnings estimates with EPS of $0.81 and revenue of $187.94 billion. However, the company faces ongoing concerns related to tariff pressure, regulatory scrutiny, and a high valuation.",
+      "title": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
+      "summary": "ExxonMobil is under renewed scrutiny due to institutional activity, its mixed quarterly results, and the impact of oil prices and refining conditions. The company's diversified operations across exploration, production, refining, and chemicals, along with its strong dividend history, are central to its financial profile. However, its performance remains highly sensitive to commodity market cyclicality, geopolitical events, and global energy demand trends.",
+      "source": "Kalkine Media",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/energy/exxonmobil-nysexom-can-strong-cash-flow-support-its-dividend",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://kalkinemedia.com/us/stocks/energy/exxonmobil-nysexom-can-strong-cash-flow-support-its-dividend",
+      "urlType": "article",
+      "publishedAt": "2026-09-07T14:53:48.000Z",
+      "date": "2026-09-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 32
+    },
+    {
+      "id": "2a720c7beaab8bf7036c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "The Bull Case For Western Digital (WDC) Could Change Following A Post-Jobs-Report Memory Chip Rotation",
+      "summary": "Following a strong August jobs report, investors have rotated back into memory semiconductor names, including Western Digital (WDC), easing concerns about faster interest rate hikes. While Western Digital is seen as undervalued and central to AI infrastructure expansion, its core investment narrative remains largely unchanged, focusing on AI-driven data growth and hyperscale demand against potential risks like tariffs and changing storage architectures. The company's early repayment of convertible debt strengthens its balance sheet, providing flexibility for future AI drive development, though potential tariffs or hyperscaler decisions could still impact its outlook.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/the-bull-case-for-western-digital-wdc-could-change-following-2",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/the-bull-case-for-western-digital-wdc-could-change-following-2",
+      "urlType": "article",
+      "publishedAt": "2026-09-07T10:41:48.000Z",
+      "date": "2026-09-07",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "0b186eed9328dd0ddad0",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Readystate Asset Management LP Purchases New Holdings in ExxonMobil Corporation $XOM",
+      "summary": "Readystate Asset Management LP has acquired a new position in ExxonMobil Corporation (NYSE:XOM) during the second quarter, purchasing 217,778 shares valued at approximately $29.77 million. This investment constitutes about 1.0% of Readystate's portfolio, making it their 19th largest holding. Other institutional investors also adjusted their stakes in ExxonMobil, reflecting varied sentiments regarding the company's prospects amidst fluctuating oil prices and refining capacity.",
       "source": "MarketBeat",
       "sources": [
         {
           "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-mw-advisory-llc-takes-position-in-walmart-inc-wmt-2026-09-06/",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-readystate-asset-management-lp-purchases-new-holdings-in-exxonmobil-corporation-xom-2026-09-07/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mw-advisory-llc-takes-position-in-walmart-inc-wmt-2026-09-06/",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-readystate-asset-management-lp-purchases-new-holdings-in-exxonmobil-corporation-xom-2026-09-07/",
       "urlType": "article",
-      "publishedAt": "2026-09-06T09:31:35.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T10:48:14.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 18
     },
     {
-      "id": "9c4f5e7b66f48752adab",
+      "id": "41a203d2d722bcbb4b5d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "JPMorgan Chase's $1 Trillion Valuation Risk Under Dimon",
-      "summary": "JPMorgan Chase's stock price, nearing a $1 trillion valuation under Jamie Dimon's leadership, shows signs of being overvalued with P/E and P/B ratios significantly above historical averages. With Dimon approaching 70, his potential departure before a recession could introduce significant stock volatility due to untested successor leadership, prompting analysts to suggest investors consider taking profits. Despite strong performance and recent analyst upgrades, the firm's valuation premium and succession risks necessitate cautious assessment.",
-      "source": "Intellectia AI",
+      "title": "Freeport-McMoRan Has Ripped 44% in 2026. What Would It Take to Get FCX Stock Up to $100?",
+      "summary": "Freeport-McMoRan (FCX) stock has surged 44% year-to-date in 2026, driven primarily by an explosive rally in copper prices. While the company's internal execution and a Grasberg mine ramp-up contribute, the path to a $100 stock price heavily depends on sustained high copper prices, potentially closer to $7 per pound, and continued operational discipline. Each 10-cent move in copper prices significantly impacts FCX's EBITDA, making commodity momentum the dominant factor for reaching the triple-digit target.",
+      "source": "24/7 Wall St.",
       "sources": [
         {
-          "name": "Intellectia AI",
-          "url": "https://intellectia.ai/news/stock/jpmorgan-chases-1-trillion-valuation-risk-under-dimon",
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/07/freeport-mcmoran-has-ripped-44-in-2026-what-would-it-take-to-get-fcx-stock-up-to-100/",
           "urlType": "article"
         }
       ],
-      "url": "https://intellectia.ai/news/stock/jpmorgan-chases-1-trillion-valuation-risk-under-dimon",
+      "url": "https://247wallst.com/investing/2026/09/07/freeport-mcmoran-has-ripped-44-in-2026-what-would-it-take-to-get-fcx-stock-up-to-100/",
       "urlType": "article",
-      "publishedAt": "2026-09-06T03:09:47.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T13:50:34.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 17
     },
     {
-      "id": "c9cca0557bc1fa4f60b6",
+      "id": "924c3d816ed37b82a2a5",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Phillips 66 stock holds firm as investors eye refining margins",
-      "summary": "Phillips 66 stock is holding near recent highs as investors focus on the company's refining margins and consistent shareholder returns. The company has benefited from strong U.S. fuels demand and solid crack spreads, reporting higher adjusted earnings in Q2 2026. Phillips 66 remains a key player for exposure to U.S. fuels consumption and energy sector profitability.",
+      "title": "UnitedHealth Group stock holds near USD 395 after recent slide",
+      "summary": "UnitedHealth Group (UNH) stock is consolidating around USD 395 as of early September 2026, following a 1.5% decline in the New York session on September 4th. This comes amidst strong quarterly earnings and market-wide concerns over interest rates and macroeconomic data. Investors are weighing the company's robust financial performance against potential macroeconomic and regulatory risks in the healthcare sector.",
       "source": "AD HOC NEWS",
       "sources": [
         {
           "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/phillips-66-stock-holds-firm-as-investors-eye-refining-margins/70059855",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-holds-near-usd-395-after-recent-slide/70063798",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/phillips-66-stock-holds-firm-as-investors-eye-refining-margins/70059855",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-holds-near-usd-395-after-recent-slide/70063798",
       "urlType": "article",
-      "publishedAt": "2026-09-06T11:09:31.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T13:39:13.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "b7637f828b30d7869e34",
+      "id": "c1e6363b6e59c625bf20",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Stewart Information Services Corporation (NYSE:STC) Given Average Recommendation of \"Moderate Buy\" by Analysts",
-      "summary": "Stewart Information Services Corporation (NYSE:STC) has received a \"Moderate Buy\" consensus recommendation from analysts, with an average 12-month price target of $81.50. The company recently reported quarterly revenue of $895.8 million, exceeding estimates, but adjusted earnings per share missed forecasts. Stewart also increased its quarterly dividend to $0.55 per share, resulting in a 3.3% yield.",
-      "source": "MarketBeat",
+      "title": "BUUU to buy 60% of data-centre builder Brightray, adds $60M in placements",
+      "summary": "BUUU Group Limited (Nasdaq: BUUU) has announced its acquisition of a 60% equity interest in Brightray Science Inc., a modular data-centre solutions provider, to pivot towards industrialised AI data-centre delivery. The deal involves BUUU issuing Class A ordinary shares and a convertible promissory note, with Brightray's founder, Bin Wang, joining BUUU as co-CEO. BUUU also secured over $60 million in private placements and plans to relocate its headquarters to Singapore.",
+      "source": "Dealroom",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/consensus-stewart-information-services-corporation-nyse-stc-given-average-recommendation-of-moderate-buy-by-analysts-2026-09-06/",
+          "name": "Dealroom",
+          "url": "https://app.dealroom.co/news/note/buuu-to-buy-60-of-data-centre-builder-brightray-adds-60m-in-placements",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-stewart-information-services-corporation-nyse-stc-given-average-recommendation-of-moderate-buy-by-analysts-2026-09-06/",
+      "url": "https://app.dealroom.co/news/note/buuu-to-buy-60-of-data-centre-builder-brightray-adds-60m-in-placements",
       "urlType": "article",
-      "publishedAt": "2026-09-06T10:24:54.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T13:32:16.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "037ac9fc5acfa97e1865",
+      "id": "46f133c6ed4a8773f77c",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Saudi Central Bank Buys 76,428 Shares of Procter & Gamble Company (The) $PG",
-      "summary": "Saudi Central Bank significantly increased its stake in Procter & Gamble (NYSE:PG) by 88.6% in the second quarter, acquiring an additional 76,428 shares to hold a total of 162,680 shares valued at $23.9 million. This move is part of broader institutional investment trends in P&G, with institutional investors owning 65.77% of the stock. Despite insider selling, analysts maintain a \"Moderate Buy\" rating for P&G, citing its recent earnings beat, revenue growth, and 3.0% dividend yield.",
-      "source": "MarketBeat",
+      "title": "Essex Sells Waterfront Los Angeles Asset",
+      "summary": "Essex Property Trust has sold The Promenade, a 101-unit community in Marina del Rey, California, for $24.8 million to Coastline Real Estate Advisors Inc. This marks the first time the property has changed hands in over two decades, though Essex had invested significantly in capital improvements since acquiring it in 2004. The sale highlights increased multifamily transaction volume in Metro Los Angeles and a broader market value realignment.",
+      "source": "Multifamily Housing News",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-buys-76428-shares-of-procter-gamble-company-the-pg-2026-09-06/",
+          "name": "Multifamily Housing News",
+          "url": "https://www.multihousingnews.com/essex-sells-waterfront-los-angeles-asset/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-buys-76428-shares-of-procter-gamble-company-the-pg-2026-09-06/",
+      "url": "https://www.multihousingnews.com/essex-sells-waterfront-los-angeles-asset/",
       "urlType": "article",
-      "publishedAt": "2026-09-06T10:12:53.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T13:07:54.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "320fd16012e60fc471bd",
+      "id": "ad1004ce78a280e9b100",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Saudi Central Bank Has $7.03 Million Holdings in Medtronic PLC $MDT",
-      "summary": "The Saudi Central Bank significantly increased its stake in Medtronic PLC (NYSE:MDT) by 89.9% in Q2, bringing its total holdings to 89,872 shares valued at $7.03 million. Other institutional investors also adjusted their positions, with overall institutional ownership at 82.06%. Medtronic reported strong quarterly earnings, exceeding analyst expectations, and maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $103.92.",
-      "source": "MarketBeat",
+      "title": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
+      "summary": "South Korean chipmakers Samsung Electronics and SK hynix saw their stocks surge following OpenAI's launch of its new AI model, Astra, and its declaration of the AGI era, fueling investor optimism for high-capacity memory demand. Additionally, LG Electronics shares rose significantly due to expectations of securing orders for robot actuators from global Big Tech companies. The rally extended to semiconductor materials, components, and equipment stocks, driven by the anticipated increased demand for high-performance AI models.",
+      "source": "매일경제",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-633-million-position-in-freeport-mcmoran-inc-fcx-2026-09-06/",
+          "name": "매일경제",
+          "url": "https://pulse.mk.co.kr/news/english/12145890",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-703-million-holdings-in-medtronic-plc-mdt-2026-09-06/",
+      "url": "https://pulse.mk.co.kr/news/english/12145890",
       "urlType": "article",
-      "publishedAt": "2026-09-06T09:57:28.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T11:56:51.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "99952417d98b3d09ead2",
+      "id": "fea594736b03e5f81a13",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Nilsine Partners LLC Increases Stock Position in ExxonMobil Corporation $XOM",
-      "summary": "Nilsine Partners LLC increased its stake in ExxonMobil Corporation by 22.5% in the second quarter, bringing its total holdings to 83,492 shares valued at $11.4 million. Despite institutional investors owning 61.8% of the stock, analysts generally maintain a \"Hold\" rating with a consensus price target of $167.45, reflecting cautious sentiment due to factors like falling crude prices and political risks. ExxonMobil recently reported slightly lower-than-expected EPS but beat revenue forecasts, and declared a quarterly dividend of $1.03 per share.",
-      "source": "MarketBeat",
+      "title": "Nvidia’s Israeli networking business is booming, and so is its economic footprint",
+      "summary": "Nvidia's networking business, heavily reliant on its Israeli operations and the acquired Mellanox technology, is experiencing rapid growth, with first-half fiscal 2027 revenue already surpassing the previous full year. This expansion has significantly increased Nvidia's economic footprint in Israel, impacting local R&D, employment, and potentially tax contributions, despite the complexities in attributing these figures directly to Israeli exports. The article highlights Israel's growing importance as a hub for AI and data center technologies due to Nvidia's presence.",
+      "source": "CTech",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-increases-stock-position-in-exxonmobil-corporation-xom-2026-09-06/",
+          "name": "CTech",
+          "url": "https://www.calcalistech.com/ctechnews/article/8o2q1br2v",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-increases-stock-position-in-exxonmobil-corporation-xom-2026-09-06/",
+      "url": "https://www.calcalistech.com/ctechnews/article/8o2q1br2v",
       "urlType": "article",
-      "publishedAt": "2026-09-06T09:56:53.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T11:13:16.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "2e4622f47f99971ce2f5",
+      "id": "6ef3d2f54b1507d4234a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Nykredit A S Purchases Shares of 104,099 KB Financial Group Inc $KB",
-      "summary": "Nykredit A/S has acquired 104,099 shares of KB Financial Group (NYSE: KB) in the second quarter, establishing a new position valued at approximately $10.9 million. This move is part of broader institutional interest, with several other firms also increasing or initiating stakes, bringing total institutional ownership to 11.52%. KB Financial Group recently surpassed earnings expectations with $3.67 EPS and $3.49 billion in revenue, leading analysts to maintain a consensus \"Buy\" rating for the stock.",
+      "title": "HighTower Advisors LLC Buys 69,538 Shares of The Boeing Company $BA",
+      "summary": "HighTower Advisors LLC increased its stake in The Boeing Company by 10.3% in the second quarter, purchasing 69,538 additional shares to bring its total holding to 747,035 shares, valued at approximately $161.7 million. While institutional investors own 64.82% of Boeing and analysts generally rate it a \"Moderate Buy\" with an average price target of $272.58, the company faces challenges including high leverage, weak profitability, production delays, and regulatory concerns despite an 8% increase in quarterly revenue. Recent news includes both positive sentiments about recovery and backlog, and negative sentiments regarding its acquisition of Spirit AeroSystems and FAA safety fines.",
       "source": "MarketBeat",
       "sources": [
         {
           "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-purchases-shares-of-104099-kb-financial-group-inc-kb-2026-09-06/",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-buys-69538-shares-of-the-boeing-company-ba-2026-09-07/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-purchases-shares-of-104099-kb-financial-group-inc-kb-2026-09-06/",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-buys-69538-shares-of-the-boeing-company-ba-2026-09-07/",
       "urlType": "article",
-      "publishedAt": "2026-09-06T08:50:20.000Z",
-      "date": "2026-09-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "1547e6fe88d8a5b4ad2e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Nykredit A S Takes $10.65 Million Position in Freeport-McMoRan Inc. $FCX",
-      "summary": "Nykredit A/S has acquired a new stake in Freeport-McMoRan Inc. (NYSE:FCX) worth approximately $10.65 million during the second quarter. The natural resource company continues to receive positive analyst sentiment with a \"Moderate Buy\" consensus rating and has exceeded its recent quarterly earnings and revenue expectations. Freeport-McMoRan also declared a quarterly dividend of $0.075 per share.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-takes-1065-million-position-in-freeport-mcmoran-inc-fcx-2026-09-06/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-takes-1065-million-position-in-freeport-mcmoran-inc-fcx-2026-09-06/",
-      "urlType": "article",
-      "publishedAt": "2026-09-06T08:49:40.000Z",
-      "date": "2026-09-06",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "098ba47645fbb961f083",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Compass Financial Management LLC Purchases New Position in The Goldman Sachs Group, Inc. $GS",
-      "summary": "Compass Financial Management LLC has acquired a new stake of 3,207 shares in The Goldman Sachs Group, Inc. (NYSE:GS) during the second quarter, valued at approximately $3.3 million. This purchase is part of broader institutional investor activity, with companies like BlackRock Inc. and State Street Corp also adjusting their holdings. Goldman Sachs recently reported strong quarterly earnings, beating analyst estimates, and increased its quarterly dividend.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-compass-financial-management-llc-purchases-new-position-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-financial-management-llc-purchases-new-position-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
-      "urlType": "article",
-      "publishedAt": "2026-09-06T08:19:41.000Z",
-      "date": "2026-09-06",
+      "publishedAt": "2026-09-07T10:47:35.000Z",
+      "date": "2026-09-07",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
