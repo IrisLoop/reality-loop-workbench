@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-07",
-  "generatedAt": "2026-09-08T00:18:28.504Z",
-  "targetDate": "2026-09-07",
+  "updated": "2026-09-08",
+  "generatedAt": "2026-09-09T00:08:43.974Z",
+  "targetDate": "2026-09-08",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "7e24866fe5c5cf29538e",
+      "id": "a67bd069afe7075c53cf",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "ExxonMobil (NYSE:XOM): Can Strong Cash Flow Support Its Dividend?",
-      "summary": "ExxonMobil is under renewed scrutiny due to institutional activity, its mixed quarterly results, and the impact of oil prices and refining conditions. The company's diversified operations across exploration, production, refining, and chemicals, along with its strong dividend history, are central to its financial profile. However, its performance remains highly sensitive to commodity market cyclicality, geopolitical events, and global energy demand trends.",
-      "source": "Kalkine Media",
+      "title": "Chevron Stock Is Near a Record High. Here’s Why the Rally May Not Be Over",
+      "summary": "Chevron's stock has surged over 42% this year, nearing a record high, but 24/7 Wall St. maintains a \"Hold\" recommendation with a target implying slight downside. While strong Q2 FY26 results, operational efficiencies, and a significant power purchase agreement with Microsoft present a bullish case, the stock's high P/E ratio compared to peers and potential oil price fluctuations suggest caution. The long-term projections depend on continued execution and market conditions.",
+      "source": "24/7 Wall St.",
       "sources": [
         {
-          "name": "Kalkine Media",
-          "url": "https://kalkinemedia.com/us/stocks/energy/exxonmobil-nysexom-can-strong-cash-flow-support-its-dividend",
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/08/chevron-stock-is-near-a-record-high-heres-why-the-rally-may-not-be-over/",
           "urlType": "article"
         }
       ],
-      "url": "https://kalkinemedia.com/us/stocks/energy/exxonmobil-nysexom-can-strong-cash-flow-support-its-dividend",
+      "url": "https://247wallst.com/investing/2026/09/08/chevron-stock-is-near-a-record-high-heres-why-the-rally-may-not-be-over/",
       "urlType": "article",
-      "publishedAt": "2026-09-07T14:53:48.000Z",
-      "date": "2026-09-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 32
-    },
-    {
-      "id": "2a720c7beaab8bf7036c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "The Bull Case For Western Digital (WDC) Could Change Following A Post-Jobs-Report Memory Chip Rotation",
-      "summary": "Following a strong August jobs report, investors have rotated back into memory semiconductor names, including Western Digital (WDC), easing concerns about faster interest rate hikes. While Western Digital is seen as undervalued and central to AI infrastructure expansion, its core investment narrative remains largely unchanged, focusing on AI-driven data growth and hyperscale demand against potential risks like tariffs and changing storage architectures. The company's early repayment of convertible debt strengthens its balance sheet, providing flexibility for future AI drive development, though potential tariffs or hyperscaler decisions could still impact its outlook.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/the-bull-case-for-western-digital-wdc-could-change-following-2",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/us/tech/nasdaq-wdc/western-digital/news/the-bull-case-for-western-digital-wdc-could-change-following-2",
-      "urlType": "article",
-      "publishedAt": "2026-09-07T10:41:48.000Z",
-      "date": "2026-09-07",
+      "publishedAt": "2026-09-08T12:29:59.000Z",
+      "date": "2026-09-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "0b186eed9328dd0ddad0",
+      "id": "3a06532ddb442ee69299",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Readystate Asset Management LP Purchases New Holdings in ExxonMobil Corporation $XOM",
-      "summary": "Readystate Asset Management LP has acquired a new position in ExxonMobil Corporation (NYSE:XOM) during the second quarter, purchasing 217,778 shares valued at approximately $29.77 million. This investment constitutes about 1.0% of Readystate's portfolio, making it their 19th largest holding. Other institutional investors also adjusted their stakes in ExxonMobil, reflecting varied sentiments regarding the company's prospects amidst fluctuating oil prices and refining capacity.",
-      "source": "MarketBeat",
+      "title": "Why Is Citizens Financial Group (NYSE:CFG) Under NYSE Composite Watch?",
+      "summary": "Citizens Financial Group (NYSE:CFG) is under watch as U.S. markets reopen after Labor Day, with funding costs, credit conditions, and interest-rate sensitivity being key themes for financial stocks. The company's core business involves consumer and commercial banking, and its performance will be assessed against broader economic conditions and upcoming inflation data. Market participants are focusing on company-specific execution within a mixed economic environment.",
+      "source": "Kalkine Media",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-readystate-asset-management-lp-purchases-new-holdings-in-exxonmobil-corporation-xom-2026-09-07/",
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/financial/why-is-citizens-financial-group-nysecfg-under-nyse-composite-watch",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-readystate-asset-management-lp-purchases-new-holdings-in-exxonmobil-corporation-xom-2026-09-07/",
+      "url": "https://kalkinemedia.com/us/stocks/financial/why-is-citizens-financial-group-nysecfg-under-nyse-composite-watch",
       "urlType": "article",
-      "publishedAt": "2026-09-07T10:48:14.000Z",
-      "date": "2026-09-07",
+      "publishedAt": "2026-09-08T07:55:17.000Z",
+      "date": "2026-09-08",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "5128817311f7ca7ea076",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Exxon Mobil stock heads into the open after a 1.7% slide",
+      "summary": "Exxon Mobil stock closed at approximately $160 on September 4, 2026, experiencing a 1.7% decline on the NYSE, aligning with broader energy sector trends due to easing oil prices. Investors are now focused on commodity and macro data, as well as analyst commentary highlighting strong fundamentals and supportive commodity forecasts, with earnings scheduled for late October 2026.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exxon-mobil-stock-heads-into-the-open-after-a-1-7-percent-slide/70066694",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exxon-mobil-stock-heads-into-the-open-after-a-1-7-percent-slide/70066694",
+      "urlType": "article",
+      "publishedAt": "2026-09-08T07:07:33.000Z",
+      "date": "2026-09-08",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "01dcb560153ae7bba847",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Freeport-McMoRan shares surge as copper hits record $14,694/ton",
+      "summary": "Freeport-McMoRan shares surged after copper hit a new all-time high of $14,694 per ton on the LME, driven by supply pressures including accelerated US-bound metal flows and reduced production from Chile. This price surge significantly boosts Freeport-McMoRan's potential EBITDA, with management projecting higher earnings at elevated copper prices. The copper rally's continuation hinges on upcoming economic data, specifically the European Central Bank meeting and US inflation figures.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/freeportmcmoran-shares-surge-as-copper-hits-record-14694ton-4891969",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/freeportmcmoran-shares-surge-as-copper-hits-record-14694ton-4891969",
+      "urlType": "article",
+      "publishedAt": "2026-09-08T14:34:45.000Z",
+      "date": "2026-09-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "41a203d2d722bcbb4b5d",
+      "id": "e2330f3b72807bde9642",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Freeport-McMoRan Has Ripped 44% in 2026. What Would It Take to Get FCX Stock Up to $100?",
-      "summary": "Freeport-McMoRan (FCX) stock has surged 44% year-to-date in 2026, driven primarily by an explosive rally in copper prices. While the company's internal execution and a Grasberg mine ramp-up contribute, the path to a $100 stock price heavily depends on sustained high copper prices, potentially closer to $7 per pound, and continued operational discipline. Each 10-cent move in copper prices significantly impacts FCX's EBITDA, making commodity momentum the dominant factor for reaching the triple-digit target.",
-      "source": "24/7 Wall St.",
+      "title": "Franco-Nevada Corporation (FNV): Why the Gold Royalty Major Is Back in Focus After Record First-Half Results",
+      "summary": "Franco-Nevada Corporation (FNV) is gaining investor attention after reporting record first-half 2026 financial results, driven by strong precious metal and oil prices. The company operates a unique royalty and streaming business model, providing diversified exposure to gold and other commodities without the direct costs and risks of mining. With a debt-free balance sheet, significant capital for acquisitions, and a history of dividend increases, FNV offers a lower-risk investment in the precious metals sector, despite its premium valuation.",
+      "source": "kalkine.ca",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/07/freeport-mcmoran-has-ripped-44-in-2026-what-would-it-take-to-get-fcx-stock-up-to-100/",
+          "name": "kalkine.ca",
+          "url": "https://kalkine.ca/news/mining/franco-nevada-corporation-fnv-why-the-gold-royalty-major-is-back-in-focus-after-record-first-half-results",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/07/freeport-mcmoran-has-ripped-44-in-2026-what-would-it-take-to-get-fcx-stock-up-to-100/",
+      "url": "https://kalkine.ca/news/mining/franco-nevada-corporation-fnv-why-the-gold-royalty-major-is-back-in-focus-after-record-first-half-results",
       "urlType": "article",
-      "publishedAt": "2026-09-07T13:50:34.000Z",
-      "date": "2026-09-07",
+      "publishedAt": "2026-09-08T14:28:45.000Z",
+      "date": "2026-09-08",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "7fa8c08c93b8036032ce",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Why investors may want to ignore some market headlines",
+      "summary": "Invesco's Chief Global Market Strategist suggests that investors should look beyond market headlines concerning oil prices, interest rates, and Federal Reserve actions. He argues that current market concerns are often overblown when viewed in context and that underlying fundamentals like resilient corporate earnings and significant AI investments are more critical drivers of market performance. Levitt advises focusing on these deeper economic supports rather than headline-driven pessimism.",
+      "source": "Invesco",
+      "sources": [
+        {
+          "name": "Invesco",
+          "url": "https://www.invesco.com/us/en/insights/why-investors-may-want-to-ignore-some-market-headlines.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.invesco.com/us/en/insights/why-investors-may-want-to-ignore-some-market-headlines.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-08T14:15:50.000Z",
+      "date": "2026-09-08",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "a691e5af5f0eaad52487",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "NextEra secures $1.9B DOE loan for Duane Arnold nuclear restart",
+      "summary": "The U.S. Department of Energy has finalized a $1.9 billion loan to NextEra Energy to restart the 615-MW Duane Arnold nuclear facility in Iowa, which ceased operations in 2020. The plant is expected to restart by 2029 and Google will be its primary customer, using the output to power its data centers. This initiative highlights a growing trend of restarting nuclear plants to meet the escalating electricity demand from data centers.",
+      "source": "Utility Dive",
+      "sources": [
+        {
+          "name": "Utility Dive",
+          "url": "https://www.utilitydive.com/news/nextera-doe-loan-duane-arnold-nuclear-restart/829773/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.utilitydive.com/news/nextera-doe-loan-duane-arnold-nuclear-restart/829773/",
+      "urlType": "article",
+      "publishedAt": "2026-09-08T15:17:45.000Z",
+      "date": "2026-09-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "924c3d816ed37b82a2a5",
+      "id": "cf3ac46d8892e40f5b00",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "UnitedHealth Group stock holds near USD 395 after recent slide",
-      "summary": "UnitedHealth Group (UNH) stock is consolidating around USD 395 as of early September 2026, following a 1.5% decline in the New York session on September 4th. This comes amidst strong quarterly earnings and market-wide concerns over interest rates and macroeconomic data. Investors are weighing the company's robust financial performance against potential macroeconomic and regulatory risks in the healthcare sector.",
+      "title": "CoStar: Canada’s retail market still recovering from Hudson’s Bay stores closing",
+      "summary": "Canada's retail market is still recovering from the closure of Hudson's Bay stores in 2025, which caused a significant jump in mall and overall retail vacancy rates. The vacancy rate is expected to remain steady at around 2.5% over the next year, with construction activity at a decade low. Rent growth has decelerated and is projected to bottom out around 0% by Q2 2027 before recovering.",
+      "source": "Chain Store Age",
+      "sources": [
+        {
+          "name": "Chain Store Age",
+          "url": "https://chainstoreage.com/costar-canadas-retail-market-still-recovering-hudsons-bay-stores-closing",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://chainstoreage.com/costar-canadas-retail-market-still-recovering-hudsons-bay-stores-closing",
+      "urlType": "article",
+      "publishedAt": "2026-09-08T14:12:14.000Z",
+      "date": "2026-09-08",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "029496ecce8f315de11b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Wynn Resorts stock rises on a strike at Encore Boston Harbor",
+      "summary": "Wynn Resorts stock has risen to USD 91.54 despite over 1,300 union workers striking at its Encore Boston Harbor property, with no new bargaining sessions scheduled. The strike, centered on wage and benefit disputes, is seen as a key company-specific catalyst, even as the stock trades below its 52-week low but maintains a consensus target of USD 133.82. The company's Q2 earnings showed EPS of USD 1.24, exceeding estimates, and revenue grew 6.9% year-over-year, providing a positive operational backdrop amidst the labor dispute.",
       "source": "AD HOC NEWS",
       "sources": [
         {
           "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-holds-near-usd-395-after-recent-slide/70063798",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wynn-resorts-stock-rises-on-a-strike-at-encore-boston-harbor/70069756",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-holds-near-usd-395-after-recent-slide/70063798",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wynn-resorts-stock-rises-on-a-strike-at-encore-boston-harbor/70069756",
       "urlType": "article",
-      "publishedAt": "2026-09-07T13:39:13.000Z",
-      "date": "2026-09-07",
+      "publishedAt": "2026-09-08T14:10:02.000Z",
+      "date": "2026-09-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "c1e6363b6e59c625bf20",
+      "id": "7e40b698b1174d91705a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "BUUU to buy 60% of data-centre builder Brightray, adds $60M in placements",
-      "summary": "BUUU Group Limited (Nasdaq: BUUU) has announced its acquisition of a 60% equity interest in Brightray Science Inc., a modular data-centre solutions provider, to pivot towards industrialised AI data-centre delivery. The deal involves BUUU issuing Class A ordinary shares and a convertible promissory note, with Brightray's founder, Bin Wang, joining BUUU as co-CEO. BUUU also secured over $60 million in private placements and plans to relocate its headquarters to Singapore.",
-      "source": "Dealroom",
+      "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
+      "summary": "Both AEG and veteran promoter Louis Messina are urging a federal judge to reject the Justice Department's proposed settlement with Live Nation and Ticketmaster, arguing it fails to curb the company's power. Messina alleges Live Nation effectively shut him out of its amphitheaters in 2024, preventing artists from using him as their promoter. AEG contends the settlement preserves Ticketmaster's dominance by maintaining incentives for venues to use their services, arguing that structural changes, such as separating Ticketmaster from Live Nation, are necessary.",
+      "source": "TicketNews",
       "sources": [
         {
-          "name": "Dealroom",
-          "url": "https://app.dealroom.co/news/note/buuu-to-buy-60-of-data-centre-builder-brightray-adds-60m-in-placements",
+          "name": "TicketNews",
+          "url": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/",
           "urlType": "article"
         }
       ],
-      "url": "https://app.dealroom.co/news/note/buuu-to-buy-60-of-data-centre-builder-brightray-adds-60m-in-placements",
+      "url": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/",
       "urlType": "article",
-      "publishedAt": "2026-09-07T13:32:16.000Z",
-      "date": "2026-09-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "46f133c6ed4a8773f77c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Essex Sells Waterfront Los Angeles Asset",
-      "summary": "Essex Property Trust has sold The Promenade, a 101-unit community in Marina del Rey, California, for $24.8 million to Coastline Real Estate Advisors Inc. This marks the first time the property has changed hands in over two decades, though Essex had invested significantly in capital improvements since acquiring it in 2004. The sale highlights increased multifamily transaction volume in Metro Los Angeles and a broader market value realignment.",
-      "source": "Multifamily Housing News",
-      "sources": [
-        {
-          "name": "Multifamily Housing News",
-          "url": "https://www.multihousingnews.com/essex-sells-waterfront-los-angeles-asset/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.multihousingnews.com/essex-sells-waterfront-los-angeles-asset/",
-      "urlType": "article",
-      "publishedAt": "2026-09-07T13:07:54.000Z",
-      "date": "2026-09-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "ad1004ce78a280e9b100",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Samsung Electronics, SK hynix surge on OpenAI tailwinds",
-      "summary": "South Korean chipmakers Samsung Electronics and SK hynix saw their stocks surge following OpenAI's launch of its new AI model, Astra, and its declaration of the AGI era, fueling investor optimism for high-capacity memory demand. Additionally, LG Electronics shares rose significantly due to expectations of securing orders for robot actuators from global Big Tech companies. The rally extended to semiconductor materials, components, and equipment stocks, driven by the anticipated increased demand for high-performance AI models.",
-      "source": "매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "url": "https://pulse.mk.co.kr/news/english/12145890",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://pulse.mk.co.kr/news/english/12145890",
-      "urlType": "article",
-      "publishedAt": "2026-09-07T11:56:51.000Z",
-      "date": "2026-09-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "fea594736b03e5f81a13",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Nvidia’s Israeli networking business is booming, and so is its economic footprint",
-      "summary": "Nvidia's networking business, heavily reliant on its Israeli operations and the acquired Mellanox technology, is experiencing rapid growth, with first-half fiscal 2027 revenue already surpassing the previous full year. This expansion has significantly increased Nvidia's economic footprint in Israel, impacting local R&D, employment, and potentially tax contributions, despite the complexities in attributing these figures directly to Israeli exports. The article highlights Israel's growing importance as a hub for AI and data center technologies due to Nvidia's presence.",
-      "source": "CTech",
-      "sources": [
-        {
-          "name": "CTech",
-          "url": "https://www.calcalistech.com/ctechnews/article/8o2q1br2v",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.calcalistech.com/ctechnews/article/8o2q1br2v",
-      "urlType": "article",
-      "publishedAt": "2026-09-07T11:13:16.000Z",
-      "date": "2026-09-07",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "6ef3d2f54b1507d4234a",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "HighTower Advisors LLC Buys 69,538 Shares of The Boeing Company $BA",
-      "summary": "HighTower Advisors LLC increased its stake in The Boeing Company by 10.3% in the second quarter, purchasing 69,538 additional shares to bring its total holding to 747,035 shares, valued at approximately $161.7 million. While institutional investors own 64.82% of Boeing and analysts generally rate it a \"Moderate Buy\" with an average price target of $272.58, the company faces challenges including high leverage, weak profitability, production delays, and regulatory concerns despite an 8% increase in quarterly revenue. Recent news includes both positive sentiments about recovery and backlog, and negative sentiments regarding its acquisition of Spirit AeroSystems and FAA safety fines.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-buys-69538-shares-of-the-boeing-company-ba-2026-09-07/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-buys-69538-shares-of-the-boeing-company-ba-2026-09-07/",
-      "urlType": "article",
-      "publishedAt": "2026-09-07T10:47:35.000Z",
-      "date": "2026-09-07",
+      "publishedAt": "2026-09-08T13:31:51.000Z",
+      "date": "2026-09-08",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
