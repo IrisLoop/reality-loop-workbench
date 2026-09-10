@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-08",
-  "generatedAt": "2026-09-09T00:08:43.974Z",
-  "targetDate": "2026-09-08",
+  "updated": "2026-09-09",
+  "generatedAt": "2026-09-10T00:09:06.476Z",
+  "targetDate": "2026-09-09",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "a67bd069afe7075c53cf",
+      "id": "ce19f14aaa28da0892d2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Chevron Stock Is Near a Record High. Here’s Why the Rally May Not Be Over",
-      "summary": "Chevron's stock has surged over 42% this year, nearing a record high, but 24/7 Wall St. maintains a \"Hold\" recommendation with a target implying slight downside. While strong Q2 FY26 results, operational efficiencies, and a significant power purchase agreement with Microsoft present a bullish case, the stock's high P/E ratio compared to peers and potential oil price fluctuations suggest caution. The long-term projections depend on continued execution and market conditions.",
-      "source": "24/7 Wall St.",
+      "title": "IDEXX Laboratories stock heads into the open after a modest gain",
+      "summary": "IDEXX Laboratories stock closed slightly higher on the Nasdaq on September 8, 2026, gaining 0.8% to USD 232.40, outperforming the S&P 500 which slipped 0.4%. The company had no specific news, but investors are watching upcoming CPI and PPI inflation data and broader market sentiment remains fragile due to rising oil prices and geopolitical tensions.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/08/chevron-stock-is-near-a-record-high-heres-why-the-rally-may-not-be-over/",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/idexx-laboratories-stock-heads-into-the-open-after-a-modest-gain/70073662",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/08/chevron-stock-is-near-a-record-high-heres-why-the-rally-may-not-be-over/",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/idexx-laboratories-stock-heads-into-the-open-after-a-modest-gain/70073662",
       "urlType": "article",
-      "publishedAt": "2026-09-08T12:29:59.000Z",
-      "date": "2026-09-08",
+      "publishedAt": "2026-09-09T08:44:00.000Z",
+      "date": "2026-09-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 36
+    },
+    {
+      "id": "39ba56037851bc017f50",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Ball Corp stock heads into the open after a modest decline",
+      "summary": "Ball Corp (NYSE: BALL) stock experienced a modest 1.3% decline on September 8, 2026, closing at USD 64.32, as the broader market also fell due to rising oil prices and geopolitical tensions. The company's shares are trading ahead of an ex-dividend context, with a quarterly cash dividend of USD 0.20 per share payable on September 15, 2026. The stock's performance outpaced the S&P 500's 0.4% fall, with market sentiment continuing to be influenced by commodity and geopolitical developments.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-heads-into-the-open-after-a-modest-decline/70073540",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-heads-into-the-open-after-a-modest-decline/70073540",
+      "urlType": "article",
+      "publishedAt": "2026-09-09T06:16:22.000Z",
+      "date": "2026-09-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 30
+    },
+    {
+      "id": "153fb7733ec79ed58367",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "T-Mobile US stock heads into the open after a modest gain",
+      "summary": "T-Mobile US stock saw a modest gain of 0.8 percent on September 8, 2026, closing at USD 181.12 on the Nasdaq, despite broader tech benchmarks slipping. The stock traded in a tight range, between USD 179.61 and USD 183.26, contrasting with a general market decline influenced by rising oil prices and geopolitical tensions. No corporate earnings are expected today, with trading likely to reflect wider market dynamics.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/t-mobile-us-stock-heads-into-the-open-after-a-modest-gain/70073120",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/t-mobile-us-stock-heads-into-the-open-after-a-modest-gain/70073120",
+      "urlType": "article",
+      "publishedAt": "2026-09-09T05:13:16.000Z",
+      "date": "2026-09-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 30
+    },
+    {
+      "id": "93054e13f4cb223d1054",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Cadence Design Systems stock heads into the open after a 2.9% drop",
+      "summary": "Cadence Design Systems (CDNS) stock dropped 2.93% on September 8, 2026, closing at USD 284.11 on the Nasdaq, underperforming the broader market and the S&P 500. This decline occurred amidst a general market pullback driven by rising oil prices and geopolitical tensions, and despite advances in the Philadelphia Semiconductor Index. Investors are now watching how the stock will perform ahead of its next quarterly earnings report, with consensus forecasts projecting USD 2.04 EPS and USD 1.61 billion in revenue.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cadence-design-systems-stock-heads-into-the-open-after-a-2-9-percent-drop/70072382",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cadence-design-systems-stock-heads-into-the-open-after-a-2-9-percent-drop/70072382",
+      "urlType": "article",
+      "publishedAt": "2026-09-09T03:49:04.000Z",
+      "date": "2026-09-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 30
+    },
+    {
+      "id": "f7ada8b32d220833ebb4",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Carnival Stock Declines 16% in a Month: Should You Buy or Wait?",
+      "summary": "Carnival Corporation (CCL) stock has declined 16.1% in the past month due to geopolitical uncertainty impacting European travel and softer demand expectations. Despite near-term concerns, the company's long-term fundamentals are strong, supported by robust forward bookings, disciplined fleet strategy, exclusive destinations, and improving cost structure. While existing shareholders are advised to hold, new investors might consider a wait-and-watch approach due to current market uncertainties.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:e4e3aebdc094b:0-carnival-stock-declines-16-in-a-month-should-you-buy-or-wait/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:e4e3aebdc094b:0-carnival-stock-declines-16-in-a-month-should-you-buy-or-wait/",
+      "urlType": "article",
+      "publishedAt": "2026-09-09T12:49:10.000Z",
+      "date": "2026-09-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 26
+    },
+    {
+      "id": "9ada233eca1e07710a47",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Valero Energy Corp Stock (VLO) Moved Up by 3.24% on Sep 8: Drivers Behind the Movement",
+      "summary": "Valero Energy Corp (VLO) stock rose 3.24% on September 8, driven by major Wall Street upgrades and expectations of extended refining profitability. Analysts raised price targets due to global supply tightness, geopolitical disruptions, and favorable crude feedstock differentials allowing Gulf Coast refiners to capture wide margins. Technical indicators also suggest a buy signal, though some market participants remain cautious about the potential normalization of crack spreads from historical highs.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262156736-market-movers-vlo-20260908",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262156736-market-movers-vlo-20260908",
+      "urlType": "article",
+      "publishedAt": "2026-09-08T19:43:11.000Z",
+      "date": "2026-09-09",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "1daba0b3290953816f08",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Wells Fargo CEO Charlie Scharf on dealmaking: Now is the time to get it done",
+      "summary": "Wells Fargo CEO Charlie Scharf discusses dealmaking opportunities, stating that now is the opportune time to finalize them. The conversation, held with CNBC's Sara Eisen, also covered Wells Fargo's 2026 healthcare conference, consumer behavior, and tariffs. The article highlights a video interview where Scharf elaborates on these points.",
+      "source": "CNBC",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/video/2026/09/09/wells-fargo-ceo-charlie-scharf-on-dealmaking-now-is-the-time-to-get-it-done.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.cnbc.com/video/2026/09/09/wells-fargo-ceo-charlie-scharf-on-dealmaking-now-is-the-time-to-get-it-done.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-09T14:27:06.000Z",
+      "date": "2026-09-09",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "3a06532ddb442ee69299",
+      "id": "f0070f00e67416e69b45",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Why Is Citizens Financial Group (NYSE:CFG) Under NYSE Composite Watch?",
-      "summary": "Citizens Financial Group (NYSE:CFG) is under watch as U.S. markets reopen after Labor Day, with funding costs, credit conditions, and interest-rate sensitivity being key themes for financial stocks. The company's core business involves consumer and commercial banking, and its performance will be assessed against broader economic conditions and upcoming inflation data. Market participants are focusing on company-specific execution within a mixed economic environment.",
-      "source": "Kalkine Media",
+      "title": "Tennessee wants to be at the forefront of new nuclear energy projects. What does that mean?",
+      "summary": "Tennessee is positioning itself as a leader in nuclear energy, driven by increasing energy demands from data centers. The state is a finalist for the federal Nuclear Lifecycle Campus project and has approved a nuclear fusion research facility, leveraging its existing nuclear supply chain. However, these initiatives face concerns from lawmakers regarding nuclear waste storage and transparency.",
+      "source": "Tennessee Lookout",
       "sources": [
         {
-          "name": "Kalkine Media",
-          "url": "https://kalkinemedia.com/us/stocks/financial/why-is-citizens-financial-group-nysecfg-under-nyse-composite-watch",
+          "name": "Tennessee Lookout",
+          "url": "https://tennesseelookout.com/2026/09/09/tennessee-wants-to-be-at-the-forefront-of-new-nuclear-energy-projects-what-does-that-mean/",
           "urlType": "article"
         }
       ],
-      "url": "https://kalkinemedia.com/us/stocks/financial/why-is-citizens-financial-group-nysecfg-under-nyse-composite-watch",
+      "url": "https://tennesseelookout.com/2026/09/09/tennessee-wants-to-be-at-the-forefront-of-new-nuclear-energy-projects-what-does-that-mean/",
       "urlType": "article",
-      "publishedAt": "2026-09-08T07:55:17.000Z",
-      "date": "2026-09-08",
+      "publishedAt": "2026-09-09T09:56:07.000Z",
+      "date": "2026-09-09",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "5128817311f7ca7ea076",
+      "id": "a51a21184e7dd1c8c457",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Exxon Mobil stock heads into the open after a 1.7% slide",
-      "summary": "Exxon Mobil stock closed at approximately $160 on September 4, 2026, experiencing a 1.7% decline on the NYSE, aligning with broader energy sector trends due to easing oil prices. Investors are now focused on commodity and macro data, as well as analyst commentary highlighting strong fundamentals and supportive commodity forecasts, with earnings scheduled for late October 2026.",
+      "title": "Pinnacle West stock heads into the open after a 0.7% drop",
+      "summary": "Pinnacle West stock declined by 0.7% to USD 97.37 on the NYSE on September 8, 2026, mirroring a broader market dip in the S&P 500. The utility sector continues to be influenced by interest-rate expectations and energy prices, with institutional selling by HSBC Holdings PLC also noted. Investors are watching for any new guidance on interest-rate policy or inflation, which could impact utility valuations.",
       "source": "AD HOC NEWS",
       "sources": [
         {
           "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exxon-mobil-stock-heads-into-the-open-after-a-1-7-percent-slide/70066694",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pinnacle-west-stock-heads-into-the-open-after-a-0-7-percent-drop/70072014",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/exxon-mobil-stock-heads-into-the-open-after-a-1-7-percent-slide/70066694",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pinnacle-west-stock-heads-into-the-open-after-a-0-7-percent-drop/70072014",
       "urlType": "article",
-      "publishedAt": "2026-09-08T07:07:33.000Z",
-      "date": "2026-09-08",
+      "publishedAt": "2026-09-09T02:42:04.000Z",
+      "date": "2026-09-09",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "01dcb560153ae7bba847",
+      "id": "3f654e7cf03bf16ffd73",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Freeport-McMoRan shares surge as copper hits record $14,694/ton",
-      "summary": "Freeport-McMoRan shares surged after copper hit a new all-time high of $14,694 per ton on the LME, driven by supply pressures including accelerated US-bound metal flows and reduced production from Chile. This price surge significantly boosts Freeport-McMoRan's potential EBITDA, with management projecting higher earnings at elevated copper prices. The copper rally's continuation hinges on upcoming economic data, specifically the European Central Bank meeting and US inflation figures.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/freeportmcmoran-shares-surge-as-copper-hits-record-14694ton-4891969",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investing.com/news/stock-market-news/freeportmcmoran-shares-surge-as-copper-hits-record-14694ton-4891969",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T14:34:45.000Z",
-      "date": "2026-09-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "e2330f3b72807bde9642",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Franco-Nevada Corporation (FNV): Why the Gold Royalty Major Is Back in Focus After Record First-Half Results",
-      "summary": "Franco-Nevada Corporation (FNV) is gaining investor attention after reporting record first-half 2026 financial results, driven by strong precious metal and oil prices. The company operates a unique royalty and streaming business model, providing diversified exposure to gold and other commodities without the direct costs and risks of mining. With a debt-free balance sheet, significant capital for acquisitions, and a history of dividend increases, FNV offers a lower-risk investment in the precious metals sector, despite its premium valuation.",
-      "source": "kalkine.ca",
-      "sources": [
-        {
-          "name": "kalkine.ca",
-          "url": "https://kalkine.ca/news/mining/franco-nevada-corporation-fnv-why-the-gold-royalty-major-is-back-in-focus-after-record-first-half-results",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://kalkine.ca/news/mining/franco-nevada-corporation-fnv-why-the-gold-royalty-major-is-back-in-focus-after-record-first-half-results",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T14:28:45.000Z",
-      "date": "2026-09-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "7fa8c08c93b8036032ce",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Why investors may want to ignore some market headlines",
-      "summary": "Invesco's Chief Global Market Strategist suggests that investors should look beyond market headlines concerning oil prices, interest rates, and Federal Reserve actions. He argues that current market concerns are often overblown when viewed in context and that underlying fundamentals like resilient corporate earnings and significant AI investments are more critical drivers of market performance. Levitt advises focusing on these deeper economic supports rather than headline-driven pessimism.",
-      "source": "Invesco",
-      "sources": [
-        {
-          "name": "Invesco",
-          "url": "https://www.invesco.com/us/en/insights/why-investors-may-want-to-ignore-some-market-headlines.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.invesco.com/us/en/insights/why-investors-may-want-to-ignore-some-market-headlines.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T14:15:50.000Z",
-      "date": "2026-09-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "a691e5af5f0eaad52487",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "NextEra secures $1.9B DOE loan for Duane Arnold nuclear restart",
-      "summary": "The U.S. Department of Energy has finalized a $1.9 billion loan to NextEra Energy to restart the 615-MW Duane Arnold nuclear facility in Iowa, which ceased operations in 2020. The plant is expected to restart by 2029 and Google will be its primary customer, using the output to power its data centers. This initiative highlights a growing trend of restarting nuclear plants to meet the escalating electricity demand from data centers.",
-      "source": "Utility Dive",
-      "sources": [
-        {
-          "name": "Utility Dive",
-          "url": "https://www.utilitydive.com/news/nextera-doe-loan-duane-arnold-nuclear-restart/829773/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.utilitydive.com/news/nextera-doe-loan-duane-arnold-nuclear-restart/829773/",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T15:17:45.000Z",
-      "date": "2026-09-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "cf3ac46d8892e40f5b00",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "CoStar: Canada’s retail market still recovering from Hudson’s Bay stores closing",
-      "summary": "Canada's retail market is still recovering from the closure of Hudson's Bay stores in 2025, which caused a significant jump in mall and overall retail vacancy rates. The vacancy rate is expected to remain steady at around 2.5% over the next year, with construction activity at a decade low. Rent growth has decelerated and is projected to bottom out around 0% by Q2 2027 before recovering.",
-      "source": "Chain Store Age",
-      "sources": [
-        {
-          "name": "Chain Store Age",
-          "url": "https://chainstoreage.com/costar-canadas-retail-market-still-recovering-hudsons-bay-stores-closing",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://chainstoreage.com/costar-canadas-retail-market-still-recovering-hudsons-bay-stores-closing",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T14:12:14.000Z",
-      "date": "2026-09-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "029496ecce8f315de11b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Wynn Resorts stock rises on a strike at Encore Boston Harbor",
-      "summary": "Wynn Resorts stock has risen to USD 91.54 despite over 1,300 union workers striking at its Encore Boston Harbor property, with no new bargaining sessions scheduled. The strike, centered on wage and benefit disputes, is seen as a key company-specific catalyst, even as the stock trades below its 52-week low but maintains a consensus target of USD 133.82. The company's Q2 earnings showed EPS of USD 1.24, exceeding estimates, and revenue grew 6.9% year-over-year, providing a positive operational backdrop amidst the labor dispute.",
+      "title": "Autodesk Inc. stock stabilizes after sharp drop, supported by double-digit earnings growth",
+      "summary": "Autodesk Inc. stock has stabilized around $217 after an 8.3% decline, despite reporting strong double-digit revenue growth and an earnings beat in its latest quarter. The stock's recent drop is attributed to broader sector pressure on software stocks due to inflation concerns, but institutional ownership remains high and analysts maintain a \"Moderate Buy\" rating with a significant upside potential. Autodesk's subscription-based software continues to drive recurring revenue and strong fundamentals.",
       "source": "AD HOC NEWS",
       "sources": [
         {
           "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wynn-resorts-stock-rises-on-a-strike-at-encore-boston-harbor/70069756",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autodesk-inc-stock-stabilizes-after-sharp-drop-supported-by-double-digit/70071244",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wynn-resorts-stock-rises-on-a-strike-at-encore-boston-harbor/70069756",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autodesk-inc-stock-stabilizes-after-sharp-drop-supported-by-double-digit/70071244",
       "urlType": "article",
-      "publishedAt": "2026-09-08T14:10:02.000Z",
-      "date": "2026-09-08",
+      "publishedAt": "2026-09-08T18:49:41.000Z",
+      "date": "2026-09-09",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "7e40b698b1174d91705a",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
-      "summary": "Both AEG and veteran promoter Louis Messina are urging a federal judge to reject the Justice Department's proposed settlement with Live Nation and Ticketmaster, arguing it fails to curb the company's power. Messina alleges Live Nation effectively shut him out of its amphitheaters in 2024, preventing artists from using him as their promoter. AEG contends the settlement preserves Ticketmaster's dominance by maintaining incentives for venues to use their services, arguing that structural changes, such as separating Ticketmaster from Live Nation, are necessary.",
-      "source": "TicketNews",
-      "sources": [
-        {
-          "name": "TicketNews",
-          "url": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T13:31:51.000Z",
-      "date": "2026-09-08",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 18
     }
   ]
 }

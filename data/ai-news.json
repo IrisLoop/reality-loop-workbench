@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-08",
-  "generatedAt": "2026-09-09T00:08:35.875Z",
-  "targetDate": "2026-09-08",
+  "updated": "2026-09-09",
+  "generatedAt": "2026-09-10T00:08:58.348Z",
+  "targetDate": "2026-09-09",
   "timezone": "Asia/Shanghai",
-  "itemCount": 7,
+  "itemCount": 10,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,130 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmtszna9e04isro5woti0ixg6",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-      "originalTitle": "On the Navier-Stokes Millennium Prize Problem",
-      "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "url": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
-      "originalUrl": "https://openai.com/index/navier-stokes-solution",
-      "aihotUrl": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
+      "id": "cmtsz2a0q02ciro5w7oz3a0ix",
+      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+      "originalTitle": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+      "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
+      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
+      "url": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix",
+      "originalUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "aihotUrl": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix",
       "tags": [
-        "论文"
+        "行业"
       ],
-      "category": "paper",
+      "category": "industry",
       "score": 85,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-08T10:00:00.000Z",
-      "discoveredAt": "2026-09-08T18:13:41.404Z"
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-08T17:32:15.000Z",
+      "discoveredAt": "2026-09-08T17:57:22.807Z"
     },
     {
-      "id": "cmtscjydz01garow6gi54pft9",
-      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-      "originalTitle": "纳维-斯托克斯方程--特里斯坦·巴克马斯特 【pdf】",
-      "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.news/items/cmtscjydz01garow6gi54pft9",
-      "originalUrl": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "aihotUrl": "https://aihot.news/items/cmtscjydz01garow6gi54pft9",
+      "id": "cmttzipvw0sqlrofp63a8px22",
+      "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+      "originalTitle": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/cmttzipvw0sqlrofp63a8px22",
+      "originalUrl": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+      "aihotUrl": "https://aihot.news/items/cmttzipvw0sqlrofp63a8px22",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 82,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-08T07:20:02.739Z",
-      "discoveredAt": "2026-09-08T07:27:15.232Z"
+      "score": 83,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T10:27:37.000Z",
+      "discoveredAt": "2026-09-09T10:57:54.744Z"
     },
     {
-      "id": "cmtt0pw2p018pro9owlhpi092",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-      "originalTitle": "Introducing ChatGPT Images 2.5",
-      "summary": "OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images 2.0 降低最多 50%，细节、编辑精度、参考照片保真度和多轮编辑一致性均有提升。",
+      "id": "cmtun5zb61iwvrofpczl5k33h",
+      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+      "originalTitle": "GPT-6 Astra： The next generation in intelligence for work",
+      "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
       "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "url": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
-      "originalUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "aihotUrl": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
+      "url": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
+      "originalUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "aihotUrl": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
+      "score": 82,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "discoveredAt": "2026-09-09T21:59:51.764Z"
+    },
+    {
+      "id": "cmttxf8n90qovrofp2tiv0g2g",
+      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+      "originalTitle": "AI 攻克数学难题，纽约大学教授质疑 OpenAI\"截胡\"其研究成果",
+      "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
+      "url": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
+      "originalUrl": "https://www.ithome.com/1/000/353.htm",
+      "aihotUrl": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 82,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T09:34:47.000Z",
+      "discoveredAt": "2026-09-09T09:59:12.629Z"
+    },
+    {
+      "id": "cmttwa2j30pktrofpw67b9pby",
+      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+      "originalTitle": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+      "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
+      "source": "AI HOT · AI 摘要 · X：X.PIN (@thexpin)",
+      "url": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
+      "originalUrl": "https://x.com/thexpin/status/2097615997616406833",
+      "aihotUrl": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 82,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T09:20:00.000Z",
+      "discoveredAt": "2026-09-09T09:27:09.511Z"
+    },
+    {
+      "id": "cmttulwa90npwrofpsde4lc0k",
+      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+      "originalTitle": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+      "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://aihot.news/items/cmttulwa90npwrofpsde4lc0k",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+      "aihotUrl": "https://aihot.news/items/cmttulwa90npwrofpsde4lc0k",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 81,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T08:37:36.000Z",
+      "discoveredAt": "2026-09-09T08:40:23.729Z"
+    },
+    {
+      "id": "cmtud99z117yurofph84r3cio",
+      "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
+      "originalTitle": "GPT-6 Astra， looped transformers， and hidden reasoning",
+      "summary": "OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。",
+      "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
+      "url": "https://aihot.news/items/cmtud99z117yurofph84r3cio",
+      "originalUrl": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "aihotUrl": "https://aihot.news/items/cmtud99z117yurofph84r3cio",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
       "score": 79,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-08T11:30:00.000Z",
-      "discoveredAt": "2026-09-08T18:43:42.877Z"
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T14:37:47.000Z",
+      "discoveredAt": "2026-09-09T17:22:29.350Z"
     },
     {
-      "id": "cmtrxbv5n02etroftlb6u96xt",
-      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-      "originalTitle": "用GPT-6 Astra操控Blender，保姆级教程来了。",
-      "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "aihotUrl": "https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt",
+      "id": "cmtsyfj5p01qgro5wfoz5h410",
+      "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
+      "originalTitle": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+      "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
+      "source": "AI HOT · AI 摘要 · X：Emad Mostaque (@EMostaque)",
+      "url": "https://aihot.news/items/cmtsyfj5p01qgro5wfoz5h410",
+      "originalUrl": "https://x.com/EMostaque/status/2097378223138959719",
+      "aihotUrl": "https://aihot.news/items/cmtsyfj5p01qgro5wfoz5h410",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 76,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-08T00:17:23.000Z",
-      "discoveredAt": "2026-09-08T00:21:04.297Z"
+      "score": 79,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-08T17:35:10.000Z",
+      "discoveredAt": "2026-09-08T17:39:39.953Z"
     },
     {
-      "id": "cmtrkorpo07jdrotnozlrlyx2",
-      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-      "originalTitle": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-      "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2",
-      "originalUrl": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-      "aihotUrl": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2",
+      "id": "cmttqzqw30jwkrofpxrj00ngg",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "originalTitle": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
+      "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
+      "url": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
+      "originalUrl": "https://www.ithome.com/1/000/188.htm",
+      "aihotUrl": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 76,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-07T18:12:41.000Z",
-      "discoveredAt": "2026-09-07T18:27:10.491Z"
+      "score": 78,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T06:41:51.000Z",
+      "discoveredAt": "2026-09-09T06:59:12.167Z"
     },
     {
-      "id": "cmts9dr2m029hrobq86wrny37",
-      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-      "originalTitle": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-      "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
-      "source": "AI HOT · AI 摘要 · Mistral AI：News（网页）",
-      "url": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37",
-      "originalUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "aihotUrl": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 72,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-08T05:58:27.839Z",
-      "discoveredAt": "2026-09-08T05:58:27.839Z"
-    },
-    {
-      "id": "cmtt3hrxg02xarowa0a6iz1dc",
-      "title": "Tom Tunguz 分析 OpenAI 的 3x AI 生产力增益是否只是机器不睡觉",
-      "originalTitle": "Is the 3x AI Productivity Gain just a Computer that Never Sleeps？",
-      "summary": "Tom Tunguz 引用 OpenAI 内部数据，分析其 3x 研究生产力增益的来源：每名研究员 8 小时班次对应 3.14 个 agent 工作日，通常并行运行 4 个 agent。",
-      "source": "AI HOT · AI 摘要 · Tomer Tunguz 博客（VC 分析）",
-      "url": "https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc",
-      "originalUrl": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity",
-      "aihotUrl": "https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc",
+      "id": "cmtsy52b401faro5wv9smnfmk",
+      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+      "originalTitle": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+      "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+      "source": "AI HOT · AI 摘要 · X：Noam Brown (@polynoamial)",
+      "url": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
+      "originalUrl": "https://x.com/polynoamial/status/2097375837670785447",
+      "aihotUrl": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 66,
-      "date": "2026-09-08",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "discoveredAt": "2026-09-08T20:01:23.617Z"
+      "score": 78,
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-08T17:25:41.000Z",
+      "discoveredAt": "2026-09-08T17:31:31.549Z"
     }
   ]
 }
