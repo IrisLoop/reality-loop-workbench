@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-09",
-  "generatedAt": "2026-09-10T00:09:06.476Z",
-  "targetDate": "2026-09-09",
+  "updated": "2026-09-10",
+  "generatedAt": "2026-09-11T00:04:59.169Z",
+  "targetDate": "2026-09-10",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -11,20 +11,20 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 2,
+      "message": ""
     },
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "Alpha Vantage",
@@ -43,224 +43,229 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "ce19f14aaa28da0892d2",
+      "id": "31f0ba5ec888d3690a2d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "IDEXX Laboratories stock heads into the open after a modest gain",
-      "summary": "IDEXX Laboratories stock closed slightly higher on the Nasdaq on September 8, 2026, gaining 0.8% to USD 232.40, outperforming the S&P 500 which slipped 0.4%. The company had no specific news, but investors are watching upcoming CPI and PPI inflation data and broader market sentiment remains fragile due to rising oil prices and geopolitical tensions.",
-      "source": "AD HOC NEWS",
+      "title": "Diamondback Energy stock heads into the open after a 1.8% gain",
+      "summary": "Diamondback Energy (FANG) stock closed with a 1.8% gain on September 9, 2026, reaching USD 203.14 on the Nasdaq, driven by rising oil prices and a new \"Buy\" rating from Stifel. The stock outperformed broad U.S. equity benchmarks, which weakened despite the surge in crude oil prices above USD 100 per barrel. Investors await future developments in oil prices and geopolitical tensions, while Stifel's target price of USD 259 per share continues to influence sentiment.",
+      "source": "ad-hoc-news.de",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/idexx-laboratories-stock-heads-into-the-open-after-a-modest-gain/70073662",
+          "name": "ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-heads-into-the-open-after-a-1-8-percent-gain/70078484",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/idexx-laboratories-stock-heads-into-the-open-after-a-modest-gain/70073662",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-heads-into-the-open-after-a-1-8-percent-gain/70078484",
       "urlType": "article",
-      "publishedAt": "2026-09-09T08:44:00.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-10T02:19:08.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 36
+      "score": 29
     },
     {
-      "id": "39ba56037851bc017f50",
+      "id": "ead8789a2005771c47c2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ball Corp stock heads into the open after a modest decline",
-      "summary": "Ball Corp (NYSE: BALL) stock experienced a modest 1.3% decline on September 8, 2026, closing at USD 64.32, as the broader market also fell due to rising oil prices and geopolitical tensions. The company's shares are trading ahead of an ex-dividend context, with a quarterly cash dividend of USD 0.20 per share payable on September 15, 2026. The stock's performance outpaced the S&P 500's 0.4% fall, with market sentiment continuing to be influenced by commodity and geopolitical developments.",
-      "source": "AD HOC NEWS",
+      "title": "Centene stock heads into the open after a flat session",
+      "summary": "Centene stock closed flat on September 9, 2026, trading near USD 64.60 on the NYSE, while the S&P 500 declined and oil prices rose above USD 100 per barrel. The stock's performance was in line with its managed-care peers and within its 52-week trading range. Investors are now looking ahead to key US inflation data and Centene's ongoing legal case regarding its retirement plan.",
+      "source": "ad-hoc-news.de",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-heads-into-the-open-after-a-modest-decline/70073540",
+          "name": "ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-heads-into-the-open-after-a-flat-session/70080034",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corp-stock-heads-into-the-open-after-a-modest-decline/70073540",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-heads-into-the-open-after-a-flat-session/70080034",
       "urlType": "article",
-      "publishedAt": "2026-09-09T06:16:22.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-10T06:46:57.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 30
+      "score": 25
     },
     {
-      "id": "153fb7733ec79ed58367",
+      "id": "42c92b83a5ced1bc6db7",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "T-Mobile US stock heads into the open after a modest gain",
-      "summary": "T-Mobile US stock saw a modest gain of 0.8 percent on September 8, 2026, closing at USD 181.12 on the Nasdaq, despite broader tech benchmarks slipping. The stock traded in a tight range, between USD 179.61 and USD 183.26, contrasting with a general market decline influenced by rising oil prices and geopolitical tensions. No corporate earnings are expected today, with trading likely to reflect wider market dynamics.",
-      "source": "AD HOC NEWS",
+      "title": "Meet Deere’s JD, an AI Assistant Aimed at Helping Farmers—and Its Sales",
+      "summary": "Deere is launching an AI assistant called JD, similar to ChatGPT, to help farmers make better decisions by providing quick answers to questions about planting, harvesting, and other business operations, backed by their own farm data. This initiative is part of Deere's broader investment in AI-enabled smart farm equipment, aiming to boost crop production and lower costs. The company hopes this AI tool will help revive equipment sales, which have been impacted by a slumping farm economy, and support its goal of increasing software subscription revenue.",
+      "source": "WSJ",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/t-mobile-us-stock-heads-into-the-open-after-a-modest-gain/70073120",
+          "name": "WSJ",
+          "url": "https://www.wsj.com/business/meet-deeres-jd-an-ai-assistant-aimed-at-helping-farmersand-its-sales-7d755f4b",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/t-mobile-us-stock-heads-into-the-open-after-a-modest-gain/70073120",
+      "url": "https://www.wsj.com/business/meet-deeres-jd-an-ai-assistant-aimed-at-helping-farmersand-its-sales-7d755f4b",
       "urlType": "article",
-      "publishedAt": "2026-09-09T05:13:16.000Z",
-      "date": "2026-09-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 30
-    },
-    {
-      "id": "93054e13f4cb223d1054",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Cadence Design Systems stock heads into the open after a 2.9% drop",
-      "summary": "Cadence Design Systems (CDNS) stock dropped 2.93% on September 8, 2026, closing at USD 284.11 on the Nasdaq, underperforming the broader market and the S&P 500. This decline occurred amidst a general market pullback driven by rising oil prices and geopolitical tensions, and despite advances in the Philadelphia Semiconductor Index. Investors are now watching how the stock will perform ahead of its next quarterly earnings report, with consensus forecasts projecting USD 2.04 EPS and USD 1.61 billion in revenue.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cadence-design-systems-stock-heads-into-the-open-after-a-2-9-percent-drop/70072382",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cadence-design-systems-stock-heads-into-the-open-after-a-2-9-percent-drop/70072382",
-      "urlType": "article",
-      "publishedAt": "2026-09-09T03:49:04.000Z",
-      "date": "2026-09-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 30
-    },
-    {
-      "id": "f7ada8b32d220833ebb4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Carnival Stock Declines 16% in a Month: Should You Buy or Wait?",
-      "summary": "Carnival Corporation (CCL) stock has declined 16.1% in the past month due to geopolitical uncertainty impacting European travel and softer demand expectations. Despite near-term concerns, the company's long-term fundamentals are strong, supported by robust forward bookings, disciplined fleet strategy, exclusive destinations, and improving cost structure. While existing shareholders are advised to hold, new investors might consider a wait-and-watch approach due to current market uncertainties.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:e4e3aebdc094b:0-carnival-stock-declines-16-in-a-month-should-you-buy-or-wait/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:e4e3aebdc094b:0-carnival-stock-declines-16-in-a-month-should-you-buy-or-wait/",
-      "urlType": "article",
-      "publishedAt": "2026-09-09T12:49:10.000Z",
-      "date": "2026-09-09",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "9ada233eca1e07710a47",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Valero Energy Corp Stock (VLO) Moved Up by 3.24% on Sep 8: Drivers Behind the Movement",
-      "summary": "Valero Energy Corp (VLO) stock rose 3.24% on September 8, driven by major Wall Street upgrades and expectations of extended refining profitability. Analysts raised price targets due to global supply tightness, geopolitical disruptions, and favorable crude feedstock differentials allowing Gulf Coast refiners to capture wide margins. Technical indicators also suggest a buy signal, though some market participants remain cautious about the potential normalization of crack spreads from historical highs.",
-      "source": "TradingKey",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262156736-market-movers-vlo-20260908",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingkey.com/news/market-movers/262156736-market-movers-vlo-20260908",
-      "urlType": "article",
-      "publishedAt": "2026-09-08T19:43:11.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T20:00:31.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 24
     },
     {
-      "id": "1daba0b3290953816f08",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Wells Fargo CEO Charlie Scharf on dealmaking: Now is the time to get it done",
-      "summary": "Wells Fargo CEO Charlie Scharf discusses dealmaking opportunities, stating that now is the opportune time to finalize them. The conversation, held with CNBC's Sara Eisen, also covered Wells Fargo's 2026 healthcare conference, consumer behavior, and tariffs. The article highlights a video interview where Scharf elaborates on these points.",
-      "source": "CNBC",
+      "id": "58345ed87baa93a9d458",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况",
+      "summary": "新闻发布会现场（刘健 摄） 国务院新闻办新闻局局长、新闻发言人寿小丽：女士",
+      "source": "中国证监会",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/video/2026/09/09/wells-fargo-ceo-charlie-scharf-on-dealmaking-now-is-the-time-to-get-it-done.html",
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7657861/content.shtml",
+          "urlType": "article"
+        },
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091018550019961/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.cnbc.com/video/2026/09/09/wells-fargo-ceo-charlie-scharf-on-dealmaking-now-is-the-time-to-get-it-done.html",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7657861/content.shtml",
       "urlType": "article",
-      "publishedAt": "2026-09-09T14:27:06.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-10T09:06:28.000Z",
+      "date": "2026-09-10",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 65
+    },
+    {
+      "id": "4c0d48c922f76acccb33",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行副行长宣昌能会见新加坡金融管理局副行长梁新松",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091018582672927/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091018582672927/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-10T10:58:26.000Z",
+      "date": "2026-09-10",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "954aacad7afdd0f95f62",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
+      "summary": null,
+      "source": "中国政府网",
+      "sources": [
+        {
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+      "urlType": "article",
+      "publishedAt": "2026-09-10T04:00:00.000Z",
+      "date": "2026-09-10",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 47
+    },
+    {
+      "id": "27e46c7e42d354b10934",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
+      "summary": "Memory stocks, including SK Hynix, Western Digital, and Micron, experienced significant declines despite JPMorgan initiating an \"Overweight\" rating on SK Hynix with a strong price target. This market downturn is primarily attributed to surging 10-year Treasury yields and rising oil prices, overshadowing positive analyst calls and the strong underlying demand for memory chips driven by AI. Investors are now closely watching upcoming consumer price data and the Federal Reserve meeting for potential interest rate hikes.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+      "urlType": "article",
+      "publishedAt": "2026-09-10T13:40:51.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "f0070f00e67416e69b45",
+      "id": "d22b2b66782454121d49",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Tennessee wants to be at the forefront of new nuclear energy projects. What does that mean?",
-      "summary": "Tennessee is positioning itself as a leader in nuclear energy, driven by increasing energy demands from data centers. The state is a finalist for the federal Nuclear Lifecycle Campus project and has approved a nuclear fusion research facility, leveraging its existing nuclear supply chain. However, these initiatives face concerns from lawmakers regarding nuclear waste storage and transparency.",
-      "source": "Tennessee Lookout",
+      "title": "The Kroger Co. $KR Stock Position Reduced by WINTON GROUP Ltd",
+      "summary": "WINTON GROUP Ltd reduced its stake in The Kroger Co. (NYSE:KR) by 12.7% in the second quarter, selling 39,123 shares. Despite this, several other institutional investors, including BlackRock Inc. and California State Teachers Retirement System, increased their holdings in Kroger. Analysts have a \"Moderate Buy\" consensus rating for Kroger, with a target price of $71.31, while recent news highlights both positive developments like healthcare expansion and negative concerns such as inflation and slowing sales.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "Tennessee Lookout",
-          "url": "https://tennesseelookout.com/2026/09/09/tennessee-wants-to-be-at-the-forefront-of-new-nuclear-energy-projects-what-does-that-mean/",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-the-kroger-co-kr-stock-position-reduced-by-winton-group-ltd-2026-09-10/",
           "urlType": "article"
         }
       ],
-      "url": "https://tennesseelookout.com/2026/09/09/tennessee-wants-to-be-at-the-forefront-of-new-nuclear-energy-projects-what-does-that-mean/",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-kroger-co-kr-stock-position-reduced-by-winton-group-ltd-2026-09-10/",
       "urlType": "article",
-      "publishedAt": "2026-09-09T09:56:07.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-10T10:03:54.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "a51a21184e7dd1c8c457",
+      "id": "cc09787de3529b16fe73",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Pinnacle West stock heads into the open after a 0.7% drop",
-      "summary": "Pinnacle West stock declined by 0.7% to USD 97.37 on the NYSE on September 8, 2026, mirroring a broader market dip in the S&P 500. The utility sector continues to be influenced by interest-rate expectations and energy prices, with institutional selling by HSBC Holdings PLC also noted. Investors are watching for any new guidance on interest-rate policy or inflation, which could impact utility valuations.",
-      "source": "AD HOC NEWS",
+      "title": "Alphabet A stock heads into the open after a 2.3 percent slide",
+      "summary": "Alphabet A stock (GOOGL) closed down 2.3% at USD 330.65 on September 9, 2026, underperforming the Nasdaq amidst broader market declines. The slide was attributed to concerns over rising AI infrastructure spending, inflation-sensitive tech valuations, and potential challenges from competing AI agents impacting traditional search and advertising. Traders are now focusing on upcoming US economic data and new commentary on tech capital spending for future impact.",
+      "source": "ad-hoc-news.de",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pinnacle-west-stock-heads-into-the-open-after-a-0-7-percent-drop/70072014",
+          "name": "ad-hoc-news.de",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-a-stock-heads-into-the-open-after-a-2-3-percent-slide/70079499",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/pinnacle-west-stock-heads-into-the-open-after-a-0-7-percent-drop/70072014",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-a-stock-heads-into-the-open-after-a-2-3-percent-slide/70079499",
       "urlType": "article",
-      "publishedAt": "2026-09-09T02:42:04.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-10T07:39:00.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "3f654e7cf03bf16ffd73",
+      "id": "7d19376066a7ca34aa98",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Autodesk Inc. stock stabilizes after sharp drop, supported by double-digit earnings growth",
-      "summary": "Autodesk Inc. stock has stabilized around $217 after an 8.3% decline, despite reporting strong double-digit revenue growth and an earnings beat in its latest quarter. The stock's recent drop is attributed to broader sector pressure on software stocks due to inflation concerns, but institutional ownership remains high and analysts maintain a \"Moderate Buy\" rating with a significant upside potential. Autodesk's subscription-based software continues to drive recurring revenue and strong fundamentals.",
-      "source": "AD HOC NEWS",
+      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+      "summary": "Macy's reported strong fiscal second-quarter results and raised its full-year guidance, indicating its turnaround strategy is gaining traction. The retailer saw growth across all brands, particularly in its revamped \"reimagined stores,\" Bloomingdale's, and Bluemercury. Despite positive results and a significant tariff refund investment in customer experience, Macy's shares dropped nearly 5% on Thursday.",
+      "source": "CNBC",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autodesk-inc-stock-stabilizes-after-sharp-drop-supported-by-double-digit/70071244",
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autodesk-inc-stock-stabilizes-after-sharp-drop-supported-by-double-digit/70071244",
+      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
       "urlType": "article",
-      "publishedAt": "2026-09-08T18:49:41.000Z",
-      "date": "2026-09-09",
+      "publishedAt": "2026-09-10T06:56:00.000Z",
+      "date": "2026-09-10",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
+      "score": 20
     }
   ]
 }
