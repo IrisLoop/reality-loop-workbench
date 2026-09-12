@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-11",
-  "generatedAt": "2026-09-12T00:13:33.126Z",
-  "targetDate": "2026-09-11",
+  "updated": "2026-09-12",
+  "generatedAt": "2026-09-12T23:58:38.885Z",
+  "targetDate": "2026-09-12",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -23,8 +23,8 @@
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "Alpha Vantage",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "1bd196c7f19f8cdd3c15",
+      "id": "fbc9d0674c688b044a42",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
-      "summary": "Kroger has lowered its annual sales forecast due to persistent inflation and intense competition in the grocery sector, which are impacting consumer spending. The company expects comparable sales excluding fuel to grow by a maximum of 0.8%, down from a previous estimate of 2%. CEO Greg Foran is implementing strategies like price reductions and improved store services to gain market share amidst a challenging economic environment where consumers are tightening budgets.",
-      "source": "Los Angeles Times",
-      "sources": [
-        {
-          "name": "Los Angeles Times",
-          "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
-      "urlType": "article",
-      "publishedAt": "2026-09-11T15:08:53.000Z",
-      "date": "2026-09-11",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
-    },
-    {
-      "id": "1959c2b3c0e9b4f11fc2",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Food industry warns prices will go up for rest of year",
-      "summary": "Food industry giants like Conagra, Campbell's, and Clorox are signaling upcoming price increases for their products due to persistent inflation, tariffs, and rising input costs. Executives cite elevated energy, fertilizer, and transportation expenses, along with potential El Niño disruptions, as key drivers. While retailers will decide how much of these increases to absorb, consumers are expected to face higher grocery bills for the remainder of the year.",
-      "source": "Transport Topics",
-      "sources": [
-        {
-          "name": "Transport Topics",
-          "url": "https://www.ttnews.com/articles/food-industry-prices-rise",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ttnews.com/articles/food-industry-prices-rise",
-      "urlType": "article",
-      "publishedAt": "2026-09-11T14:24:10.000Z",
-      "date": "2026-09-11",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
-    },
-    {
-      "id": "bc25c940352c4f568adc",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Q2 Earnings Review: Industrial Packaging Stocks Led by Avery Dennison (NYSE:AVY)",
-      "summary": "The article reviews the Q2 earnings season for industrial packaging stocks, highlighting Avery Dennison (NYSE:AVY) as a top performer with strong revenue growth. It also details the performance of other key players like Crown Holdings, Packaging Corporation of America, International Paper, and Silgan Holdings, noting that while the sector reported strong revenues, share prices have generally declined since earnings reports. The piece touches on recent market uncertainties, including AI and geopolitical events, but emphasizes the importance of strong fundamentals.",
+      "title": "Chevron CEO Mike Wirth Warns Depleting Supply Buffer Will Lead To Higher Oil Prices: Report",
+      "summary": "Chevron CEO Mike Wirth warned that oil prices are likely to remain elevated in the coming months due to the depletion of supply buffers that previously softened the impact of the U.S.-Iran conflict. He stated that the risks to oil prices remain on the upside, with Brent crude having already surged over 50% since the Middle East war began. Chevron plans to invest $7 billion in its Venezuelan operations, aiming to more than double production by 2031, funded by existing ventures in the country.",
       "source": "Yahoo Finance",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-review-industrial-packaging-125105125.html",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-mike-wirth-warns-175824297.html",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-review-industrial-packaging-125105125.html",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-mike-wirth-warns-175824297.html",
       "urlType": "article",
-      "publishedAt": "2026-09-11T12:51:02.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T18:58:48.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
+      "score": 31
     },
     {
-      "id": "e56db316b6ff8cb170ae",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "市场监督管理所条例",
-      "summary": null,
-      "source": "中国政府网",
-      "sources": [
-        {
-          "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
-      "urlType": "article",
-      "publishedAt": "2026-09-11T04:00:00.000Z",
-      "date": "2026-09-11",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "02b3f94153d4b04e27c7",
+      "id": "c88c12ae0a9fc3a116df",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "State Street Launches Inflation Drivers Data “Super” Set",
-      "summary": "State Street has launched PriceStats Superset, a new global dataset providing daily, item-level pricing data across 27 countries and millions of products. This dataset helps investors, policymakers, and researchers better understand inflation drivers in advance of government data releases, offering a more timely and transparent view of price pressures. It builds on the existing PriceStats service by providing access to underlying item-level data, allowing users to trace inflation dynamics from individual products to headline figures.",
-      "source": "The Full FX",
+      "title": "3 paper packaging CEOs talk market volatility, pricing",
+      "summary": "CEOs from Packaging Corporation of America, International Paper, and Graphic Packaging International discussed the significant impact of economic and geopolitical disruptions on the paper and packaging industry, leading to market volatility and cost inflation. Companies are responding with price increases and cost-cutting measures, while also navigating challenges like fluctuating demand and agricultural sector issues. Despite these hurdles, they are focused on optimizing operations and building platforms for future growth.",
+      "source": "Packaging Dive",
       "sources": [
         {
-          "name": "The Full FX",
-          "url": "https://thefullfx.com/state-street-launches-inflation-drivers-data-super-set/",
+          "name": "Packaging Dive",
+          "url": "https://www.packagingdive.com/news/jefferies-industrials-international-paper-pca-graphic-packaging/830107/",
           "urlType": "article"
         }
       ],
-      "url": "https://thefullfx.com/state-street-launches-inflation-drivers-data-super-set/",
+      "url": "https://www.packagingdive.com/news/jefferies-industrials-international-paper-pca-graphic-packaging/830107/",
       "urlType": "article",
-      "publishedAt": "2026-09-11T00:38:34.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T17:00:25.000Z",
+      "date": "2026-09-12",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 31
+    },
+    {
+      "id": "e40efb0d960b9b5dba7a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Intercontinental Exchange (NYSE:ICE) In Focus As Oil & Yields Drive A Fresh Sector Rotation",
+      "summary": "Intercontinental Exchange (NYSE:ICE) is currently a focal point in financial markets due to the impact of elevated oil prices, firm Treasury yields, and renewed inflation concerns driving a sector rotation. The article emphasizes that ICE's performance is being assessed through a changed macro backdrop, highlighting its connection to credit conditions, capital markets activity, deposit competition, and the yield curve shape. It suggests that company-specific execution and operational clarity are crucial for ICE to navigate the current environment of higher costs and uneven demand within the Financial Stocks sector.",
+      "source": "Kalkine Media",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/financial/intercontinental-exchange-nyseice-in-focus-as-oil-yields-drive-a-fresh-sector-rotation",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://kalkinemedia.com/us/stocks/financial/intercontinental-exchange-nyseice-in-focus-as-oil-yields-drive-a-fresh-sector-rotation",
+      "urlType": "article",
+      "publishedAt": "2026-09-11T20:30:00.000Z",
+      "date": "2026-09-12",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 23
+    },
+    {
+      "id": "2f0a16249148175537af",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Morgan Stanley warns of possible stock market correction",
+      "summary": "Morgan Stanley's Mike Wilson warns of a potential stock market correction within the next 30 days due to factors like rising oil prices, increased corporate fundraising, and concerns about market liquidity. While acknowledging strong corporate earnings, Wilson advises investors to remain invested but to become more selective, focusing on \"quality\" stocks with strong free cash flow and favoring the S&P 500. He also suggests using energy stocks as a hedge against oil price surges.",
+      "source": "Yahoo Finance",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-possible-stock-033300942.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-possible-stock-033300942.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-12T10:33:00.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "2e097a9e88eb87ffc936",
+      "id": "6d4052b467cc63026259",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "GrafTech and Antora Energy Partner to Power American Industry with Carbon",
-      "summary": "GrafTech International Ltd. and Antora Energy have announced a strategic collaboration to develop and supply carbon-based materials for Antora's thermal batteries. This partnership will strengthen the domestic manufacturing base for American energy technology, leveraging GrafTech's St. Marys facility and creating new jobs. The collaboration aims to utilize carbon to store energy, making American factories more competitive and supporting the growth of the domestic energy storage supply chain.",
-      "source": "Yahoo Finance Singapore",
+      "title": "Engineers Gate Manager LP Increases Position in The Kroger Co. $KR",
+      "summary": "Engineers Gate Manager LP significantly increased its stake in The Kroger Co. (NYSE:KR) by 537.2% in the second quarter of 2026, bringing their total holdings to 117,646 shares valued at $6.53 million. This move comes as Kroger reported strong second-quarter adjusted EPS of $1.09, exceeding estimates, and reaffirmed its fiscal 2026 adjusted EPS guidance despite reducing its full-year identical-sales growth forecast due to competitive pressures and inflation. The company also raised its quarterly dividend to $0.39 per share, indicating continued confidence in its financial health.",
+      "source": "MarketBeat",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/graftech-antora-energy-partner-power-120000257.html",
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-engineers-gate-manager-lp-increases-position-in-the-kroger-co-kr-2026-09-12/",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/graftech-antora-energy-partner-power-120000257.html",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-engineers-gate-manager-lp-increases-position-in-the-kroger-co-kr-2026-09-12/",
       "urlType": "article",
-      "publishedAt": "2026-09-10T19:29:11.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-12T08:25:03.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "fe90c95c36e506e0c0e3",
+      "id": "f316daeb9acbf938058f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Destination XL maps out a turnaround plan",
-      "summary": "Destination XL's second-quarter sales declined by 3.4% year over year, with interim CEO Lionel Conacher anticipating an imminent resumption of sales growth despite challenges like reduced store traffic. The company is implementing a four-pillar growth strategy, including store closures and expanding private label brands, while also acknowledging the impact of GLP-1 medications on customer purchasing behavior.",
-      "source": "Retail Dive",
+      "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
+      "summary": "Shares of Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj saw significant gains due to macroeconomic relief from declining Treasury yields and lower oil prices, coupled with strong projections for artificial intelligence demand. Nvidia CEO Jensen Huang's reaffirmation of $3 trillion to $4 trillion in global AI infrastructure spending by 2030, along with solid AI cloud performance from Oracle, boosted sentiment across the chip industry. These factors, combined with easing broader market pressures, led to increased investor optimism for key chipmakers.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "Retail Dive",
-          "url": "https://www.retaildive.com/news/destination-xl-turnaround-plan-second-quarter/830143/",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qualcomm-texas-instruments-vishay-041105294.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.retaildive.com/news/destination-xl-turnaround-plan-second-quarter/830143/",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qualcomm-texas-instruments-vishay-041105294.html",
       "urlType": "article",
-      "publishedAt": "2026-09-11T15:36:40.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-12T04:11:58.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 19
     },
     {
-      "id": "f01074b590230dd86d1d",
+      "id": "c14e56313c57b64c0e59",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "General Mills saw base pricing reduction as ‘biggest issue’",
-      "summary": "General Mills executives discussed their decision to lower base prices as a pivotal move at the Barclays Global Consumer Staples Conference. This strategy, aimed at addressing pricing gaps and improving value, led to improved results, including stabilized base volume and growth in household penetration for most categories. Despite a slower-than-expected volume recovery and the need to fix underperforming brands, the company is confident in its position for future growth as it shifts focus to innovation.",
-      "source": "Baking Business",
+      "title": "Macy’s Inc. Reports Solid Q2, Raises Outlook",
+      "summary": "Macy's Inc. reported strong second-quarter results, exceeding analyst expectations and marking its fifth consecutive quarter of comparable sales growth. The company raised its full-year sales and profit outlook, driven by solid performance across all brands, particularly Bloomingdale's. CEO Tony Spring highlighted the success of \"reimagined\" Macy's stores and the potential for Bloomingdale's expansion, while detailing investments of tariff refunds into the \"Bold New Chapter\" strategy.",
+      "source": "WWD",
       "sources": [
         {
-          "name": "Baking Business",
-          "url": "https://www.bakingbusiness.com/articles/66875-general-mills-saw-base-pricing-reduction-as-biggest-issue",
+          "name": "WWD",
+          "url": "https://wwd.com/business-news/retail/macys-inc-solid-q2-raises-outlook-1239205974/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.bakingbusiness.com/articles/66875-general-mills-saw-base-pricing-reduction-as-biggest-issue",
+      "url": "https://wwd.com/business-news/retail/macys-inc-solid-q2-raises-outlook-1239205974/",
       "urlType": "article",
-      "publishedAt": "2026-09-11T15:36:16.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T23:40:35.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 18
     },
     {
-      "id": "fe9b1427ed817aa2dd36",
+      "id": "3af0845419c2ac050817",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Attack damages Bunge oilseeds plant in Ukraine",
-      "summary": "A Bunge Global SA oilseeds processing plant in Dnipro, Ukraine, was damaged on September 10 by a Russian attack. No employees were injured in the incident. This attack is part of an intensifying trend where both Russia and Ukraine target each other's agricultural infrastructure, severely impacting agricultural exports and global vegetable oil supplies.",
-      "source": "World Grain",
+      "title": "Can Rockwell Automation (NYSE:ROK) Keep Pace as Costs Rise?",
+      "summary": "This article examines how Rockwell Automation (NYSE:ROK) is navigating a challenging macro environment characterized by rising costs, firm Treasury yields, and inflation concerns. It highlights the importance of company-specific execution in addressing increased operating expenses and maintaining demand momentum, especially given the company's direct ties to capital spending, aerospace and defense demand, automation trends, and supply-chain execution. The piece emphasizes that market attention is currently focused on how businesses like Rockwell Automation absorb higher costs without losing demand, making operational clarity and disciplined resource deployment critical.",
+      "source": "Kalkine Media",
       "sources": [
         {
-          "name": "World Grain",
-          "url": "https://www.world-grain.com/articles/23206-attack-damages-bunge-oilseeds-plant-in-ukraine",
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/industrial/can-rockwell-automation-nyserok-keep-pace-as-costs-rise",
           "urlType": "article"
         }
       ],
-      "url": "https://www.world-grain.com/articles/23206-attack-damages-bunge-oilseeds-plant-in-ukraine",
+      "url": "https://kalkinemedia.com/us/stocks/industrial/can-rockwell-automation-nyserok-keep-pace-as-costs-rise",
       "urlType": "article",
-      "publishedAt": "2026-09-11T15:26:31.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T21:46:44.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 18
     },
     {
-      "id": "3022aa8f5c6023795aa6",
+      "id": "e1bdd1bb16cddb1e5c1f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "September ICE Mortgage Monitor: Annual home price growth was 1.5% in August",
-      "summary": "The September ICE Mortgage Monitor reports that while annual home price growth reached 1.5% in August, there are signs that this growth is beginning to cool. The report also highlights that property insurance costs are rising, contributing significantly to monthly mortgage payments, but the pace of increase is slowing. Homeowners who switched insurance carriers achieved notable savings, while mortgage delinquency rates saw a decrease in July.",
-      "source": "Substack",
+      "title": "Can High Tide (NASDAQ:HITI) Weather A Tougher Market?",
+      "summary": "This article examines how High Tide (NASDAQ:HITI), a cannabis stock, is navigating the current challenging market environment characterized by elevated energy costs, firm Treasury yields, and renewed inflation concerns. The analysis focuses on how these macro pressures impact the company's regulatory developments, retail demand, brand execution, and balance-sheet discipline. It emphasizes that company-specific execution and operational efficiency are crucial for High Tide to maintain demand momentum and absorb higher costs in a volatile market.",
+      "source": "Kalkine Media",
       "sources": [
         {
-          "name": "Substack",
-          "url": "https://calculatedrisk.substack.com/p/september-ice-mortgage-monitor-annual",
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/cannabis/can-high-tide-nasdaqhiti-weather-a-tougher-market",
           "urlType": "article"
         }
       ],
-      "url": "https://calculatedrisk.substack.com/p/september-ice-mortgage-monitor-annual",
+      "url": "https://kalkinemedia.com/us/stocks/cannabis/can-high-tide-nasdaqhiti-weather-a-tougher-market",
       "urlType": "article",
-      "publishedAt": "2026-09-11T15:21:41.000Z",
-      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T19:40:18.000Z",
+      "date": "2026-09-12",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "2012bc45e4cd6f4c1afb",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+      "summary": "The Descartes Systems Group Inc. (DSGX) reported record Q2 fiscal 2027 results with 12% revenue growth and a 36% increase in operating income, driven by strong demand and strategic acquisitions. Despite these strong results, the company faces challenges from a dynamic global trade environment, elevated fuel costs, and driver shortages. Analysts see a 30% upside for the stock, though hedge fund interest has slightly declined and the stock trades at a relatively high P/E ratio.",
+      "source": "Yahoo Finance UK",
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/descartes-dsgx-posts-record-q2-135154400.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://uk.finance.yahoo.com/news/descartes-dsgx-posts-record-q2-135154400.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-12T13:36:43.000Z",
+      "date": "2026-09-12",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
