@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-10",
-  "generatedAt": "2026-09-11T00:04:59.169Z",
-  "targetDate": "2026-09-10",
+  "updated": "2026-09-11",
+  "generatedAt": "2026-09-12T00:13:33.126Z",
+  "targetDate": "2026-09-11",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "status": "failed",
+      "itemCount": 0,
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,229 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "31f0ba5ec888d3690a2d",
+      "id": "1bd196c7f19f8cdd3c15",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Diamondback Energy stock heads into the open after a 1.8% gain",
-      "summary": "Diamondback Energy (FANG) stock closed with a 1.8% gain on September 9, 2026, reaching USD 203.14 on the Nasdaq, driven by rising oil prices and a new \"Buy\" rating from Stifel. The stock outperformed broad U.S. equity benchmarks, which weakened despite the surge in crude oil prices above USD 100 per barrel. Investors await future developments in oil prices and geopolitical tensions, while Stifel's target price of USD 259 per share continues to influence sentiment.",
-      "source": "ad-hoc-news.de",
+      "title": "Kroger cuts forecast as inflation and grocery price war squeeze sales",
+      "summary": "Kroger has lowered its annual sales forecast due to persistent inflation and intense competition in the grocery sector, which are impacting consumer spending. The company expects comparable sales excluding fuel to grow by a maximum of 0.8%, down from a previous estimate of 2%. CEO Greg Foran is implementing strategies like price reductions and improved store services to gain market share amidst a challenging economic environment where consumers are tightening budgets.",
+      "source": "Los Angeles Times",
       "sources": [
         {
-          "name": "ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-heads-into-the-open-after-a-1-8-percent-gain/70078484",
+          "name": "Los Angeles Times",
+          "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/diamondback-energy-stock-heads-into-the-open-after-a-1-8-percent-gain/70078484",
+      "url": "https://www.latimes.com/business/story/2026-09-11/kroger-cuts-forecast-as-inflation-grocery-price-war-squeeze-sales",
       "urlType": "article",
-      "publishedAt": "2026-09-10T02:19:08.000Z",
-      "date": "2026-09-10",
+      "publishedAt": "2026-09-11T15:08:53.000Z",
+      "date": "2026-09-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 29
+      "score": 27
     },
     {
-      "id": "ead8789a2005771c47c2",
+      "id": "1959c2b3c0e9b4f11fc2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Centene stock heads into the open after a flat session",
-      "summary": "Centene stock closed flat on September 9, 2026, trading near USD 64.60 on the NYSE, while the S&P 500 declined and oil prices rose above USD 100 per barrel. The stock's performance was in line with its managed-care peers and within its 52-week trading range. Investors are now looking ahead to key US inflation data and Centene's ongoing legal case regarding its retirement plan.",
-      "source": "ad-hoc-news.de",
+      "title": "Food industry warns prices will go up for rest of year",
+      "summary": "Food industry giants like Conagra, Campbell's, and Clorox are signaling upcoming price increases for their products due to persistent inflation, tariffs, and rising input costs. Executives cite elevated energy, fertilizer, and transportation expenses, along with potential El Niño disruptions, as key drivers. While retailers will decide how much of these increases to absorb, consumers are expected to face higher grocery bills for the remainder of the year.",
+      "source": "Transport Topics",
       "sources": [
         {
-          "name": "ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-heads-into-the-open-after-a-flat-session/70080034",
+          "name": "Transport Topics",
+          "url": "https://www.ttnews.com/articles/food-industry-prices-rise",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/centene-stock-heads-into-the-open-after-a-flat-session/70080034",
+      "url": "https://www.ttnews.com/articles/food-industry-prices-rise",
       "urlType": "article",
-      "publishedAt": "2026-09-10T06:46:57.000Z",
-      "date": "2026-09-10",
+      "publishedAt": "2026-09-11T14:24:10.000Z",
+      "date": "2026-09-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
+      "score": 27
     },
     {
-      "id": "42c92b83a5ced1bc6db7",
+      "id": "bc25c940352c4f568adc",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Meet Deere’s JD, an AI Assistant Aimed at Helping Farmers—and Its Sales",
-      "summary": "Deere is launching an AI assistant called JD, similar to ChatGPT, to help farmers make better decisions by providing quick answers to questions about planting, harvesting, and other business operations, backed by their own farm data. This initiative is part of Deere's broader investment in AI-enabled smart farm equipment, aiming to boost crop production and lower costs. The company hopes this AI tool will help revive equipment sales, which have been impacted by a slumping farm economy, and support its goal of increasing software subscription revenue.",
-      "source": "WSJ",
+      "title": "Q2 Earnings Review: Industrial Packaging Stocks Led by Avery Dennison (NYSE:AVY)",
+      "summary": "The article reviews the Q2 earnings season for industrial packaging stocks, highlighting Avery Dennison (NYSE:AVY) as a top performer with strong revenue growth. It also details the performance of other key players like Crown Holdings, Packaging Corporation of America, International Paper, and Silgan Holdings, noting that while the sector reported strong revenues, share prices have generally declined since earnings reports. The piece touches on recent market uncertainties, including AI and geopolitical events, but emphasizes the importance of strong fundamentals.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/business/meet-deeres-jd-an-ai-assistant-aimed-at-helping-farmersand-its-sales-7d755f4b",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-review-industrial-packaging-125105125.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/business/meet-deeres-jd-an-ai-assistant-aimed-at-helping-farmersand-its-sales-7d755f4b",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-review-industrial-packaging-125105125.html",
       "urlType": "article",
-      "publishedAt": "2026-09-09T20:00:31.000Z",
-      "date": "2026-09-10",
+      "publishedAt": "2026-09-11T12:51:02.000Z",
+      "date": "2026-09-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 26
     },
     {
-      "id": "58345ed87baa93a9d458",
+      "id": "e56db316b6ff8cb170ae",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况",
-      "summary": "新闻发布会现场（刘健 摄） 国务院新闻办新闻局局长、新闻发言人寿小丽：女士",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7657861/content.shtml",
-          "urlType": "article"
-        },
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091018550019961/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7657861/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-09-10T09:06:28.000Z",
-      "date": "2026-09-10",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 65
-    },
-    {
-      "id": "4c0d48c922f76acccb33",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行副行长宣昌能会见新加坡金融管理局副行长梁新松",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091018582672927/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091018582672927/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-10T10:58:26.000Z",
-      "date": "2026-09-10",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "954aacad7afdd0f95f62",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
+      "title": "市场监督管理所条例",
       "summary": null,
       "source": "中国政府网",
       "sources": [
         {
           "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
           "urlType": "article"
         }
       ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
       "urlType": "article",
-      "publishedAt": "2026-09-10T04:00:00.000Z",
-      "date": "2026-09-10",
+      "publishedAt": "2026-09-11T04:00:00.000Z",
+      "date": "2026-09-11",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 47
     },
     {
-      "id": "27e46c7e42d354b10934",
+      "id": "02b3f94153d4b04e27c7",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
-      "summary": "Memory stocks, including SK Hynix, Western Digital, and Micron, experienced significant declines despite JPMorgan initiating an \"Overweight\" rating on SK Hynix with a strong price target. This market downturn is primarily attributed to surging 10-year Treasury yields and rising oil prices, overshadowing positive analyst calls and the strong underlying demand for memory chips driven by AI. Investors are now closely watching upcoming consumer price data and the Federal Reserve meeting for potential interest rate hikes.",
-      "source": "24/7 Wall St.",
+      "title": "State Street Launches Inflation Drivers Data “Super” Set",
+      "summary": "State Street has launched PriceStats Superset, a new global dataset providing daily, item-level pricing data across 27 countries and millions of products. This dataset helps investors, policymakers, and researchers better understand inflation drivers in advance of government data releases, offering a more timely and transparent view of price pressures. It builds on the existing PriceStats service by providing access to underlying item-level data, allowing users to trace inflation dynamics from individual products to headline figures.",
+      "source": "The Full FX",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+          "name": "The Full FX",
+          "url": "https://thefullfx.com/state-street-launches-inflation-drivers-data-super-set/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+      "url": "https://thefullfx.com/state-street-launches-inflation-drivers-data-super-set/",
       "urlType": "article",
-      "publishedAt": "2026-09-10T13:40:51.000Z",
-      "date": "2026-09-10",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "d22b2b66782454121d49",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "The Kroger Co. $KR Stock Position Reduced by WINTON GROUP Ltd",
-      "summary": "WINTON GROUP Ltd reduced its stake in The Kroger Co. (NYSE:KR) by 12.7% in the second quarter, selling 39,123 shares. Despite this, several other institutional investors, including BlackRock Inc. and California State Teachers Retirement System, increased their holdings in Kroger. Analysts have a \"Moderate Buy\" consensus rating for Kroger, with a target price of $71.31, while recent news highlights both positive developments like healthcare expansion and negative concerns such as inflation and slowing sales.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-the-kroger-co-kr-stock-position-reduced-by-winton-group-ltd-2026-09-10/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-kroger-co-kr-stock-position-reduced-by-winton-group-ltd-2026-09-10/",
-      "urlType": "article",
-      "publishedAt": "2026-09-10T10:03:54.000Z",
-      "date": "2026-09-10",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "cc09787de3529b16fe73",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Alphabet A stock heads into the open after a 2.3 percent slide",
-      "summary": "Alphabet A stock (GOOGL) closed down 2.3% at USD 330.65 on September 9, 2026, underperforming the Nasdaq amidst broader market declines. The slide was attributed to concerns over rising AI infrastructure spending, inflation-sensitive tech valuations, and potential challenges from competing AI agents impacting traditional search and advertising. Traders are now focusing on upcoming US economic data and new commentary on tech capital spending for future impact.",
-      "source": "ad-hoc-news.de",
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-a-stock-heads-into-the-open-after-a-2-3-percent-slide/70079499",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-a-stock-heads-into-the-open-after-a-2-3-percent-slide/70079499",
-      "urlType": "article",
-      "publishedAt": "2026-09-10T07:39:00.000Z",
-      "date": "2026-09-10",
+      "publishedAt": "2026-09-11T00:38:34.000Z",
+      "date": "2026-09-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "7d19376066a7ca34aa98",
+      "id": "2e097a9e88eb87ffc936",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-      "summary": "Macy's reported strong fiscal second-quarter results and raised its full-year guidance, indicating its turnaround strategy is gaining traction. The retailer saw growth across all brands, particularly in its revamped \"reimagined stores,\" Bloomingdale's, and Bluemercury. Despite positive results and a significant tariff refund investment in customer experience, Macy's shares dropped nearly 5% on Thursday.",
-      "source": "CNBC",
+      "title": "GrafTech and Antora Energy Partner to Power American Industry with Carbon",
+      "summary": "GrafTech International Ltd. and Antora Energy have announced a strategic collaboration to develop and supply carbon-based materials for Antora's thermal batteries. This partnership will strengthen the domestic manufacturing base for American energy technology, leveraging GrafTech's St. Marys facility and creating new jobs. The collaboration aims to utilize carbon to store energy, making American factories more competitive and supporting the growth of the domestic energy storage supply chain.",
+      "source": "Yahoo Finance Singapore",
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/graftech-antora-energy-partner-power-120000257.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+      "url": "https://sg.finance.yahoo.com/news/graftech-antora-energy-partner-power-120000257.html",
       "urlType": "article",
-      "publishedAt": "2026-09-10T06:56:00.000Z",
-      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T19:29:11.000Z",
+      "date": "2026-09-11",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "fe90c95c36e506e0c0e3",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Destination XL maps out a turnaround plan",
+      "summary": "Destination XL's second-quarter sales declined by 3.4% year over year, with interim CEO Lionel Conacher anticipating an imminent resumption of sales growth despite challenges like reduced store traffic. The company is implementing a four-pillar growth strategy, including store closures and expanding private label brands, while also acknowledging the impact of GLP-1 medications on customer purchasing behavior.",
+      "source": "Retail Dive",
+      "sources": [
+        {
+          "name": "Retail Dive",
+          "url": "https://www.retaildive.com/news/destination-xl-turnaround-plan-second-quarter/830143/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.retaildive.com/news/destination-xl-turnaround-plan-second-quarter/830143/",
+      "urlType": "article",
+      "publishedAt": "2026-09-11T15:36:40.000Z",
+      "date": "2026-09-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "f01074b590230dd86d1d",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "General Mills saw base pricing reduction as ‘biggest issue’",
+      "summary": "General Mills executives discussed their decision to lower base prices as a pivotal move at the Barclays Global Consumer Staples Conference. This strategy, aimed at addressing pricing gaps and improving value, led to improved results, including stabilized base volume and growth in household penetration for most categories. Despite a slower-than-expected volume recovery and the need to fix underperforming brands, the company is confident in its position for future growth as it shifts focus to innovation.",
+      "source": "Baking Business",
+      "sources": [
+        {
+          "name": "Baking Business",
+          "url": "https://www.bakingbusiness.com/articles/66875-general-mills-saw-base-pricing-reduction-as-biggest-issue",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.bakingbusiness.com/articles/66875-general-mills-saw-base-pricing-reduction-as-biggest-issue",
+      "urlType": "article",
+      "publishedAt": "2026-09-11T15:36:16.000Z",
+      "date": "2026-09-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "fe9b1427ed817aa2dd36",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Attack damages Bunge oilseeds plant in Ukraine",
+      "summary": "A Bunge Global SA oilseeds processing plant in Dnipro, Ukraine, was damaged on September 10 by a Russian attack. No employees were injured in the incident. This attack is part of an intensifying trend where both Russia and Ukraine target each other's agricultural infrastructure, severely impacting agricultural exports and global vegetable oil supplies.",
+      "source": "World Grain",
+      "sources": [
+        {
+          "name": "World Grain",
+          "url": "https://www.world-grain.com/articles/23206-attack-damages-bunge-oilseeds-plant-in-ukraine",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.world-grain.com/articles/23206-attack-damages-bunge-oilseeds-plant-in-ukraine",
+      "urlType": "article",
+      "publishedAt": "2026-09-11T15:26:31.000Z",
+      "date": "2026-09-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "3022aa8f5c6023795aa6",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "September ICE Mortgage Monitor: Annual home price growth was 1.5% in August",
+      "summary": "The September ICE Mortgage Monitor reports that while annual home price growth reached 1.5% in August, there are signs that this growth is beginning to cool. The report also highlights that property insurance costs are rising, contributing significantly to monthly mortgage payments, but the pace of increase is slowing. Homeowners who switched insurance carriers achieved notable savings, while mortgage delinquency rates saw a decrease in July.",
+      "source": "Substack",
+      "sources": [
+        {
+          "name": "Substack",
+          "url": "https://calculatedrisk.substack.com/p/september-ice-mortgage-monitor-annual",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://calculatedrisk.substack.com/p/september-ice-mortgage-monitor-annual",
+      "urlType": "article",
+      "publishedAt": "2026-09-11T15:21:41.000Z",
+      "date": "2026-09-11",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
