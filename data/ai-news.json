@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-12",
-  "generatedAt": "2026-09-12T23:58:30.715Z",
-  "targetDate": "2026-09-12",
+  "updated": "2026-09-13",
+  "generatedAt": "2026-09-14T00:07:36.345Z",
+  "targetDate": "2026-09-13",
   "timezone": "Asia/Shanghai",
   "itemCount": 6,
   "source": {
@@ -14,112 +14,112 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmtxnd7fw06wcroi31psxg2c6",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "originalTitle": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-      "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-      "originalUrl": "https://www.rubyhack.ai/",
-      "aihotUrl": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 81,
-      "date": "2026-09-12",
-      "publishedAt": "2026-09-12T00:24:20.561Z",
-      "discoveredAt": "2026-09-12T00:28:47.494Z"
-    },
-    {
-      "id": "cmtxmd06905q5roi3ds616hwo",
-      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-      "originalTitle": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
-      "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
-      "source": "AI HOT · AI 摘要 · IT之家（RSS）",
-      "url": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
-      "originalUrl": "https://www.ithome.com/1/001/488.htm",
-      "aihotUrl": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 77,
-      "date": "2026-09-12",
-      "publishedAt": "2026-09-11T23:22:39.000Z",
-      "discoveredAt": "2026-09-12T00:00:37.059Z"
-    },
-    {
-      "id": "cmtxvt03h068vrous6ilk8ds7",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "originalTitle": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+      "id": "cmu01iavi08reroymepsxnar2",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+      "originalTitle": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+      "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
       "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
-      "url": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
-      "originalUrl": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "aihotUrl": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
+      "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+      "originalUrl": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "aihotUrl": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 76,
-      "date": "2026-09-12",
-      "publishedAt": "2026-09-12T02:39:39.000Z",
-      "discoveredAt": "2026-09-12T04:25:01.481Z"
+      "score": 85,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T14:15:40.000Z",
+      "discoveredAt": "2026-09-13T16:40:12.008Z"
     },
     {
-      "id": "cmtym24xb0002rob419mlyhlb",
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-      "originalTitle": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-      "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-      "source": "AI HOT · AI 摘要 · Baseten 工程博客（网页）",
-      "url": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb",
-      "originalUrl": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "aihotUrl": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb",
+      "id": "cmtyof5al04e2rog01a0893gu",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "originalTitle": "https://x.com/i/article/2098531824528220160",
+      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+      "source": "AI HOT · AI 摘要 · X：OpenAI Developers (@OpenAIDevs)",
+      "url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
+      "originalUrl": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "aihotUrl": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 80,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-12T17:33:23.000Z",
+      "discoveredAt": "2026-09-12T17:46:00.889Z"
+    },
+    {
+      "id": "cmtzezuk0077wrowyi7a4qy7v",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+      "originalTitle": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+      "source": "AI HOT · AI 摘要 · MarkTechPost（RSS）",
+      "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+      "originalUrl": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "aihotUrl": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 78,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T05:56:03.000Z",
+      "discoveredAt": "2026-09-13T06:09:58.347Z"
+    },
+    {
+      "id": "cmtyn3ymd0015ro7fmrjlcr8p",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "originalTitle": null,
+      "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
+      "url": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
+      "originalUrl": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "aihotUrl": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 76,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-12T16:37:21.932Z",
+      "discoveredAt": "2026-09-12T17:09:22.230Z"
+    },
+    {
+      "id": "cmtymlrth035dronv9zqv9ccb",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "originalTitle": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+      "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+      "source": "AI HOT · AI 摘要 · X：Sam Altman (@sama)",
+      "url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
+      "originalUrl": "https://x.com/sama/status/2098811563415150910",
+      "aihotUrl": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 74,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-12T16:30:45.000Z",
+      "discoveredAt": "2026-09-12T16:55:12.271Z"
+    },
+    {
+      "id": "cmtym1wo1039krodl7j8164q8",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "originalTitle": "Introducing v6",
+      "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+      "source": "AI HOT · AI 摘要 · Suno：Blog（网页）",
+      "url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
+      "originalUrl": "https://suno.com/blog/introducing-v6",
+      "aihotUrl": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
-      "score": 70,
-      "date": "2026-09-12",
-      "publishedAt": "2026-09-11T22:01:37.000Z",
-      "discoveredAt": "2026-09-11T22:01:37.000Z"
-    },
-    {
-      "id": "cmtx7e9sn09mmroedph6hkyx4",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-      "originalTitle": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-      "source": "AI HOT · AI 摘要 · Dwarkesh Patel：Podcast & Blog（RSS）",
-      "url": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4",
-      "originalUrl": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "aihotUrl": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 66,
-      "date": "2026-09-12",
-      "publishedAt": "2026-09-11T16:28:11.000Z",
-      "discoveredAt": "2026-09-11T17:01:36.981Z"
-    },
-    {
-      "id": "cmtxbm8dp037xrouueja171wr",
-      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-      "originalTitle": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-      "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-      "source": "AI HOT · AI 摘要 · GitHub Blog",
-      "url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
-      "originalUrl": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "aihotUrl": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 64,
-      "date": "2026-09-12",
-      "publishedAt": "2026-09-11T18:26:10.000Z",
-      "discoveredAt": "2026-09-11T18:59:53.161Z"
+      "score": 68,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-12T16:39:24.855Z",
+      "discoveredAt": "2026-09-12T16:39:24.855Z"
     }
   ]
 }
