@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-13",
-  "generatedAt": "2026-09-14T00:07:36.345Z",
-  "targetDate": "2026-09-13",
+  "updated": "2026-09-14",
+  "generatedAt": "2026-09-15T00:32:40.086Z",
+  "targetDate": "2026-09-14",
   "timezone": "Asia/Shanghai",
-  "itemCount": 6,
+  "itemCount": 4,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,112 +14,76 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "cmu01iavi08reroymepsxnar2",
-      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-      "originalTitle": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
-      "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+      "id": "cmu1amg9d06bbro7zn6v1kszh",
+      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+      "originalTitle": "What a time to be alive - rouge AI agents attack RubyGems.org",
+      "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
       "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
-      "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
-      "originalUrl": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "aihotUrl": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+      "url": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
+      "originalUrl": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "aihotUrl": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 83,
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T12:40:57.000Z",
+      "discoveredAt": "2026-09-14T13:43:07.935Z"
+    },
+    {
+      "id": "cmu1g31xf07frrocnmjfagq29",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "originalTitle": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+      "originalUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "aihotUrl": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 85,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-13T14:15:40.000Z",
-      "discoveredAt": "2026-09-13T16:40:12.008Z"
-    },
-    {
-      "id": "cmtyof5al04e2rog01a0893gu",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-      "originalTitle": "https://x.com/i/article/2098531824528220160",
-      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-      "source": "AI HOT · AI 摘要 · X：OpenAI Developers (@OpenAIDevs)",
-      "url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-      "originalUrl": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "aihotUrl": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 80,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-12T17:33:23.000Z",
-      "discoveredAt": "2026-09-12T17:46:00.889Z"
-    },
-    {
-      "id": "cmtzezuk0077wrowyi7a4qy7v",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-      "originalTitle": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-      "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
-      "source": "AI HOT · AI 摘要 · MarkTechPost（RSS）",
-      "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "originalUrl": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-      "aihotUrl": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
       "score": 78,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-13T05:56:03.000Z",
-      "discoveredAt": "2026-09-13T06:09:58.347Z"
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T15:46:45.000Z",
+      "discoveredAt": "2026-09-14T16:15:57.841Z"
     },
     {
-      "id": "cmtyn3ymd0015ro7fmrjlcr8p",
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "originalTitle": null,
-      "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-      "source": "AI HOT · AI 摘要 · Hacker News 热门（buzzing.cc 中文翻译）",
-      "url": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
-      "originalUrl": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "aihotUrl": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
+      "id": "cmu1hrr070dycrocndfax0y0c",
+      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
+      "originalTitle": "What Does Pacing Mean？",
+      "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
+      "source": "AI HOT · AI 摘要 · Tomer Tunguz 博客（VC 分析）",
+      "url": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
+      "originalUrl": "https://tomtunguz.com/what-does-the-pause-mean",
+      "aihotUrl": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 76,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-12T16:37:21.932Z",
-      "discoveredAt": "2026-09-12T17:09:22.230Z"
+      "score": 69,
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "discoveredAt": "2026-09-14T17:03:10.543Z"
     },
     {
-      "id": "cmtymlrth035dronv9zqv9ccb",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-      "originalTitle": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-      "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-      "source": "AI HOT · AI 摘要 · X：Sam Altman (@sama)",
-      "url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-      "originalUrl": "https://x.com/sama/status/2098811563415150910",
-      "aihotUrl": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 74,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-12T16:30:45.000Z",
-      "discoveredAt": "2026-09-12T16:55:12.271Z"
-    },
-    {
-      "id": "cmtym1wo1039krodl7j8164q8",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-      "originalTitle": "Introducing v6",
-      "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-      "source": "AI HOT · AI 摘要 · Suno：Blog（网页）",
-      "url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-      "originalUrl": "https://suno.com/blog/introducing-v6",
-      "aihotUrl": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
+      "id": "cmu12ocst0b6nro2nypi25zyq",
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "originalTitle": "小红书 AllSpark 发布 Iris：同量级最强开源 Search Agent",
+      "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
+      "source": "AI HOT · AI 摘要 · 公众号：小红书技术（dots.llm）",
+      "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
+      "aihotUrl": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
       "score": 68,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-12T16:39:24.855Z",
-      "discoveredAt": "2026-09-12T16:39:24.855Z"
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T09:59:00.000Z",
+      "discoveredAt": "2026-09-14T10:00:40.191Z"
     }
   ]
 }
