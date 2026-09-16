@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-14",
-  "generatedAt": "2026-09-15T00:32:48.214Z",
-  "targetDate": "2026-09-14",
+  "updated": "2026-09-15",
+  "generatedAt": "2026-09-16T00:13:36.250Z",
+  "targetDate": "2026-09-15",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -16,9 +16,9 @@
     },
     {
       "name": "中国人民银行",
-      "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "status": "failed",
+      "itemCount": 0,
+      "message": "fetch failed"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "7054020bad9fc80bca49",
+      "id": "43e3f209bd5599bfd159",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Market drawdown vs. downturn: Watch the fundamentals",
-      "summary": "Market drawdowns, often triggered by policy uncertainty, are distinct from market downturns, which signal the end of a market cycle due to deteriorating fundamentals. While drawdowns have occurred recently due to tariffs and geopolitical events, key indicators like tight credit spreads and strong small-cap performance suggest the structural bull market remains intact. Investors should focus on fundamental factors such as earnings and AI investment rather than short-term policy concerns.",
-      "source": "Invesco",
+      "title": "Costco Motor Oil Prices Nearly Double As Iran War Squeezes Supply - Costco Wholesale (NASDAQ:COST)",
+      "summary": "Costco has significantly increased prices for its private-label motor oil and implemented purchase limits due to rising crude oil costs linked to the ongoing Iran war. Kirkland Signature full-synthetic motor oil's price nearly doubled to $57.99 for a two-pack, and both Kirkland and Mobil 1 products now have membership-based purchase restrictions. This reflects broader market impacts, with national average gas and diesel prices also setting records, leading to political commentary on energy costs.",
+      "source": "Benzinga",
       "sources": [
         {
-          "name": "Invesco",
-          "url": "https://www.invesco.com/us/en/insights/market-drawdown-vs-downturn-watch-fundamentals.html",
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/09/61781264/costco-motor-oil-prices-double-one-transaction-membership-iran-war",
           "urlType": "article"
         }
       ],
-      "url": "https://www.invesco.com/us/en/insights/market-drawdown-vs-downturn-watch-fundamentals.html",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61781264/costco-motor-oil-prices-double-one-transaction-membership-iran-war",
       "urlType": "article",
-      "publishedAt": "2026-09-14T14:21:34.000Z",
-      "date": "2026-09-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 32
-    },
-    {
-      "id": "db7dc71c94d6e7e9d171",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Kroger records strong private label growth as shoppers stay focused on savings",
-      "summary": "Kroger reported strong private label sales growth in its second fiscal quarter of 2026, outperforming national brands as shoppers prioritize value. CEO Greg Foran highlighted robust demand for value-oriented products, including the Private Selection line, and emphasized the company's commitment to acting as the \"customer's agent\" by scrutinizing supplier price increases. Despite flat identical store sales, Kroger aims for growth driven by value rather than inflation.",
-      "source": "Grocery Dive",
-      "sources": [
-        {
-          "name": "Grocery Dive",
-          "url": "https://www.grocerydive.com/news/kroger-private-label-second-quarter-2026/830260/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.grocerydive.com/news/kroger-private-label-second-quarter-2026/830260/",
-      "urlType": "article",
-      "publishedAt": "2026-09-14T15:52:30.000Z",
-      "date": "2026-09-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
-    },
-    {
-      "id": "ebc47ddf66db15c3d926",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "DeFi Technologies Inc. (CN:DEFI) Gains Momentum as Digital-Asset Sentiment Improves and Platform Catalysts Build",
-      "summary": "DeFi Technologies Inc. (CN:DEFI) saw an 11.69% increase in its stock price on September 11, 2026, driven by improving digital-asset sentiment and technical buying, rather than a specific company announcement. The company, which provides regulated access to cryptocurrencies and institutional trading services through its Valour and Stillman Digital segments, is benefiting from continued investor interest and institutional client development despite volatile market conditions. While the Nasdaq compliance extension offers some relief, risks like market volatility, regulatory changes, and geopolitical tensions remain for the company.",
-      "source": "kalkine.ca",
-      "sources": [
-        {
-          "name": "kalkine.ca",
-          "url": "https://kalkine.ca/news/financial/defi-technologies-inc-cndefi-gains-momentum-as-digital-asset-sentiment-improves-and-platform-catalysts-build",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://kalkine.ca/news/financial/defi-technologies-inc-cndefi-gains-momentum-as-digital-asset-sentiment-improves-and-platform-catalysts-build",
-      "urlType": "article",
-      "publishedAt": "2026-09-14T10:39:26.000Z",
-      "date": "2026-09-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
-    },
-    {
-      "id": "3a847e7342c3e52f8d80",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "2026年8月金融统计数据报告",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091414593871200/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091414593871200/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-14T06:59:38.000Z",
-      "date": "2026-09-14",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "89312f913cf8f1ed2141",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Exxon Mobil's Joliet refinery reports upset due to power outage",
-      "summary": "Exxon Mobil's Joliet refinery experienced a power outage on Sunday afternoon, triggering its safety flare. The 264,000-barrel-per-day refinery supplies key fuels to the U.S. Midwest, and the incident comes amidst a tight global fuel market. The cause of the outage is currently under investigation.",
-      "source": "Reuters",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/energy/exxon-mobils-joliet-refinery-reports-upset-due-power-outage-2026-09-14/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.reuters.com/business/energy/exxon-mobils-joliet-refinery-reports-upset-due-power-outage-2026-09-14/",
-      "urlType": "article",
-      "publishedAt": "2026-09-14T15:08:32.000Z",
-      "date": "2026-09-14",
+      "publishedAt": "2026-09-15T05:19:02.000Z",
+      "date": "2026-09-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 24
     },
     {
-      "id": "8874c4e64de4796d7c16",
+      "id": "49ea9df5a060bd83b7d7",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "First Solar stock heads into the open after a 0.9% gain",
-      "summary": "First Solar stock gained 0.9% on September 11, 2026, closing at USD 209.03 on the Nasdaq amidst broader market concerns over rising oil prices and macro worries. The company's financials, including USD 3.54 billion in net sales and over USD 1 billion in net income for the first nine months of the year, continue to influence investor views. Global supply chain scrutiny and US solar trade margins remain key factors for solar manufacturers like First Solar.",
-      "source": "ad-hoc-news.de",
+      "title": "Coca-Cola report shows $85B U.S. economic impact across foodservice, retail and more",
+      "summary": "A new independent study commissioned by The Coca-Cola Company reveals its system contributes $85 billion to the U.S. GDP and supports nearly 1 million jobs annually. The company also plans to invest $10 billion in U.S. infrastructure from 2026 through 2030, underscoring its significant economic impact and commitment to local communities across America.",
+      "source": "Mass Market Retailers",
       "sources": [
         {
-          "name": "ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/first-solar-stock-heads-into-the-open-after-a-0-9-percent-gain/70096123",
+          "name": "Mass Market Retailers",
+          "url": "https://massmarketretailers.com/coca-cola-report-shows-85b-u-s-economic-impact-across-foodservice-retail-and-more/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/first-solar-stock-heads-into-the-open-after-a-0-9-percent-gain/70096123",
+      "url": "https://massmarketretailers.com/coca-cola-report-shows-85b-u-s-economic-impact-across-foodservice-retail-and-more/",
       "urlType": "article",
-      "publishedAt": "2026-09-14T01:50:44.000Z",
-      "date": "2026-09-14",
+      "publishedAt": "2026-09-15T14:30:56.000Z",
+      "date": "2026-09-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 22
     },
     {
-      "id": "d80188201c8ea22eb3ca",
+      "id": "f5314fecd8b447ccc963",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Chevron eyes Argentina, Mediterranean for global LNG growth, deal with India",
-      "summary": "Chevron plans to expand its global gas portfolio in regions like Argentina and the Mediterranean to meet increasing demand for energy security. The company aims to diversify its supply and contracting structures following recent disruptions in global gas markets. Chevron is also looking for future opportunities in Australia and Africa, and hopes to secure a deal in India, while also weighing investments in Venezuela.",
-      "source": "WNWN-FM",
+      "title": "Howmet Aerospace announces expansion to Wichita Falls facility",
+      "summary": "Howmet Aerospace is investing approximately $70 million to expand its Wichita Falls manufacturing facility by 100,000 square feet. This expansion will create 230 new full-time jobs with an average annual salary of $72,000 and retain nearly 900 current employees. The project aims to strengthen the facility's role in the global aerospace supply chain and reinforce Wichita Falls as a significant center for aerospace and advanced manufacturing.",
+      "source": "Yahoo",
       "sources": [
         {
-          "name": "WNWN-FM",
-          "url": "https://wincountry.com/2026/09/14/chevron-eyes-argentina-mediterranean-for-global-lng-growth-deal-with-india/",
+          "name": "Yahoo",
+          "url": "https://www.yahoo.com/news/articles/howmet-aerospace-announces-expansion-wichita-152042708.html",
           "urlType": "article"
         }
       ],
-      "url": "https://wincountry.com/2026/09/14/chevron-eyes-argentina-mediterranean-for-global-lng-growth-deal-with-india/",
+      "url": "https://www.yahoo.com/news/articles/howmet-aerospace-announces-expansion-wichita-152042708.html",
       "urlType": "article",
-      "publishedAt": "2026-09-14T07:55:56.000Z",
-      "date": "2026-09-14",
+      "publishedAt": "2026-09-15T13:20:00.000Z",
+      "date": "2026-09-15",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "37488a33b9f1926844ff",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter",
+      "summary": "Jim Cramer describes Lululemon (LULU) as being in \"no man's land\" following a challenging quarter, citing deteriorating demand, increased competition, and execution issues. The company reported a revenue decline and cut its full-year forecast, despite an earnings beat largely due to tariff refunds. Cramer advises against buying the stock, emphasizing that its lower valuation isn't enough to justify an investment given ongoing competitive pressures and a need for improved demand and execution.",
+      "source": "Yahoo! Finance Canada",
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://ca.finance.yahoo.com/news/jim-cramer-says-lululemon-lulu-093702668.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://ca.finance.yahoo.com/news/jim-cramer-says-lululemon-lulu-093702668.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-15T09:46:26.000Z",
+      "date": "2026-09-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "9ff50930b880cd761808",
+      "id": "f5e1a8b10bb7107e74a0",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Phillips 66 stock heads into the open after a 0.86 percent gain.",
-      "summary": "Phillips 66 stock gained 0.86% to close at USD 130.12 on September 11, 2026, influenced by a stronger S&P 500 and rising crude oil prices due to Saudi pipeline disruptions. The stock's performance on September 11, 2026, saw it trade between USD 128.40 and USD 130.88 with a volume of 3.9 million shares, ending modestly positive. Ongoing oil market developments and upcoming US economic data releases are expected to influence the stock.",
-      "source": "ad-hoc-news.de",
+      "title": "Site Selection magazine names PPL Electric Utilities a top utility for economic development, citing $12.8 billion in supported investment across Pennsylvania in 2025",
+      "summary": "Site Selection magazine recognized PPL Electric Utilities as a top utility for economic development, acknowledging its role in supporting $12.8 billion in capital investment and creating 1,775 new jobs across Pennsylvania in 2025. This achievement, based on corporate facility investment and job creation, highlights the utility's reliable infrastructure and collaborative efforts with regional partners. It's also the first time PPL's Pennsylvania and Kentucky operations received this distinction simultaneously.",
+      "source": "Energies Media",
       "sources": [
         {
-          "name": "ad-hoc-news.de",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/phillips-66-stock-heads-into-the-open-after-a-0-86-percent-gain/70096102",
+          "name": "Energies Media",
+          "url": "https://energiesmedia.com/ppl-electric-utilities-economic-development/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/phillips-66-stock-heads-into-the-open-after-a-0-86-percent-gain/70096102",
+      "url": "https://energiesmedia.com/ppl-electric-utilities-economic-development/",
       "urlType": "article",
-      "publishedAt": "2026-09-14T03:42:45.000Z",
-      "date": "2026-09-14",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "79c14eac72af8f061c78",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Kroger Q2 Earnings Call Highlights Softer Sales, Firm Profit View",
-      "summary": "Kroger's Q2 fiscal 2026 earnings call revealed softer sales momentum, leading management to lower its identical-sales outlook. Despite this, the company maintained its profit targets, emphasizing cost discipline and customer value through savings reinvestment. Key drivers for profitability included cost savings, pharmacy margins, e-commerce growth, and media revenue, even as consumer spending faced pressure from inflation and reduced SNAP benefits.",
-      "source": "Yahoo Finance",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-q2-earnings-call-highlights-140000034.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-q2-earnings-call-highlights-140000034.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-14T14:00:44.000Z",
-      "date": "2026-09-14",
+      "publishedAt": "2026-09-15T01:08:53.000Z",
+      "date": "2026-09-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "30c28a0f96c7e12b426c",
+      "id": "e50c737df11169a2c639",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kroger loses billions in customer spending to Walmart, Amazon and Costco, report finds",
-      "summary": "Kroger and its associated brands have lost over $12 billion in consumer packaged goods spending to competitors like Amazon, Walmart, and Costco in the past year, according to a Numerator analysis. This decline is largely due to lower-income households becoming more cautious with their spending and making fewer trips to Kroger stores. Despite a gain in higher-income shoppers and strong private-label sales, Kroger has lowered its full-year outlook, expecting continued pressure on consumer spending.",
-      "source": "WKRC",
+      "title": "RBC Capital lowers McDonald’s stock price target on estimate cuts By Investing.com",
+      "summary": "RBC Capital has reduced its price target for McDonald's (NYSE:MCD) to $290 from $295, maintaining a Sector Perform rating, as the stock trades near its 52-week low. The firm's estimates were lowered ahead of McDonald's investor day, where the company is expected to detail its NEXT strategy and new financial targets through 2030, including a remodel program. RBC Capital anticipates that investor interest in restaurant stocks will not increase until same-store sales growth reaccelerates, likely not before Q1 2027.",
+      "source": "Investing.com UK",
       "sources": [
         {
-          "name": "WKRC",
-          "url": "https://local12.com/news/local/kroger-cincinnati-grocery-losing-billions-dollars-customer-spending-walmart-amazon-costco-sales-2026",
+          "name": "Investing.com UK",
+          "url": "https://uk.investing.com/news/stock-market-news/rbc-capital-lowers-mcdonalds-stock-price-target-on-estimate-cuts-93CH-4870203",
           "urlType": "article"
         }
       ],
-      "url": "https://local12.com/news/local/kroger-cincinnati-grocery-losing-billions-dollars-customer-spending-walmart-amazon-costco-sales-2026",
+      "url": "https://uk.investing.com/news/stock-market-news/rbc-capital-lowers-mcdonalds-stock-price-target-on-estimate-cuts-93CH-4870203",
       "urlType": "article",
-      "publishedAt": "2026-09-14T15:22:34.000Z",
-      "date": "2026-09-14",
+      "publishedAt": "2026-09-15T15:54:48.000Z",
+      "date": "2026-09-15",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "f32686866357de58a733",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "FedEx Expands Sustainable Aviation Fuel Agreements Across U.S. Air Network",
+      "summary": "FedEx has expanded its sustainable aviation fuel (SAF) procurement through new agreements set to secure over 20 million gallons of neat SAF across five U.S. airports by 2027. These agreements will result in SAF blend ratios of 30% to 50% and are a significant step towards FedEx's goal of sourcing 30% of jet fuel from alternative sources by 2030, supporting its broader aim for carbon-neutral global operations by 2040. The company emphasizes SAF's role in decarbonization and its commitment to stimulating market growth for reliable and affordable SAF.",
+      "source": "WebWire",
+      "sources": [
+        {
+          "name": "WebWire",
+          "url": "https://www.webwire.com/ViewPressRel.asp?aId=360526",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=360526",
+      "urlType": "article",
+      "publishedAt": "2026-09-15T15:54:40.000Z",
+      "date": "2026-09-15",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "0118b7cfe8373af7dd0b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "AutoZone stock may move 5.5% on Sept. 22 earnings report",
+      "summary": "AutoZone Inc. (NYSE:AZO) stock is projected to move 5.5% following its earnings report on September 22, according to options data. Historically, the actual stock price movement has exceeded this implied volatility in five of the last eight earnings announcements. The article details previous implied and actual stock movements for AutoZone's past earnings reports.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://m.investing.com/news/stock-market-news/autozone-stock-may-move-55-on-sept-22-earnings-report-93CH-4902220?ampMode=1",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://m.investing.com/news/stock-market-news/autozone-stock-may-move-55-on-sept-22-earnings-report-93CH-4902220?ampMode=1",
+      "urlType": "article",
+      "publishedAt": "2026-09-15T15:52:58.000Z",
+      "date": "2026-09-15",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "cdc844312ae666b411f8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "3M Co. (MMM) expects higher oil costs to be offset dollar-for-dollar through pricing, with no impact on earnings",
+      "summary": "3M Co. (MMM) anticipates that increased oil costs will be entirely counterbalanced by adjustments in product pricing, ensuring that these cost fluctuations will not negatively affect the company's earnings. The article is a premium-only piece, requiring a subscription to read the full content.",
+      "source": "StreetInsider",
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://www.streetinsider.com/Management+Comments/3M+Co.+(MMM)+expects+higher+oil+costs+to+be+offset+dollar-for-dollar+through+pricing,+with+no+impact+on+earnings/27063432.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.streetinsider.com/Management+Comments/3M+Co.+(MMM)+expects+higher+oil+costs+to+be+offset+dollar-for-dollar+through+pricing,+with+no+impact+on+earnings/27063432.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-15T15:23:17.000Z",
+      "date": "2026-09-15",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "269f97627ca185d0a058",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Oracle (NYSE: ORCL) Stock Price Drops On Capital Spending Fears While Palo Alto Networks (NASDAQ: PANW) And ServiceNow (NYSE: NOW) Surge",
+      "summary": "Oracle (NYSE: ORCL) shares dropped 3.7% due to capital spending concerns and Larry Ellison's cancellation of a $7.5 billion stock-sale program. In contrast, ServiceNow (NYSE: NOW) surged 7.4% as investors reconsidered AI's threat to enterprise software, and Palo Alto Networks (NASDAQ: PANW) gained 13.1% amidst rising demand for cybersecurity solutions against AI-enabled threats. Meanwhile, Bank of America (NYSE: BAC) fell 5.1% after its CEO predicted a significant decline in investment-banking fees.",
+      "source": "Foreign Policy Journal",
+      "sources": [
+        {
+          "name": "Foreign Policy Journal",
+          "url": "https://www.foreignpolicyjournal.com/2026/09/15/oracle-nyse-orcl-stock-price-drops-on-capital-spending-fears-while-palo-alto-networks-nasdaq-panw-and-servicenow-nyse-now-surge/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.foreignpolicyjournal.com/2026/09/15/oracle-nyse-orcl-stock-price-drops-on-capital-spending-fears-while-palo-alto-networks-nasdaq-panw-and-servicenow-nyse-now-surge/",
+      "urlType": "article",
+      "publishedAt": "2026-09-15T15:04:45.000Z",
+      "date": "2026-09-15",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
