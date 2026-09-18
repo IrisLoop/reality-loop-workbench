@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-16",
-  "generatedAt": "2026-09-17T00:25:36.869Z",
-  "targetDate": "2026-09-16",
+  "updated": "2026-09-17",
+  "generatedAt": "2026-09-18T00:11:16.930Z",
+  "targetDate": "2026-09-17",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "539a5c1ec79314a9ad1a",
+      "id": "91aa80b9df2374ddc0b1",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Valero Energy Corp Stock (VLO) Moved Up by 3.83% on Sep 15: A Full Analysis",
-      "summary": "Valero Energy Corp (VLO) saw its stock price increase by 3.83% on September 15, driven by widening global refining crack spreads, tight fuel markets, and geopolitical tensions. The company, a pure-play refiner, benefits from its Gulf Coast operations and feedstock flexibility, leading Wall Street firms to raise price targets. Technical indicators show a buy signal, though some market debate exists regarding the duration of peak refining margins.",
-      "source": "TradingKey",
+      "title": "The Morning Risk Report: Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields",
+      "summary": "Exxon Mobil is reportedly close to signing a preliminary deal with Venezuela's state-run oil company, Petróleos de Venezuela, to explore investments in several oil fields, potentially marking its return to the country after nearly two decades. This move follows efforts by the Trump administration to encourage American oil producers to revive Venezuela's oil sector and comes as competitors like Chevron and Continental Resources have also pursued deals in the region. The deal, if finalized, could involve fields containing significant oil reserves, though hesitancy remains among some companies due to past nationalizations of assets.",
+      "source": "WSJ",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262169333-market-movers-vlo-20260915",
+          "name": "WSJ",
+          "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-7913a0c9",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262169333-market-movers-vlo-20260915",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-7913a0c9",
       "urlType": "article",
-      "publishedAt": "2026-09-15T17:46:08.000Z",
-      "date": "2026-09-16",
+      "publishedAt": "2026-09-17T11:47:36.000Z",
+      "date": "2026-09-17",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
+      "score": 28
     },
     {
-      "id": "81f584a7d60e720565bb",
+      "id": "4a495dade4d971c836a2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "PepsiCo to end manufacturing operations at Maryland bottling plant",
-      "summary": "PepsiCo is closing its bottling plant in Cheverly, Maryland, leading to 143 layoffs, citing shifts in consumer preferences and technological advancements. The company plans to continue sales and delivery operations without interruption, and affected employees will receive pay and benefits through November 13. This move is part of PepsiCo's broader strategy to optimize and modernize its supply chain, following a similar closure of a Frito-Lay plant in California earlier this year.",
-      "source": "Food Dive",
+      "title": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+      "summary": "Union Pacific stated that elevated diesel prices are causing a shift of freight from trucks to rail, increasing demand for their services due to the fuel efficiency of rail transport. Despite higher fuel costs impacting its operating ratio, the company reports robust underlying business with strong industrial shipments and intermodal traffic, and no significant demand destruction from energy costs. Union Pacific's CFO Jennifer Hamann noted that customers are \"pretty bullish\" with healthy order books, indicating continued freight demand.",
+      "source": "Reuters",
       "sources": [
         {
-          "name": "Food Dive",
-          "url": "https://www.fooddive.com/news/pepsico-layoffs-maryland-bottling-plant-manufacturing-operations/830548/",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.fooddive.com/news/pepsico-layoffs-maryland-bottling-plant-manufacturing-operations/830548/",
+      "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16/",
       "urlType": "article",
-      "publishedAt": "2026-09-16T15:47:20.000Z",
-      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T17:58:32.000Z",
+      "date": "2026-09-17",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "4163baebb767e946f24b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Massive Kroger supermarket to open in Zionsville. Hiring to start soon",
+      "summary": "Kroger is opening two new Marketplace stores in Central Indiana, with the Zionsville location expected to open in mid-January 2027 and a Crawfordsville store in late January 2027. The Zionsville Marketplace, a $42 million project, will hire approximately 275 employees, with hiring events scheduled for September and October 2026. These Marketplace stores are larger than typical Krogers, offering clothing, home goods, and expanded product selections.",
+      "source": "IndyStar",
+      "sources": [
+        {
+          "name": "IndyStar",
+          "url": "https://www.indystar.com/story/grocery/stores/2026/09/17/new-kroger-marketplace-store-begins-hiring-ahead-of-grand-opening-zionaville-crawfordsville/91794390007/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.indystar.com/story/grocery/stores/2026/09/17/new-kroger-marketplace-store-begins-hiring-ahead-of-grand-opening-zionaville-crawfordsville/91794390007/",
+      "urlType": "article",
+      "publishedAt": "2026-09-17T09:04:53.000Z",
+      "date": "2026-09-17",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "3fe6aeab053e6e7e83ae",
+      "id": "d3be6de8d01f00eccd59",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Keysight Falls 11.1% in 3 Months While AI Demand Keeps Accelerating",
-      "summary": "Keysight Technologies (KEYS) shares have dropped 11.1% in the last three months despite strong fundamental growth driven by AI demand. The article explores whether this pullback offers a buying opportunity or if ongoing risks such as valuation, supply constraints, and policy exposure still weigh on the stock. While orders, revenues, and earnings have accelerated, and the company holds a Zacks Rank #1 (Strong Buy), its valuation and supply chain challenges present a mixed picture for investors.",
+      "title": "West Fraser enters into new US$500M loan agreement, maturing in 2029",
+      "summary": "West Fraser Timber Co. Ltd. has secured a new US$500-million loan agreement that matures in 2029. Part of these funds will be used to retire an existing US$300-million loan due in 2028, enhancing the company's near-term liquidity and financial flexibility. This comes as Canadian forestry companies face challenges including tariffs, with industry groups calling for urgent action.",
+      "source": "Toronto Star",
+      "sources": [
+        {
+          "name": "Toronto Star",
+          "url": "https://www.thestar.com/news/canada/west-fraser-enters-into-new-us-500m-loan-agreement-maturing-in-2029/article_21ebf09a-6cdb-5344-95e7-9fe116e29d54.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.thestar.com/news/canada/west-fraser-enters-into-new-us-500m-loan-agreement-maturing-in-2029/article_21ebf09a-6cdb-5344-95e7-9fe116e29d54.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-16T22:02:54.000Z",
+      "date": "2026-09-17",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "a46be43cd89e8f0bf6dd",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Fitch cuts Flowers Foods rating to ’BB+’ on volume pressures",
+      "summary": "Fitch Ratings has downgraded Flowers Foods, Inc.'s Long-Term Issuer Default Rating to 'BB+' from 'BBB-' due to significant volume headwinds and anticipated sustained higher Fitch EBITDA leverage. The rating downgrade reflects expectations that EBITDA will remain pressured through 2027, driven by weak organic sales in the traditional loaf category and increased inflationary pressures. Flowers Foods' limited diversification outside its bread portfolio and continued volume erosion, despite a 50% dividend cut and debt reduction plans, contribute to the revised outlook.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/fitch-cuts-flowers-foods-rating-to-bb-on-volume-pressures-93CH-4904579",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/fitch-cuts-flowers-foods-rating-to-bb-on-volume-pressures-93CH-4904579",
+      "urlType": "article",
+      "publishedAt": "2026-09-16T21:08:34.000Z",
+      "date": "2026-09-17",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "9906e7cc3779c7450a78",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "KeyCorp, Fifth Third Bancorp, Citizens Financial Group, Walker & Dunlop, and PNC Financial Services Group Shares Are Falling, What You Need To Know",
+      "summary": "Shares of KeyCorp, Fifth Third Bancorp, Citizens Financial Group, Walker & Dunlop, and PNC Financial Services Group fell after the Federal Reserve raised interest rates and Chair Kevin Warsh emphasized persistent inflation risks. Warsh's remarks, indicating inflation is \"too high\" and underlying trends haven't improved, caused a market sell-off, with the 10-year Treasury yield rising. For banks, tighter monetary policy can hinder loan growth and capital-markets activity, particularly when the Fed battles sticky inflation.",
+      "source": "StockStory",
+      "sources": [
+        {
+          "name": "StockStory",
+          "url": "https://stockstory.org/us/stocks/nyse/key/news/why-up-down/keycorp-fifth-third-bancorp-citizens-financial-group-walker-and-dunlop-and-pnc-financial-services-group-shares-are-falling-what-you-need-to-know",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://stockstory.org/us/stocks/nyse/key/news/why-up-down/keycorp-fifth-third-bancorp-citizens-financial-group-walker-and-dunlop-and-pnc-financial-services-group-shares-are-falling-what-you-need-to-know",
+      "urlType": "article",
+      "publishedAt": "2026-09-16T20:59:09.000Z",
+      "date": "2026-09-17",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "c55a0aa4c6c8ec048be7",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Q2 Building Materials Earnings Review: First Prize Goes to Carlisle (NYSE:CSL)",
+      "summary": "Carlisle (NYSE:CSL) took first prize in the Q2 building materials earnings season, reporting strong revenues that exceeded analysts' expectations. Other companies like Sherwin-Williams (NYSE:SHW), Tecnoglass (NYSE:TGLS), and Valmont (NYSE:VMI) also showed positive results, while Resideo (NYSE:REZI) had a weaker quarter. The article highlights how building materials companies are influenced by economic factors and raw material costs, and how market risks like AI and geopolitics have shifted investor focus.",
       "source": "Yahoo Finance UK",
       "sources": [
         {
           "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/keysight-falls-11-1-3-151800318.html",
+          "url": "https://uk.finance.yahoo.com/news/q2-building-materials-earnings-review-204452932.html",
           "urlType": "article"
         }
       ],
-      "url": "https://uk.finance.yahoo.com/news/keysight-falls-11-1-3-151800318.html",
+      "url": "https://uk.finance.yahoo.com/news/q2-building-materials-earnings-review-204452932.html",
       "urlType": "article",
-      "publishedAt": "2026-09-16T15:40:23.000Z",
-      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T20:44:00.000Z",
+      "date": "2026-09-17",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 20
     },
     {
-      "id": "328699fa7328e911edf9",
+      "id": "8dd1ac34a32e93bad483",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Union Pacific Rises on a $339 Target From UBS",
-      "summary": "Union Pacific Corp. (NYSE:UNP) saw a premarket rise after UBS upgraded its rating to Buy from Neutral and increased its price target to $339. UBS forecasts strong earnings growth for UNP in 2026, 2027, and 2028, and anticipates significant volume growth in 2027, particularly in intermodal. The firm also expects favorable pricing trends for rail, suggesting that price and mix will be a neutral factor rather than a headwind against inflation.",
-      "source": "Yahoo! Finance Canada",
+      "title": "ConocoPhillips Stock Falls as Oil Prices Retreat",
+      "summary": "ConocoPhillips (NYSE: COP) shares dropped due to retreating crude prices, driven by eased Saudi supply concerns and a smaller-than-expected drawdown in U.S. crude inventories. Brent and WTI crude prices fell significantly after reports of Saudi Arabia rerouting oil to Asia and the Energy Information Administration disclosing a modest reduction in domestic stockpiles. This combination of factors made ConocoPhillips one of the weakest performers among oil and gas exploration companies.",
+      "source": "Benzinga",
       "sources": [
         {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/union-pacific-rises-339-target-143121214.html",
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61823140/conocophillips-stock-falls-as-oil-prices-retreat",
           "urlType": "article"
         }
       ],
-      "url": "https://ca.finance.yahoo.com/news/union-pacific-rises-339-target-143121214.html",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61823140/conocophillips-stock-falls-as-oil-prices-retreat",
       "urlType": "article",
-      "publishedAt": "2026-09-16T10:31:00.000Z",
-      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T16:54:33.000Z",
+      "date": "2026-09-17",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 18
     },
     {
-      "id": "bef5086e80a9ecb5c295",
+      "id": "5fe23fbad8a40b392343",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dollar General Sees Shopper Pressure Persisting, Bets on Value and Delivery Growth",
-      "summary": "Dollar General anticipates continued pressure on shoppers through late 2026 due to inflation and high fuel costs, leading customers to make more frequent but smaller purchases. In response, the company is focusing on value offerings, expanding its delivery services, and aiming for long-term targets of 2-3% same-store sales growth and 6-7% operating margin by 2028. CEO Todd Vasos plans to step down in January 2027, with JJ Fleeman named as his successor.",
-      "source": "Yahoo Finance",
+      "title": "Diamondback Energy Drops 8.2% Amid Sector-Wide Selling",
+      "summary": "Diamondback Energy experienced an 8.2% drop amidst a sector-wide selloff in the energy market, affecting numerous oil and gas producers. The decline was attributed to broader market dynamics rather than company-specific issues, with other energy stocks also seeing significant losses. The article highlights the sensitivity of energy stocks to macroeconomic factors like crude oil prices and demand concerns.",
+      "source": "AlphaStreet",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sees-shopper-pressure-100220770.html",
+          "name": "AlphaStreet",
+          "url": "https://news.alphastreet.com/diamondback-energy-drops-8-2-amid-sector-wide-selling/",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sees-shopper-pressure-100220770.html",
+      "url": "https://news.alphastreet.com/diamondback-energy-drops-8-2-amid-sector-wide-selling/",
       "urlType": "article",
-      "publishedAt": "2026-09-16T10:02:55.000Z",
-      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T16:50:53.000Z",
+      "date": "2026-09-17",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 18
     },
     {
-      "id": "5e2cb64b2175b87d11b8",
+      "id": "acffbb8af26f60ee5011",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kroger has stopped selling Red Bull nationwide, grocer confirms",
-      "summary": "Kroger has ceased selling Red Bull energy drinks in all its stores and fuel centers across the nation, a move confirmed by the supermarket giant. While Kroger declined to state its reasoning, the decision aligns with CEO Greg Foran's recent stance against suppliers raising prices amidst inflation. Kroger continues to offer other energy drink brands to its customers.",
-      "source": "Cincinnati Enquirer",
+      "title": "Union Pacific’s Vena urges support for UP-Norfolk Southern rail merger",
+      "summary": "Union Pacific CEO Jim Vena advocates for the proposed UP-Norfolk Southern rail merger, highlighting benefits like faster transit times, single contracts, and reduced bottlenecks, despite opposition from rival railroads. Vena presented these arguments at the IANA Expo 2026, emphasizing the creation of the first coast-to-coast US railroad and dismissing concerns about the financial feasibility and job losses. He asserted that the merger would improve supply chain efficiency and be economically beneficial for both companies and customers.",
+      "source": "American Journal of Transportation",
       "sources": [
         {
-          "name": "Cincinnati Enquirer",
-          "url": "https://www.cincinnati.com/story/money/2026/09/16/kroger-confirms-it-has-stopped-selling-red-bull-energy-drink/91785770007/",
+          "name": "American Journal of Transportation",
+          "url": "https://www.ajot.com/insights/full/ai-iana-union-pacifics-vena-urges-support-for-up-norfolk-southern-rail-merger",
           "urlType": "article"
         }
       ],
-      "url": "https://www.cincinnati.com/story/money/2026/09/16/kroger-confirms-it-has-stopped-selling-red-bull-energy-drink/91785770007/",
+      "url": "https://www.ajot.com/insights/full/ai-iana-union-pacifics-vena-urges-support-for-up-norfolk-southern-rail-merger",
       "urlType": "article",
-      "publishedAt": "2026-09-16T09:53:21.000Z",
-      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T16:44:12.000Z",
+      "date": "2026-09-17",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "56e9e282897eff36a498",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Dave & Buster’s Stock Plunges After a Surprise Loss",
-      "summary": "Shares of Dave & Buster’s Entertainment (PLAY) plunged nearly 13% after the company reported a surprise adjusted loss of 27 cents per share for the second quarter, missing analyst expectations for a profit. Revenue also fell short of forecasts, declining 2% year-over-year, with a significant 9% drop in entertainment revenue from arcade games. This marks the lowest stock price for the company since early 2020, following warnings about inflation impacting sales growth and a recent CEO transition.",
-      "source": "Investopedia",
-      "sources": [
-        {
-          "name": "Investopedia",
-          "url": "https://www.investopedia.com/market-update-dave-busters-stock-plunges-after-a-surprise-loss-play-12122217",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investopedia.com/market-update-dave-busters-stock-plunges-after-a-surprise-loss-play-12122217",
-      "urlType": "article",
-      "publishedAt": "2026-09-15T22:03:55.000Z",
-      "date": "2026-09-16",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "eb98b3c1a2017192224e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Coca-Cola to spend $10B on US manufacturing by 2030",
-      "summary": "Coca-Cola and its bottlers are set to invest $10 billion in US infrastructure by 2030 to meet rising demand, encompassing new and existing production, distribution, and office facility expansions. This investment follows an independent study revealing Coca-Cola's significant economic impact, contributing $85 billion to the U.S. GDP and supporting 1 million jobs. Despite recent restructuring and layoffs, the company is focusing on growth areas like AI and emerging brands.",
-      "source": "Food Dive",
-      "sources": [
-        {
-          "name": "Food Dive",
-          "url": "https://www.fooddive.com/news/coca-cola-us-manufacturing-10-billion-investment/830468/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.fooddive.com/news/coca-cola-us-manufacturing-10-billion-investment/830468/",
-      "urlType": "article",
-      "publishedAt": "2026-09-15T20:14:05.000Z",
-      "date": "2026-09-16",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "ca75e7dc00fb3ace0754",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "PNC, Regions, Citizens execs eschew M&A ‘distraction’",
-      "summary": "Executives from PNC, Regions, and Citizens banks are prioritizing internal initiatives such as AI development, systems conversions, and strategic growth over mergers and acquisitions, viewing M&A as a potential distraction. Despite a seemingly favorable regulatory environment for bank deals in 2026, these regional lenders indicate that current valuations are high and their focus remains on organic growth and specific projects. This sentiment suggests a continuation of the trend where larger bank deals are less frequent, while smaller bolt-on acquisitions might still occur to add capabilities.",
-      "source": "Banking Dive",
-      "sources": [
-        {
-          "name": "Banking Dive",
-          "url": "https://www.bankingdive.com/news/pnc-regions-citizens-execs-eschew-bank-acquisitions-mergers-distraction-ai/830543/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.bankingdive.com/news/pnc-regions-citizens-execs-eschew-bank-acquisitions-mergers-distraction-ai/830543/",
-      "urlType": "article",
-      "publishedAt": "2026-09-16T15:42:43.000Z",
-      "date": "2026-09-16",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "e165873c9dee72c3f7aa",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "TJX Falls 17.4% in the Past Month as Strong Results Meet Key Risks",
-      "summary": "TJX Companies (TJX) shares have dropped 17.4% in the last month despite exceeding second-quarter fiscal 2027 earnings expectations and raising full-year guidance. The decline is attributed to concerns over Marmaxx division's weak comparable sales, execution risks, and cost pressures from wages and fuel, compounded by a premium valuation. Investors are monitoring whether TJX can achieve its revised earnings outlook amidst these challenges.",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/tjx-falls-17-4-past-160900288.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://uk.finance.yahoo.com/news/tjx-falls-17-4-past-160900288.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-16T15:39:56.000Z",
-      "date": "2026-09-16",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 18
     }
   ]
 }
