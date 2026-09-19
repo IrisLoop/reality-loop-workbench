@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-17",
-  "generatedAt": "2026-09-18T00:11:16.930Z",
-  "targetDate": "2026-09-17",
+  "updated": "2026-09-18",
+  "generatedAt": "2026-09-19T00:14:54.046Z",
+  "targetDate": "2026-09-18",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -17,14 +17,14 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "Alpha Vantage",
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "91aa80b9df2374ddc0b1",
+      "id": "077ae2a0bd41a423026e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "The Morning Risk Report: Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields",
-      "summary": "Exxon Mobil is reportedly close to signing a preliminary deal with Venezuela's state-run oil company, Petróleos de Venezuela, to explore investments in several oil fields, potentially marking its return to the country after nearly two decades. This move follows efforts by the Trump administration to encourage American oil producers to revive Venezuela's oil sector and comes as competitors like Chevron and Continental Resources have also pursued deals in the region. The deal, if finalized, could involve fields containing significant oil reserves, though hesitancy remains among some companies due to past nationalizations of assets.",
-      "source": "WSJ",
-      "sources": [
-        {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-7913a0c9",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-7913a0c9",
-      "urlType": "article",
-      "publishedAt": "2026-09-17T11:47:36.000Z",
-      "date": "2026-09-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 28
-    },
-    {
-      "id": "4a495dade4d971c836a2",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Union Pacific says high diesel prices shifting freight from trucks to rail",
-      "summary": "Union Pacific stated that elevated diesel prices are causing a shift of freight from trucks to rail, increasing demand for their services due to the fuel efficiency of rail transport. Despite higher fuel costs impacting its operating ratio, the company reports robust underlying business with strong industrial shipments and intermodal traffic, and no significant demand destruction from energy costs. Union Pacific's CFO Jennifer Hamann noted that customers are \"pretty bullish\" with healthy order books, indicating continued freight demand.",
+      "title": "Exxon Mobil says floodwater overwhelmed pump at Joliet, Illinois refinery",
+      "summary": "Exxon Mobil reported that floodwater overwhelmed a pump at its 275,000-barrel-per-day refinery in Joliet, Illinois, deploying a containment boom for cleanup. The incident followed a power outage that shut down the refinery, which is a major fuel supplier to the U.S. Midwest, contributing to concerns in a tight global fuel market. The disruption adds to pressure on fuel supplies due to international conflicts and rising diesel prices.",
       "source": "Reuters",
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16/",
+          "url": "https://www.reuters.com/business/energy/exxon-mobil-says-floodwater-overwhelmed-pump-at-joliet-illinois-refinery-2026-09-17/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16/",
+      "url": "https://www.reuters.com/business/energy/exxon-mobil-says-floodwater-overwhelmed-pump-at-joliet-illinois-refinery-2026-09-17/",
       "urlType": "article",
-      "publishedAt": "2026-09-16T17:58:32.000Z",
-      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T19:20:01.000Z",
+      "date": "2026-09-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 30
     },
     {
-      "id": "4163baebb767e946f24b",
+      "id": "7b9cb082791a266871c2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Massive Kroger supermarket to open in Zionsville. Hiring to start soon",
-      "summary": "Kroger is opening two new Marketplace stores in Central Indiana, with the Zionsville location expected to open in mid-January 2027 and a Crawfordsville store in late January 2027. The Zionsville Marketplace, a $42 million project, will hire approximately 275 employees, with hiring events scheduled for September and October 2026. These Marketplace stores are larger than typical Krogers, offering clothing, home goods, and expanded product selections.",
-      "source": "IndyStar",
+      "title": "Popular sees Puerto Rico investment spread across sectors",
+      "summary": "Popular Inc. CEO Jorge J. García noted at the Barclays Global Financial Services Conference that investment in Puerto Rico is diversifying across construction, tourism, logistics, and pharmaceuticals, contributing to a stable economic environment with low unemployment. While acknowledging concerns like high oil prices, García highlighted growth in commercial loans and a healthy credit portfolio, though auto lending faces pressure from rising vehicle costs. He emphasized the importance of diverse investments beyond traditional sectors and the potential for manufacturing expansions to boost both construction and employment.",
+      "source": "News is My Business",
       "sources": [
         {
-          "name": "IndyStar",
-          "url": "https://www.indystar.com/story/grocery/stores/2026/09/17/new-kroger-marketplace-store-begins-hiring-ahead-of-grand-opening-zionaville-crawfordsville/91794390007/",
+          "name": "News is My Business",
+          "url": "https://newsismybusiness.com/popular-sees-puerto-rico-investment-spread-across-sectors/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.indystar.com/story/grocery/stores/2026/09/17/new-kroger-marketplace-store-begins-hiring-ahead-of-grand-opening-zionaville-crawfordsville/91794390007/",
+      "url": "https://newsismybusiness.com/popular-sees-puerto-rico-investment-spread-across-sectors/",
       "urlType": "article",
-      "publishedAt": "2026-09-17T09:04:53.000Z",
-      "date": "2026-09-17",
+      "publishedAt": "2026-09-18T01:55:13.000Z",
+      "date": "2026-09-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 25
     },
     {
-      "id": "d3be6de8d01f00eccd59",
+      "id": "826e56b7055c2638df71",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "West Fraser enters into new US$500M loan agreement, maturing in 2029",
-      "summary": "West Fraser Timber Co. Ltd. has secured a new US$500-million loan agreement that matures in 2029. Part of these funds will be used to retire an existing US$300-million loan due in 2028, enhancing the company's near-term liquidity and financial flexibility. This comes as Canadian forestry companies face challenges including tariffs, with industry groups calling for urgent action.",
-      "source": "Toronto Star",
+      "title": "A Look Back at Regional Banks Stocks’ Q2 Earnings: Washington Trust Bancorp (NASDAQ:WASH) Vs The Rest Of The Pack",
+      "summary": "This article reviews the Q2 earnings performance of regional banks, with a focus on Washington Trust Bancorp (NASDAQ:WASH). It highlights the mixed results across the sector, noting that while some banks like OFG Bancorp performed well, others such as Banc of California experienced disappointing quarters. The piece also touches on market risks that have shifted from AI concerns to geopolitical tensions and then back to fundamental analysis.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "Toronto Star",
-          "url": "https://www.thestar.com/news/canada/west-fraser-enters-into-new-us-500m-loan-agreement-maturing-in-2029/article_21ebf09a-6cdb-5344-95e7-9fe116e29d54.html",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/look-back-regional-banks-stocks-160840895.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.thestar.com/news/canada/west-fraser-enters-into-new-us-500m-loan-agreement-maturing-in-2029/article_21ebf09a-6cdb-5344-95e7-9fe116e29d54.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/look-back-regional-banks-stocks-160840895.html",
       "urlType": "article",
-      "publishedAt": "2026-09-16T22:02:54.000Z",
-      "date": "2026-09-17",
+      "publishedAt": "2026-09-18T15:49:45.000Z",
+      "date": "2026-09-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "score": 23
     },
     {
-      "id": "a46be43cd89e8f0bf6dd",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Fitch cuts Flowers Foods rating to ’BB+’ on volume pressures",
-      "summary": "Fitch Ratings has downgraded Flowers Foods, Inc.'s Long-Term Issuer Default Rating to 'BB+' from 'BBB-' due to significant volume headwinds and anticipated sustained higher Fitch EBITDA leverage. The rating downgrade reflects expectations that EBITDA will remain pressured through 2027, driven by weak organic sales in the traditional loaf category and increased inflationary pressures. Flowers Foods' limited diversification outside its bread portfolio and continued volume erosion, despite a 50% dividend cut and debt reduction plans, contribute to the revised outlook.",
-      "source": "Investing.com",
+      "id": "ca92c1eb6c266924bf12",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中老跨境数字支付互联互通正式启动",
+      "summary": null,
+      "source": "中国人民银行",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/fitch-cuts-flowers-foods-rating-to-bb-on-volume-pressures-93CH-4904579",
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091815494839605/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.investing.com/news/stock-market-news/fitch-cuts-flowers-foods-rating-to-bb-on-volume-pressures-93CH-4904579",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091815494839605/index.html",
       "urlType": "article",
-      "publishedAt": "2026-09-16T21:08:34.000Z",
-      "date": "2026-09-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "publishedAt": "2026-09-18T07:49:48.000Z",
+      "date": "2026-09-18",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 47
     },
     {
-      "id": "9906e7cc3779c7450a78",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "KeyCorp, Fifth Third Bancorp, Citizens Financial Group, Walker & Dunlop, and PNC Financial Services Group Shares Are Falling, What You Need To Know",
-      "summary": "Shares of KeyCorp, Fifth Third Bancorp, Citizens Financial Group, Walker & Dunlop, and PNC Financial Services Group fell after the Federal Reserve raised interest rates and Chair Kevin Warsh emphasized persistent inflation risks. Warsh's remarks, indicating inflation is \"too high\" and underlying trends haven't improved, caused a market sell-off, with the 10-year Treasury yield rising. For banks, tighter monetary policy can hinder loan growth and capital-markets activity, particularly when the Fed battles sticky inflation.",
-      "source": "StockStory",
+      "id": "eca11b95d3c2a796df7e",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+      "summary": null,
+      "source": "中国政府网",
       "sources": [
         {
-          "name": "StockStory",
-          "url": "https://stockstory.org/us/stocks/nyse/key/news/why-up-down/keycorp-fifth-third-bancorp-citizens-financial-group-walker-and-dunlop-and-pnc-financial-services-group-shares-are-falling-what-you-need-to-know",
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
           "urlType": "article"
         }
       ],
-      "url": "https://stockstory.org/us/stocks/nyse/key/news/why-up-down/keycorp-fifth-third-bancorp-citizens-financial-group-walker-and-dunlop-and-pnc-financial-services-group-shares-are-falling-what-you-need-to-know",
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
       "urlType": "article",
-      "publishedAt": "2026-09-16T20:59:09.000Z",
-      "date": "2026-09-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
+      "publishedAt": "2026-09-18T04:00:00.000Z",
+      "date": "2026-09-18",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 47
     },
     {
-      "id": "c55a0aa4c6c8ec048be7",
+      "id": "16ebad6e2d6131d4a17b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Q2 Building Materials Earnings Review: First Prize Goes to Carlisle (NYSE:CSL)",
-      "summary": "Carlisle (NYSE:CSL) took first prize in the Q2 building materials earnings season, reporting strong revenues that exceeded analysts' expectations. Other companies like Sherwin-Williams (NYSE:SHW), Tecnoglass (NYSE:TGLS), and Valmont (NYSE:VMI) also showed positive results, while Resideo (NYSE:REZI) had a weaker quarter. The article highlights how building materials companies are influenced by economic factors and raw material costs, and how market risks like AI and geopolitics have shifted investor focus.",
-      "source": "Yahoo Finance UK",
-      "sources": [
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/q2-building-materials-earnings-review-204452932.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://uk.finance.yahoo.com/news/q2-building-materials-earnings-review-204452932.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-16T20:44:00.000Z",
-      "date": "2026-09-17",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "8dd1ac34a32e93bad483",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "ConocoPhillips Stock Falls as Oil Prices Retreat",
-      "summary": "ConocoPhillips (NYSE: COP) shares dropped due to retreating crude prices, driven by eased Saudi supply concerns and a smaller-than-expected drawdown in U.S. crude inventories. Brent and WTI crude prices fell significantly after reports of Saudi Arabia rerouting oil to Asia and the Energy Information Administration disclosing a modest reduction in domestic stockpiles. This combination of factors made ConocoPhillips one of the weakest performers among oil and gas exploration companies.",
+      "title": "QUICK SPARK: KKR Raises 10-Year Treasury Yield Forecast To 5.1% As Higher-For-Longer Rates Loom",
+      "summary": "KKR & Co. has revised its forecast for the 10-year U.S. Treasury yield, projecting it to reach 5.1% by the end of the year, up from its previous estimate of 5%. The firm anticipates that the Federal Reserve will maintain elevated interest rates for a longer period, possibly raising them again in December and March, due to persistent inflation and robust economic growth. KKR believes inflation may not return to the Fed's 2% target until 2029, supporting a tighter monetary policy.",
       "source": "Benzinga",
       "sources": [
         {
           "name": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61823140/conocophillips-stock-falls-as-oil-prices-retreat",
+          "url": "https://www.benzinga.com/markets/private-markets/26/09/61857734/quick-spark-kkr-raises-10-year-treasury-yield-forecast-5-1-higher-for-longer-rates-loom",
           "urlType": "article"
         }
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61823140/conocophillips-stock-falls-as-oil-prices-retreat",
+      "url": "https://www.benzinga.com/markets/private-markets/26/09/61857734/quick-spark-kkr-raises-10-year-treasury-yield-forecast-5-1-higher-for-longer-rates-loom",
       "urlType": "article",
-      "publishedAt": "2026-09-16T16:54:33.000Z",
-      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T21:13:42.000Z",
+      "date": "2026-09-18",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "b8adf432b12d94e12c57",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Nova Minerals Corp.: Port MacKenzie Industry Day Highlights Nova Minerals' Antimony Processing and Refining Project as Anchor for Alaska's Critical Minerals Future",
+      "summary": "Nova Minerals Corp. announced that its antimony processing and refining project was a central focus at the Port MacKenzie Industry Day, highlighting its role as an anchor for Alaska's critical minerals future. The project, supported by a US$43.4 million award from the U.S. Department of War, aims to establish a domestic antimony supply chain. Various stakeholders discussed infrastructure improvements at Port MacKenzie to support critical mineral processing and industrial development, with Governor Mike Dunleavy praising Alaska's efforts to strengthen national security and economic future through critical mineral development.",
+      "source": "FinanzNachrichten.de",
+      "sources": [
+        {
+          "name": "FinanzNachrichten.de",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69606585-nova-minerals-corp-port-mackenzie-industry-day-highlights-nova-minerals-antimony-processing-and-refining-project-as-anchor-for-alaska-s-critical-mi-399.htm",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69606585-nova-minerals-corp-port-mackenzie-industry-day-highlights-nova-minerals-antimony-processing-and-refining-project-as-anchor-for-alaska-s-critical-mi-399.htm",
+      "urlType": "article",
+      "publishedAt": "2026-09-17T19:53:25.000Z",
+      "date": "2026-09-18",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "10e92ea3ac388c68e9be",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Freedom Broker downgrades Nucor stock rating on Q3 guidance miss",
+      "summary": "Freedom Broker has downgraded Nucor's stock rating from Buy to Hold and lowered its price target after the company's third-quarter 2026 guidance missed both Freedom Broker's estimates and Street consensus. Despite an impressive stock performance over the past year, Nucor shares fell in pre-market trading following the guidance release. Other analysts, including Barclays, maintain a positive outlook on the steel sector and Nucor, while Jefferies lowered its outlook due to a tentative US-Canada trade agreement reducing steel and aluminum tariffs.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-nucor-stock-rating-on-q3-guidance-miss-93CH-4907629",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-nucor-stock-rating-on-q3-guidance-miss-93CH-4907629",
+      "urlType": "article",
+      "publishedAt": "2026-09-18T15:13:32.000Z",
+      "date": "2026-09-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "5fe23fbad8a40b392343",
+      "id": "7ecd41303462a8b86fe6",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Diamondback Energy Drops 8.2% Amid Sector-Wide Selling",
-      "summary": "Diamondback Energy experienced an 8.2% drop amidst a sector-wide selloff in the energy market, affecting numerous oil and gas producers. The decline was attributed to broader market dynamics rather than company-specific issues, with other energy stocks also seeing significant losses. The article highlights the sensitivity of energy stocks to macroeconomic factors like crude oil prices and demand concerns.",
-      "source": "AlphaStreet",
+      "title": "Adient stock hits 52-week low at $17.67",
+      "summary": "Adient PLC's stock has fallen to a 52-week low of $17.67, representing a 27.94% decline over the past year due to challenges in the automotive seating industry and broader market volatility. Despite recent revenue growth, the company's earnings per share missed expectations, although InvestingPro analysis suggests the stock may be undervalued relative to near-term earnings growth.",
+      "source": "Investing.com",
       "sources": [
         {
-          "name": "AlphaStreet",
-          "url": "https://news.alphastreet.com/diamondback-energy-drops-8-2-amid-sector-wide-selling/",
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/adient-stock-hits-52week-low-at-1767-93CH-4907626",
           "urlType": "article"
         }
       ],
-      "url": "https://news.alphastreet.com/diamondback-energy-drops-8-2-amid-sector-wide-selling/",
+      "url": "https://www.investing.com/news/company-news/adient-stock-hits-52week-low-at-1767-93CH-4907626",
       "urlType": "article",
-      "publishedAt": "2026-09-16T16:50:53.000Z",
-      "date": "2026-09-17",
+      "publishedAt": "2026-09-18T15:47:15.000Z",
+      "date": "2026-09-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "acffbb8af26f60ee5011",
+      "id": "c1531f7808317384d957",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Union Pacific’s Vena urges support for UP-Norfolk Southern rail merger",
-      "summary": "Union Pacific CEO Jim Vena advocates for the proposed UP-Norfolk Southern rail merger, highlighting benefits like faster transit times, single contracts, and reduced bottlenecks, despite opposition from rival railroads. Vena presented these arguments at the IANA Expo 2026, emphasizing the creation of the first coast-to-coast US railroad and dismissing concerns about the financial feasibility and job losses. He asserted that the merger would improve supply chain efficiency and be economically beneficial for both companies and customers.",
-      "source": "American Journal of Transportation",
+      "title": "Should You Be Bullish on Tyler Technologies (TYL)?",
+      "summary": "Fenimore Asset Management initiated a new position in Tyler Technologies, Inc. (TYL) in Q2 2026, citing its strong market position as a software provider to state and local governments, high customer retention, and mission-critical solutions despite AI impact fears. The company's stock has seen a 4.10% one-month return but a 37.05% loss over the past 52 weeks, with a market capitalization of $13.99 billion. While Fenimore is bullish, other analysts suggest certain AI stocks might offer greater upside and less risk.",
+      "source": "Yahoo Finance Singapore",
       "sources": [
         {
-          "name": "American Journal of Transportation",
-          "url": "https://www.ajot.com/insights/full/ai-iana-union-pacifics-vena-urges-support-for-up-norfolk-southern-rail-merger",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/bullish-tyler-technologies-tyl-142303614.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ajot.com/insights/full/ai-iana-union-pacifics-vena-urges-support-for-up-norfolk-southern-rail-merger",
+      "url": "https://sg.finance.yahoo.com/news/bullish-tyler-technologies-tyl-142303614.html",
       "urlType": "article",
-      "publishedAt": "2026-09-16T16:44:12.000Z",
-      "date": "2026-09-17",
+      "publishedAt": "2026-09-18T14:23:00.000Z",
+      "date": "2026-09-18",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
+      "score": 17
     }
   ]
 }
