@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-18",
-  "generatedAt": "2026-09-19T00:14:54.046Z",
-  "targetDate": "2026-09-18",
+  "updated": "2026-09-19",
+  "generatedAt": "2026-09-20T00:06:54.862Z",
+  "targetDate": "2026-09-19",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -16,15 +16,15 @@
     },
     {
       "name": "中国人民银行",
-      "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "status": "failed",
+      "itemCount": 0,
+      "message": "fetch failed"
     },
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "Alpha Vantage",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "077ae2a0bd41a423026e",
+      "id": "a1c1a04407d8f64ef172",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Exxon Mobil says floodwater overwhelmed pump at Joliet, Illinois refinery",
-      "summary": "Exxon Mobil reported that floodwater overwhelmed a pump at its 275,000-barrel-per-day refinery in Joliet, Illinois, deploying a containment boom for cleanup. The incident followed a power outage that shut down the refinery, which is a major fuel supplier to the U.S. Midwest, contributing to concerns in a tight global fuel market. The disruption adds to pressure on fuel supplies due to international conflicts and rising diesel prices.",
-      "source": "Reuters",
+      "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
+      "summary": "Royal Caribbean (RCL) recently completed a $1.25 billion debt offering, which appears to be routine refinancing. However, this move highlights the company's significant debt obligations maturing in 2027 and 2028, and its continuous need for capital for new ships and destination projects, despite strong booking volumes. While earnings are growing, challenges such as flat third-quarter pricing and geopolitical impacts on bookings raise questions about future profitability.",
+      "source": "Insider Monkey",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/energy/exxon-mobil-says-floodwater-overwhelmed-pump-at-joliet-illinois-refinery-2026-09-17/",
+          "name": "Insider Monkey",
+          "url": "https://www.insidermonkey.com/news/royal-caribbeans-rcl-1-25b-debt-deal-hides-a-bigger-story-1840149/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.reuters.com/business/energy/exxon-mobil-says-floodwater-overwhelmed-pump-at-joliet-illinois-refinery-2026-09-17/",
+      "url": "https://www.insidermonkey.com/news/royal-caribbeans-rcl-1-25b-debt-deal-hides-a-bigger-story-1840149/",
       "urlType": "article",
-      "publishedAt": "2026-09-17T19:20:01.000Z",
-      "date": "2026-09-18",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 30
-    },
-    {
-      "id": "7b9cb082791a266871c2",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Popular sees Puerto Rico investment spread across sectors",
-      "summary": "Popular Inc. CEO Jorge J. García noted at the Barclays Global Financial Services Conference that investment in Puerto Rico is diversifying across construction, tourism, logistics, and pharmaceuticals, contributing to a stable economic environment with low unemployment. While acknowledging concerns like high oil prices, García highlighted growth in commercial loans and a healthy credit portfolio, though auto lending faces pressure from rising vehicle costs. He emphasized the importance of diverse investments beyond traditional sectors and the potential for manufacturing expansions to boost both construction and employment.",
-      "source": "News is My Business",
-      "sources": [
-        {
-          "name": "News is My Business",
-          "url": "https://newsismybusiness.com/popular-sees-puerto-rico-investment-spread-across-sectors/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://newsismybusiness.com/popular-sees-puerto-rico-investment-spread-across-sectors/",
-      "urlType": "article",
-      "publishedAt": "2026-09-18T01:55:13.000Z",
-      "date": "2026-09-18",
+      "publishedAt": "2026-09-19T10:47:27.000Z",
+      "date": "2026-09-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 25
     },
     {
-      "id": "826e56b7055c2638df71",
+      "id": "014e3fed25540e39f331",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "A Look Back at Regional Banks Stocks’ Q2 Earnings: Washington Trust Bancorp (NASDAQ:WASH) Vs The Rest Of The Pack",
-      "summary": "This article reviews the Q2 earnings performance of regional banks, with a focus on Washington Trust Bancorp (NASDAQ:WASH). It highlights the mixed results across the sector, noting that while some banks like OFG Bancorp performed well, others such as Banc of California experienced disappointing quarters. The piece also touches on market risks that have shifted from AI concerns to geopolitical tensions and then back to fundamental analysis.",
+      "title": "Coca-Cola accelerates US investments with $10 billion plan",
+      "summary": "The Coca-Cola Company and its bottling partners plan to invest $10 billion in U.S. infrastructure between 2026 and 2030, including new production, distribution, and office facilities. This investment builds on their existing network of over 70 production facilities and hundreds of distribution centers. The company also highlighted a study showing its system contributed $85 billion to the U.S. GDP in 2025, supported nearly 1 million jobs, and allocated $37 billion to U.S. suppliers.",
+      "source": "voz.us",
+      "sources": [
+        {
+          "name": "voz.us",
+          "url": "https://voz.us/en/economy/260919/39228/10-000-million-in-investment-through-2030-coca-cola-strengthens-its-commitment-to-the-united-states.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://voz.us/en/economy/260919/39228/10-000-million-in-investment-through-2030-coca-cola-strengthens-its-commitment-to-the-united-states.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-19T11:52:04.000Z",
+      "date": "2026-09-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "3aaee666de0758eb1807",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Stellantis Canada plant's sale could allow Chinese entry, mayor warns",
+      "summary": "The mayor of Brampton, Ontario, warns that the sale of Stellantis's idled Brampton Assembly Plant could lead to Chinese automakers entering the Canadian market, potentially devastating the Detroit Three's business. This situation arises amid escalating trade tensions and tariffs, which have led Stellantis to shift production to the U.S. Canadian labor unions are strongly opposing the sale to a defense contractor and are pushing for Stellantis to honor its commitments and resume car assembly at the plant.",
+      "source": "The Detroit News",
+      "sources": [
+        {
+          "name": "The Detroit News",
+          "url": "https://eu.detroitnews.com/story/business/autos/chrysler/2026/09/19/canadian-mayor-warns-detroit-three-over-idled-stellantis-plants-future/91794223007/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://eu.detroitnews.com/story/business/autos/chrysler/2026/09/19/canadian-mayor-warns-detroit-three-over-idled-stellantis-plants-future/91794223007/",
+      "urlType": "article",
+      "publishedAt": "2026-09-19T04:02:51.000Z",
+      "date": "2026-09-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "a03c2a9fc713b90fd37e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside",
+      "summary": "Bank of America (BofA) has set a 12-month S&P 500 target of 7,800, representing a 2% upside from current levels, while also raising its year-end forecast to 7,400. Strategist Savita Subramanian highlighted potential market risks including inflation, Federal Reserve policy, and credit conditions, noting that half of BofA's bear market indicators have been triggered. Despite near-term concerns, BofA maintains a positive long-term outlook for equities, projecting significant earnings growth for the S&P 500 in 2026 and 2027, and favoring large-cap value stocks and equal-weighted indexes.",
       "source": "Yahoo Finance",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/look-back-regional-banks-stocks-160840895.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sets-12-month-134200044.html",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/look-back-regional-banks-stocks-160840895.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sets-12-month-134200044.html",
       "urlType": "article",
-      "publishedAt": "2026-09-18T15:49:45.000Z",
-      "date": "2026-09-18",
+      "publishedAt": "2026-09-19T13:50:34.000Z",
+      "date": "2026-09-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
+      "score": 20
     },
     {
-      "id": "ca92c1eb6c266924bf12",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中老跨境数字支付互联互通正式启动",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091815494839605/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026091815494839605/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-18T07:49:48.000Z",
-      "date": "2026-09-18",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "eca11b95d3c2a796df7e",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
-      "summary": null,
-      "source": "中国政府网",
-      "sources": [
-        {
-          "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
-      "urlType": "article",
-      "publishedAt": "2026-09-18T04:00:00.000Z",
-      "date": "2026-09-18",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "16ebad6e2d6131d4a17b",
+      "id": "53c5f39c9364da184570",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "QUICK SPARK: KKR Raises 10-Year Treasury Yield Forecast To 5.1% As Higher-For-Longer Rates Loom",
-      "summary": "KKR & Co. has revised its forecast for the 10-year U.S. Treasury yield, projecting it to reach 5.1% by the end of the year, up from its previous estimate of 5%. The firm anticipates that the Federal Reserve will maintain elevated interest rates for a longer period, possibly raising them again in December and March, due to persistent inflation and robust economic growth. KKR believes inflation may not return to the Fed's 2% target until 2029, supporting a tighter monetary policy.",
-      "source": "Benzinga",
+      "title": "Dollar Tree shares key update on higher prices",
+      "summary": "Dollar Tree has confirmed that its multi-price strategy, which includes items up to $7, is permanent and not a temporary measure against inflation. This shift follows strong Q2 2026 earnings, with total sales growth of 7.0% driven by customers purchasing higher-priced items. The company views multi-pricing as a key driver for growth and increased profitability, despite moving away from its original $1 price point.",
+      "source": "Belleville News-Democrat",
       "sources": [
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/private-markets/26/09/61857734/quick-spark-kkr-raises-10-year-treasury-yield-forecast-5-1-higher-for-longer-rates-loom",
+          "name": "Belleville News-Democrat",
+          "url": "https://www.bnd.com/news/business/article317305691.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.benzinga.com/markets/private-markets/26/09/61857734/quick-spark-kkr-raises-10-year-treasury-yield-forecast-5-1-higher-for-longer-rates-loom",
+      "url": "https://www.bnd.com/news/business/article317305691.html",
       "urlType": "article",
-      "publishedAt": "2026-09-17T21:13:42.000Z",
-      "date": "2026-09-18",
+      "publishedAt": "2026-09-19T08:45:00.000Z",
+      "date": "2026-09-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 20
     },
     {
-      "id": "b8adf432b12d94e12c57",
+      "id": "afef45d116df6a791f29",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Nova Minerals Corp.: Port MacKenzie Industry Day Highlights Nova Minerals' Antimony Processing and Refining Project as Anchor for Alaska's Critical Minerals Future",
-      "summary": "Nova Minerals Corp. announced that its antimony processing and refining project was a central focus at the Port MacKenzie Industry Day, highlighting its role as an anchor for Alaska's critical minerals future. The project, supported by a US$43.4 million award from the U.S. Department of War, aims to establish a domestic antimony supply chain. Various stakeholders discussed infrastructure improvements at Port MacKenzie to support critical mineral processing and industrial development, with Governor Mike Dunleavy praising Alaska's efforts to strengthen national security and economic future through critical mineral development.",
-      "source": "FinanzNachrichten.de",
+      "title": "What Is Incyte Corporation (NASDAQ:INCY) Signaling Through Its Pipeline?",
+      "summary": "This article examines Incyte Corporation (NASDAQ:INCY) through the lens of its commercial portfolio and clinical pipeline progress, emphasizing that durable demand and disciplined execution are more critical than short-term market sentiment. It discusses how the company's business fundamentals interact with broader market conditions, including monetary-policy expectations and easing oil prices, and highlights the importance of consistent execution, clear communication, and strategic alignment in the healthcare sector. The piece suggests that investors should focus on Incyte's operational exposure and strategic rigor rather than solely on macro themes.",
+      "source": "Kalkine Media",
       "sources": [
         {
-          "name": "FinanzNachrichten.de",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69606585-nova-minerals-corp-port-mackenzie-industry-day-highlights-nova-minerals-antimony-processing-and-refining-project-as-anchor-for-alaska-s-critical-mi-399.htm",
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/healthcare/what-is-incyte-corporation-nasdaqincy-signaling-through-its-pipeline",
           "urlType": "article"
         }
       ],
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69606585-nova-minerals-corp-port-mackenzie-industry-day-highlights-nova-minerals-antimony-processing-and-refining-project-as-anchor-for-alaska-s-critical-mi-399.htm",
+      "url": "https://kalkinemedia.com/us/stocks/healthcare/what-is-incyte-corporation-nasdaqincy-signaling-through-its-pipeline",
       "urlType": "article",
-      "publishedAt": "2026-09-17T19:53:25.000Z",
-      "date": "2026-09-18",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "10e92ea3ac388c68e9be",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Freedom Broker downgrades Nucor stock rating on Q3 guidance miss",
-      "summary": "Freedom Broker has downgraded Nucor's stock rating from Buy to Hold and lowered its price target after the company's third-quarter 2026 guidance missed both Freedom Broker's estimates and Street consensus. Despite an impressive stock performance over the past year, Nucor shares fell in pre-market trading following the guidance release. Other analysts, including Barclays, maintain a positive outlook on the steel sector and Nucor, while Jefferies lowered its outlook due to a tentative US-Canada trade agreement reducing steel and aluminum tariffs.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-nucor-stock-rating-on-q3-guidance-miss-93CH-4907629",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-nucor-stock-rating-on-q3-guidance-miss-93CH-4907629",
-      "urlType": "article",
-      "publishedAt": "2026-09-18T15:13:32.000Z",
-      "date": "2026-09-18",
+      "publishedAt": "2026-09-19T00:28:42.000Z",
+      "date": "2026-09-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "7ecd41303462a8b86fe6",
+      "id": "5ff2fe8344955b1b2a0d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Adient stock hits 52-week low at $17.67",
-      "summary": "Adient PLC's stock has fallen to a 52-week low of $17.67, representing a 27.94% decline over the past year due to challenges in the automotive seating industry and broader market volatility. Despite recent revenue growth, the company's earnings per share missed expectations, although InvestingPro analysis suggests the stock may be undervalued relative to near-term earnings growth.",
-      "source": "Investing.com",
+      "title": "Dollar Tree Inc. stock gains support as Bank of America stakes $109 million and analysts lift target",
+      "summary": "Dollar Tree Inc. (DLTR) stock is gaining support after Bank of America Corp DE disclosed a $109.47 million stake, and analysts like Raymond James and Goldman Sachs lifted their price targets. The company reported strong Q2 earnings, exceeding analyst estimates, and authorized a $2.50 billion share buyback program. Despite mixed analyst sentiment, the consensus price target suggests an upside of approximately 17.6% from its current trading price.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/adient-stock-hits-52week-low-at-1767-93CH-4907626",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-inc-stock-gains-support-as-bank-of-america-stakes-109/70132909",
           "urlType": "article"
         }
       ],
-      "url": "https://www.investing.com/news/company-news/adient-stock-hits-52week-low-at-1767-93CH-4907626",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-inc-stock-gains-support-as-bank-of-america-stakes-109/70132909",
       "urlType": "article",
-      "publishedAt": "2026-09-18T15:47:15.000Z",
-      "date": "2026-09-18",
+      "publishedAt": "2026-09-19T14:48:40.000Z",
+      "date": "2026-09-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "c1531f7808317384d957",
+      "id": "2613a09737e3c591efb4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Should You Be Bullish on Tyler Technologies (TYL)?",
-      "summary": "Fenimore Asset Management initiated a new position in Tyler Technologies, Inc. (TYL) in Q2 2026, citing its strong market position as a software provider to state and local governments, high customer retention, and mission-critical solutions despite AI impact fears. The company's stock has seen a 4.10% one-month return but a 37.05% loss over the past 52 weeks, with a market capitalization of $13.99 billion. While Fenimore is bullish, other analysts suggest certain AI stocks might offer greater upside and less risk.",
-      "source": "Yahoo Finance Singapore",
+      "title": "Intercontinental Exchange stock edges higher as interest-rate leverage draws analyst focus",
+      "summary": "Intercontinental Exchange (ICE) stock is gaining attention from analysts due to its strong ties to interest rates through its fixed-income and mortgage-technology platforms. Despite trading at a premium compared to some peers, analysts and fair-value models project a mid-to-high teens percentage upside. This outlook is supported by resilient earnings and structural demand linked to interest rates, though potential rate cuts pose a risk.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/bullish-tyler-technologies-tyl-142303614.html",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/intercontinental-exchange-stock-edges-higher-as-interest-rate-leverage/70131040",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/bullish-tyler-technologies-tyl-142303614.html",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/intercontinental-exchange-stock-edges-higher-as-interest-rate-leverage/70131040",
       "urlType": "article",
-      "publishedAt": "2026-09-18T14:23:00.000Z",
-      "date": "2026-09-18",
+      "publishedAt": "2026-09-19T10:49:28.000Z",
+      "date": "2026-09-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "603683c74280ef11af7b",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Scotiabank (TSX:BNS) Stock May Be 28% Undervalued After Record Q3 Results",
+      "summary": "Scotiabank's stock has seen a significant 146.0% increase over the past three years, prompting questions about whether this growth is fully supported by the bank's capital returns. Despite this, an Excess Returns model, bolstered by record Q3 2026 results and a CA$100 billion investment plan in Canadian projects, suggests that the bank's intrinsic worth is still meaningfully higher than its current market trading price, potentially indicating a 28% undervaluation. The article also touches on various community narratives about the bank's valuation and the importance of leadership and compensation in its outcomes.",
+      "source": "Yahoo Finance",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-tsx-bns-stock-may-231301510.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-tsx-bns-stock-may-231301510.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-19T06:30:28.000Z",
+      "date": "2026-09-19",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "efe513c0d8eb7168bda5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Crown Breaks Ground on First India Beverage Can Plant",
+      "summary": "Crown Holdings Inc. has broken ground on its first beverage can manufacturing facility in India, located in Unnao, Uttar Pradesh. This plant, announced in April 2026, will feature two production lines capable of producing 2.2 billion aluminum beverage cans annually, with operations expected to start in the second half of 2027. The investment reflects Crown's confidence in the growing Indian beverage market and the increasing demand for sustainable packaging solutions.",
+      "source": "Machine Maker",
+      "sources": [
+        {
+          "name": "Machine Maker",
+          "url": "https://themachinemaker.com/news/crown-breaks-ground-on-first-india-beverage-can-plant/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://themachinemaker.com/news/crown-breaks-ground-on-first-india-beverage-can-plant/",
+      "urlType": "article",
+      "publishedAt": "2026-09-19T05:37:05.000Z",
+      "date": "2026-09-19",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
