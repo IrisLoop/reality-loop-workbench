@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-19",
-  "generatedAt": "2026-09-20T00:06:54.862Z",
-  "targetDate": "2026-09-19",
+  "updated": "2026-09-20",
+  "generatedAt": "2026-09-21T00:12:30.973Z",
+  "targetDate": "2026-09-20",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
-    },
-    {
-      "name": "中国人民银行",
       "status": "failed",
       "itemCount": 0,
       "message": "fetch failed"
+    },
+    {
+      "name": "中国人民银行",
+      "status": "ok",
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -29,7 +29,7 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 50,
+      "itemCount": 42,
       "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "a1c1a04407d8f64ef172",
+      "id": "615d6b6ada98b3a5b9d4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
-      "summary": "Royal Caribbean (RCL) recently completed a $1.25 billion debt offering, which appears to be routine refinancing. However, this move highlights the company's significant debt obligations maturing in 2027 and 2028, and its continuous need for capital for new ships and destination projects, despite strong booking volumes. While earnings are growing, challenges such as flat third-quarter pricing and geopolitical impacts on bookings raise questions about future profitability.",
-      "source": "Insider Monkey",
+      "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+      "summary": "U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng are scheduled to meet on Sunday at JPMorgan Chase headquarters in New York. The meeting will address AI security, trade, and other economic matters, occurring just days before President Donald Trump hosts Chinese President Xi Jinping at the White House. JPMorgan is providing its headquarters as a venue due to heightened security in Manhattan for the United Nations General Assembly.",
+      "source": "Reuters",
       "sources": [
         {
-          "name": "Insider Monkey",
-          "url": "https://www.insidermonkey.com/news/royal-caribbeans-rcl-1-25b-debt-deal-hides-a-bigger-story-1840149/",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.insidermonkey.com/news/royal-caribbeans-rcl-1-25b-debt-deal-hides-a-bigger-story-1840149/",
+      "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19/",
       "urlType": "article",
-      "publishedAt": "2026-09-19T10:47:27.000Z",
-      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T18:36:28.000Z",
+      "date": "2026-09-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
+      "score": 24
     },
     {
-      "id": "014e3fed25540e39f331",
+      "id": "4918fc96570857d6b608",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Coca-Cola accelerates US investments with $10 billion plan",
-      "summary": "The Coca-Cola Company and its bottling partners plan to invest $10 billion in U.S. infrastructure between 2026 and 2030, including new production, distribution, and office facilities. This investment builds on their existing network of over 70 production facilities and hundreds of distribution centers. The company also highlighted a study showing its system contributed $85 billion to the U.S. GDP in 2025, supported nearly 1 million jobs, and allocated $37 billion to U.S. suppliers.",
-      "source": "voz.us",
-      "sources": [
-        {
-          "name": "voz.us",
-          "url": "https://voz.us/en/economy/260919/39228/10-000-million-in-investment-through-2030-coca-cola-strengthens-its-commitment-to-the-united-states.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://voz.us/en/economy/260919/39228/10-000-million-in-investment-through-2030-coca-cola-strengthens-its-commitment-to-the-united-states.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-19T11:52:04.000Z",
-      "date": "2026-09-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "3aaee666de0758eb1807",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Stellantis Canada plant's sale could allow Chinese entry, mayor warns",
-      "summary": "The mayor of Brampton, Ontario, warns that the sale of Stellantis's idled Brampton Assembly Plant could lead to Chinese automakers entering the Canadian market, potentially devastating the Detroit Three's business. This situation arises amid escalating trade tensions and tariffs, which have led Stellantis to shift production to the U.S. Canadian labor unions are strongly opposing the sale to a defense contractor and are pushing for Stellantis to honor its commitments and resume car assembly at the plant.",
-      "source": "The Detroit News",
-      "sources": [
-        {
-          "name": "The Detroit News",
-          "url": "https://eu.detroitnews.com/story/business/autos/chrysler/2026/09/19/canadian-mayor-warns-detroit-three-over-idled-stellantis-plants-future/91794223007/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://eu.detroitnews.com/story/business/autos/chrysler/2026/09/19/canadian-mayor-warns-detroit-three-over-idled-stellantis-plants-future/91794223007/",
-      "urlType": "article",
-      "publishedAt": "2026-09-19T04:02:51.000Z",
-      "date": "2026-09-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "a03c2a9fc713b90fd37e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside",
-      "summary": "Bank of America (BofA) has set a 12-month S&P 500 target of 7,800, representing a 2% upside from current levels, while also raising its year-end forecast to 7,400. Strategist Savita Subramanian highlighted potential market risks including inflation, Federal Reserve policy, and credit conditions, noting that half of BofA's bear market indicators have been triggered. Despite near-term concerns, BofA maintains a positive long-term outlook for equities, projecting significant earnings growth for the S&P 500 in 2026 and 2027, and favoring large-cap value stocks and equal-weighted indexes.",
-      "source": "Yahoo Finance",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sets-12-month-134200044.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sets-12-month-134200044.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-19T13:50:34.000Z",
-      "date": "2026-09-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "53c5f39c9364da184570",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Dollar Tree shares key update on higher prices",
-      "summary": "Dollar Tree has confirmed that its multi-price strategy, which includes items up to $7, is permanent and not a temporary measure against inflation. This shift follows strong Q2 2026 earnings, with total sales growth of 7.0% driven by customers purchasing higher-priced items. The company views multi-pricing as a key driver for growth and increased profitability, despite moving away from its original $1 price point.",
-      "source": "Belleville News-Democrat",
-      "sources": [
-        {
-          "name": "Belleville News-Democrat",
-          "url": "https://www.bnd.com/news/business/article317305691.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.bnd.com/news/business/article317305691.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-19T08:45:00.000Z",
-      "date": "2026-09-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "afef45d116df6a791f29",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "What Is Incyte Corporation (NASDAQ:INCY) Signaling Through Its Pipeline?",
-      "summary": "This article examines Incyte Corporation (NASDAQ:INCY) through the lens of its commercial portfolio and clinical pipeline progress, emphasizing that durable demand and disciplined execution are more critical than short-term market sentiment. It discusses how the company's business fundamentals interact with broader market conditions, including monetary-policy expectations and easing oil prices, and highlights the importance of consistent execution, clear communication, and strategic alignment in the healthcare sector. The piece suggests that investors should focus on Incyte's operational exposure and strategic rigor rather than solely on macro themes.",
+      "title": "What Is Driving the Conversation Around Barrick Mining (TSX:ABX)?",
+      "summary": "This article discusses the factors influencing Barrick Mining (TSX:ABX) in the Canadian market, focusing on how precious-metals businesses are affected by changing bond yields, currency fluctuations, and geopolitical demand for defensive assets. Barrick's operations are centered on gold and copper mining, and its performance is tied to specific operating considerations rather than just the broader TSX trends. The article emphasizes that company-specific disclosures and activities are crucial for understanding its progression within the current market environment.",
       "source": "Kalkine Media",
       "sources": [
         {
           "name": "Kalkine Media",
-          "url": "https://kalkinemedia.com/us/stocks/healthcare/what-is-incyte-corporation-nasdaqincy-signaling-through-its-pipeline",
+          "url": "https://kalkinemedia.com/ca/stocks/metal-and-mining/what-is-driving-the-conversation-around-barrick-mining-tsxabx",
           "urlType": "article"
         }
       ],
-      "url": "https://kalkinemedia.com/us/stocks/healthcare/what-is-incyte-corporation-nasdaqincy-signaling-through-its-pipeline",
+      "url": "https://kalkinemedia.com/ca/stocks/metal-and-mining/what-is-driving-the-conversation-around-barrick-mining-tsxabx",
       "urlType": "article",
-      "publishedAt": "2026-09-19T00:28:42.000Z",
-      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T17:08:31.000Z",
+      "date": "2026-09-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
+      "score": 24
     },
     {
-      "id": "5ff2fe8344955b1b2a0d",
+      "id": "ed42b88b9c62072d2e99",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dollar Tree Inc. stock gains support as Bank of America stakes $109 million and analysts lift target",
-      "summary": "Dollar Tree Inc. (DLTR) stock is gaining support after Bank of America Corp DE disclosed a $109.47 million stake, and analysts like Raymond James and Goldman Sachs lifted their price targets. The company reported strong Q2 earnings, exceeding analyst estimates, and authorized a $2.50 billion share buyback program. Despite mixed analyst sentiment, the consensus price target suggests an upside of approximately 17.6% from its current trading price.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-inc-stock-gains-support-as-bank-of-america-stakes-109/70132909",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-inc-stock-gains-support-as-bank-of-america-stakes-109/70132909",
-      "urlType": "article",
-      "publishedAt": "2026-09-19T14:48:40.000Z",
-      "date": "2026-09-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "2613a09737e3c591efb4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Intercontinental Exchange stock edges higher as interest-rate leverage draws analyst focus",
-      "summary": "Intercontinental Exchange (ICE) stock is gaining attention from analysts due to its strong ties to interest rates through its fixed-income and mortgage-technology platforms. Despite trading at a premium compared to some peers, analysts and fair-value models project a mid-to-high teens percentage upside. This outlook is supported by resilient earnings and structural demand linked to interest rates, though potential rate cuts pose a risk.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/intercontinental-exchange-stock-edges-higher-as-interest-rate-leverage/70131040",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/intercontinental-exchange-stock-edges-higher-as-interest-rate-leverage/70131040",
-      "urlType": "article",
-      "publishedAt": "2026-09-19T10:49:28.000Z",
-      "date": "2026-09-19",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "603683c74280ef11af7b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Scotiabank (TSX:BNS) Stock May Be 28% Undervalued After Record Q3 Results",
-      "summary": "Scotiabank's stock has seen a significant 146.0% increase over the past three years, prompting questions about whether this growth is fully supported by the bank's capital returns. Despite this, an Excess Returns model, bolstered by record Q3 2026 results and a CA$100 billion investment plan in Canadian projects, suggests that the bank's intrinsic worth is still meaningfully higher than its current market trading price, potentially indicating a 28% undervaluation. The article also touches on various community narratives about the bank's valuation and the importance of leadership and compensation in its outcomes.",
+      "title": "Freeport McMoRan (FCX) Stock Fair Value Edges Higher After Split Analyst Revisions",
+      "summary": "Freeport-McMoRan (FCX) has seen its stock's fair value increase from US$70.68 to US$72.59 following recent analyst revisions. Analysts are divided, with some bullish on copper demand and Grasberg execution, setting price targets between US$70 and US$82, while others are cautious due to tariff risks and nickel market uncertainty. The fair value adjustment reflects changes in modeled revenue growth, net profit margin assumptions, future P/E multiple, and discount rate.",
       "source": "Yahoo Finance",
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-tsx-bns-stock-may-231301510.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-fcx-stock-fair-011229976.html",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-tsx-bns-stock-may-231301510.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-fcx-stock-fair-011229976.html",
       "urlType": "article",
-      "publishedAt": "2026-09-19T06:30:28.000Z",
-      "date": "2026-09-19",
+      "publishedAt": "2026-09-20T01:40:55.000Z",
+      "date": "2026-09-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "7cf10ba3a83534da95cb",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Paycom Software stock holds steady as investors watch post-earnings trajectory",
+      "summary": "Paycom Software's stock is trading steadily on Nasdaq following its latest quarterly results, with investors now focused on the company's future growth strategy. The company reported year-over-year growth in revenue and earnings, indicating continued client acquisition and platform usage. Analysts are weighing the strong performance against competitive risks and macroeconomic headwinds, making upcoming financial results crucial for the stock's valuation.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paycom-software-stock-holds-steady-as-investors-watch-post-earnings/70136354",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paycom-software-stock-holds-steady-as-investors-watch-post-earnings/70136354",
+      "urlType": "article",
+      "publishedAt": "2026-09-20T09:56:23.000Z",
+      "date": "2026-09-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "efe513c0d8eb7168bda5",
+      "id": "9dbeba22e74446b97320",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Crown Breaks Ground on First India Beverage Can Plant",
-      "summary": "Crown Holdings Inc. has broken ground on its first beverage can manufacturing facility in India, located in Unnao, Uttar Pradesh. This plant, announced in April 2026, will feature two production lines capable of producing 2.2 billion aluminum beverage cans annually, with operations expected to start in the second half of 2027. The investment reflects Crown's confidence in the growing Indian beverage market and the increasing demand for sustainable packaging solutions.",
-      "source": "Machine Maker",
+      "title": "With Boats Getting Bigger, Money Is Flowing Into Marinas",
+      "summary": "As the super-rich acquire larger and more expensive boats, the demand for suitable docking and repair facilities has surged, leading to significant investment in the marina business. Blackstone, a private equity firm, has capitalized on this trend, expanding its marina portfolio from zero in 2024 to approximately 200 globally, including a $5.6 billion acquisition of Safe Harbor in early 2025. This consolidation reflects a growing recognition of marinas as valuable waterfront infrastructure and entertainment destinations.",
+      "source": "The New York Times",
       "sources": [
         {
-          "name": "Machine Maker",
-          "url": "https://themachinemaker.com/news/crown-breaks-ground-on-first-india-beverage-can-plant/",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/20/business/boats-marina-consolidation-blackstone.html",
           "urlType": "article"
         }
       ],
-      "url": "https://themachinemaker.com/news/crown-breaks-ground-on-first-india-beverage-can-plant/",
+      "url": "https://www.nytimes.com/2026/09/20/business/boats-marina-consolidation-blackstone.html",
       "urlType": "article",
-      "publishedAt": "2026-09-19T05:37:05.000Z",
-      "date": "2026-09-19",
+      "publishedAt": "2026-09-20T09:15:51.000Z",
+      "date": "2026-09-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "9aa42f6e2e5f70a4e750",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Bank of America Corp DE Buys New Position in Essex Property Trust, Inc. $ESS",
+      "summary": "Bank of America Corp DE has acquired a new stake of 275,322 shares in Essex Property Trust, Inc. (NYSE:ESS), valued at approximately $80.28 million, making them a significant institutional investor with about 0.43% ownership. Several other institutional investors also adjusted their positions in Essex Property Trust during recent quarters. The article also provides details on ESS's price performance, dividend announcement, and recent analyst ratings, noting a consensus \"Hold\" rating with an average target price of $303.24.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-buys-new-position-in-essex-property-trust-inc-ess-2026-09-20/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-buys-new-position-in-essex-property-trust-inc-ess-2026-09-20/",
+      "urlType": "article",
+      "publishedAt": "2026-09-20T07:45:41.000Z",
+      "date": "2026-09-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "361862101c249feef0f8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Regions Financial Corporation (NYSE:RF) Receives Average Recommendation of \"Hold\" from Brokerages",
+      "summary": "Regions Financial Corporation (NYSE:RF) has received an average \"Hold\" rating from twenty analysts, with an average one-year price target of $32.29. The company recently exceeded quarterly earnings expectations with $0.68 EPS and $1.95 billion in revenue. Additionally, Regions Financial increased its quarterly dividend to $0.30 per share, resulting in an annualized dividend of $1.20 and a yield of approximately 4.2%.",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/consensus-regions-financial-corporation-nyse-rf-receives-average-recommendation-of-hold-from-brokerages-2026-09-20/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/consensus-regions-financial-corporation-nyse-rf-receives-average-recommendation-of-hold-from-brokerages-2026-09-20/",
+      "urlType": "article",
+      "publishedAt": "2026-09-20T06:33:09.000Z",
+      "date": "2026-09-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "78239c8d49f6a7e00569",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "DXPE Should I Buy",
+      "summary": "DXP Enterprises, Inc. (DXPE) is recommended as a \"Buy\" due to strong Q2 earnings, a forward P/E of 13.59, and recent market position enhancements through acquisition. Despite positive indicators like a bullish options market and stable revenue growth, the high debt-to-equity ratio of 152.56% is identified as a significant risk. Analyst ratings show a mixed sentiment, with one firm raising its price target and another downgrading to Hold.",
+      "source": "Intellectia AI",
+      "sources": [
+        {
+          "name": "Intellectia AI",
+          "url": "https://intellectia.ai/stock/DXPE/should-i-buy",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://intellectia.ai/stock/DXPE/should-i-buy",
+      "urlType": "article",
+      "publishedAt": "2026-09-20T00:37:00.000Z",
+      "date": "2026-09-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "e9741ff8bc328426b105",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "How Much Upside is Left in Everus Construction Group, Inc. (ECG)? Wall Street Analysts Think 44.83%",
+      "summary": "Wall Street analysts project a potential upside of 44.8% for Everus Construction Group, Inc. (ECG), with a mean price target of $171. Despite historical skepticism around analyst price targets, a low standard deviation in estimates and strong earnings estimate revisions suggest a positive outlook for the stock. ECG currently holds a Zacks Rank #1 (Strong Buy), further reinforcing the potential for near-term upside.",
+      "source": "Eastern Progress",
+      "sources": [
+        {
+          "name": "Eastern Progress",
+          "url": "https://www.easternprogress.com/how-much-upside-is-left-in-everus-construction-group-inc-ecg-wall-street-analysts-think/article_03d768e8-8cfc-5db0-8793-3859d648582f.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.easternprogress.com/how-much-upside-is-left-in-everus-construction-group-inc-ecg-wall-street-analysts-think/article_03d768e8-8cfc-5db0-8793-3859d648582f.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-19T20:35:03.000Z",
+      "date": "2026-09-20",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "14561771723331e4b721",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Can Costco Wholesale (NASDAQ:COST) Keep Its Value Edge?",
+      "summary": "This article examines Costco Wholesale's position in the retail sector, focusing on its membership model and consumer value proposition. It emphasizes that while broader market trends provide context, Costco's success hinges on its operational execution, demand visibility, and strategic adaptability amidst changing market conditions, rather than short-term sentiment. The analysis highlights the importance of repeat customers, execution discipline, strategic fit, transparent communication, and cash pacing for the company's sustained value edge.",
+      "source": "Kalkine Media",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://kalkinemedia.com/us/stocks/retail/can-costco-wholesale-nasdaqcost-keep-its-value-edge",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://kalkinemedia.com/us/stocks/retail/can-costco-wholesale-nasdaqcost-keep-its-value-edge",
+      "urlType": "article",
+      "publishedAt": "2026-09-19T20:23:01.000Z",
+      "date": "2026-09-20",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
