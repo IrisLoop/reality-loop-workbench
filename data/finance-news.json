@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-21",
-  "generatedAt": "2026-09-22T00:46:49.927Z",
-  "targetDate": "2026-09-21",
+  "updated": "2026-09-22",
+  "generatedAt": "2026-09-23T00:24:42.710Z",
+  "targetDate": "2026-09-22",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "61415f1b5008e24d85c4",
+      "id": "dfaeb8843dfe06c81b46",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "How Harley-Davidson, an American Icon, Became a Tariff Punching Bag",
-      "summary": "Harley-Davidson has repeatedly become a target for retaliatory tariffs from foreign governments, such as the European Union and Canada, whenever the U.S. imposes new tariffs. This trend continued recently when Canada levied a 50% import duty on Harley-Davidson products in response to heightened U.S. tariffs. The company's high-profile American status makes it a convenient symbol for tariff payback.",
+      "title": "CarMax Cuts Jobs for Third Time in 12 Months Amid Soft Auto Market",
+      "summary": "CarMax has cut 145 white-collar jobs, approximately 4% of its corporate staff, marking its third round of layoffs in a year. This move by the nation's largest used-car retailer is part of a turnaround strategy under CEO Keith Barr to boost sales and profitability amidst high prices and rising interest rates in the auto market.",
       "source": "WSJ",
       "sources": [
         {
           "name": "WSJ",
-          "url": "https://www.wsj.com/economy/trade/how-harley-davidson-an-american-icon-became-a-tariff-punching-bag-3eb09c06",
+          "url": "https://www.wsj.com/business/autos/carmax-cuts-jobs-for-third-time-in-12-months-amid-soft-auto-market-c49169dd",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/economy/trade/how-harley-davidson-an-american-icon-became-a-tariff-punching-bag-3eb09c06",
+      "url": "https://www.wsj.com/business/autos/carmax-cuts-jobs-for-third-time-in-12-months-amid-soft-auto-market-c49169dd",
       "urlType": "article",
-      "publishedAt": "2026-09-21T09:25:53.000Z",
-      "date": "2026-09-21",
+      "publishedAt": "2026-09-21T18:28:56.000Z",
+      "date": "2026-09-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 32
+      "score": 25
     },
     {
-      "id": "ac9938990d468049e3b4",
+      "id": "a210c9e3caab6805ac99",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Chip Boom to Boost Korean Companies’ Cash, Goldman Sachs Says",
-      "summary": "Goldman Sachs analysts predict that the chip industry boom will significantly increase corporate cash for South Korean companies, with repatriated overseas earnings influencing domestic financial markets. South Korean semiconductor companies are projected to generate substantial net cash, potentially reaching 9.3% of GDP by 2027. This influx is also expected to lead to record-high wage and dividend payments from major chip companies.",
-      "source": "WSJ",
+      "title": "Coca-Cola to spend $10B on US manufacturing by 2030",
+      "summary": "Coca-Cola and its bottlers are set to invest $10 billion in U.S. manufacturing infrastructure by 2030 to meet increasing demand for its products. These investments will expand production, distribution, and office facilities across various states. The announcement follows a commissioned study revealing Coca-Cola's substantial economic impact in the U.S., contributing $85 billion to the GDP and supporting one million jobs.",
+      "source": "C-Store Dive",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a",
+          "name": "C-Store Dive",
+          "url": "https://www.cstoredive.com/news/coca-cola-us-manufacturing-10-billion-investment/830989/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a",
+      "url": "https://www.cstoredive.com/news/coca-cola-us-manufacturing-10-billion-investment/830989/",
       "urlType": "article",
-      "publishedAt": "2026-09-21T02:54:48.000Z",
-      "date": "2026-09-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 31
-    },
-    {
-      "id": "dfd5021af78f2b53ef25",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Why the bull market has kept defying the bears",
-      "summary": "Despite concerns like rising oil prices, increasing bond yields, and tighter monetary policies, the stock market, represented by the S&P 500 Index, has remained near record highs. This resilience is attributed to strong nominal growth, robust corporate earnings, contained credit spreads, and healthy consumer and corporate balance sheets. The article argues that the economy is less energy-intensive and has largely absorbed interest rate hikes, suggesting that market fundamentals are stronger than current worries.",
-      "source": "Invesco",
-      "sources": [
-        {
-          "name": "Invesco",
-          "url": "https://www.invesco.com/us/en/insights/why-bull-market-kept-defying-bears.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.invesco.com/us/en/insights/why-bull-market-kept-defying-bears.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-21T13:32:57.000Z",
-      "date": "2026-09-21",
+      "publishedAt": "2026-09-22T13:34:15.000Z",
+      "date": "2026-09-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "60df1cbb899ed6e8d94a",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行召开外资金融机构座谈会",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092118580513307/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092118580513307/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-21T10:58:05.000Z",
-      "date": "2026-09-21",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "8f3bd119e355c9491bbb",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "2026年8月金融市场运行情况",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092109135798884/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092109135798884/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-21T01:13:57.000Z",
-      "date": "2026-09-21",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "d30633ea520a1df6a301",
+      "id": "9f00180f0c608e8a2bac",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dollar General CEO says consumers making $100,000 a year don’t feel like high-income shoppers anymore as high gas prices and inflation reshape habits",
-      "summary": "Dollar General CEO Todd Vasos states that even consumers earning $100,000 annually no longer feel like high-income shoppers due to persistent inflation and high gas prices. This economic pressure is causing middle-to-upper-middle-income individuals to adopt shopping behaviors typically seen in lower-income shoppers, such as frequent visits to discount stores for smaller purchases. Despite these challenges, consumers remain resilient due to continued employment, with Dollar General positioning itself to serve all demographics with its low-priced offerings.",
-      "source": "Yahoo! Finance Canada",
+      "title": "Kroger Drops Red Bull, Some Boar's Head in Price Fight",
+      "summary": "Kroger has removed Red Bull from all its stores and some Boar's Head products from approximately 200 locations due to disputes over proposed price increases. This move is part of CEO Greg Foran's strategy to enhance Kroger's competitiveness by focusing on lower prices and faster service amidst rising food costs and inflation. While Red Bull's removal was directly linked to price, Boar's Head disputed that price was the reason for its partial delisting, citing operational and strategic factors.",
+      "source": "Briefs Finance",
       "sources": [
         {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/dollar-general-ceo-says-consumers-230301704.html",
+          "name": "Briefs Finance",
+          "url": "https://www.briefs.co/news/kroger-pulls-red-bull-and-some-boar-s-head-items-in-price-cl/",
           "urlType": "article"
         }
       ],
-      "url": "https://ca.finance.yahoo.com/news/dollar-general-ceo-says-consumers-230301704.html",
+      "url": "https://www.briefs.co/news/kroger-pulls-red-bull-and-some-boar-s-head-items-in-price-cl/",
       "urlType": "article",
-      "publishedAt": "2026-09-20T19:03:00.000Z",
-      "date": "2026-09-21",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "f64d6e5b24c996cb309e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "3 Retail Stocks Getting Crushed and the Long-Dated Options Trade on Each One",
-      "summary": "Retail stocks like TJX Companies, Burlington Stores, and Dick's Sporting Goods are experiencing significant selloffs despite strong earnings for some, driven by rising oil prices and tightening discretionary income. Andrew Keene, an options trader, is utilizing long-dated call options (January 2028 and June 2027) on these oversold stocks, specifically TJX, BURL, and DKS, to capitalize on potential rebounds while minimizing daily time decay. His strategy involves carefully sized positions based on average true range (ATR) and relative strength index (RSI), with plans to add to positions if stocks continue to decline, emphasizing risk management over prediction.",
-      "source": "MarketBeat",
-      "sources": [
-        {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/articles/3-retail-stocks-getting-crushed-and-the-long-dated-options-trade-on-each-one/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.marketbeat.com/articles/3-retail-stocks-getting-crushed-and-the-long-dated-options-trade-on-each-one/",
-      "urlType": "article",
-      "publishedAt": "2026-09-21T15:32:08.000Z",
-      "date": "2026-09-21",
+      "publishedAt": "2026-09-21T18:43:34.000Z",
+      "date": "2026-09-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "54d94ffbb95dce34bd92",
+      "id": "3a497f83c5b1cbc2f70d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Piper Sandler cuts Colgate-Palmolive stock price target on cost pressures",
-      "summary": "Piper Sandler has reduced its price target for Colgate-Palmolive to $95 from $98, citing elevated oil prices as a source of incremental cost pressure expected in the first half of 2027. Despite the cut, the firm maintains an Overweight rating, noting the stock trades below the new target and is undervalued based on InvestingPro data. The company faces U.S. market pressures but benefits from strong momentum in emerging markets.",
-      "source": "Investing.com",
+      "title": "Microchip Rises 17% YTD: Should You Buy, Sell or Hold the Stock?",
+      "summary": "Microchip Technology (MCHP) shares have risen 17.3% year-to-date, underperforming the broader Zacks Computer and Technology sector. While the company benefits from strong demand in data centers, industrial, automotive, and aerospace/defense markets, it faces challenges such as supply chain constraints, elevated debt, and intense competition. The stock currently has a \"Hold\" rating from Zacks Investment Research due to its premium valuation and balanced risks.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://uk.investing.com/news/stock-market-news/piper-sandler-cuts-colgatepalmolive-stock-price-target-on-cost-pressures-93CH-4875961",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-rises-17-ytd-buy-153600758.html",
           "urlType": "article"
         }
       ],
-      "url": "https://uk.investing.com/news/stock-market-news/piper-sandler-cuts-colgatepalmolive-stock-price-target-on-cost-pressures-93CH-4875961",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-rises-17-ytd-buy-153600758.html",
       "urlType": "article",
-      "publishedAt": "2026-09-21T11:52:00.000Z",
-      "date": "2026-09-21",
+      "publishedAt": "2026-09-22T15:13:40.000Z",
+      "date": "2026-09-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "8717f4e60386e0dde90e",
+      "id": "7f6abec2b57797b82953",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "John Deere Recalls Workers for Production Boost",
-      "summary": "John Deere is recalling over 375 employees to its Quad Cities manufacturing facilities to boost production and strengthen dealer inventory. This move, which includes workers returning to Seeding and Cylinder Operations and Harvester Works, aims to ensure equipment availability for farmers and contractors. Since January, the company has hired or recalled more than 800 employees across Iowa and Illinois to support long-term business plans and prepare for future agricultural seasons.",
-      "source": "Farms.com",
+      "title": "East Coast bank to lay off dozens of workers, close Tempe facility",
+      "summary": "Truist Bank, the retail banking arm of Truist Financial Corp., plans to close its Tempe, Arizona facility and lay off 120 employees. The layoffs, impacting workers in its near-prime auto loan subsidiary Regional Acceptance Corp., will occur in phases from November 30 through February 28, 2027, coinciding with the permanent closure of the facility. This decision was communicated to the Arizona Department of Economic Security in accordance with the WARN Act.",
+      "source": "ABC15 Arizona",
       "sources": [
         {
-          "name": "Farms.com",
-          "url": "https://www.farms.com/ag-industry-news/john-deere-recalls-workers-for-production-boost-203.aspx",
+          "name": "ABC15 Arizona",
+          "url": "https://www.abc15.com/news/business/east-coast-bank-to-lay-off-dozens-of-workers-close-tempe-facility",
           "urlType": "article"
         }
       ],
-      "url": "https://www.farms.com/ag-industry-news/john-deere-recalls-workers-for-production-boost-203.aspx",
+      "url": "https://www.abc15.com/news/business/east-coast-bank-to-lay-off-dozens-of-workers-close-tempe-facility",
       "urlType": "article",
-      "publishedAt": "2026-09-21T15:32:42.000Z",
-      "date": "2026-09-21",
+      "publishedAt": "2026-09-22T15:24:48.000Z",
+      "date": "2026-09-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "62a3ceb5458ce375ca9f",
+      "id": "b845850b30b66dddb7f9",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Should You Bet on IDCC After Dividend Hike Amid Macro Uncertainty?",
-      "summary": "InterDigital, Inc. (IDCC) recently raised its quarterly dividend, signaling confidence in its cash-generating abilities despite market volatility. The company boasts strong licensing momentum, record recurring revenues, and an upbeat 2026 outlook, bolstered by a significant agreement with Amazon. These factors, combined with a Zacks Rank #1, suggest potential for healthy long-term growth.",
+      "title": "PG vs. CL: Which Consumer Staples Giant Has Stronger Market Position?",
+      "summary": "This article compares the market positions of two consumer staples giants, Procter & Gamble (PG) and Colgate-Palmolive (CL). While PG boasts a broad portfolio and scale, Colgate's strength lies in its dominant oral care franchise and stronger operating momentum, as reflected in its recent stock performance and analyst estimates. The analysis concludes that Colgate currently presents a stronger investment case due to its healthier projected growth and increasing market confidence.",
+      "source": "Yahoo Finance Singapore",
+      "sources": [
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/news/pg-vs-cl-consumer-staples-143700151.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://sg.finance.yahoo.com/news/pg-vs-cl-consumer-staples-143700151.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-22T14:37:00.000Z",
+      "date": "2026-09-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "e6a45937c1ce98a5d10e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Edison International stock falls as wildfire costs threaten growth",
+      "summary": "Edison International's stock has fallen, trading near its 52-week low, primarily due to ongoing concerns about wildfire liability in California and the failure of protective legislation. Despite beating EPS estimates in Q2 2026, the company experienced a revenue miss, highlighting the pressure from legal, insurance, and borrowing costs. The utility reaffirms long-term EPS growth targets, but its stock performance is heavily impacted by these unresolved financial risks.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/edison-international-stock-falls-as-wildfire-costs-threaten-growth/70156791",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/edison-international-stock-falls-as-wildfire-costs-threaten-growth/70156791",
+      "urlType": "article",
+      "publishedAt": "2026-09-22T14:27:16.000Z",
+      "date": "2026-09-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "27f5a21e5248b98f4757",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "PG&E announces new California microgrid grant awardees",
+      "summary": "Pacific Gas and Electric Co. (PG&E) has awarded over $30 million in new grants for community microgrid solar projects across California, marking a significant expansion of its Microgrid Incentive Program. These projects, which build on an earlier $43 million investment, will enhance grid resilience in rural, coastal, Tribal, and high wildfire risk areas by using solar-plus-storage systems and innovative pumped-hydro designs. They aim to maintain power for critical facilities like hospitals and schools during outages and advance clean energy solutions.",
+      "source": "Solar Builder",
+      "sources": [
+        {
+          "name": "Solar Builder",
+          "url": "https://solarbuildermag.com/projects/pge-announces-new-california-microgrid-grant-awardees/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://solarbuildermag.com/projects/pge-announces-new-california-microgrid-grant-awardees/",
+      "urlType": "article",
+      "publishedAt": "2026-09-22T12:47:18.000Z",
+      "date": "2026-09-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "167e9d44b7e00c249f94",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Marshalls Is Closing Stores: See Updated List of Doomed Locations for 2026",
+      "summary": "Marshalls is reevaluating its retail footprint across the U.S., leading to both permanent and temporary store closures, as well as relocations, while simultaneously expanding its operations. Its parent company, TJX, reported a 7 percent increase in net sales to over $60.4 billion last fiscal year and plans to accelerate store openings, aiming for a total of 7,500 stores globally. The closures are a strategic move to optimize locations for better long-term returns, rather than an indicator of declining health in the off-price retail sector.",
+      "source": "Inc.com",
+      "sources": [
+        {
+          "name": "Inc.com",
+          "url": "https://www.inc.com/amaya-nichole/marshalls-is-closing-stores-updated-listed-of-doomed-locations-for-2026/91406269",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.inc.com/amaya-nichole/marshalls-is-closing-stores-updated-listed-of-doomed-locations-for-2026/91406269",
+      "urlType": "article",
+      "publishedAt": "2026-09-22T12:32:04.000Z",
+      "date": "2026-09-22",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "fd99c7ad1099b1fd0b9a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital",
+      "summary": "KKR has launched Akrapoint Commercial Capital, an equipment finance platform focused on vocational, specialty trailer, and industrial equipment financing for small and middle-market businesses. KKR's Asset Based Finance strategy will commit $350 million to support the launch. The new platform will be led by CEO Nate Smith and chaired by Gary Shivers, bringing together extensive industry experience and long-term capital to address growing demand for equipment financing.",
       "source": "Yahoo! Finance Canada",
       "sources": [
         {
           "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/bet-idcc-dividend-hike-amid-152000169.html",
+          "url": "https://ca.finance.yahoo.com/news/kkr-launches-equipment-finance-platform-110000506.html",
           "urlType": "article"
         }
       ],
-      "url": "https://ca.finance.yahoo.com/news/bet-idcc-dividend-hike-amid-152000169.html",
+      "url": "https://ca.finance.yahoo.com/news/kkr-launches-equipment-finance-platform-110000506.html",
       "urlType": "article",
-      "publishedAt": "2026-09-21T14:59:50.000Z",
-      "date": "2026-09-21",
+      "publishedAt": "2026-09-22T11:18:44.000Z",
+      "date": "2026-09-22",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
