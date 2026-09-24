@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-22",
-  "generatedAt": "2026-09-23T00:24:42.710Z",
-  "targetDate": "2026-09-22",
+  "updated": "2026-09-23",
+  "generatedAt": "2026-09-24T00:27:12.490Z",
+  "targetDate": "2026-09-23",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "dfaeb8843dfe06c81b46",
+      "id": "27eb8daf151d2570331b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "CarMax Cuts Jobs for Third Time in 12 Months Amid Soft Auto Market",
-      "summary": "CarMax has cut 145 white-collar jobs, approximately 4% of its corporate staff, marking its third round of layoffs in a year. This move by the nation's largest used-car retailer is part of a turnaround strategy under CEO Keith Barr to boost sales and profitability amidst high prices and rising interest rates in the auto market.",
-      "source": "WSJ",
+      "title": "AutoZone Q4 Earnings Beat Estimates on Tariff Refunds, Sales Miss",
+      "summary": "AutoZone (AZO) reported strong fiscal Q4 2026 earnings per share of $56.05, surpassing estimates due to tariff refunds and gross margin expansion, despite sales of $6.60 billion falling short of consensus. The company saw robust commercial sales growth and expanded its global footprint with 175 new stores, alongside significant share repurchases.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://www.wsj.com/business/autos/carmax-cuts-jobs-for-third-time-in-12-months-amid-soft-auto-market-c49169dd",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-q4-earnings-beat-estimates-135200571.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.wsj.com/business/autos/carmax-cuts-jobs-for-third-time-in-12-months-amid-soft-auto-market-c49169dd",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-q4-earnings-beat-estimates-135200571.html",
       "urlType": "article",
-      "publishedAt": "2026-09-21T18:28:56.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T13:52:31.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
+      "score": 20
     },
     {
-      "id": "a210c9e3caab6805ac99",
+      "id": "f84f3db56be0aa8cc1e9",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Coca-Cola to spend $10B on US manufacturing by 2030",
-      "summary": "Coca-Cola and its bottlers are set to invest $10 billion in U.S. manufacturing infrastructure by 2030 to meet increasing demand for its products. These investments will expand production, distribution, and office facilities across various states. The announcement follows a commissioned study revealing Coca-Cola's substantial economic impact in the U.S., contributing $85 billion to the GDP and supporting one million jobs.",
-      "source": "C-Store Dive",
+      "title": "US Services Activity Surge to 5-Year High: S&P Global",
+      "summary": "The S&P Global US Services PMI reached 58.7 in September 2026, marking its strongest expansion in over five years, driven by a surge in new orders and employment growth. This increase occurred despite rising input costs, primarily due to fuel price hikes from the war in Iran. However, future business confidence remains tempered by cost-of-living concerns.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "C-Store Dive",
-          "url": "https://www.cstoredive.com/news/coca-cola-us-manufacturing-10-billion-investment/830989/",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/te_news:586153:0-us-services-activity-surge-to-5-year-high-s-p-global/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.cstoredive.com/news/coca-cola-us-manufacturing-10-billion-investment/830989/",
+      "url": "https://www.tradingview.com/news/te_news:586153:0-us-services-activity-surge-to-5-year-high-s-p-global/",
       "urlType": "article",
-      "publishedAt": "2026-09-22T13:34:15.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T13:39:11.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 20
     },
     {
-      "id": "9f00180f0c608e8a2bac",
+      "id": "9a0795b0b4f352978f26",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kroger Drops Red Bull, Some Boar's Head in Price Fight",
-      "summary": "Kroger has removed Red Bull from all its stores and some Boar's Head products from approximately 200 locations due to disputes over proposed price increases. This move is part of CEO Greg Foran's strategy to enhance Kroger's competitiveness by focusing on lower prices and faster service amidst rising food costs and inflation. While Red Bull's removal was directly linked to price, Boar's Head disputed that price was the reason for its partial delisting, citing operational and strategic factors.",
-      "source": "Briefs Finance",
+      "title": "Do New Community Openings Change The Bull Case For Century Communities (CCS)?",
+      "summary": "Century Communities (CCS) recently announced several new community openings across multiple states, expanding its footprint, especially in the entry-level housing market. This expansion aims to address affordability and demand pressures, with a notable development being Mirabella near West Houston, which will add over 1,100 homesites. While analysts have mixed views on the impact of these new communities on Century Communities' financial outlook, the company's focus remains on growing its community count and managing existing pressures from elevated mortgage rates and cost inflation.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "Briefs Finance",
-          "url": "https://www.briefs.co/news/kroger-pulls-red-bull-and-some-boar-s-head-items-in-price-cl/",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-ccs/century-communities/news/do-new-community-openings-change-the-bull-case-for-century-c",
           "urlType": "article"
         }
       ],
-      "url": "https://www.briefs.co/news/kroger-pulls-red-bull-and-some-boar-s-head-items-in-price-cl/",
+      "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-ccs/century-communities/news/do-new-community-openings-change-the-bull-case-for-century-c",
       "urlType": "article",
-      "publishedAt": "2026-09-21T18:43:34.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T12:47:57.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "3a497f83c5b1cbc2f70d",
+      "id": "07b4a337e658f1d9ffc9",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Microchip Rises 17% YTD: Should You Buy, Sell or Hold the Stock?",
-      "summary": "Microchip Technology (MCHP) shares have risen 17.3% year-to-date, underperforming the broader Zacks Computer and Technology sector. While the company benefits from strong demand in data centers, industrial, automotive, and aerospace/defense markets, it faces challenges such as supply chain constraints, elevated debt, and intense competition. The stock currently has a \"Hold\" rating from Zacks Investment Research due to its premium valuation and balanced risks.",
-      "source": "Yahoo Finance",
+      "title": "Delta Air Lines stock gains 1.72 percent as earnings near",
+      "summary": "Delta Air Lines stock saw a 1.72 percent gain, closing at USD 83.92 on September 22, 2026, ahead of its next earnings release. The airline reported quarterly revenue of USD 17.67 billion, exceeding analyst expectations, with adjusted earnings per share of USD 1.56. Lower oil prices are seen as a positive factor for airline stocks, easing cost pressures for companies like Delta.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-rises-17-ytd-buy-153600758.html",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/delta-air-lines-stock-gains-1-72-percent-as-earnings-near/70165633",
           "urlType": "article"
         }
       ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-rises-17-ytd-buy-153600758.html",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/delta-air-lines-stock-gains-1-72-percent-as-earnings-near/70165633",
       "urlType": "article",
-      "publishedAt": "2026-09-22T15:13:40.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T11:13:00.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "7f6abec2b57797b82953",
+      "id": "685cd57dba7d1038cc9f",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "East Coast bank to lay off dozens of workers, close Tempe facility",
-      "summary": "Truist Bank, the retail banking arm of Truist Financial Corp., plans to close its Tempe, Arizona facility and lay off 120 employees. The layoffs, impacting workers in its near-prime auto loan subsidiary Regional Acceptance Corp., will occur in phases from November 30 through February 28, 2027, coinciding with the permanent closure of the facility. This decision was communicated to the Arizona Department of Economic Security in accordance with the WARN Act.",
-      "source": "ABC15 Arizona",
+      "title": "Will Dollar Tree's Strategic Initiatives and Store Expansions Aid?",
+      "summary": "Dollar Tree (DLTR) is strengthening its business through strategic initiatives including assortment expansion, multi-price penetration, and store improvements. The company reported a 7% year-over-year increase in net sales and raised its fiscal 2026 outlook. Dollar Tree's stock has outperformed the industry, and its valuation and future earnings estimates appear favorable, earning it a Zacks Rank #2 (Buy).",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "ABC15 Arizona",
-          "url": "https://www.abc15.com/news/business/east-coast-bank-to-lay-off-dozens-of-workers-close-tempe-facility",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:d36488ae5094b:0-will-dollar-tree-s-strategic-initiatives-and-store-expansions-aid/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.abc15.com/news/business/east-coast-bank-to-lay-off-dozens-of-workers-close-tempe-facility",
+      "url": "https://www.tradingview.com/news/zacks:d36488ae5094b:0-will-dollar-tree-s-strategic-initiatives-and-store-expansions-aid/",
       "urlType": "article",
-      "publishedAt": "2026-09-22T15:24:48.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T15:44:07.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "b845850b30b66dddb7f9",
+      "id": "ba37348109616ce76f20",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "PG vs. CL: Which Consumer Staples Giant Has Stronger Market Position?",
-      "summary": "This article compares the market positions of two consumer staples giants, Procter & Gamble (PG) and Colgate-Palmolive (CL). While PG boasts a broad portfolio and scale, Colgate's strength lies in its dominant oral care franchise and stronger operating momentum, as reflected in its recent stock performance and analyst estimates. The analysis concludes that Colgate currently presents a stronger investment case due to its healthier projected growth and increasing market confidence.",
-      "source": "Yahoo Finance Singapore",
+      "title": "Paychex stock slumps after Q1 earnings beat; earnings, revenue guidance unchanged (PAYX:NASDAQ)",
+      "summary": "Paychex stock experienced a 7.4% decline despite beating Q1 earnings consensus, as total expenses exceeded expectations, leading to a miss in adjusted EBITDA. The company reaffirmed its full-year earnings and revenue guidance, but raised outlooks for PEO/insurance revenue growth and interest on funds held for clients. While PEO and insurance solution revenue growth accelerated, management solutions and interest on funds held for clients showed slowing year-over-year growth rates.",
+      "source": "Seeking Alpha",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/news/pg-vs-cl-consumer-staples-143700151.html",
+          "name": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4645990-paychex-stock-slumps-after-q1-earnings-beat-earnings-revenue-guidance-unchanged",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/news/pg-vs-cl-consumer-staples-143700151.html",
+      "url": "https://seekingalpha.com/news/4645990-paychex-stock-slumps-after-q1-earnings-beat-earnings-revenue-guidance-unchanged",
       "urlType": "article",
-      "publishedAt": "2026-09-22T14:37:00.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T15:41:22.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "e6a45937c1ce98a5d10e",
+      "id": "d7393f4f4ca37f865999",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Edison International stock falls as wildfire costs threaten growth",
-      "summary": "Edison International's stock has fallen, trading near its 52-week low, primarily due to ongoing concerns about wildfire liability in California and the failure of protective legislation. Despite beating EPS estimates in Q2 2026, the company experienced a revenue miss, highlighting the pressure from legal, insurance, and borrowing costs. The utility reaffirms long-term EPS growth targets, but its stock performance is heavily impacted by these unresolved financial risks.",
+      "title": "Paychex Inc Stock (PAYX) Moved Down by 7.07% on Sep 23: What Signal Does It Send?",
+      "summary": "Paychex Inc (PAYX) stock fell by 7.07% despite reporting in-line revenue and an earnings beat for Q1 FY2027, primarily due to modest softness in its core Management Solutions segment and management's decision to maintain full-year guidance instead of raising it. Technical indicators show sell signals and oversold conditions, reflecting investor disappointment over valuation sensitivities and lack of organic growth acceleration expectations. The company's profitability also relied heavily on client float income and expense discipline rather than revenue outperformance.",
+      "source": "TradingKey",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262183139-market-movers-payx-20260923",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingkey.com/news/market-movers/262183139-market-movers-payx-20260923",
+      "urlType": "article",
+      "publishedAt": "2026-09-23T15:40:13.000Z",
+      "date": "2026-09-23",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "6e7aae5ccdf76ed6adfe",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Moody's (MCO) Draws Growth Attention, Is The Stock Fully Valued?",
+      "summary": "Moody's (MCO) is back in focus due to strong earnings estimates and operational efficiency, despite recent share price dips. While Simply Wall St's narrative suggests it's approximately fairly valued at $473.36, a different view based on P/E ratio indicates potential overvaluation compared to its fair ratio and peers. Investors are encouraged to review underlying data to weigh the mixed signals regarding its valuation and risk.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-mco/moodys/news/moodys-mco-draws-growth-attention-is-the-stock-fully-valued",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-mco/moodys/news/moodys-mco-draws-growth-attention-is-the-stock-fully-valued",
+      "urlType": "article",
+      "publishedAt": "2026-09-23T15:39:32.000Z",
+      "date": "2026-09-23",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "451a3575266bc296c239",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Starbucks stock slips 1.08 percent as Q3 margins widen",
+      "summary": "Starbucks stock decreased by 1.08% despite reporting strong Q3 FY2026 results. The company's adjusted EPS beat consensus estimates by 28.8%, and global comparable sales rose by 7.9%. Management also raised its fiscal 2026 adjusted EPS guidance, indicating robust operational performance even as the stock trades below its yearly high.",
       "source": "AD HOC NEWS",
       "sources": [
         {
           "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/edison-international-stock-falls-as-wildfire-costs-threaten-growth/70156791",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-slips-1-08-percent-as-q3-margins-widen/70168368",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/edison-international-stock-falls-as-wildfire-costs-threaten-growth/70156791",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/starbucks-stock-slips-1-08-percent-as-q3-margins-widen/70168368",
       "urlType": "article",
-      "publishedAt": "2026-09-22T14:27:16.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T15:26:14.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "27f5a21e5248b98f4757",
+      "id": "54429733db75f4a2bab8",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "PG&E announces new California microgrid grant awardees",
-      "summary": "Pacific Gas and Electric Co. (PG&E) has awarded over $30 million in new grants for community microgrid solar projects across California, marking a significant expansion of its Microgrid Incentive Program. These projects, which build on an earlier $43 million investment, will enhance grid resilience in rural, coastal, Tribal, and high wildfire risk areas by using solar-plus-storage systems and innovative pumped-hydro designs. They aim to maintain power for critical facilities like hospitals and schools during outages and advance clean energy solutions.",
-      "source": "Solar Builder",
+      "title": "Installed Building Products stock weighs Q2 gains against housing strain",
+      "summary": "Installed Building Products (IBP) reported strong Q2 2026 financial results, with revenues up 2.3% year-over-year to $777.8 million and adjusted EPS of $2.91, significantly beating analyst consensus. Despite a 6% decline in residential same-branch sales, the company saw a 10% increase in commercial same-branch sales, indicating a shift in market dynamics. IBP's stock traded at $209.90, above its 52-week low, with analysts giving it a consensus \"Hold\" rating.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Solar Builder",
-          "url": "https://solarbuildermag.com/projects/pge-announces-new-california-microgrid-grant-awardees/",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/installed-building-products-stock-weighs-q2-gains-against-housing-strain/70168329",
           "urlType": "article"
         }
       ],
-      "url": "https://solarbuildermag.com/projects/pge-announces-new-california-microgrid-grant-awardees/",
+      "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/installed-building-products-stock-weighs-q2-gains-against-housing-strain/70168329",
       "urlType": "article",
-      "publishedAt": "2026-09-22T12:47:18.000Z",
-      "date": "2026-09-22",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "167e9d44b7e00c249f94",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Marshalls Is Closing Stores: See Updated List of Doomed Locations for 2026",
-      "summary": "Marshalls is reevaluating its retail footprint across the U.S., leading to both permanent and temporary store closures, as well as relocations, while simultaneously expanding its operations. Its parent company, TJX, reported a 7 percent increase in net sales to over $60.4 billion last fiscal year and plans to accelerate store openings, aiming for a total of 7,500 stores globally. The closures are a strategic move to optimize locations for better long-term returns, rather than an indicator of declining health in the off-price retail sector.",
-      "source": "Inc.com",
-      "sources": [
-        {
-          "name": "Inc.com",
-          "url": "https://www.inc.com/amaya-nichole/marshalls-is-closing-stores-updated-listed-of-doomed-locations-for-2026/91406269",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.inc.com/amaya-nichole/marshalls-is-closing-stores-updated-listed-of-doomed-locations-for-2026/91406269",
-      "urlType": "article",
-      "publishedAt": "2026-09-22T12:32:04.000Z",
-      "date": "2026-09-22",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "fd99c7ad1099b1fd0b9a",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital",
-      "summary": "KKR has launched Akrapoint Commercial Capital, an equipment finance platform focused on vocational, specialty trailer, and industrial equipment financing for small and middle-market businesses. KKR's Asset Based Finance strategy will commit $350 million to support the launch. The new platform will be led by CEO Nate Smith and chaired by Gary Shivers, bringing together extensive industry experience and long-term capital to address growing demand for equipment financing.",
-      "source": "Yahoo! Finance Canada",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/news/kkr-launches-equipment-finance-platform-110000506.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ca.finance.yahoo.com/news/kkr-launches-equipment-finance-platform-110000506.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-22T11:18:44.000Z",
-      "date": "2026-09-22",
+      "publishedAt": "2026-09-23T15:17:09.000Z",
+      "date": "2026-09-23",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
