@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-26",
-  "generatedAt": "2026-09-27T00:30:43.759Z",
-  "targetDate": "2026-09-26",
+  "updated": "2026-09-27",
+  "generatedAt": "2026-09-28T00:37:56.272Z",
+  "targetDate": "2026-09-27",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -29,8 +29,8 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 50,
-      "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
+      "itemCount": 68,
+      "message": "economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；ipo: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at "
     },
     {
       "name": "GDELT",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "deb4b32fd86f16e47b4d",
+      "id": "9d5a8ddb780ccf57f49e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Delta Air Lines Stock Rises Friday: What's Going On?",
-      "summary": "Delta Air Lines (DAL) shares are trading higher on Friday due to a diplomatic breakthrough in the Middle East that led to a retreat in global crude oil and jet fuel prices. Iran's proposal to reopen the Strait of Hormuz and resume nuclear negotiations eased geopolitical risk premiums, lowering energy futures. This decline in fuel costs provides a significant operational benefit to airlines, especially heading into the holiday travel season, enhancing expected profitability for Delta.",
-      "source": "Benzinga",
+      "title": "Corteva, Inc. (CTVA) latest stock news and headlines",
+      "summary": "This article provides a compilation of recent news and headlines concerning Corteva, Inc. (CTVA), along with its stock performance data. It features articles from various financial news sources discussing topics such as China tariff cuts, Vylor's registration statement and partnerships, comparisons with other agricultural leaders, and long-term growth trends in the agriculture sector. The stock information includes the current price, changes, and trailing total returns compared to the S&P 500 benchmark.",
+      "source": "Yahoo Finance Singapore",
       "sources": [
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62007263/delta-air-lines-stock-rises-friday-whats-going-on",
+          "name": "Yahoo Finance Singapore",
+          "url": "https://sg.finance.yahoo.com/quote/CTVA/news/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62007263/delta-air-lines-stock-rises-friday-whats-going-on",
+      "url": "https://sg.finance.yahoo.com/quote/CTVA/news/",
       "urlType": "article",
-      "publishedAt": "2026-09-25T19:49:00.000Z",
-      "date": "2026-09-26",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
-    },
-    {
-      "id": "14f9474d90d94fb7cf36",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Match Group stock falls 0.61 percent to USD 40.55 at the last close on September 25, 2026",
-      "summary": "Match Group's stock fell by 0.61% to USD 40.55 at the close of trading on September 25, 2026, underperforming the S&P 500, which rose by 0.51%. The company's shares traded at USD 40.55 in after-hours trading and are 7.25% below their 52-week high. This decline occurred on a day when the broader market saw gains, influenced by falling Treasury yields and oil prices, while upcoming economic data releases are anticipated next week.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/match-group-stock-falls-0-61-percent-to-usd-40-55-at-the-last-close-on/70186053",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/match-group-stock-falls-0-61-percent-to-usd-40-55-at-the-last-close-on/70186053",
-      "urlType": "article",
-      "publishedAt": "2026-09-26T09:41:24.000Z",
-      "date": "2026-09-26",
+      "publishedAt": "2026-09-27T14:14:31.000Z",
+      "date": "2026-09-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "254ee3fc2572fdc65657",
+      "id": "4fe7416355278008ceb3",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Russian Strikes Force ArcelorMittal Kryvyi Rih To Suspend Production, Killing Five Workers: 15 outlets compared",
-      "summary": "ArcelorMittal Kryvyi Rih, Ukraine’s largest steel plant, has suspended production after enduring four Russian strikes over five weeks, resulting in the deaths of five workers and substantial damage. The company stated that continued operations could not be carried out safely and sustainably, expecting a non-cash impairment charge of approximately $1 billion. This shutdown significantly impacts Ukraine's steel sector, which accounts for a substantial portion of the country's GDP and exports, exacerbating economic challenges and raising concerns about the future of the industry and its employees.",
-      "source": "NewsCord",
+      "title": "Conferencia de resultados del primer trimestre fiscal de 2027 de Cintas (CTAS): los ingresos superan los 3.000 millones de dólares y se elevan las previsiones",
+      "summary": "Cintas Corporation reported record-breaking Q1 fiscal 2027 results, with revenues exceeding $3 billion for the first time, driven by strong customer acquisition, retention, and cross-selling. The company raised its full-year revenue guidance to between $12.15 billion and $12.27 billion and adjusted EPS to between $5.45 and $5.54. Cintas attributes its success to operational efficiency, technological investments, and a strong corporate culture, which help manage inflationary pressures and maintain margins despite a dynamic economic environment.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "NewsCord",
-          "url": "https://newscord.org/article/russian-strikes-force-arcelormittal-kryvyi-rih-to-suspend-production-killing-fiv--Story_20260925_Ukraineslargeststeel24a210d6",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/es/news/transcripts/262183509-tradingKey",
           "urlType": "article"
         }
       ],
-      "url": "https://newscord.org/article/russian-strikes-force-arcelormittal-kryvyi-rih-to-suspend-production-killing-fiv--Story_20260925_Ukraineslargeststeel24a210d6",
+      "url": "https://www.tradingkey.com/es/news/transcripts/262183509-tradingKey",
       "urlType": "article",
-      "publishedAt": "2026-09-26T01:55:04.000Z",
-      "date": "2026-09-26",
+      "publishedAt": "2026-09-27T08:47:22.000Z",
+      "date": "2026-09-27",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "ad689e51d1d399bd53c5",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Deere (DE) Could Be 9% Below Fair Value On Q2 Earnings Beat",
+      "summary": "Deere (DE) recently announced a US$1.62 cash dividend, drawing attention to its Q2 earnings beat. While one valuation model suggests the stock is fairly priced at $690.46, another Discounted Cash Flow (DCF) model indicates it could be undervalued by about 9.2%, with a fair value of $760.06. The company's strong performance, especially in its Construction & Forestry segment, supports the optimistic outlook, though risks like elevated tariffs or weak agricultural demand could impact its narrative.",
+      "source": "Simply Wall Street",
+      "sources": [
+        {
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-de-could-be-9-below-fair-value-on-q2-earnings-beat",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-de-could-be-9-below-fair-value-on-q2-earnings-beat",
+      "urlType": "article",
+      "publishedAt": "2026-09-26T21:50:02.000Z",
+      "date": "2026-09-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "1638bbbae14063e844dd",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Microchip Technology (MCHP) Expands 48V Power Monitoring With New PAC1761 And PAC1861",
-      "summary": "Microchip Technology has introduced new PAC1761 and PAC1861 high-voltage digital power monitors, targeting 48V systems in automotive, AI, data center, server, networking, and industrial automation applications. This expansion aims to support more efficient power usage and system resilience, aligning with the company's strategy to leverage growing AI and data center exposure. However, the launch also highlights potential challenges related to supply chain capacity and increased working capital tied to inventory.",
-      "source": "Simply Wall Street",
+      "id": "6eed05bfec09d6e8876f",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "China May Let Alibaba Buy New Nvidia Chips, The Information Says",
+      "summary": "The Chinese government has reportedly indicated it might permit companies like Alibaba and ByteDance to acquire Nvidia's new RTX Pro 5500 chips. The Ministry of Industry and Information Technology has asked companies for their purchase plans and intends to approve these acquisitions for the high-end graphics processor. This comes despite ongoing concerns regarding US technology restrictions.",
+      "source": "Bloomberg.com",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mchp/microchip-technology/news/microchip-technology-mchp-expands-48v-power-monitoring-with/amp",
+          "name": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mchp/microchip-technology/news/microchip-technology-mchp-expands-48v-power-monitoring-with/amp",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
       "urlType": "article",
-      "publishedAt": "2026-09-25T21:43:17.000Z",
-      "date": "2026-09-26",
+      "publishedAt": "2026-09-27T15:41:54.000Z",
+      "date": "2026-09-27",
       "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "score": 28
     },
     {
-      "id": "42aef797272b00e65f26",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "TJX CEO: Distribution model will help weather El Niño",
-      "summary": "TJX Companies' CEO Ernie Herrman stated that the retailer's warehouse distribution model will help it navigate weather-related events like El Niño. Unlike traditional retailers, TJX can hold inventory in its warehouses and distribute it based on real-time data and weather patterns, offering greater control over its supply chain. This \"hold and flow\" model allows the off-price retailer to react strategically to environmental changes and customer demand.",
-      "source": "Retail Dive",
+      "id": "00f4039ddc6ea132bce5",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "Pakistan Finance Minister's US Exim talks covered financing for Boeing aircraft, adviser says",
+      "summary": "Pakistan's Finance Minister discussed potential US Export-Import Bank financing for Boeing aircraft for privatized PIA, refinery upgrades, and the Reko Diq copper and gold mining project. An adviser clarified that the government is assisting PIA in accessing financing but is not directly purchasing aircraft or providing sovereign guarantees. The US EXIM could secure financing against the aircraft and assess the airline's creditworthiness, meaning a sovereign guarantee is not automatic.",
+      "source": "Reuters",
       "sources": [
         {
-          "name": "Retail Dive",
-          "url": "https://www.retaildive.com/news/tjx-ceo-distribution-model-el-nino/831118/",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-finance-ministers-us-exim-talks-covered-financing-boeing-aircraft-2026-09-27/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.retaildive.com/news/tjx-ceo-distribution-model-el-nino/831118/",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-finance-ministers-us-exim-talks-covered-financing-boeing-aircraft-2026-09-27/",
       "urlType": "article",
-      "publishedAt": "2026-09-25T21:40:13.000Z",
-      "date": "2026-09-26",
+      "publishedAt": "2026-09-27T13:16:51.000Z",
+      "date": "2026-09-27",
       "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "score": 28
     },
     {
-      "id": "3b39fae6c8ff6f05456a",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Johnson & Johnson (NYSE:JNJ) Declares Quarterly Dividend, Extending Decades-Long Streak",
-      "summary": "Johnson & Johnson (NYSE:JNJ) has declared another quarterly dividend, extending its streak of annual increases to over six decades. This consistent cash distribution is supported by the company's diversified healthcare operations, spanning pharmaceuticals and medical technology, which provide stable cash generation across economic cycles. The move reinforces JNJ's reputation for reliability, making it an attractive stock for cash-focused investors.",
-      "source": "Kalkine Media",
+      "id": "fd825b813aef3a9cd763",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "Enbridge estimates northern Wisconsin Line 5 gas leak will cost $15M",
+      "summary": "Enbridge estimates a gas leak from its Line 5 pipeline in northern Wisconsin will cost at least $15.1 million, with emergency response accounting for nearly $10 million. The leak, caused by a subcontractor's truck striking the pipeline, released approximately 1.3 million gallons of natural gas liquids, most of which vaporized. Regulatory investigations are ongoing, and environmental advocates are calling for stronger action against Enbridge.",
+      "source": "Wisconsin Watch",
       "sources": [
         {
-          "name": "Kalkine Media",
-          "url": "https://kalkinemedia.com/us/stocks/dividend/johnson-johnson-nysejnj-declares-quarterly-dividend-extending-decades-long-streak",
+          "name": "Wisconsin Watch",
+          "url": "https://wisconsinwatch.org/2026/09/enbridge-estimates-northern-wisconsin-line-5-gas-leak-will-cost-15m/",
           "urlType": "article"
         }
       ],
-      "url": "https://kalkinemedia.com/us/stocks/dividend/johnson-johnson-nysejnj-declares-quarterly-dividend-extending-decades-long-streak",
+      "url": "https://wisconsinwatch.org/2026/09/enbridge-estimates-northern-wisconsin-line-5-gas-leak-will-cost-15m/",
       "urlType": "article",
-      "publishedAt": "2026-09-26T15:48:56.000Z",
-      "date": "2026-09-26",
+      "publishedAt": "2026-09-27T11:23:39.000Z",
+      "date": "2026-09-27",
       "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "score": 22
     },
     {
-      "id": "b5db9b4fce95767f5d33",
+      "id": "c9710c80e228a4c14058",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Learn Why The Bull Case For Scotiabank (TSX:BNS) Could Change Following ETF Portfolio Revamp",
-      "summary": "Scotiabank's Scotia Global Asset Management is revamping its Scotia Essentials Portfolios to significantly increase ETF exposure to at least 51% by March 2027 and reduce management fees. This shift towards cost-focused, scalable wealth products suggests a change in the bank's fee-based business strategy. The article discusses how this move could influence Bank of Nova Scotia's investment narrative, alongside existing factors like reliance on Canadian and Pacific Alliance growth, credit quality, and recent fixed-income offerings.",
-      "source": "Simply Wall Street",
-      "sources": [
-        {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/ca/banks/tsx-bns/bank-of-nova-scotia-shares/news/learn-why-the-bull-case-for-scotiabank-tsxbns-could-change-f",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://simplywall.st/stocks/ca/banks/tsx-bns/bank-of-nova-scotia-shares/news/learn-why-the-bull-case-for-scotiabank-tsxbns-could-change-f",
-      "urlType": "article",
-      "publishedAt": "2026-09-26T15:30:52.000Z",
-      "date": "2026-09-26",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "a6a9f7e2fc72ee29ea90",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Kinross Gold (NYSE:KGC) Slides After Trimming Production Guidance While Lifting Capital-Return Goal",
-      "summary": "Kinross Gold (NYSE:KGC) shares fell after the company revised its gold production guidance downward for the current and next year, primarily due to extreme weather and operational challenges at two smaller assets. Despite this, Kinross simultaneously raised its capital-return goal, indicating confidence in its cash generation even as bullion prices near record highs. The market reacted to the production cut more strongly than the increased capital returns.",
-      "source": "Kalkine Media",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://kalkinemedia.com/us/stocks/gold/kinross-gold-nysekgc-slides-after-trimming-production-guidance-while-lifting-capital-return-goal",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://kalkinemedia.com/us/stocks/gold/kinross-gold-nysekgc-slides-after-trimming-production-guidance-while-lifting-capital-return-goal",
-      "urlType": "article",
-      "publishedAt": "2026-09-26T15:27:14.000Z",
-      "date": "2026-09-26",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "d47c32ce969b3cb42d1b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "NEWS: Walt Disney Company Warns of Layoffs and Focuses on \"A Much Smaller Organization\"",
-      "summary": "The Walt Disney Company is preparing for another round of layoffs, with a memo from Chief Legal and Global Affairs Officer Horacio Gutierrez indicating a \"transformation process\" leveraging technology and automation. This follows previous layoffs earlier in the year and suggests a shift towards a \"much smaller organization.\" The changes are partly attributed to the adoption of AI and the recent appointment of Karandeep Anand as the company's first Chief Technology Officer.",
-      "source": "AllEars.Net",
-      "sources": [
-        {
-          "name": "AllEars.Net",
-          "url": "https://allears.net/2026/09/26/walt-disney-company-warns-of-layoffs-and-focus-on-a-much-smaller-organization/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://allears.net/2026/09/26/walt-disney-company-warns-of-layoffs-and-focus-on-a-much-smaller-organization/",
-      "urlType": "article",
-      "publishedAt": "2026-09-26T15:18:58.000Z",
-      "date": "2026-09-26",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "dddaea398f9cbeffe59c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Own 141 Shares of Chevron (CVX) and Collect $1,000 a Year in Dividends",
-      "summary": "This article discusses how owning 141 shares of Chevron (CVX) can generate $1,000 in annual dividend income, based on its current forward annualized dividend of $7.12 per share. It highlights Chevron's 39-year dividend growth streak, robust cash flow, and strong balance sheet, which support its dividend even as the stock trades near its 52-week high. The author advises potential investors to consider the entry yield at the current price and model for potential dividend cuts due to Chevron's oil-linked earnings.",
+      "title": "Deere, ADM and Bunge: 3 Farm Stocks Giving Investors Dividends For America’s Harvest",
+      "summary": "This article examines three major farm-related stocks—Deere, Archer-Daniels-Midland (ADM), and Bunge Global—highlighting their dividend prospects and financial performance. It discusses how each company generates income from different parts of the agricultural supply chain and analyzes their dividend safety, bull cases, and risks, providing insights into which stock might best suit various investor portfolios.",
       "source": "24/7 Wall St.",
       "sources": [
         {
           "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/26/own-141-shares-of-chevron-cvx-and-collect-1000-a-year-in-dividends/",
+          "url": "https://247wallst.com/investing/2026/09/27/deere-adm-and-bunge-3-farm-stocks-giving-investors-dividends-for-americas-harvest/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/26/own-141-shares-of-chevron-cvx-and-collect-1000-a-year-in-dividends/",
+      "url": "https://247wallst.com/investing/2026/09/27/deere-adm-and-bunge-3-farm-stocks-giving-investors-dividends-for-americas-harvest/",
       "urlType": "article",
-      "publishedAt": "2026-09-26T14:01:06.000Z",
-      "date": "2026-09-26",
+      "publishedAt": "2026-09-27T14:05:12.000Z",
+      "date": "2026-09-27",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "1d8b2e449011fdd1f2ff",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Polaris Pays a 5.15% Yield. Should Income Investors Trust It More Than Hasbro?",
+      "summary": "This article compares the dividend investment merits of Polaris (PII) and Hasbro (HAS) for retirement portfolios. While Polaris offers a higher yield and a 31-year streak of dividend raises, the analysis suggests Hasbro, despite freezing its dividend, is a safer bet due to stronger cash flow coverage and business health. The author advises that Hasbro is better for retirees needing consistent income, while Polaris suits younger investors willing to accept more volatility for higher yield potential.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/27/polaris-pays-a-5-15-yield-should-income-investors-trust-it-more-than-hasbro/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/09/27/polaris-pays-a-5-15-yield-should-income-investors-trust-it-more-than-hasbro/",
+      "urlType": "article",
+      "publishedAt": "2026-09-27T15:44:38.000Z",
+      "date": "2026-09-27",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "46b50df4e0fd5dd3aa0b",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "Harley-Davidson Inc Lobbyists, 2023",
+      "summary": "This article details the lobbying activities and lobbyists for Harley-Davidson Inc. in 2023, based on data from OpenSecrets. It identifies four named lobbyists, three of whom have a \"revolving door\" background, meaning they previously worked in the federal government. The data also specifies the firms employing these lobbyists and the entities they filed under.",
+      "source": "OpenSecrets",
+      "sources": [
+        {
+          "name": "OpenSecrets",
+          "url": "https://www.opensecrets.org/federal-lobbying/clients/harley-davidson-inc/lobbyists?client_id=195416&cycle=2023",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.opensecrets.org/federal-lobbying/clients/harley-davidson-inc/lobbyists?client_id=195416&cycle=2023",
+      "urlType": "article",
+      "publishedAt": "2026-09-27T15:23:03.000Z",
+      "date": "2026-09-27",
+      "verification": "single_source",
+      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "02250b4077f1994c52dd",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "HP's 3.82% dividend yield is backed by strong f...",
+      "summary": "HP (HPQ) offers a 3.82% dividend yield, primarily supported by robust free cash flow, projected to reach $3.0-$3.2 billion in 2026. While its printing segment, despite shrinking, maintains high margins crucial for dividend funding, the PC business, though growing in revenue, operates with thinner margins and has seen recent shipment declines. HP prioritizes returning nearly all free cash flow to shareholders as long as leverage is manageable, making free cash flow and printing supplies revenue key indicators for investors.",
+      "source": "Pluang",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/dividen-hp-yang-menarik-apa-sumber-pendanaannya",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://pluang.com/en/news-feed/dividen-hp-yang-menarik-apa-sumber-pendanaannya",
+      "urlType": "article",
+      "publishedAt": "2026-09-27T14:54:38.000Z",
+      "date": "2026-09-27",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
