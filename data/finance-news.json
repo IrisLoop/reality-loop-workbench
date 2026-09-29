@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-27",
-  "generatedAt": "2026-09-28T00:37:56.272Z",
-  "targetDate": "2026-09-27",
+  "updated": "2026-09-28",
+  "generatedAt": "2026-09-29T01:52:04.426Z",
+  "targetDate": "2026-09-28",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -17,8 +17,8 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国政府网",
@@ -29,8 +29,8 @@
     {
       "name": "Alpha Vantage",
       "status": "degraded",
-      "itemCount": 68,
-      "message": "economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；ipo: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at "
+      "itemCount": 50,
+      "message": "economy_fiscal: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to lift the free key rate limit (25 requests per day), raise the per-second burst limit；economy_monetary: Thank you for using Alpha Vantage! Please consider spreading out your free API requests more sparingly (1 request per second). You may subscribe to any of the premiu"
     },
     {
       "name": "GDELT",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "9d5a8ddb780ccf57f49e",
+      "id": "919c91533019c27a84d6",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Corteva, Inc. (CTVA) latest stock news and headlines",
-      "summary": "This article provides a compilation of recent news and headlines concerning Corteva, Inc. (CTVA), along with its stock performance data. It features articles from various financial news sources discussing topics such as China tariff cuts, Vylor's registration statement and partnerships, comparisons with other agricultural leaders, and long-term growth trends in the agriculture sector. The stock information includes the current price, changes, and trailing total returns compared to the S&P 500 benchmark.",
-      "source": "Yahoo Finance Singapore",
+      "title": "Cardano (ADA) Drops 3.27% Amid Broad Market Risk-Off",
+      "summary": "Cardano (ADA) recently experienced a 3.27% price drop, primarily due to broad market risk-off sentiment and leverage unwinding, rather than any specific negative news related to ADA. The crypto market wide pullback was triggered by geopolitical tensions and rising yields, impacting risk assets across the board. Despite this, Cardano's ecosystem news, particularly around its privacy-focused partner chain Midnight, remains neutral to mildly positive.",
+      "source": "CoinMarketCap",
       "sources": [
         {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://sg.finance.yahoo.com/quote/CTVA/news/",
+          "name": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/top-stories/6aba831a3b25b51d74874b10/",
           "urlType": "article"
         }
       ],
-      "url": "https://sg.finance.yahoo.com/quote/CTVA/news/",
+      "url": "https://coinmarketcap.com/top-stories/6aba831a3b25b51d74874b10/",
       "urlType": "article",
-      "publishedAt": "2026-09-27T14:14:31.000Z",
-      "date": "2026-09-27",
+      "publishedAt": "2026-09-28T15:09:00.000Z",
+      "date": "2026-09-28",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 27
     },
     {
-      "id": "4fe7416355278008ceb3",
+      "id": "004aa2680648a0d02408",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Conferencia de resultados del primer trimestre fiscal de 2027 de Cintas (CTAS): los ingresos superan los 3.000 millones de dólares y se elevan las previsiones",
-      "summary": "Cintas Corporation reported record-breaking Q1 fiscal 2027 results, with revenues exceeding $3 billion for the first time, driven by strong customer acquisition, retention, and cross-selling. The company raised its full-year revenue guidance to between $12.15 billion and $12.27 billion and adjusted EPS to between $5.45 and $5.54. Cintas attributes its success to operational efficiency, technological investments, and a strong corporate culture, which help manage inflationary pressures and maintain margins despite a dynamic economic environment.",
-      "source": "TradingKey",
+      "title": "Citigroup to Arrange $1 Billion US-Backed Debt Swap for Kenya",
+      "summary": "Citigroup Inc. will arrange a $1 billion US-backed debt swap for Kenya, enabling the country to refinance existing debt on better terms. The savings from this deal will be directed towards food support programs. This agreement was previously stalled due to the absence of a lead arranger.",
+      "source": "Bloomberg.com",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/es/news/transcripts/262183509-tradingKey",
+          "name": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-28/citigroup-to-arrange-1-billion-us-backed-debt-swap-for-kenya?",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/es/news/transcripts/262183509-tradingKey",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/citigroup-to-arrange-1-billion-us-backed-debt-swap-for-kenya?",
       "urlType": "article",
-      "publishedAt": "2026-09-27T08:47:22.000Z",
-      "date": "2026-09-27",
+      "publishedAt": "2026-09-28T10:56:00.000Z",
+      "date": "2026-09-28",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "f7305b9db1b6f57f3672",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "One billion barrels: Guyana's remarkable journey continues",
+      "summary": "ExxonMobil and its co-venturers have achieved a significant milestone by producing the one billionth barrel of oil from Guyana’s Stabroek block in less than seven years. This accomplishment has transformed Guyana into a major energy producer, contributing to global energy security and economic growth. The success is attributed to strong partnerships with the Guyanese government, local communities, and thousands of Guyanese workers, alongside ongoing investments in the nation's future.",
+      "source": "ExxonMobil",
+      "sources": [
+        {
+          "name": "ExxonMobil",
+          "url": "https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues",
+      "urlType": "article",
+      "publishedAt": "2026-09-28T14:13:38.000Z",
+      "date": "2026-09-28",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "ad689e51d1d399bd53c5",
+      "id": "3752c1fde6c8a22b8f0f",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行等八部门联合印发《关于金融支持服务业扩能提质的指导意见》",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092817582477094/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092817582477094/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-09-28T09:58:24.000Z",
+      "date": "2026-09-28",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 57
+    },
+    {
+      "id": "03a016254565338a4956",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Deere (DE) Could Be 9% Below Fair Value On Q2 Earnings Beat",
-      "summary": "Deere (DE) recently announced a US$1.62 cash dividend, drawing attention to its Q2 earnings beat. While one valuation model suggests the stock is fairly priced at $690.46, another Discounted Cash Flow (DCF) model indicates it could be undervalued by about 9.2%, with a fair value of $760.06. The company's strong performance, especially in its Construction & Forestry segment, supports the optimistic outlook, though risks like elevated tariffs or weak agricultural demand could impact its narrative.",
-      "source": "Simply Wall Street",
+      "title": "Conagra Brands Readies for Q1 Earnings: What to Expect From CAG Stock?",
+      "summary": "Conagra Brands (CAG) is projected to experience a decline in both top-line and bottom-line figures for its first-quarter fiscal 2027 earnings, with expected revenue of $2.6 billion and earnings per share of 31 cents. This anticipated decline is attributed to soft category trends, the wrap-up of prior pricing actions, and inflationary pressures, despite some potential offsets from productivity efforts and brand support. The company currently holds a Zacks Rank #4 (Sell), suggesting a low probability of an earnings beat based on the current model.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-de-could-be-9-below-fair-value-on-q2-earnings-beat",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:663cb54dd094b:0-conagra-brands-readies-for-q1-earnings-what-to-expect-from-cag-stock/",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-de-could-be-9-below-fair-value-on-q2-earnings-beat",
+      "url": "https://www.tradingview.com/news/zacks:663cb54dd094b:0-conagra-brands-readies-for-q1-earnings-what-to-expect-from-cag-stock/",
       "urlType": "article",
-      "publishedAt": "2026-09-26T21:50:02.000Z",
-      "date": "2026-09-27",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "6eed05bfec09d6e8876f",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "China May Let Alibaba Buy New Nvidia Chips, The Information Says",
-      "summary": "The Chinese government has reportedly indicated it might permit companies like Alibaba and ByteDance to acquire Nvidia's new RTX Pro 5500 chips. The Ministry of Industry and Information Technology has asked companies for their purchase plans and intends to approve these acquisitions for the high-end graphics processor. This comes despite ongoing concerns regarding US technology restrictions.",
-      "source": "Bloomberg.com",
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
-      "urlType": "article",
-      "publishedAt": "2026-09-27T15:41:54.000Z",
-      "date": "2026-09-27",
-      "verification": "single_source",
-      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
-      "score": 28
-    },
-    {
-      "id": "00f4039ddc6ea132bce5",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "Pakistan Finance Minister's US Exim talks covered financing for Boeing aircraft, adviser says",
-      "summary": "Pakistan's Finance Minister discussed potential US Export-Import Bank financing for Boeing aircraft for privatized PIA, refinery upgrades, and the Reko Diq copper and gold mining project. An adviser clarified that the government is assisting PIA in accessing financing but is not directly purchasing aircraft or providing sovereign guarantees. The US EXIM could secure financing against the aircraft and assess the airline's creditworthiness, meaning a sovereign guarantee is not automatic.",
-      "source": "Reuters",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/pakistan-finance-ministers-us-exim-talks-covered-financing-boeing-aircraft-2026-09-27/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-finance-ministers-us-exim-talks-covered-financing-boeing-aircraft-2026-09-27/",
-      "urlType": "article",
-      "publishedAt": "2026-09-27T13:16:51.000Z",
-      "date": "2026-09-27",
-      "verification": "single_source",
-      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
-      "score": 28
-    },
-    {
-      "id": "fd825b813aef3a9cd763",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "Enbridge estimates northern Wisconsin Line 5 gas leak will cost $15M",
-      "summary": "Enbridge estimates a gas leak from its Line 5 pipeline in northern Wisconsin will cost at least $15.1 million, with emergency response accounting for nearly $10 million. The leak, caused by a subcontractor's truck striking the pipeline, released approximately 1.3 million gallons of natural gas liquids, most of which vaporized. Regulatory investigations are ongoing, and environmental advocates are calling for stronger action against Enbridge.",
-      "source": "Wisconsin Watch",
-      "sources": [
-        {
-          "name": "Wisconsin Watch",
-          "url": "https://wisconsinwatch.org/2026/09/enbridge-estimates-northern-wisconsin-line-5-gas-leak-will-cost-15m/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://wisconsinwatch.org/2026/09/enbridge-estimates-northern-wisconsin-line-5-gas-leak-will-cost-15m/",
-      "urlType": "article",
-      "publishedAt": "2026-09-27T11:23:39.000Z",
-      "date": "2026-09-27",
-      "verification": "single_source",
-      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "c9710c80e228a4c14058",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Deere, ADM and Bunge: 3 Farm Stocks Giving Investors Dividends For America’s Harvest",
-      "summary": "This article examines three major farm-related stocks—Deere, Archer-Daniels-Midland (ADM), and Bunge Global—highlighting their dividend prospects and financial performance. It discusses how each company generates income from different parts of the agricultural supply chain and analyzes their dividend safety, bull cases, and risks, providing insights into which stock might best suit various investor portfolios.",
-      "source": "24/7 Wall St.",
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/27/deere-adm-and-bunge-3-farm-stocks-giving-investors-dividends-for-americas-harvest/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://247wallst.com/investing/2026/09/27/deere-adm-and-bunge-3-farm-stocks-giving-investors-dividends-for-americas-harvest/",
-      "urlType": "article",
-      "publishedAt": "2026-09-27T14:05:12.000Z",
-      "date": "2026-09-27",
+      "publishedAt": "2026-09-28T12:17:02.000Z",
+      "date": "2026-09-28",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 19
     },
     {
-      "id": "1d8b2e449011fdd1f2ff",
+      "id": "d1c4142e6ed32bc336fb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Polaris Pays a 5.15% Yield. Should Income Investors Trust It More Than Hasbro?",
-      "summary": "This article compares the dividend investment merits of Polaris (PII) and Hasbro (HAS) for retirement portfolios. While Polaris offers a higher yield and a 31-year streak of dividend raises, the analysis suggests Hasbro, despite freezing its dividend, is a safer bet due to stronger cash flow coverage and business health. The author advises that Hasbro is better for retirees needing consistent income, while Polaris suits younger investors willing to accept more volatility for higher yield potential.",
+      "title": "New research: Financial uncertainty pushes workers to delay retirement",
+      "summary": "New research from the Principal Financial Well-Being Index SM indicates that financial uncertainty is causing nearly seven in ten employees to delay retirement. The primary reasons cited by employers for this delay include the rising cost of living and inflation, along with concerns about healthcare expenses and outliving savings. While employers are taking targeted approaches to retain experienced workers, formal phased retirement programs are seeing less adoption.",
+      "source": "AdvisorHub",
+      "sources": [
+        {
+          "name": "AdvisorHub",
+          "url": "https://www.advisorhub.com/resources/new-research-financial-uncertainty-pushes-workers-to-delay-retirement/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.advisorhub.com/resources/new-research-financial-uncertainty-pushes-workers-to-delay-retirement/",
+      "urlType": "article",
+      "publishedAt": "2026-09-28T12:11:38.000Z",
+      "date": "2026-09-28",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "6e656f9c8baa8b75e0f8",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Clorox Just Raised Its Dividend Again. Can Earnings Keep Up?",
+      "summary": "Clorox recently increased its quarterly dividend to $1.25 per share, making the annualized rate $5. The company faces challenges including a 33% stock price drop over the past year, an 85% payout ratio that management admits is \"elevated,\" and increased debt from acquisitions. While CEO Linda Rendle projects a recovery in fiscal 2027 with adjusted EPS of $5.70 to $6.00, significant inflation headwinds and razor-thin dividend coverage raise questions about the sustainability of its decades-long dividend increase streak.",
       "source": "24/7 Wall St.",
       "sources": [
         {
           "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/27/polaris-pays-a-5-15-yield-should-income-investors-trust-it-more-than-hasbro/",
+          "url": "https://247wallst.com/investing/2026/09/28/clorox-just-raised-its-dividend-again-can-earnings-keep-up/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/27/polaris-pays-a-5-15-yield-should-income-investors-trust-it-more-than-hasbro/",
+      "url": "https://247wallst.com/investing/2026/09/28/clorox-just-raised-its-dividend-again-can-earnings-keep-up/",
       "urlType": "article",
-      "publishedAt": "2026-09-27T15:44:38.000Z",
-      "date": "2026-09-27",
+      "publishedAt": "2026-09-28T12:00:26.000Z",
+      "date": "2026-09-28",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "1e2f07923de88334f799",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Wafd stock hits 52-week low at 15.93 USD",
+      "summary": "Wafd Inc.'s stock has fallen to a 52-week low of 15.93 USD, despite showing a 1-year total return of 3.15%. The company exhibits attractive valuation metrics, including a P/E ratio of 11.28 and a PEG ratio of 0.46, and has consistently paid dividends for 44 years with a current yield of 7.57%. This dip below its InvestingPro Fair Value could signal a potential buying opportunity for value investors, with upcoming earnings expected in 18 days.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/wafd-stock-hits-52week-low-at-1593-usd-93CH-4920856",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/company-news/wafd-stock-hits-52week-low-at-1593-usd-93CH-4920856",
+      "urlType": "article",
+      "publishedAt": "2026-09-28T15:58:57.000Z",
+      "date": "2026-09-28",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "46b50df4e0fd5dd3aa0b",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "Harley-Davidson Inc Lobbyists, 2023",
-      "summary": "This article details the lobbying activities and lobbyists for Harley-Davidson Inc. in 2023, based on data from OpenSecrets. It identifies four named lobbyists, three of whom have a \"revolving door\" background, meaning they previously worked in the federal government. The data also specifies the firms employing these lobbyists and the entities they filed under.",
-      "source": "OpenSecrets",
+      "id": "c8780a605385287bc7dc",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Regions Financial stock trades 15.74 percent below yearly high",
+      "summary": "Regions Financial stock is trading 15.74 percent below its 52-week high of USD 32.47, currently at USD 27.36. The bank reported Q2 2026 adjusted EPS of USD 0.68, beating consensus, and is set to release Q3 results on October 16, 2026. Analysts maintain a consensus \"Hold\" rating, with an average 12-month target price of USD 32.29, significantly above the current trading price.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "OpenSecrets",
-          "url": "https://www.opensecrets.org/federal-lobbying/clients/harley-davidson-inc/lobbyists?client_id=195416&cycle=2023",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/regions-financial-stock-trades-15-74-percent-below-yearly-high/70193846",
           "urlType": "article"
         }
       ],
-      "url": "https://www.opensecrets.org/federal-lobbying/clients/harley-davidson-inc/lobbyists?client_id=195416&cycle=2023",
+      "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/regions-financial-stock-trades-15-74-percent-below-yearly-high/70193846",
       "urlType": "article",
-      "publishedAt": "2026-09-27T15:23:03.000Z",
-      "date": "2026-09-27",
+      "publishedAt": "2026-09-28T15:52:14.000Z",
+      "date": "2026-09-28",
       "verification": "single_source",
-      "whySelected": "与“政策与监管”主题高度相关，当前仅有单一来源",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "02250b4077f1994c52dd",
+      "id": "fc34006f58a3430f460d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "HP's 3.82% dividend yield is backed by strong f...",
-      "summary": "HP (HPQ) offers a 3.82% dividend yield, primarily supported by robust free cash flow, projected to reach $3.0-$3.2 billion in 2026. While its printing segment, despite shrinking, maintains high margins crucial for dividend funding, the PC business, though growing in revenue, operates with thinner margins and has seen recent shipment declines. HP prioritizes returning nearly all free cash flow to shareholders as long as leverage is manageable, making free cash flow and printing supplies revenue key indicators for investors.",
-      "source": "Pluang",
+      "title": "Kimco Realty stock last trades at USD 22.36 on September 28, 2026",
+      "summary": "Kimco Realty stock closed at USD 22.36 on September 28, 2026, marking a 0.31 percent decrease. The company is scheduled to announce its third-quarter earnings on October 29, 2026, before market open. Kimco Realty is a U.S. real estate investment trust specializing in open-air, grocery-anchored shopping centers and mixed-use properties.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/dividen-hp-yang-menarik-apa-sumber-pendanaannya",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/kimco-realty-stock-last-trades-at-usd-22-36-on-september-28-2026/70193952",
           "urlType": "article"
         }
       ],
-      "url": "https://pluang.com/en/news-feed/dividen-hp-yang-menarik-apa-sumber-pendanaannya",
+      "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/kimco-realty-stock-last-trades-at-usd-22-36-on-september-28-2026/70193952",
       "urlType": "article",
-      "publishedAt": "2026-09-27T14:54:38.000Z",
-      "date": "2026-09-27",
+      "publishedAt": "2026-09-28T15:49:39.000Z",
+      "date": "2026-09-28",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
