@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-28",
-  "generatedAt": "2026-09-29T01:52:04.426Z",
-  "targetDate": "2026-09-28",
+  "updated": "2026-09-29",
+  "generatedAt": "2026-09-30T01:15:48.998Z",
+  "targetDate": "2026-09-29",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -17,7 +17,7 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
+      "itemCount": 3,
       "message": ""
     },
     {
@@ -43,224 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "919c91533019c27a84d6",
+      "id": "6def7ad6169650c41d8d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Cardano (ADA) Drops 3.27% Amid Broad Market Risk-Off",
-      "summary": "Cardano (ADA) recently experienced a 3.27% price drop, primarily due to broad market risk-off sentiment and leverage unwinding, rather than any specific negative news related to ADA. The crypto market wide pullback was triggered by geopolitical tensions and rising yields, impacting risk assets across the board. Despite this, Cardano's ecosystem news, particularly around its privacy-focused partner chain Midnight, remains neutral to mildly positive.",
-      "source": "CoinMarketCap",
+      "title": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
+      "summary": "A U.S. Bank CFO survey indicates growing optimism among corporate finance leaders regarding both the U.S. economy and their own businesses, with a notable shift in priorities towards revenue growth and M&A opportunities. While cost-cutting remains important, the focus is increasingly on strategic expansion and leveraging AI investments. Geopolitical risks, high borrowing costs, and inflation persist, but leaders are viewing uncertainty as an opportunity and addressing inflation through productivity improvements rather than layoffs.",
+      "source": "Business Wire",
       "sources": [
         {
-          "name": "CoinMarketCap",
-          "url": "https://coinmarketcap.com/top-stories/6aba831a3b25b51d74874b10/",
+          "name": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20260929120677/en/U.S.-Bank-CFO-Survey-Optimism-Climbing-as-Growth-and-Dealmaking-Gain-Momentum",
           "urlType": "article"
         }
       ],
-      "url": "https://coinmarketcap.com/top-stories/6aba831a3b25b51d74874b10/",
+      "url": "https://www.businesswire.com/news/home/20260929120677/en/U.S.-Bank-CFO-Survey-Optimism-Climbing-as-Growth-and-Dealmaking-Gain-Momentum",
       "urlType": "article",
-      "publishedAt": "2026-09-28T15:09:00.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T13:57:27.000Z",
+      "date": "2026-09-29",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 30
+    },
+    {
+      "id": "676759f68175dce0896e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
+      "summary": "The author is repeatedly investing in Taiwan Semiconductor (TSM) due to its strong financials and critical role in AI chip manufacturing. TSM's 2nm ramp is significantly boosting revenue and margins, and its valuation is favorable compared to competitors like NVIDIA and Intel. The company has a clear roadmap through 2029, and despite risks like high capex and geopolitical concentration, the author remains confident in its long-term growth.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/09/29/im-jumping-back-into-taiwan-semiconductor-again-and-i-wont-stop-this-time/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/09/29/im-jumping-back-into-taiwan-semiconductor-again-and-i-wont-stop-this-time/",
+      "urlType": "article",
+      "publishedAt": "2026-09-29T15:58:54.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 27
     },
     {
-      "id": "004aa2680648a0d02408",
+      "id": "8d286f632fa3bcb5662d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Citigroup to Arrange $1 Billion US-Backed Debt Swap for Kenya",
-      "summary": "Citigroup Inc. will arrange a $1 billion US-backed debt swap for Kenya, enabling the country to refinance existing debt on better terms. The savings from this deal will be directed towards food support programs. This agreement was previously stalled due to the absence of a lead arranger.",
-      "source": "Bloomberg.com",
+      "title": "Target cuts prices on thousands of items ahead of holidays",
+      "summary": "Target is reducing prices on nearly 2,000 items in anticipation of a value-driven holiday shopping season, building on over 10,000 price cuts from the past year. This move aims to appeal to inflation-weary consumers, particularly in apparel and home categories which have seen sluggish sales. The retailer is also planning a \"Circle Deal Days\" event to compete with Amazon's upcoming sales.",
+      "source": "Chain Store Age",
       "sources": [
         {
-          "name": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-28/citigroup-to-arrange-1-billion-us-backed-debt-swap-for-kenya?",
+          "name": "Chain Store Age",
+          "url": "https://chainstoreage.com/target-cuts-prices-thousands-items-ahead-holidays",
           "urlType": "article"
         }
       ],
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/citigroup-to-arrange-1-billion-us-backed-debt-swap-for-kenya?",
+      "url": "https://chainstoreage.com/target-cuts-prices-thousands-items-ahead-holidays",
       "urlType": "article",
-      "publishedAt": "2026-09-28T10:56:00.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T15:56:08.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
+      "score": 22
     },
     {
-      "id": "f7305b9db1b6f57f3672",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "One billion barrels: Guyana's remarkable journey continues",
-      "summary": "ExxonMobil and its co-venturers have achieved a significant milestone by producing the one billionth barrel of oil from Guyana’s Stabroek block in less than seven years. This accomplishment has transformed Guyana into a major energy producer, contributing to global energy security and economic growth. The success is attributed to strong partnerships with the Guyanese government, local communities, and thousands of Guyanese workers, alongside ongoing investments in the nation's future.",
-      "source": "ExxonMobil",
-      "sources": [
-        {
-          "name": "ExxonMobil",
-          "url": "https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues",
-      "urlType": "article",
-      "publishedAt": "2026-09-28T14:13:38.000Z",
-      "date": "2026-09-28",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "3752c1fde6c8a22b8f0f",
+      "id": "461895f5ef377f0602f1",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行等八部门联合印发《关于金融支持服务业扩能提质的指导意见》",
+      "title": "中国人民银行调整完善若干货币政策工具",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092817582477094/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917474922559/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092817582477094/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917474922559/index.html",
       "urlType": "article",
-      "publishedAt": "2026-09-28T09:58:24.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T09:47:49.000Z",
+      "date": "2026-09-29",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 57
+      "score": 62
     },
     {
-      "id": "03a016254565338a4956",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Conagra Brands Readies for Q1 Earnings: What to Expect From CAG Stock?",
-      "summary": "Conagra Brands (CAG) is projected to experience a decline in both top-line and bottom-line figures for its first-quarter fiscal 2027 earnings, with expected revenue of $2.6 billion and earnings per share of 31 cents. This anticipated decline is attributed to soft category trends, the wrap-up of prior pricing actions, and inflationary pressures, despite some potential offsets from productivity efforts and brand support. The company currently holds a Zacks Rank #4 (Sell), suggesting a low probability of an earnings beat based on the current model.",
-      "source": "TradingView",
+      "id": "e3f7469774333800ea31",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "财政部、中国人民银行、金融监管总局有关负责人就实施居民购房贷款贴息政策答记者问",
+      "summary": null,
+      "source": "中国人民银行",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:663cb54dd094b:0-conagra-brands-readies-for-q1-earnings-what-to-expect-from-cag-stock/",
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917051440583/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/zacks:663cb54dd094b:0-conagra-brands-readies-for-q1-earnings-what-to-expect-from-cag-stock/",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917153548424/index.html",
       "urlType": "article",
-      "publishedAt": "2026-09-28T12:17:02.000Z",
-      "date": "2026-09-28",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "publishedAt": "2026-09-29T09:15:35.000Z",
+      "date": "2026-09-29",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 62
     },
     {
-      "id": "d1c4142e6ed32bc336fb",
+      "id": "2c37caaf15513ad9794e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "New research: Financial uncertainty pushes workers to delay retirement",
-      "summary": "New research from the Principal Financial Well-Being Index SM indicates that financial uncertainty is causing nearly seven in ten employees to delay retirement. The primary reasons cited by employers for this delay include the rising cost of living and inflation, along with concerns about healthcare expenses and outliving savings. While employers are taking targeted approaches to retain experienced workers, formal phased retirement programs are seeing less adoption.",
-      "source": "AdvisorHub",
+      "title": "Ford, JPMorgan and partners launch $3B push to boost manufacturing suppliers",
+      "summary": "Ford, JPMorgan Chase, and the state of Michigan are collaborating with Michigan Central Station and Newlab in Corktown to create a new $3 billion initiative. This effort aims to strengthen manufacturing suppliers within the region. The partnership seeks to boost the manufacturing sector by providing significant support to its supply chain.",
+      "source": "Crain's Detroit Business",
       "sources": [
         {
-          "name": "AdvisorHub",
-          "url": "https://www.advisorhub.com/resources/new-research-financial-uncertainty-pushes-workers-to-delay-retirement/",
+          "name": "Crain's Detroit Business",
+          "url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-jpmorgan-ford-michigan-lift-20260929/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.advisorhub.com/resources/new-research-financial-uncertainty-pushes-workers-to-delay-retirement/",
+      "url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-jpmorgan-ford-michigan-lift-20260929/",
       "urlType": "article",
-      "publishedAt": "2026-09-28T12:11:38.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T14:59:52.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 21
     },
     {
-      "id": "6e656f9c8baa8b75e0f8",
+      "id": "aa17e19aa458731d5aba",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Clorox Just Raised Its Dividend Again. Can Earnings Keep Up?",
-      "summary": "Clorox recently increased its quarterly dividend to $1.25 per share, making the annualized rate $5. The company faces challenges including a 33% stock price drop over the past year, an 85% payout ratio that management admits is \"elevated,\" and increased debt from acquisitions. While CEO Linda Rendle projects a recovery in fiscal 2027 with adjusted EPS of $5.70 to $6.00, significant inflation headwinds and razor-thin dividend coverage raise questions about the sustainability of its decades-long dividend increase streak.",
-      "source": "24/7 Wall St.",
+      "title": "U.S. home prices rose 1.9% over the year, yet fell after inflation for a 14th straight month.",
+      "summary": "The S&P CoreLogic Case-Shiller U.S. National Home Price Index recorded a 1.9% annual gain in July 2026, an increase from 1.6% in June. However, after adjusting for inflation, U.S. home values declined for the 14th consecutive month, as consumer prices rose 3.4% annually. Regional disparities were significant, with Chicago showing the highest annual gain at 6.9% and Seattle experiencing the lowest return with a 1.6% fall.",
+      "source": "Stock Titan",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/28/clorox-just-raised-its-dividend-again-can-earnings-keep-up/",
+          "name": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/SPGI/s-p-cotality-case-shiller-index-reports-annual-gain-in-july-f5u2nfxnl2g6.html",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/28/clorox-just-raised-its-dividend-again-can-earnings-keep-up/",
+      "url": "https://www.stocktitan.net/news/SPGI/s-p-cotality-case-shiller-index-reports-annual-gain-in-july-f5u2nfxnl2g6.html",
       "urlType": "article",
-      "publishedAt": "2026-09-28T12:00:26.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T14:43:21.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
+      "score": 21
     },
     {
-      "id": "1e2f07923de88334f799",
+      "id": "5f2f1a32b84a4f2d6c36",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Wafd stock hits 52-week low at 15.93 USD",
-      "summary": "Wafd Inc.'s stock has fallen to a 52-week low of 15.93 USD, despite showing a 1-year total return of 3.15%. The company exhibits attractive valuation metrics, including a P/E ratio of 11.28 and a PEG ratio of 0.46, and has consistently paid dividends for 44 years with a current yield of 7.57%. This dip below its InvestingPro Fair Value could signal a potential buying opportunity for value investors, with upcoming earnings expected in 18 days.",
-      "source": "Investing.com",
+      "title": "Target Slashes Prices on Nearly 2,000 Products Ahead of Holiday Shopping Season",
+      "summary": "Target Corporation is cutting prices on almost 2,000 products, including home goods, apparel, and accessories, to enhance its value proposition before the holiday shopping season. This move follows over 10,000 price reductions made in the past year and aligns with a broader retail trend, including Walmart's similar price cuts, to attract price-sensitive consumers amid inflation and higher gasoline costs. Target's strategy emphasizes affordability while maintaining style, as executives noted that value remains central to the company's approach given selective consumer spending.",
+      "source": "Benzinga",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/wafd-stock-hits-52week-low-at-1593-usd-93CH-4920856",
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/large-cap/26/09/62050650/target-slashes-prices-on-nearly-2000-products-ahead-of-holiday-shopping-season",
           "urlType": "article"
         }
       ],
-      "url": "https://www.investing.com/news/company-news/wafd-stock-hits-52week-low-at-1593-usd-93CH-4920856",
+      "url": "https://www.benzinga.com/markets/large-cap/26/09/62050650/target-slashes-prices-on-nearly-2000-products-ahead-of-holiday-shopping-season",
       "urlType": "article",
-      "publishedAt": "2026-09-28T15:58:57.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T14:12:37.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 21
     },
     {
-      "id": "c8780a605385287bc7dc",
+      "id": "6def7ad6169650c41d8d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Regions Financial stock trades 15.74 percent below yearly high",
-      "summary": "Regions Financial stock is trading 15.74 percent below its 52-week high of USD 32.47, currently at USD 27.36. The bank reported Q2 2026 adjusted EPS of USD 0.68, beating consensus, and is set to release Q3 results on October 16, 2026. Analysts maintain a consensus \"Hold\" rating, with an average 12-month target price of USD 32.29, significantly above the current trading price.",
-      "source": "AD HOC NEWS",
+      "title": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
+      "summary": "A U.S. Bank CFO survey indicates a growing optimism among U.S. corporate finance leaders regarding the economy and their own businesses, despite lingering risks. Priorities are shifting from solely cost-cutting to include revenue growth and M&A opportunities, especially in the manufacturing sector. The report highlights increased investment in productivity through AI and automation to manage inflation, rather than layoffs.",
+      "source": "Voice of Alexandria",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/regions-financial-stock-trades-15-74-percent-below-yearly-high/70193846",
+          "name": "Voice of Alexandria",
+          "url": "https://www.voiceofalexandria.com/news/national_business_news/u-s-bank-cfo-survey-optimism-climbing-as-growth-and-dealmaking-gain-momentum/article_8ebbf255-344c-5f92-b72a-748358aa7341.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/regions-financial-stock-trades-15-74-percent-below-yearly-high/70193846",
+      "url": "https://www.voiceofalexandria.com/news/national_business_news/u-s-bank-cfo-survey-optimism-climbing-as-growth-and-dealmaking-gain-momentum/article_8ebbf255-344c-5f92-b72a-748358aa7341.html",
       "urlType": "article",
-      "publishedAt": "2026-09-28T15:52:14.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T14:11:04.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 21
     },
     {
-      "id": "fc34006f58a3430f460d",
+      "id": "df8a9a2978f93ac08c43",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Kimco Realty stock last trades at USD 22.36 on September 28, 2026",
-      "summary": "Kimco Realty stock closed at USD 22.36 on September 28, 2026, marking a 0.31 percent decrease. The company is scheduled to announce its third-quarter earnings on October 29, 2026, before market open. Kimco Realty is a U.S. real estate investment trust specializing in open-air, grocery-anchored shopping centers and mixed-use properties.",
-      "source": "AD HOC NEWS",
+      "title": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
+      "summary": "Expand Energy Corp's stock has dropped to a 52-week low of 84.42 USD, marking a 19.7% decline over the past year. Despite this, the stock trades at a low P/E ratio of 7.37 and is considered undervalued by InvestingPro analysis, which also notes its oversold RSI and a perfect Piotroski Score. The company recently exceeded profit expectations but missed revenue targets in Q2, with differing analyst opinions on its future due to management changes, a weak natural gas market, and fluctuating oil prices.",
+      "source": "Investing.com Canada",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/kimco-realty-stock-last-trades-at-usd-22-36-on-september-28-2026/70193952",
+          "name": "Investing.com Canada",
+          "url": "https://ca.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-4858194",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/kimco-realty-stock-last-trades-at-usd-22-36-on-september-28-2026/70193952",
+      "url": "https://ca.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-4858194",
       "urlType": "article",
-      "publishedAt": "2026-09-28T15:49:39.000Z",
-      "date": "2026-09-28",
+      "publishedAt": "2026-09-29T13:47:47.000Z",
+      "date": "2026-09-29",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
+      "score": 20
     }
   ]
 }
