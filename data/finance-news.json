@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-29",
-  "generatedAt": "2026-09-30T01:15:48.998Z",
-  "targetDate": "2026-09-29",
+  "updated": "2026-09-30",
+  "generatedAt": "2026-10-01T01:15:28.553Z",
+  "targetDate": "2026-09-30",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -17,14 +17,14 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 3,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "Alpha Vantage",
@@ -43,224 +43,229 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "6def7ad6169650c41d8d",
+      "id": "d9ee1c8f0cc8b08389fb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
-      "summary": "A U.S. Bank CFO survey indicates growing optimism among corporate finance leaders regarding both the U.S. economy and their own businesses, with a notable shift in priorities towards revenue growth and M&A opportunities. While cost-cutting remains important, the focus is increasingly on strategic expansion and leveraging AI investments. Geopolitical risks, high borrowing costs, and inflation persist, but leaders are viewing uncertainty as an opportunity and addressing inflation through productivity improvements rather than layoffs.",
-      "source": "Business Wire",
+      "title": "Dana McNabb named General Mills CEO, succeeding Jeff Harmening",
+      "summary": "General Mills has named Dana McNabb as its new Chief Executive Officer, effective January 1, 2027, making her the first woman to lead the company in its 160-year history. McNabb, who has been with General Mills for 27 years and previously served as COO, will succeed Jeff Harmening, who will transition to executive chair. Her primary focus will be returning the company to profitable growth amidst a challenging period for packaged food companies.",
+      "source": "Quartz",
       "sources": [
         {
-          "name": "Business Wire",
-          "url": "https://www.businesswire.com/news/home/20260929120677/en/U.S.-Bank-CFO-Survey-Optimism-Climbing-as-Growth-and-Dealmaking-Gain-Momentum",
+          "name": "Quartz",
+          "url": "https://qz.com/general-mills-dana-mcnabb-ceo-jeff-harmening-093026",
+          "urlType": "article"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dana-mcnabb-named-general-mills-131329917.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.businesswire.com/news/home/20260929120677/en/U.S.-Bank-CFO-Survey-Optimism-Climbing-as-Growth-and-Dealmaking-Gain-Momentum",
+      "url": "https://qz.com/general-mills-dana-mcnabb-ceo-jeff-harmening-093026",
       "urlType": "article",
-      "publishedAt": "2026-09-29T13:57:27.000Z",
-      "date": "2026-09-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 30
+      "publishedAt": "2026-09-30T13:16:29.000Z",
+      "date": "2026-09-30",
+      "verification": "cross_verified",
+      "whySelected": "已发现 2 个相互独立的相关来源",
+      "score": 32
     },
     {
-      "id": "676759f68175dce0896e",
+      "id": "3d952f308b6795eb76ed",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
-      "summary": "The author is repeatedly investing in Taiwan Semiconductor (TSM) due to its strong financials and critical role in AI chip manufacturing. TSM's 2nm ramp is significantly boosting revenue and margins, and its valuation is favorable compared to competitors like NVIDIA and Intel. The company has a clear roadmap through 2029, and despite risks like high capex and geopolitical concentration, the author remains confident in its long-term growth.",
-      "source": "24/7 Wall St.",
+      "title": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
+      "summary": "Conagra Brands discussed its Q1 FY27 earnings, reaffirming its full-year outlook despite a beat in Q1 driven by SG&A timing, Ardent Mills benefit, lower inflation, and a tariff refund. The company outlined its strategy for managing higher transportation inflation, deleveraging to a 3x target, and optimizing its product portfolio through SKU simplification and increased A&P spending. Conagra emphasized a prudent approach to elasticity assumptions and a focus on core platforms and brand building.",
+      "source": "AlphaStreet",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/09/29/im-jumping-back-into-taiwan-semiconductor-again-and-i-wont-stop-this-time/",
+          "name": "AlphaStreet",
+          "url": "https://news.alphastreet.com/conagra-brands-inc-cag-q1-2027-earnings-call-transcript/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/09/29/im-jumping-back-into-taiwan-semiconductor-again-and-i-wont-stop-this-time/",
+      "url": "https://news.alphastreet.com/conagra-brands-inc-cag-q1-2027-earnings-call-transcript/",
       "urlType": "article",
-      "publishedAt": "2026-09-29T15:58:54.000Z",
-      "date": "2026-09-29",
+      "publishedAt": "2026-09-30T14:09:02.000Z",
+      "date": "2026-09-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 27
+      "score": 26
     },
     {
-      "id": "8d286f632fa3bcb5662d",
+      "id": "13bc5e81135965b4d7be",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Target cuts prices on thousands of items ahead of holidays",
-      "summary": "Target is reducing prices on nearly 2,000 items in anticipation of a value-driven holiday shopping season, building on over 10,000 price cuts from the past year. This move aims to appeal to inflation-weary consumers, particularly in apparel and home categories which have seen sluggish sales. The retailer is also planning a \"Circle Deal Days\" event to compete with Amazon's upcoming sales.",
-      "source": "Chain Store Age",
+      "title": "8x8, Commerce, Sprout Social, Tenable, and HubSpot Shares Skyrocket, What You Need To Know",
+      "summary": "Shares of 8x8, Commerce, Sprout Social, Tenable, and HubSpot all saw significant jumps following a report from the Bureau of Economic Analysis showing a 0.9% increase in personal consumption expenditures for August. This data, coupled with a modest 0.2% uptick in personal income and subdued inflation, signaled resilient consumer demand and bolstered market confidence. Tenable, in particular, saw a 6% increase and is up 63.4% year-to-date, despite historical underperformance for long-term investors.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "Chain Store Age",
-          "url": "https://chainstoreage.com/target-cuts-prices-thousands-items-ahead-holidays",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/stockstory:8be2f232e094b:0-8x8-commerce-sprout-social-tenable-and-hubspot-shares-skyrocket-what-you-need-to-know/",
           "urlType": "article"
         }
       ],
-      "url": "https://chainstoreage.com/target-cuts-prices-thousands-items-ahead-holidays",
+      "url": "https://www.tradingview.com/news/stockstory:8be2f232e094b:0-8x8-commerce-sprout-social-tenable-and-hubspot-shares-skyrocket-what-you-need-to-know/",
       "urlType": "article",
-      "publishedAt": "2026-09-29T15:56:08.000Z",
-      "date": "2026-09-29",
+      "publishedAt": "2026-09-30T15:56:33.000Z",
+      "date": "2026-09-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 22
     },
     {
-      "id": "461895f5ef377f0602f1",
+      "id": "080158de05690ad465c5",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行调整完善若干货币政策工具",
+      "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
       "summary": null,
-      "source": "中国人民银行",
+      "source": "中国政府网",
       "sources": [
         {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917474922559/index.html",
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917474922559/index.html",
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
       "urlType": "article",
-      "publishedAt": "2026-09-29T09:47:49.000Z",
-      "date": "2026-09-29",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "date": "2026-09-30",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 62
+      "score": 47
     },
     {
-      "id": "e3f7469774333800ea31",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "财政部、中国人民银行、金融监管总局有关负责人就实施居民购房贷款贴息政策答记者问",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917051440583/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917153548424/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-29T09:15:35.000Z",
-      "date": "2026-09-29",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 62
-    },
-    {
-      "id": "2c37caaf15513ad9794e",
+      "id": "6388b143e0c59ffcabf8",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ford, JPMorgan and partners launch $3B push to boost manufacturing suppliers",
-      "summary": "Ford, JPMorgan Chase, and the state of Michigan are collaborating with Michigan Central Station and Newlab in Corktown to create a new $3 billion initiative. This effort aims to strengthen manufacturing suppliers within the region. The partnership seeks to boost the manufacturing sector by providing significant support to its supply chain.",
-      "source": "Crain's Detroit Business",
+      "title": "Phillips 66 Stock And 2 Energy Shares Facing The Next Oil Supply Test",
+      "summary": "This article examines three energy stocks—Phillips 66 (PSX), Viva Energy Group (ASX:VEA), and CVR Energy (CVI)—that are particularly exposed to global oil market fluctuations and potential supply shocks. It highlights their unique business models, including refining, midstream, and integrated operations, and discusses the key swing factors and risks associated with each company in the context of evolving energy security and policy changes. The analysis emphasizes how these companies' earnings are tied to real-world fuel demand, refining margins, and the broader energy landscape.",
+      "source": "Simply Wall St",
       "sources": [
         {
-          "name": "Crain's Detroit Business",
-          "url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-jpmorgan-ford-michigan-lift-20260929/",
+          "name": "Simply Wall St",
+          "url": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su",
           "urlType": "article"
         }
       ],
-      "url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-jpmorgan-ford-michigan-lift-20260929/",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su",
       "urlType": "article",
-      "publishedAt": "2026-09-29T14:59:52.000Z",
-      "date": "2026-09-29",
+      "publishedAt": "2026-09-30T15:42:45.000Z",
+      "date": "2026-09-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
+      "score": 22
     },
     {
-      "id": "aa17e19aa458731d5aba",
+      "id": "72827ef8f9fb9435fd04",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "U.S. home prices rose 1.9% over the year, yet fell after inflation for a 14th straight month.",
-      "summary": "The S&P CoreLogic Case-Shiller U.S. National Home Price Index recorded a 1.9% annual gain in July 2026, an increase from 1.6% in June. However, after adjusting for inflation, U.S. home values declined for the 14th consecutive month, as consumer prices rose 3.4% annually. Regional disparities were significant, with Chicago showing the highest annual gain at 6.9% and Seattle experiencing the lowest return with a 1.6% fall.",
-      "source": "Stock Titan",
+      "title": "Toyota global sales, production in August fall for 2nd straight month",
+      "summary": "Toyota Motor Corp's global sales and production both declined for the second consecutive month in August, with sales falling 6.4% and production dropping 5.9%. The decline was primarily attributed to weak demand in China and fewer operating days in some countries, alongside the impact of rising gasoline prices due to the Middle East conflict and natural disasters in Japan. While sales in the U.S. and Middle East also decreased significantly, Japan saw a 9.1% increase in sales, and Suzuki Motor Corp. reported a record high in sales driven by strong demand in India.",
+      "source": "Japan Today",
       "sources": [
         {
-          "name": "Stock Titan",
-          "url": "https://www.stocktitan.net/news/SPGI/s-p-cotality-case-shiller-index-reports-annual-gain-in-july-f5u2nfxnl2g6.html",
+          "name": "Japan Today",
+          "url": "https://japantoday.com/category/business/update1-toyota-global-sales-production-in-aug.-fall-for-2nd-straight-month",
           "urlType": "article"
         }
       ],
-      "url": "https://www.stocktitan.net/news/SPGI/s-p-cotality-case-shiller-index-reports-annual-gain-in-july-f5u2nfxnl2g6.html",
+      "url": "https://japantoday.com/category/business/update1-toyota-global-sales-production-in-aug.-fall-for-2nd-straight-month",
       "urlType": "article",
-      "publishedAt": "2026-09-29T14:43:21.000Z",
-      "date": "2026-09-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "5f2f1a32b84a4f2d6c36",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Target Slashes Prices on Nearly 2,000 Products Ahead of Holiday Shopping Season",
-      "summary": "Target Corporation is cutting prices on almost 2,000 products, including home goods, apparel, and accessories, to enhance its value proposition before the holiday shopping season. This move follows over 10,000 price reductions made in the past year and aligns with a broader retail trend, including Walmart's similar price cuts, to attract price-sensitive consumers amid inflation and higher gasoline costs. Target's strategy emphasizes affordability while maintaining style, as executives noted that value remains central to the company's approach given selective consumer spending.",
-      "source": "Benzinga",
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/large-cap/26/09/62050650/target-slashes-prices-on-nearly-2000-products-ahead-of-holiday-shopping-season",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.benzinga.com/markets/large-cap/26/09/62050650/target-slashes-prices-on-nearly-2000-products-ahead-of-holiday-shopping-season",
-      "urlType": "article",
-      "publishedAt": "2026-09-29T14:12:37.000Z",
-      "date": "2026-09-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "6def7ad6169650c41d8d",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "U.S. Bank CFO Survey: Optimism Climbing as Growth and Dealmaking Gain Momentum",
-      "summary": "A U.S. Bank CFO survey indicates a growing optimism among U.S. corporate finance leaders regarding the economy and their own businesses, despite lingering risks. Priorities are shifting from solely cost-cutting to include revenue growth and M&A opportunities, especially in the manufacturing sector. The report highlights increased investment in productivity through AI and automation to manage inflation, rather than layoffs.",
-      "source": "Voice of Alexandria",
-      "sources": [
-        {
-          "name": "Voice of Alexandria",
-          "url": "https://www.voiceofalexandria.com/news/national_business_news/u-s-bank-cfo-survey-optimism-climbing-as-growth-and-dealmaking-gain-momentum/article_8ebbf255-344c-5f92-b72a-748358aa7341.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.voiceofalexandria.com/news/national_business_news/u-s-bank-cfo-survey-optimism-climbing-as-growth-and-dealmaking-gain-momentum/article_8ebbf255-344c-5f92-b72a-748358aa7341.html",
-      "urlType": "article",
-      "publishedAt": "2026-09-29T14:11:04.000Z",
-      "date": "2026-09-29",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 21
-    },
-    {
-      "id": "df8a9a2978f93ac08c43",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Expand Energy Corp stock hits 52-week low at 84.42 USD",
-      "summary": "Expand Energy Corp's stock has dropped to a 52-week low of 84.42 USD, marking a 19.7% decline over the past year. Despite this, the stock trades at a low P/E ratio of 7.37 and is considered undervalued by InvestingPro analysis, which also notes its oversold RSI and a perfect Piotroski Score. The company recently exceeded profit expectations but missed revenue targets in Q2, with differing analyst opinions on its future due to management changes, a weak natural gas market, and fluctuating oil prices.",
-      "source": "Investing.com Canada",
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://ca.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-4858194",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ca.investing.com/news/stock-market-news/expand-energy-corp-stock-hits-52week-low-at-8442-usd-93CH-4858194",
-      "urlType": "article",
-      "publishedAt": "2026-09-29T13:47:47.000Z",
-      "date": "2026-09-29",
+      "publishedAt": "2026-09-30T13:54:36.000Z",
+      "date": "2026-09-30",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
+    },
+    {
+      "id": "b793ba9459ba9fd9798c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Graphic Packaging stock price target lowered to $10 by RBC Capital",
+      "summary": "RBC Capital has lowered its price target for Graphic Packaging Holding Company (NYSE:GPK) to $10.00 from $11.00, citing expected volume declines in Q3 and higher oil prices, while maintaining a Sector Perform rating. Despite the lowered target, InvestingPro analysis suggests the stock is currently undervalued. Separately, Graphic Packaging reported strong Q2 2026 earnings, leading to an upgraded stock rating by JPMorgan, though with an adjusted price target.",
+      "source": "Investing.com",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/analyst-ratings/graphic-packaging-stock-price-target-lowered-to-10-by-rbc-capital-93CH-4925348",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.investing.com/news/analyst-ratings/graphic-packaging-stock-price-target-lowered-to-10-by-rbc-capital-93CH-4925348",
+      "urlType": "article",
+      "publishedAt": "2026-09-30T13:32:11.000Z",
+      "date": "2026-09-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "ee9a012ad5876673023e",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Should Investors Buy AZO Stock as Growth Meets Margin Concerns?",
+      "summary": "AutoZone (AZO) is expanding its commercial business, store network, and supply chain, leading to strong growth but also margin pressure. While the company demonstrates solid growth drivers like increased commercial sales and record store openings, it faces risks from declining DIY segment sales, margin compression due to sales mix shifts and LIFO charges, and a leveraged balance sheet with $9.1 billion in debt. Although its valuation appears reasonable, investors are advised to hold existing stock and await a better entry point due to near-term risks.",
+      "source": "TradingView",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/zacks:fb4e5c63c094b:0-should-investors-buy-azo-stock-as-growth-meets-margin-concerns/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.tradingview.com/news/zacks:fb4e5c63c094b:0-should-investors-buy-azo-stock-as-growth-meets-margin-concerns/",
+      "urlType": "article",
+      "publishedAt": "2026-09-30T12:48:05.000Z",
+      "date": "2026-09-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "8bc12685bb8d0f596af7",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Boeing Re-Rating in the Spotlight After $2.38B F-15EX, Navy Fighter Wins",
+      "summary": "Boeing (NYSE: BA) recently secured two significant defense contracts: a $2.38 billion Air Force deal for 22 F-15EX fighters and a Navy selection for its next-generation F/A-XX jet. These wins are prompting investors to re-evaluate Boeing's stock, which despite its commercial aircraft recovery, still trades at a high valuation. The article discusses how these defense contracts could impact Boeing's future revenue, cash flow, and overall market perception, especially considering its current financial metrics like debt-to-equity ratio and negative free cash flow.",
+      "source": "NAI500",
+      "sources": [
+        {
+          "name": "NAI500",
+          "url": "https://nai500.com/blog/2026/09/boeing-re-rating-in-the-spotlight-after-2-38b-f-15ex-navy-fighter-wins/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://nai500.com/blog/2026/09/boeing-re-rating-in-the-spotlight-after-2-38b-f-15ex-navy-fighter-wins/",
+      "urlType": "article",
+      "publishedAt": "2026-09-30T11:56:03.000Z",
+      "date": "2026-09-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
+    },
+    {
+      "id": "0919a893f868d055dd23",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "JINGDONG Property to Establish Advanced Logistics Facility in KEZAD",
+      "summary": "JINGDONG Property, the infrastructure arm of JD.com, has signed an agreement with KEZAD Group to develop a 150,000 square meter advanced logistics facility in KEZAD Area A – Al Ma’mourah, expected to be delivered in 2028. This project aims to enhance supply chain efficiency, support local and international enterprises, and will create approximately 1,000 direct jobs. The facility will leverage JINGDONG Property’s expertise in intelligent operations and green building to strengthen Abu Dhabi’s position as a leading logistics and trade hub.",
+      "source": "markets.businessinsider.com",
+      "sources": [
+        {
+          "name": "markets.businessinsider.com",
+          "url": "https://markets.businessinsider.com/news/stocks/jingdong-property-to-establish-advanced-logistics-facility-in-kezad-1036585107",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://markets.businessinsider.com/news/stocks/jingdong-property-to-establish-advanced-logistics-facility-in-kezad-1036585107",
+      "urlType": "article",
+      "publishedAt": "2026-09-30T11:53:38.000Z",
+      "date": "2026-09-30",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 18
     }
   ]
 }
