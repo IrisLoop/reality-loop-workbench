@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-09-30",
-  "generatedAt": "2026-10-01T01:15:28.553Z",
-  "targetDate": "2026-09-30",
+  "updated": "2026-10-01",
+  "generatedAt": "2026-10-02T01:38:17.465Z",
+  "targetDate": "2026-10-01",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -23,8 +23,8 @@
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "Alpha Vantage",
@@ -43,229 +43,224 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "d9ee1c8f0cc8b08389fb",
+      "id": "d03e7f04791beac56586",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dana McNabb named General Mills CEO, succeeding Jeff Harmening",
-      "summary": "General Mills has named Dana McNabb as its new Chief Executive Officer, effective January 1, 2027, making her the first woman to lead the company in its 160-year history. McNabb, who has been with General Mills for 27 years and previously served as COO, will succeed Jeff Harmening, who will transition to executive chair. Her primary focus will be returning the company to profitable growth amidst a challenging period for packaged food companies.",
-      "source": "Quartz",
+      "title": "Bassett Furniture Indus Q3 2026 Earnings Call: Complete Transcript",
+      "summary": "Bassett Furniture Industries reported a 3.4% increase in consolidated revenue for Q3 2026, driven by growth in both retail and wholesale sales, and improved gross margins by 130 basis points partly due to tariff refunds. The company is focusing on retail expansion, e-commerce growth, and product innovation through partnerships, while maintaining a strong liquidity position despite challenges in the housing market and high inflation. Management remains optimistic, having implemented new pricing strategies and expense reductions to improve future margins.",
+      "source": "Benzinga",
       "sources": [
         {
-          "name": "Quartz",
-          "url": "https://qz.com/general-mills-dana-mcnabb-ceo-jeff-harmening-093026",
-          "urlType": "article"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dana-mcnabb-named-general-mills-131329917.html",
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/news/26/10/62107617/bassett-furniture-indus-q3-2026-earnings-call-complete-transcript",
           "urlType": "article"
         }
       ],
-      "url": "https://qz.com/general-mills-dana-mcnabb-ceo-jeff-harmening-093026",
+      "url": "https://www.benzinga.com/news/26/10/62107617/bassett-furniture-indus-q3-2026-earnings-call-complete-transcript",
       "urlType": "article",
-      "publishedAt": "2026-09-30T13:16:29.000Z",
-      "date": "2026-09-30",
-      "verification": "cross_verified",
-      "whySelected": "已发现 2 个相互独立的相关来源",
-      "score": 32
-    },
-    {
-      "id": "3d952f308b6795eb76ed",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Conagra Brands, Inc (CAG) Q1 2027 Earnings Call Transcript",
-      "summary": "Conagra Brands discussed its Q1 FY27 earnings, reaffirming its full-year outlook despite a beat in Q1 driven by SG&A timing, Ardent Mills benefit, lower inflation, and a tariff refund. The company outlined its strategy for managing higher transportation inflation, deleveraging to a 3x target, and optimizing its product portfolio through SKU simplification and increased A&P spending. Conagra emphasized a prudent approach to elasticity assumptions and a focus on core platforms and brand building.",
-      "source": "AlphaStreet",
-      "sources": [
-        {
-          "name": "AlphaStreet",
-          "url": "https://news.alphastreet.com/conagra-brands-inc-cag-q1-2027-earnings-call-transcript/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://news.alphastreet.com/conagra-brands-inc-cag-q1-2027-earnings-call-transcript/",
-      "urlType": "article",
-      "publishedAt": "2026-09-30T14:09:02.000Z",
-      "date": "2026-09-30",
+      "publishedAt": "2026-10-01T13:30:07.000Z",
+      "date": "2026-10-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 26
+      "score": 25
     },
     {
-      "id": "13bc5e81135965b4d7be",
+      "id": "afcefb8118c0e9dee414",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "8x8, Commerce, Sprout Social, Tenable, and HubSpot Shares Skyrocket, What You Need To Know",
-      "summary": "Shares of 8x8, Commerce, Sprout Social, Tenable, and HubSpot all saw significant jumps following a report from the Bureau of Economic Analysis showing a 0.9% increase in personal consumption expenditures for August. This data, coupled with a modest 0.2% uptick in personal income and subdued inflation, signaled resilient consumer demand and bolstered market confidence. Tenable, in particular, saw a 6% increase and is up 63.4% year-to-date, despite historical underperformance for long-term investors.",
+      "title": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says",
+      "summary": "TotalEnergies plans to invest $10 billion in Argentina across various projects, including new wells in Tierra del Fuego and expanding gas production in Neuquen, aiming to increase daily gas production to 16 million cubic meters. The investment underscores Argentina's efforts to attract foreign capital, particularly for its Vaca Muerta shale formation, a key driver of the country's energy growth and future export revenue. CEO Patrick Pouyanne made the announcement during an investment conference in Paris, coinciding with Argentine President Javier Milei's visit to France to promote investment opportunities.",
+      "source": "Reuters",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/totalenergies-invest-10-billion-argentina-ceo-pouyanne-says-2026-10-01/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.reuters.com/business/energy/totalenergies-invest-10-billion-argentina-ceo-pouyanne-says-2026-10-01/",
+      "urlType": "article",
+      "publishedAt": "2026-10-01T11:18:00.000Z",
+      "date": "2026-10-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "81fcaf0aaca16c84ce94",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Banc of California strengthens post-merger with PacWest and $400M capital boost, improving portfolio and risk management.",
+      "summary": "Banc of California has significantly strengthened its position after merging with PacWest and receiving a $400 million capital injection. This strategic move allowed the bank to proactively reposition its portfolio, shortening asset durations and reinvesting at higher yields to prepare for inflation and recession. With robust post-merger procedures and a focus on profitability and risk control, Banc of California aims for enhanced stability and growth, mitigating potential economic uncertainties.",
+      "source": "Pluang",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/banc-of-california-siap-menghadapi-tantangan",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://pluang.com/en/news-feed/banc-of-california-siap-menghadapi-tantangan",
+      "urlType": "article",
+      "publishedAt": "2026-10-01T11:00:41.000Z",
+      "date": "2026-10-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 23
+    },
+    {
+      "id": "51bd6cc616d743e8b654",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Winners And Losers Of Q2: TTM Technologies (NASDAQ:TTMI) Vs The Rest Of The Electronic Components & Manufacturing Stocks",
+      "summary": "This article reviews the Q2 earnings of electronic components & manufacturing stocks, highlighting TTM Technologies (NASDAQ:TTMI) and its peers. It discusses the sector's potential for growth due to increasing demand for advanced electronics, while also acknowledging challenges like geopolitical risks and environmental regulations. The report details the performance of TTM Technologies, Amphenol, Rogers, Plexus, and Jabil, noting their revenue growth and market reactions.",
+      "source": "StockStory",
+      "sources": [
+        {
+          "name": "StockStory",
+          "url": "https://stockstory.org/us/stocks/nasdaq/ttmi/news/earnings/winners-and-losers-of-q2-ttm-technologies-nasdaqttmi-vs-the-rest-of-the-electronic-components-and-manufacturing-stocks",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://stockstory.org/us/stocks/nasdaq/ttmi/news/earnings/winners-and-losers-of-q2-ttm-technologies-nasdaqttmi-vs-the-rest-of-the-electronic-components-and-manufacturing-stocks",
+      "urlType": "article",
+      "publishedAt": "2026-10-01T11:00:06.000Z",
+      "date": "2026-10-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 23
+    },
+    {
+      "id": "98fd475362e24155743c",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Dollar Tree gains new bull as bargains lure in more 'well-heeled' customers",
+      "summary": "Loop Capital upgraded Dollar Tree (DLTR) to Buy from Hold, increasing its price target to $140 due to an anticipated increase in bargain hunting and a \"stepped-up\" stockholder return. The analyst believes Dollar Tree will benefit from consumers trading down from higher-priced alternatives and that its multi-price selection strategy is sustainable. Increased share buybacks also contribute to the higher valuation, suggesting fundamental outperformance in a difficult economic environment.",
       "source": "TradingView",
       "sources": [
         {
           "name": "TradingView",
-          "url": "https://www.tradingview.com/news/stockstory:8be2f232e094b:0-8x8-commerce-sprout-social-tenable-and-hubspot-shares-skyrocket-what-you-need-to-know/",
+          "url": "https://www.tradingview.com/news/seekingalpha:cf6f412a8094b:0-dollar-tree-gains-new-bull-as-bargains-lure-in-more-well-heeled-customers/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/stockstory:8be2f232e094b:0-8x8-commerce-sprout-social-tenable-and-hubspot-shares-skyrocket-what-you-need-to-know/",
+      "url": "https://www.tradingview.com/news/seekingalpha:cf6f412a8094b:0-dollar-tree-gains-new-bull-as-bargains-lure-in-more-well-heeled-customers/",
       "urlType": "article",
-      "publishedAt": "2026-09-30T15:56:33.000Z",
-      "date": "2026-09-30",
+      "publishedAt": "2026-10-01T14:07:30.000Z",
+      "date": "2026-10-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "080158de05690ad465c5",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
-      "summary": null,
-      "source": "中国政府网",
-      "sources": [
-        {
-          "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
-      "urlType": "article",
-      "publishedAt": "2026-09-30T04:00:00.000Z",
-      "date": "2026-09-30",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "6388b143e0c59ffcabf8",
+      "id": "0eccef5a257bafc34290",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Phillips 66 Stock And 2 Energy Shares Facing The Next Oil Supply Test",
-      "summary": "This article examines three energy stocks—Phillips 66 (PSX), Viva Energy Group (ASX:VEA), and CVR Energy (CVI)—that are particularly exposed to global oil market fluctuations and potential supply shocks. It highlights their unique business models, including refining, midstream, and integrated operations, and discusses the key swing factors and risks associated with each company in the context of evolving energy security and policy changes. The analysis emphasizes how these companies' earnings are tied to real-world fuel demand, refining margins, and the broader energy landscape.",
-      "source": "Simply Wall St",
+      "title": "U.S. added 90,000 jobs last month, says ADP—including in manufacturing and construction, where trade bosses say six-figure jobs are sitting empty",
+      "summary": "ADP's latest report indicates the U.S. added 90,000 private sector jobs in September, with significant contributions from manufacturing and construction. Despite this growth, industry leaders like the Home Builders Institute (HBI) warn of a critical shortage of skilled tradespeople, emphasizing that high-paying blue-collar jobs are going unfilled. Economists are monitoring wage growth in these sectors, particularly construction, for potential inflation risks, while also noting the impact of worker sentiment on hiring challenges.",
+      "source": "Fortune",
       "sources": [
         {
-          "name": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su",
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/10/01/adp-jobs-report-construction-manufacturing-hiring-spree-skilled-wor/",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su",
+      "url": "https://fortune.com/2026/10/01/adp-jobs-report-construction-manufacturing-hiring-spree-skilled-wor/",
       "urlType": "article",
-      "publishedAt": "2026-09-30T15:42:45.000Z",
-      "date": "2026-09-30",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "72827ef8f9fb9435fd04",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Toyota global sales, production in August fall for 2nd straight month",
-      "summary": "Toyota Motor Corp's global sales and production both declined for the second consecutive month in August, with sales falling 6.4% and production dropping 5.9%. The decline was primarily attributed to weak demand in China and fewer operating days in some countries, alongside the impact of rising gasoline prices due to the Middle East conflict and natural disasters in Japan. While sales in the U.S. and Middle East also decreased significantly, Japan saw a 9.1% increase in sales, and Suzuki Motor Corp. reported a record high in sales driven by strong demand in India.",
-      "source": "Japan Today",
-      "sources": [
-        {
-          "name": "Japan Today",
-          "url": "https://japantoday.com/category/business/update1-toyota-global-sales-production-in-aug.-fall-for-2nd-straight-month",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://japantoday.com/category/business/update1-toyota-global-sales-production-in-aug.-fall-for-2nd-straight-month",
-      "urlType": "article",
-      "publishedAt": "2026-09-30T13:54:36.000Z",
-      "date": "2026-09-30",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "b793ba9459ba9fd9798c",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Graphic Packaging stock price target lowered to $10 by RBC Capital",
-      "summary": "RBC Capital has lowered its price target for Graphic Packaging Holding Company (NYSE:GPK) to $10.00 from $11.00, citing expected volume declines in Q3 and higher oil prices, while maintaining a Sector Perform rating. Despite the lowered target, InvestingPro analysis suggests the stock is currently undervalued. Separately, Graphic Packaging reported strong Q2 2026 earnings, leading to an upgraded stock rating by JPMorgan, though with an adjusted price target.",
-      "source": "Investing.com",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/graphic-packaging-stock-price-target-lowered-to-10-by-rbc-capital-93CH-4925348",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.investing.com/news/analyst-ratings/graphic-packaging-stock-price-target-lowered-to-10-by-rbc-capital-93CH-4925348",
-      "urlType": "article",
-      "publishedAt": "2026-09-30T13:32:11.000Z",
-      "date": "2026-09-30",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 20
-    },
-    {
-      "id": "ee9a012ad5876673023e",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Should Investors Buy AZO Stock as Growth Meets Margin Concerns?",
-      "summary": "AutoZone (AZO) is expanding its commercial business, store network, and supply chain, leading to strong growth but also margin pressure. While the company demonstrates solid growth drivers like increased commercial sales and record store openings, it faces risks from declining DIY segment sales, margin compression due to sales mix shifts and LIFO charges, and a leveraged balance sheet with $9.1 billion in debt. Although its valuation appears reasonable, investors are advised to hold existing stock and await a better entry point due to near-term risks.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/zacks:fb4e5c63c094b:0-should-investors-buy-azo-stock-as-growth-meets-margin-concerns/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/zacks:fb4e5c63c094b:0-should-investors-buy-azo-stock-as-growth-meets-margin-concerns/",
-      "urlType": "article",
-      "publishedAt": "2026-09-30T12:48:05.000Z",
-      "date": "2026-09-30",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 19
-    },
-    {
-      "id": "8bc12685bb8d0f596af7",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Boeing Re-Rating in the Spotlight After $2.38B F-15EX, Navy Fighter Wins",
-      "summary": "Boeing (NYSE: BA) recently secured two significant defense contracts: a $2.38 billion Air Force deal for 22 F-15EX fighters and a Navy selection for its next-generation F/A-XX jet. These wins are prompting investors to re-evaluate Boeing's stock, which despite its commercial aircraft recovery, still trades at a high valuation. The article discusses how these defense contracts could impact Boeing's future revenue, cash flow, and overall market perception, especially considering its current financial metrics like debt-to-equity ratio and negative free cash flow.",
-      "source": "NAI500",
-      "sources": [
-        {
-          "name": "NAI500",
-          "url": "https://nai500.com/blog/2026/09/boeing-re-rating-in-the-spotlight-after-2-38b-f-15ex-navy-fighter-wins/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://nai500.com/blog/2026/09/boeing-re-rating-in-the-spotlight-after-2-38b-f-15ex-navy-fighter-wins/",
-      "urlType": "article",
-      "publishedAt": "2026-09-30T11:56:03.000Z",
-      "date": "2026-09-30",
+      "publishedAt": "2026-10-01T10:45:05.000Z",
+      "date": "2026-10-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "0919a893f868d055dd23",
+      "id": "9301e341cdfcd81be25d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "JINGDONG Property to Establish Advanced Logistics Facility in KEZAD",
-      "summary": "JINGDONG Property, the infrastructure arm of JD.com, has signed an agreement with KEZAD Group to develop a 150,000 square meter advanced logistics facility in KEZAD Area A – Al Ma’mourah, expected to be delivered in 2028. This project aims to enhance supply chain efficiency, support local and international enterprises, and will create approximately 1,000 direct jobs. The facility will leverage JINGDONG Property’s expertise in intelligent operations and green building to strengthen Abu Dhabi’s position as a leading logistics and trade hub.",
-      "source": "markets.businessinsider.com",
+      "title": "Cal-Maine Shares Crack After Wider-Than-Expected Loss, Muted Egg Prices",
+      "summary": "Shares of Cal-Maine Foods Inc. dropped after the company reported wider-than-expected losses and soft first-quarter results for fiscal 2027. Analyst Pooran Sharma maintained an Equal-Weight rating but cut the price target due to lower gross margin, higher SG&A, and muted egg prices caused by industry supply imbalance, which is expected to persist through the holiday season. The company's net sales declined, and average selling prices for eggs fell significantly.",
+      "source": "Benzinga",
       "sources": [
         {
-          "name": "markets.businessinsider.com",
-          "url": "https://markets.businessinsider.com/news/stocks/jingdong-property-to-establish-advanced-logistics-facility-in-kezad-1036585107",
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62112533/cal-maine-foods-analyst-cuts-price-target-egg-price-weakness",
           "urlType": "article"
         }
       ],
-      "url": "https://markets.businessinsider.com/news/stocks/jingdong-property-to-establish-advanced-logistics-facility-in-kezad-1036585107",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62112533/cal-maine-foods-analyst-cuts-price-target-egg-price-weakness",
       "urlType": "article",
-      "publishedAt": "2026-09-30T11:53:38.000Z",
-      "date": "2026-09-30",
+      "publishedAt": "2026-10-01T15:59:28.000Z",
+      "date": "2026-10-01",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "d69d5c80c3445dbc76dc",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "DTE completes 100MW Cold Creek Solar Park to support Ford's 100% renewable energy goal in Michigan",
+      "summary": "DTE Energy has completed the 100-megawatt Cold Creek Solar Park in Michigan, a crucial step for Ford Motor Company to achieve its goal of using 100% renewable energy for its Michigan vehicle production by 2027. This project, funded through Ford's participation in DTE's MIGreenPower program, supports clean energy goals, local jobs, and tax revenue. Despite this positive development, Ford's stock performance reflects cautious market sentiment, showing only a modest 1-day gain.",
+      "source": "Pluang",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/dte-energy-selesaikan-pembangunan-taman-solar-cold-creek-dorong-manfaat-ekonomi",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://pluang.com/en/news-feed/dte-energy-selesaikan-pembangunan-taman-solar-cold-creek-dorong-manfaat-ekonomi",
+      "urlType": "article",
+      "publishedAt": "2026-10-01T15:48:16.000Z",
+      "date": "2026-10-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "65ecfbcee3f0a64341b2",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "JPMorgan Chase & Co. Cuts Columbia Banking System (NASDAQ:COLB) Price Target to $33.00",
+      "summary": "JPMorgan Chase & Co. has lowered its price target for Columbia Banking System (NASDAQ:COLB) to $33.00 from $35.00, while maintaining a \"neutral\" rating, implying a potential upside of 17.71%. This adjustment comes despite Columbia Banking System reporting quarterly earnings per share of $0.76, exceeding the consensus estimate of $0.73, though revenue fell short of expectations. The consensus among analysts remains a \"Hold\" rating with an average target price of $33.42, reflecting cautious sentiment, with five analysts rating it a \"Buy\" and eight a \"Hold.\"",
+      "source": "MarketBeat",
+      "sources": [
+        {
+          "name": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-cuts-columbia-banking-system-nasdaq-colb-price-target-to-3300-2026-10-01/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-cuts-columbia-banking-system-nasdaq-colb-price-target-to-3300-2026-10-01/",
+      "urlType": "article",
+      "publishedAt": "2026-10-01T15:40:21.000Z",
+      "date": "2026-10-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "780c04ea003271943dce",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "5 ways Amazon is investing in New Jersey",
+      "summary": "Amazon has invested over $55 billion in New Jersey, creating more than 42,000 direct jobs and supporting over 30,000 indirect jobs. The company focuses on employee development through programs like Career Choice, builds extensive infrastructure including fulfillment centers and Whole Foods Market locations, and empowers small businesses by providing access to millions of customers. Additionally, Amazon contributes to the community through significant donations and volunteer efforts.",
+      "source": "About Amazon",
+      "sources": [
+        {
+          "name": "About Amazon",
+          "url": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business",
+      "urlType": "article",
+      "publishedAt": "2026-10-01T15:34:51.000Z",
+      "date": "2026-10-01",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
     }
   ]
 }
