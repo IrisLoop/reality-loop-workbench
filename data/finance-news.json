@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-10-01",
-  "generatedAt": "2026-10-02T01:38:17.465Z",
-  "targetDate": "2026-10-01",
+  "updated": "2026-10-02",
+  "generatedAt": "2026-10-03T01:07:48.953Z",
+  "targetDate": "2026-10-02",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -16,9 +16,9 @@
     },
     {
       "name": "中国人民银行",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "d03e7f04791beac56586",
+      "id": "dc77161c89e213d6bd19",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Bassett Furniture Indus Q3 2026 Earnings Call: Complete Transcript",
-      "summary": "Bassett Furniture Industries reported a 3.4% increase in consolidated revenue for Q3 2026, driven by growth in both retail and wholesale sales, and improved gross margins by 130 basis points partly due to tariff refunds. The company is focusing on retail expansion, e-commerce growth, and product innovation through partnerships, while maintaining a strong liquidity position despite challenges in the housing market and high inflation. Management remains optimistic, having implemented new pricing strategies and expense reductions to improve future margins.",
-      "source": "Benzinga",
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/news/26/10/62107617/bassett-furniture-indus-q3-2026-earnings-call-complete-transcript",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.benzinga.com/news/26/10/62107617/bassett-furniture-indus-q3-2026-earnings-call-complete-transcript",
-      "urlType": "article",
-      "publishedAt": "2026-10-01T13:30:07.000Z",
-      "date": "2026-10-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 25
-    },
-    {
-      "id": "afcefb8118c0e9dee414",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "TotalEnergies to invest $10 billion in Argentina, CEO Pouyanne says",
-      "summary": "TotalEnergies plans to invest $10 billion in Argentina across various projects, including new wells in Tierra del Fuego and expanding gas production in Neuquen, aiming to increase daily gas production to 16 million cubic meters. The investment underscores Argentina's efforts to attract foreign capital, particularly for its Vaca Muerta shale formation, a key driver of the country's energy growth and future export revenue. CEO Patrick Pouyanne made the announcement during an investment conference in Paris, coinciding with Argentine President Javier Milei's visit to France to promote investment opportunities.",
-      "source": "Reuters",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/business/energy/totalenergies-invest-10-billion-argentina-ceo-pouyanne-says-2026-10-01/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.reuters.com/business/energy/totalenergies-invest-10-billion-argentina-ceo-pouyanne-says-2026-10-01/",
-      "urlType": "article",
-      "publishedAt": "2026-10-01T11:18:00.000Z",
-      "date": "2026-10-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 24
-    },
-    {
-      "id": "81fcaf0aaca16c84ce94",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Banc of California strengthens post-merger with PacWest and $400M capital boost, improving portfolio and risk management.",
-      "summary": "Banc of California has significantly strengthened its position after merging with PacWest and receiving a $400 million capital injection. This strategic move allowed the bank to proactively reposition its portfolio, shortening asset durations and reinvesting at higher yields to prepare for inflation and recession. With robust post-merger procedures and a focus on profitability and risk control, Banc of California aims for enhanced stability and growth, mitigating potential economic uncertainties.",
-      "source": "Pluang",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/banc-of-california-siap-menghadapi-tantangan",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://pluang.com/en/news-feed/banc-of-california-siap-menghadapi-tantangan",
-      "urlType": "article",
-      "publishedAt": "2026-10-01T11:00:41.000Z",
-      "date": "2026-10-01",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
-    },
-    {
-      "id": "51bd6cc616d743e8b654",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Winners And Losers Of Q2: TTM Technologies (NASDAQ:TTMI) Vs The Rest Of The Electronic Components & Manufacturing Stocks",
-      "summary": "This article reviews the Q2 earnings of electronic components & manufacturing stocks, highlighting TTM Technologies (NASDAQ:TTMI) and its peers. It discusses the sector's potential for growth due to increasing demand for advanced electronics, while also acknowledging challenges like geopolitical risks and environmental regulations. The report details the performance of TTM Technologies, Amphenol, Rogers, Plexus, and Jabil, noting their revenue growth and market reactions.",
+      "title": "Household Products Stocks Q2 Recap: Benchmarking Clorox (NYSE:CLX)",
+      "summary": "This article reviews the Q2 earnings season for the household products industry, highlighting the performances of key companies like Clorox, Spectrum Brands, Energizer, Procter & Gamble, and Reynolds. It notes that while revenues generally beat estimates, stock prices have seen a decline. The piece also briefly touches on broader market concerns, including AI and geopolitical events.",
       "source": "StockStory",
       "sources": [
         {
           "name": "StockStory",
-          "url": "https://stockstory.org/us/stocks/nasdaq/ttmi/news/earnings/winners-and-losers-of-q2-ttm-technologies-nasdaqttmi-vs-the-rest-of-the-electronic-components-and-manufacturing-stocks",
+          "url": "https://stockstory.org/us/stocks/nyse/clx/news/earnings/household-products-stocks-q2-recap-benchmarking-clorox-nyseclx",
           "urlType": "article"
         }
       ],
-      "url": "https://stockstory.org/us/stocks/nasdaq/ttmi/news/earnings/winners-and-losers-of-q2-ttm-technologies-nasdaqttmi-vs-the-rest-of-the-electronic-components-and-manufacturing-stocks",
+      "url": "https://stockstory.org/us/stocks/nyse/clx/news/earnings/household-products-stocks-q2-recap-benchmarking-clorox-nyseclx",
       "urlType": "article",
-      "publishedAt": "2026-10-01T11:00:06.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T09:50:56.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 23
     },
     {
-      "id": "98fd475362e24155743c",
+      "id": "22e8358e9b3a43494a49",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Dollar Tree gains new bull as bargains lure in more 'well-heeled' customers",
-      "summary": "Loop Capital upgraded Dollar Tree (DLTR) to Buy from Hold, increasing its price target to $140 due to an anticipated increase in bargain hunting and a \"stepped-up\" stockholder return. The analyst believes Dollar Tree will benefit from consumers trading down from higher-priced alternatives and that its multi-price selection strategy is sustainable. Increased share buybacks also contribute to the higher valuation, suggesting fundamental outperformance in a difficult economic environment.",
-      "source": "TradingView",
+      "title": "Why Is Ollie's Bargain Outlet (OLLI) Up 19.3% Since Last Earnings Report?",
+      "summary": "Ollie's Bargain Outlet (OLLI) shares have risen 19.3% since its last earnings report, outperforming the S&P 500. The company reported better-than-expected Q2 fiscal 2026 adjusted earnings, driven by tariff refunds, despite a sales miss and declining comparable-store sales. While sales outlook was lowered, the profit guide was raised, reflecting mixed consumer trends and strategic initiatives like share buybacks and store expansion.",
+      "source": "Yahoo Finance Australia",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/seekingalpha:cf6f412a8094b:0-dollar-tree-gains-new-bull-as-bargains-lure-in-more-well-heeled-customers/",
+          "name": "Yahoo Finance Australia",
+          "url": "https://au.finance.yahoo.com/news/why-ollies-bargain-outlet-olli-143004596.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingview.com/news/seekingalpha:cf6f412a8094b:0-dollar-tree-gains-new-bull-as-bargains-lure-in-more-well-heeled-customers/",
+      "url": "https://au.finance.yahoo.com/news/why-ollies-bargain-outlet-olli-143004596.html",
       "urlType": "article",
-      "publishedAt": "2026-10-01T14:07:30.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T14:32:53.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "0eccef5a257bafc34290",
+      "id": "b70ee9a1f7a4b81fb579",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "U.S. added 90,000 jobs last month, says ADP—including in manufacturing and construction, where trade bosses say six-figure jobs are sitting empty",
-      "summary": "ADP's latest report indicates the U.S. added 90,000 private sector jobs in September, with significant contributions from manufacturing and construction. Despite this growth, industry leaders like the Home Builders Institute (HBI) warn of a critical shortage of skilled tradespeople, emphasizing that high-paying blue-collar jobs are going unfilled. Economists are monitoring wage growth in these sectors, particularly construction, for potential inflation risks, while also noting the impact of worker sentiment on hiring challenges.",
-      "source": "Fortune",
+      "title": "UBS cuts target for Cummins stock from USD 835.00 to USD 741.00",
+      "summary": "UBS has lowered its price target for Cummins stock from USD 835.00 to USD 741.00, while maintaining a Buy rating, due to uncertainties surrounding EPA 2027 rules, inflation, and fuel costs. Despite the reduced target, Cummins recently signed a 1 gigawatt fleet deal and reported a 9% increase in Q2 2026 revenue to USD 9.46 billion, with diluted EPS at USD 6.73. The company also raised its full-year 2026 revenue-growth outlook.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Fortune",
-          "url": "https://fortune.com/2026/10/01/adp-jobs-report-construction-manufacturing-hiring-spree-skilled-wor/",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ubs-cuts-target-for-cummins-stock-from-usd-835-00-to-usd-741-00/70215969",
           "urlType": "article"
         }
       ],
-      "url": "https://fortune.com/2026/10/01/adp-jobs-report-construction-manufacturing-hiring-spree-skilled-wor/",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ubs-cuts-target-for-cummins-stock-from-usd-835-00-to-usd-741-00/70215969",
       "urlType": "article",
-      "publishedAt": "2026-10-01T10:45:05.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T13:42:01.000Z",
+      "date": "2026-10-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 20
+    },
+    {
+      "id": "c747b19fbb0df3caaa5f",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Nucor-Yamato, Gerdau Increase Structural Steel Prices by $50/ton - News and Statistics",
+      "summary": "Nucor-Yamato Steel and Gerdau Long Steel North America have both announced a $50 per short tonne price increase on various beams, piles, and other structural steel products, effective for orders placed on or after October 1st. This move follows Nucor's recent weekly increases in hot-rolled coil prices. Both companies stated they would continue to monitor market conditions to maintain competitiveness.",
+      "source": "IndexBox",
+      "sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://www.indexbox.io/blog/nucor-yamato-and-gerdau-raise-beam-and-pile-prices-by-50-per-short-tonne/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.indexbox.io/blog/nucor-yamato-and-gerdau-raise-beam-and-pile-prices-by-50-per-short-tonne/",
+      "urlType": "article",
+      "publishedAt": "2026-10-02T10:01:44.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "9301e341cdfcd81be25d",
+      "id": "9b38fdd7a9d5b04ad9e2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Cal-Maine Shares Crack After Wider-Than-Expected Loss, Muted Egg Prices",
-      "summary": "Shares of Cal-Maine Foods Inc. dropped after the company reported wider-than-expected losses and soft first-quarter results for fiscal 2027. Analyst Pooran Sharma maintained an Equal-Weight rating but cut the price target due to lower gross margin, higher SG&A, and muted egg prices caused by industry supply imbalance, which is expected to persist through the holiday season. The company's net sales declined, and average selling prices for eggs fell significantly.",
-      "source": "Benzinga",
+      "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
+      "summary": "Costco is emerging as a significant threat to traditional grocers, demonstrating strong market share gains and sales growth in key departments like fresh food. The club retailer's recent financial results and consumer preference data indicate its increasing competitive edge, despite requiring a paid membership. This rise signals a need for traditional grocery stores to re-evaluate their strategies as Costco expands its influence.",
+      "source": "Grocery Dive",
       "sources": [
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62112533/cal-maine-foods-analyst-cuts-price-target-egg-price-weakness",
+          "name": "Grocery Dive",
+          "url": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62112533/cal-maine-foods-analyst-cuts-price-target-egg-price-weakness",
+      "url": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
       "urlType": "article",
-      "publishedAt": "2026-10-01T15:59:28.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T15:56:35.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "d69d5c80c3445dbc76dc",
+      "id": "f19406fab904a3dfbf36",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "DTE completes 100MW Cold Creek Solar Park to support Ford's 100% renewable energy goal in Michigan",
-      "summary": "DTE Energy has completed the 100-megawatt Cold Creek Solar Park in Michigan, a crucial step for Ford Motor Company to achieve its goal of using 100% renewable energy for its Michigan vehicle production by 2027. This project, funded through Ford's participation in DTE's MIGreenPower program, supports clean energy goals, local jobs, and tax revenue. Despite this positive development, Ford's stock performance reflects cautious market sentiment, showing only a modest 1-day gain.",
-      "source": "Pluang",
+      "title": "We Energies plans new natural gas plant as data centers drive demand",
+      "summary": "We Energies is proposing to construct a new 750-megawatt natural gas-fired power plant in Wrightstown, Outagamie County, in Wisconsin's Fox Valley. This initiative is being driven by the increasing energy demands from data centers. The planned facility would be located at the site of the existing Fox Energy Center.",
+      "source": "Milwaukee Journal Sentinel",
       "sources": [
         {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/dte-energy-selesaikan-pembangunan-taman-solar-cold-creek-dorong-manfaat-ekonomi",
+          "name": "Milwaukee Journal Sentinel",
+          "url": "https://www.jsonline.com/story/money/business/energy/2026/10/02/we-energies-new-natural-gas-plant-in-outagamie-county/92060505007/?gca-cat=p&gnt-cfr=1&gnt-djm=1",
           "urlType": "article"
         }
       ],
-      "url": "https://pluang.com/en/news-feed/dte-energy-selesaikan-pembangunan-taman-solar-cold-creek-dorong-manfaat-ekonomi",
+      "url": "https://www.jsonline.com/story/money/business/energy/2026/10/02/we-energies-new-natural-gas-plant-in-outagamie-county/92060505007/?gca-cat=p&gnt-cfr=1&gnt-djm=1",
       "urlType": "article",
-      "publishedAt": "2026-10-01T15:48:16.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T15:48:00.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "65ecfbcee3f0a64341b2",
+      "id": "839732ea843e8e281285",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "JPMorgan Chase & Co. Cuts Columbia Banking System (NASDAQ:COLB) Price Target to $33.00",
-      "summary": "JPMorgan Chase & Co. has lowered its price target for Columbia Banking System (NASDAQ:COLB) to $33.00 from $35.00, while maintaining a \"neutral\" rating, implying a potential upside of 17.71%. This adjustment comes despite Columbia Banking System reporting quarterly earnings per share of $0.76, exceeding the consensus estimate of $0.73, though revenue fell short of expectations. The consensus among analysts remains a \"Hold\" rating with an average target price of $33.42, reflecting cautious sentiment, with five analysts rating it a \"Buy\" and eight a \"Hold.\"",
-      "source": "MarketBeat",
+      "title": "Analog Devices Inc Stock (ADI) Moved Up by 3.22% on Oct 2: A Full Analysis",
+      "summary": "Analog Devices Inc (ADI) stock increased by 3.22% on October 2, driven by its acquisition of Alif Semiconductor to address edge AI workloads and strong demand in industrial and hyperscaler markets. The company's strategic positioning in AI infrastructure and disciplined pricing are contributing to gross margin expansion and investor confidence. Technical indicators show buy signals, though one suggests an overbought condition, while fundamental analysis highlights solid revenue and net profit within the Technology Equipment industry.",
+      "source": "TradingKey",
       "sources": [
         {
-          "name": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-cuts-columbia-banking-system-nasdaq-colb-price-target-to-3300-2026-10-01/",
+          "name": "TradingKey",
+          "url": "https://www.tradingkey.com/news/market-movers/262198219-market-movers-adi-20261002",
           "urlType": "article"
         }
       ],
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-cuts-columbia-banking-system-nasdaq-colb-price-target-to-3300-2026-10-01/",
+      "url": "https://www.tradingkey.com/news/market-movers/262198219-market-movers-adi-20261002",
       "urlType": "article",
-      "publishedAt": "2026-10-01T15:40:21.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T15:40:02.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "780c04ea003271943dce",
+      "id": "4ee23271d1c776a5ed6e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "5 ways Amazon is investing in New Jersey",
-      "summary": "Amazon has invested over $55 billion in New Jersey, creating more than 42,000 direct jobs and supporting over 30,000 indirect jobs. The company focuses on employee development through programs like Career Choice, builds extensive infrastructure including fulfillment centers and Whole Foods Market locations, and empowers small businesses by providing access to millions of customers. Additionally, Amazon contributes to the community through significant donations and volunteer efforts.",
-      "source": "About Amazon",
+      "title": "U.S. Ford Motor Company Sales Up Two Percent In September 2026",
+      "summary": "Ford Motor Company announced a two percent increase in U.S. sales for September 2026, totaling 169,132 units, with sales rising for the Ford brand but decreasing for Lincoln. Key performers included the Ford F-Series, Bronco, and Explorer, contributing to Ford's strong presence in the truck and large three-row SUV segments. Despite some model-specific decreases, the company remains on track with its full-year adjusted EBIT guidance.",
+      "source": "Ford Authority",
       "sources": [
         {
-          "name": "About Amazon",
-          "url": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business",
+          "name": "Ford Authority",
+          "url": "https://fordauthority.com/2026/10/ford-motor-company-sales-numbers-figures-results-september-2026-usa/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.aboutamazon.com/news/community/amazon-investment-new-jersey-jobs-infrastructure-small-business",
+      "url": "https://fordauthority.com/2026/10/ford-motor-company-sales-numbers-figures-results-september-2026-usa/",
       "urlType": "article",
-      "publishedAt": "2026-10-01T15:34:51.000Z",
-      "date": "2026-10-01",
+      "publishedAt": "2026-10-02T15:20:07.000Z",
+      "date": "2026-10-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "f75a36b850d2a6efe555",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "JPMorgan cuts Zions Bancorp stock target to USD 65.00",
+      "summary": "JPMorgan has lowered its price target for Zions Bancorporation (NASDAQ: ZION) from USD 75.00 to USD 65.00, while maintaining an underweight rating, which is below the broader consensus of USD 72.35. This comes despite Zions Bancorp reporting strong second-quarter revenues of USD 1.48 billion, an increase of 19.35% year-over-year, and net profit soaring by 85.66% to USD 453.00 million. The company's third-quarter results are anticipated on October 19, 2026.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-cuts-zions-bancorp-stock-target-to-usd-65-00/70216390",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-cuts-zions-bancorp-stock-target-to-usd-65-00/70216390",
+      "urlType": "article",
+      "publishedAt": "2026-10-02T15:04:16.000Z",
+      "date": "2026-10-02",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "da4fb4ca0744544ae325",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "PepsiCo recovery lags, but valuation remains attractive to UBS",
+      "summary": "UBS maintains a \"buy\" rating on PepsiCo (NASDAQ:PEP) despite a slow North American recovery, citing attractive medium-term risk and reward in its valuation. The broker forecasts third-quarter earnings below consensus and expects the company to reiterate its full-year guidance, pointing to the low end due to weaker US sales and rising costs. While acknowledging investor concerns about strategic direction, UBS views PepsiCo's retreat from price investments favorably, expecting a regional turnaround to take time.",
+      "source": "Proactive financial news",
+      "sources": [
+        {
+          "name": "Proactive financial news",
+          "url": "https://www.proactiveinvestors.com/companies/news/1099538/pepsico-recovery-lags-but-valuation-remains-attractive-to-ubs-1099538.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.proactiveinvestors.com/companies/news/1099538/pepsico-recovery-lags-but-valuation-remains-attractive-to-ubs-1099538.html",
+      "urlType": "article",
+      "publishedAt": "2026-10-02T15:04:00.000Z",
+      "date": "2026-10-02",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
