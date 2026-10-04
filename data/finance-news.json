@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-10-02",
-  "generatedAt": "2026-10-03T01:07:48.953Z",
-  "targetDate": "2026-10-02",
+  "updated": "2026-10-03",
+  "generatedAt": "2026-10-04T00:33:29.766Z",
+  "targetDate": "2026-10-03",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -16,9 +16,9 @@
     },
     {
       "name": "中国人民银行",
-      "status": "failed",
+      "status": "ok",
       "itemCount": 0,
-      "message": "fetch failed"
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "dc77161c89e213d6bd19",
+      "id": "ade8b8b28db6ee3d521e",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Household Products Stocks Q2 Recap: Benchmarking Clorox (NYSE:CLX)",
-      "summary": "This article reviews the Q2 earnings season for the household products industry, highlighting the performances of key companies like Clorox, Spectrum Brands, Energizer, Procter & Gamble, and Reynolds. It notes that while revenues generally beat estimates, stock prices have seen a decline. The piece also briefly touches on broader market concerns, including AI and geopolitical events.",
-      "source": "StockStory",
+      "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+      "summary": "The US government plans to lend Vistra Corp approximately $4.2 billion to enhance its nuclear power generation capabilities. This funding will be used to \"uprate\" at least three of Vistra's four nuclear stations, a process that increases power output without requiring new licenses. The initiative comes as US power demand is rising, driven by AI data centers, electrification, and cryptocurrency mining, aligning with President Donald Trump's goal to quadruple US nuclear power capacity by 2050.",
+      "source": "Reuters",
       "sources": [
         {
-          "name": "StockStory",
-          "url": "https://stockstory.org/us/stocks/nyse/clx/news/earnings/household-products-stocks-q2-recap-benchmarking-clorox-nyseclx",
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/",
           "urlType": "article"
         }
       ],
-      "url": "https://stockstory.org/us/stocks/nyse/clx/news/earnings/household-products-stocks-q2-recap-benchmarking-clorox-nyseclx",
+      "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/",
       "urlType": "article",
-      "publishedAt": "2026-10-02T09:50:56.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T13:38:48.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 23
+      "score": 28
     },
     {
-      "id": "22e8358e9b3a43494a49",
+      "id": "a1083285cc99ea9c6ff4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Why Is Ollie's Bargain Outlet (OLLI) Up 19.3% Since Last Earnings Report?",
-      "summary": "Ollie's Bargain Outlet (OLLI) shares have risen 19.3% since its last earnings report, outperforming the S&P 500. The company reported better-than-expected Q2 fiscal 2026 adjusted earnings, driven by tariff refunds, despite a sales miss and declining comparable-store sales. While sales outlook was lowered, the profit guide was raised, reflecting mixed consumer trends and strategic initiatives like share buybacks and store expansion.",
-      "source": "Yahoo Finance Australia",
+      "title": "Ryder System, Inc. (R) Stock Price, News, Quote & History",
+      "summary": "This article provides comprehensive financial information for Ryder System, Inc. (R), including its stock price, historical data, key financial metrics, and analyst insights. It details the company's business segments: Fleet Management Solutions (FMS), Supply Chain Solutions (SCS), and Dedicated Transportation Solutions (DTS), highlighting its global operations in logistics and transportation. The data includes stock performance, earnings trends, valuation measures, and profitability metrics, as of October 2, 2026.",
+      "source": "Yahoo! Finance Canada",
       "sources": [
         {
-          "name": "Yahoo Finance Australia",
-          "url": "https://au.finance.yahoo.com/news/why-ollies-bargain-outlet-olli-143004596.html",
+          "name": "Yahoo! Finance Canada",
+          "url": "https://ca.finance.yahoo.com/quote/R/",
           "urlType": "article"
         }
       ],
-      "url": "https://au.finance.yahoo.com/news/why-ollies-bargain-outlet-olli-143004596.html",
+      "url": "https://ca.finance.yahoo.com/quote/R/",
       "urlType": "article",
-      "publishedAt": "2026-10-02T14:32:53.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T11:04:41.000Z",
+      "date": "2026-10-03",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "1faded756e9bac200b93",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Canada Know-Risk Market Outlook | International Headlines Set The Tone Today",
+      "summary": "International headlines are significantly impacting grain markets, with crude oil prices rising and China making large purchases of U.S. soybeans. Upcoming WASDE reports and recent Russian grain export estimate cuts are expected to further influence market dynamics, particularly for soybeans and wheat. This could lead to continued bullish trends in agricultural commodities.",
+      "source": "StoneX",
+      "sources": [
+        {
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en/insights/canada-know-risk-market-outlook-international-headlines-set-the-tone-today/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.stonex.com/en/insights/canada-know-risk-market-outlook-international-headlines-set-the-tone-today/",
+      "urlType": "article",
+      "publishedAt": "2026-10-03T06:53:46.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "b70ee9a1f7a4b81fb579",
+      "id": "583753bb1957211ffd40",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "UBS cuts target for Cummins stock from USD 835.00 to USD 741.00",
-      "summary": "UBS has lowered its price target for Cummins stock from USD 835.00 to USD 741.00, while maintaining a Buy rating, due to uncertainties surrounding EPA 2027 rules, inflation, and fuel costs. Despite the reduced target, Cummins recently signed a 1 gigawatt fleet deal and reported a 9% increase in Q2 2026 revenue to USD 9.46 billion, with diluted EPS at USD 6.73. The company also raised its full-year 2026 revenue-growth outlook.",
-      "source": "AD HOC NEWS",
+      "title": "SLB, Formentera Working to Activate Drilling Rigs in Venezuela, Executives Say",
+      "summary": "Oil service provider SLB and private equity firm Formentera Partners are actively working to reactivate or import drilling rigs into Venezuela to boost its crude production capacity. Despite current obstacles like importing equipment and negotiating with the Venezuelan government, SLB anticipates reactivating up to 15 rigs within a year, with a few expected to be operational by year-end, while Formentera is in discussions with international service providers for additional rigs. This effort comes as Venezuela seeks to expand its oil production, though challenges related to power supply, supply chains, and contract protection remain.",
+      "source": "EnergyNow.com",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ubs-cuts-target-for-cummins-stock-from-usd-835-00-to-usd-741-00/70215969",
+          "name": "EnergyNow.com",
+          "url": "https://energynow.com/2026/08/slb-formentera-working-to-activate-drilling-rigs-in-venezuela-executives-say/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ubs-cuts-target-for-cummins-stock-from-usd-835-00-to-usd-741-00/70215969",
+      "url": "https://energynow.com/2026/08/slb-formentera-working-to-activate-drilling-rigs-in-venezuela-executives-say/",
       "urlType": "article",
-      "publishedAt": "2026-10-02T13:42:01.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T05:42:26.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "c747b19fbb0df3caaa5f",
+      "id": "1f0a6a2624fd374eb723",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Nucor-Yamato, Gerdau Increase Structural Steel Prices by $50/ton - News and Statistics",
-      "summary": "Nucor-Yamato Steel and Gerdau Long Steel North America have both announced a $50 per short tonne price increase on various beams, piles, and other structural steel products, effective for orders placed on or after October 1st. This move follows Nucor's recent weekly increases in hot-rolled coil prices. Both companies stated they would continue to monitor market conditions to maintain competitiveness.",
-      "source": "IndexBox",
+      "title": "Ford backs a big new solar farm for its Michigan factories",
+      "summary": "Ford is supporting a new 100-megawatt solar farm in Michigan, built by DTE Energy, to help power its factories with clean electricity. The $194 million Cold Creek Solar Park is the first of several projects aimed at achieving Ford's goal of using 100% carbon-free electricity for its Michigan manufacturing by the end of 2027. This initiative is part of Ford's broader commitment to reach carbon neutrality across its global manufacturing and supply chain by 2050.",
+      "source": "Electrek",
       "sources": [
         {
-          "name": "IndexBox",
-          "url": "https://www.indexbox.io/blog/nucor-yamato-and-gerdau-raise-beam-and-pile-prices-by-50-per-short-tonne/",
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.indexbox.io/blog/nucor-yamato-and-gerdau-raise-beam-and-pile-prices-by-50-per-short-tonne/",
+      "url": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
       "urlType": "article",
-      "publishedAt": "2026-10-02T10:01:44.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T19:51:50.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 18
     },
     {
-      "id": "9b38fdd7a9d5b04ad9e2",
+      "id": "fc60aac85b6985140b35",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "The Friday Checkout: Has Costco become grocery’s biggest threat?",
-      "summary": "Costco is emerging as a significant threat to traditional grocers, demonstrating strong market share gains and sales growth in key departments like fresh food. The club retailer's recent financial results and consumer preference data indicate its increasing competitive edge, despite requiring a paid membership. This rise signals a need for traditional grocery stores to re-evaluate their strategies as Costco expands its influence.",
-      "source": "Grocery Dive",
+      "title": "Regions Financial shows strong results and attractive 7.2% yield on preferred shares amid economic challenges",
+      "summary": "Regions Financial Corporation demonstrates robust financial health despite economic challenges, with preferred dividends requiring less than 4% of net income and reduced loan loss provisions. Their Series E preferred shares offer an appealing 7.2% yield, making them attractive to income-focused investors. The company trades at twice its tangible book value, boasts an 18–19% return on tangible equity, and maintains a low payout ratio, indicating strong potential for growth and long-term investment.",
+      "source": "Pluang",
       "sources": [
         {
-          "name": "Grocery Dive",
-          "url": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/regions-financial-dividen-preferensial-72-persen-didukung-laba-kuat",
           "urlType": "article"
         }
       ],
-      "url": "https://www.grocerydive.com/news/costco-grocers-biggest-threat-fresh-offerings-ecommerce-value-perception/831994/",
+      "url": "https://pluang.com/en/news-feed/regions-financial-dividen-preferensial-72-persen-didukung-laba-kuat",
       "urlType": "article",
-      "publishedAt": "2026-10-02T15:56:35.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T15:34:06.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "f19406fab904a3dfbf36",
+      "id": "706a4fc1412d31126525",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "We Energies plans new natural gas plant as data centers drive demand",
-      "summary": "We Energies is proposing to construct a new 750-megawatt natural gas-fired power plant in Wrightstown, Outagamie County, in Wisconsin's Fox Valley. This initiative is being driven by the increasing energy demands from data centers. The planned facility would be located at the site of the existing Fox Energy Center.",
-      "source": "Milwaukee Journal Sentinel",
+      "title": "Blue Owl Capital Corp's strong portfolio and low risk defy negative headlines amid Fed rate hikes.",
+      "summary": "Blue Owl Capital Corporation (OBDC) maintains a strong investment portfolio of approximately $15 billion, primarily focused on large corporate borrowers, despite external negative headlines impacting its parent company. The company exhibits low non-accruals (0.8%) and manageable leverage (1.11x debt-to-equity), which allows for share repurchases at a discount. These robust fundamentals continue to hold strong even with the Federal Reserve's recent rate hikes.",
+      "source": "Pluang",
       "sources": [
         {
-          "name": "Milwaukee Journal Sentinel",
-          "url": "https://www.jsonline.com/story/money/business/energy/2026/10/02/we-energies-new-natural-gas-plant-in-outagamie-county/92060505007/?gca-cat=p&gnt-cfr=1&gnt-djm=1",
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/blue-owl-capital-saham-diskon-saya-beli-dip",
           "urlType": "article"
         }
       ],
-      "url": "https://www.jsonline.com/story/money/business/energy/2026/10/02/we-energies-new-natural-gas-plant-in-outagamie-county/92060505007/?gca-cat=p&gnt-cfr=1&gnt-djm=1",
+      "url": "https://pluang.com/en/news-feed/blue-owl-capital-saham-diskon-saya-beli-dip",
       "urlType": "article",
-      "publishedAt": "2026-10-02T15:48:00.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T14:54:05.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "839732ea843e8e281285",
+      "id": "6ef8958ba491b951a7f2",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Analog Devices Inc Stock (ADI) Moved Up by 3.22% on Oct 2: A Full Analysis",
-      "summary": "Analog Devices Inc (ADI) stock increased by 3.22% on October 2, driven by its acquisition of Alif Semiconductor to address edge AI workloads and strong demand in industrial and hyperscaler markets. The company's strategic positioning in AI infrastructure and disciplined pricing are contributing to gross margin expansion and investor confidence. Technical indicators show buy signals, though one suggests an overbought condition, while fundamental analysis highlights solid revenue and net profit within the Technology Equipment industry.",
-      "source": "TradingKey",
+      "title": "FedEx Corp. Company & People | FDX",
+      "summary": "This article provides a detailed company and people profile for FedEx Corp. (FDX), including stock performance data, key financial metrics, analyst ratings, and information on its executive team and board members. It highlights FedEx's segments (Federal Express, FedEx Freight, FedEx Corporate and Other) and its role in transportation, e-commerce, and business services. The profile also lists various financial ratios related to valuation, profitability, efficiency, liquidity, and capitalization.",
+      "source": "Barron's",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/news/market-movers/262198219-market-movers-adi-20261002",
+          "name": "Barron's",
+          "url": "https://www.barrons.com/market-data/stocks/fdx/company-people?mod=quotes&amp%3Bmod=article_inline",
           "urlType": "article"
         }
       ],
-      "url": "https://www.tradingkey.com/news/market-movers/262198219-market-movers-adi-20261002",
+      "url": "https://www.barrons.com/market-data/stocks/fdx/company-people?mod=quotes&amp%3Bmod=article_inline",
       "urlType": "article",
-      "publishedAt": "2026-10-02T15:40:02.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T13:50:42.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "4ee23271d1c776a5ed6e",
+      "id": "5e58e26259b10d32d7db",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "U.S. Ford Motor Company Sales Up Two Percent In September 2026",
-      "summary": "Ford Motor Company announced a two percent increase in U.S. sales for September 2026, totaling 169,132 units, with sales rising for the Ford brand but decreasing for Lincoln. Key performers included the Ford F-Series, Bronco, and Explorer, contributing to Ford's strong presence in the truck and large three-row SUV segments. Despite some model-specific decreases, the company remains on track with its full-year adjusted EBIT guidance.",
-      "source": "Ford Authority",
+      "title": "3 Overlooked Packaging Stocks With Businesses and Dividends That Never Really Stop",
+      "summary": "This article highlights three overlooked packaging stocks—Ball Corporation (BALL), Packaging Corp of America (PKG), and Amcor (AMCR)—that offer stable businesses and consistent dividends, often performing well even during economic downturns. It details each company's products, financial performance, dividend history, and associated risks, suggesting these \"dull, dividend-paying compounders\" can form the backbone of a resilient investment portfolio.",
+      "source": "24/7 Wall St.",
       "sources": [
         {
-          "name": "Ford Authority",
-          "url": "https://fordauthority.com/2026/10/ford-motor-company-sales-numbers-figures-results-september-2026-usa/",
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/10/03/3-overlooked-packaging-stocks-with-businesses-and-dividends-that-never-really-stop/",
           "urlType": "article"
         }
       ],
-      "url": "https://fordauthority.com/2026/10/ford-motor-company-sales-numbers-figures-results-september-2026-usa/",
+      "url": "https://247wallst.com/investing/2026/10/03/3-overlooked-packaging-stocks-with-businesses-and-dividends-that-never-really-stop/",
       "urlType": "article",
-      "publishedAt": "2026-10-02T15:20:07.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T13:45:24.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "f75a36b850d2a6efe555",
+      "id": "e4f28cb4a4ae0f1ec250",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "JPMorgan cuts Zions Bancorp stock target to USD 65.00",
-      "summary": "JPMorgan has lowered its price target for Zions Bancorporation (NASDAQ: ZION) from USD 75.00 to USD 65.00, while maintaining an underweight rating, which is below the broader consensus of USD 72.35. This comes despite Zions Bancorp reporting strong second-quarter revenues of USD 1.48 billion, an increase of 19.35% year-over-year, and net profit soaring by 85.66% to USD 453.00 million. The company's third-quarter results are anticipated on October 19, 2026.",
-      "source": "AD HOC NEWS",
+      "title": "Tractor Supply's 17-year dividend streak faces pressure amid earnings misses and a 35% stock drop.",
+      "summary": "Tractor Supply (TSCO) is facing pressure on its 17-year dividend streak due to recent earnings misses, a cut in its 2026 outlook, and a 35% stock decline. While core consumable sales are stable, big-ticket item sales have fallen, and free cash flow tightened due to inventory buildup. Investors are awaiting the Q3 report for further direction, as the stock trades near its 52-week low despite a 3.09% dividend yield.",
+      "source": "Pluang",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-cuts-zions-bancorp-stock-target-to-usd-65-00/70216390",
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/bisakah-tractor-supply-mempertahankan-17-tahun-dividen",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-cuts-zions-bancorp-stock-target-to-usd-65-00/70216390",
+      "url": "https://pluang.com/en/news-feed/bisakah-tractor-supply-mempertahankan-17-tahun-dividen",
       "urlType": "article",
-      "publishedAt": "2026-10-02T15:04:16.000Z",
-      "date": "2026-10-02",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "da4fb4ca0744544ae325",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "PepsiCo recovery lags, but valuation remains attractive to UBS",
-      "summary": "UBS maintains a \"buy\" rating on PepsiCo (NASDAQ:PEP) despite a slow North American recovery, citing attractive medium-term risk and reward in its valuation. The broker forecasts third-quarter earnings below consensus and expects the company to reiterate its full-year guidance, pointing to the low end due to weaker US sales and rising costs. While acknowledging investor concerns about strategic direction, UBS views PepsiCo's retreat from price investments favorably, expecting a regional turnaround to take time.",
-      "source": "Proactive financial news",
-      "sources": [
-        {
-          "name": "Proactive financial news",
-          "url": "https://www.proactiveinvestors.com/companies/news/1099538/pepsico-recovery-lags-but-valuation-remains-attractive-to-ubs-1099538.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.proactiveinvestors.com/companies/news/1099538/pepsico-recovery-lags-but-valuation-remains-attractive-to-ubs-1099538.html",
-      "urlType": "article",
-      "publishedAt": "2026-10-02T15:04:00.000Z",
-      "date": "2026-10-02",
+      "publishedAt": "2026-10-03T12:42:23.000Z",
+      "date": "2026-10-03",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
