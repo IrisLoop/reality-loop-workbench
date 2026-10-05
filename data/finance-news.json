@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-10-03",
-  "generatedAt": "2026-10-04T00:33:29.766Z",
-  "targetDate": "2026-10-03",
+  "updated": "2026-10-04",
+  "generatedAt": "2026-10-05T00:50:54.489Z",
+  "targetDate": "2026-10-04",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "ade8b8b28db6ee3d521e",
+      "id": "32c09ec6ce14fb9e52e3",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-      "summary": "The US government plans to lend Vistra Corp approximately $4.2 billion to enhance its nuclear power generation capabilities. This funding will be used to \"uprate\" at least three of Vistra's four nuclear stations, a process that increases power output without requiring new licenses. The initiative comes as US power demand is rising, driven by AI data centers, electrification, and cryptocurrency mining, aligning with President Donald Trump's goal to quadruple US nuclear power capacity by 2050.",
-      "source": "Reuters",
+      "title": "Emerson Electric (EMR) Has A Fresh Update, So Why Is It Drawing Attention?",
+      "summary": "Emerson Electric (EMR) is opening a new 3,500-square-meter Middle East and Africa Service Center in Qatar, focusing on automation support. This announcement comes amidst a strong performance in its shares, with significant year-to-date and 1-year returns. The expansion highlights the company's growth in digital automation and AI solutions, yet different valuation models present conflicting views on whether the stock is undervalued or overvalued.",
+      "source": "Simply Wall Street",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/",
+          "name": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-emr/emerson-electric/news/emerson-electric-emr-has-a-fresh-update-so-why-is-it-drawing/amp",
           "urlType": "article"
         }
       ],
-      "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-emr/emerson-electric/news/emerson-electric-emr-has-a-fresh-update-so-why-is-it-drawing/amp",
       "urlType": "article",
-      "publishedAt": "2026-10-03T13:38:48.000Z",
-      "date": "2026-10-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 28
-    },
-    {
-      "id": "a1083285cc99ea9c6ff4",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Ryder System, Inc. (R) Stock Price, News, Quote & History",
-      "summary": "This article provides comprehensive financial information for Ryder System, Inc. (R), including its stock price, historical data, key financial metrics, and analyst insights. It details the company's business segments: Fleet Management Solutions (FMS), Supply Chain Solutions (SCS), and Dedicated Transportation Solutions (DTS), highlighting its global operations in logistics and transportation. The data includes stock performance, earnings trends, valuation measures, and profitability metrics, as of October 2, 2026.",
-      "source": "Yahoo! Finance Canada",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://ca.finance.yahoo.com/quote/R/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://ca.finance.yahoo.com/quote/R/",
-      "urlType": "article",
-      "publishedAt": "2026-10-03T11:04:41.000Z",
-      "date": "2026-10-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 22
-    },
-    {
-      "id": "1faded756e9bac200b93",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Canada Know-Risk Market Outlook | International Headlines Set The Tone Today",
-      "summary": "International headlines are significantly impacting grain markets, with crude oil prices rising and China making large purchases of U.S. soybeans. Upcoming WASDE reports and recent Russian grain export estimate cuts are expected to further influence market dynamics, particularly for soybeans and wheat. This could lead to continued bullish trends in agricultural commodities.",
-      "source": "StoneX",
-      "sources": [
-        {
-          "name": "StoneX",
-          "url": "https://www.stonex.com/en/insights/canada-know-risk-market-outlook-international-headlines-set-the-tone-today/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.stonex.com/en/insights/canada-know-risk-market-outlook-international-headlines-set-the-tone-today/",
-      "urlType": "article",
-      "publishedAt": "2026-10-03T06:53:46.000Z",
-      "date": "2026-10-03",
+      "publishedAt": "2026-10-04T11:20:46.000Z",
+      "date": "2026-10-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "583753bb1957211ffd40",
+      "id": "9eeddf851da645f9f69d",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "SLB, Formentera Working to Activate Drilling Rigs in Venezuela, Executives Say",
-      "summary": "Oil service provider SLB and private equity firm Formentera Partners are actively working to reactivate or import drilling rigs into Venezuela to boost its crude production capacity. Despite current obstacles like importing equipment and negotiating with the Venezuelan government, SLB anticipates reactivating up to 15 rigs within a year, with a few expected to be operational by year-end, while Formentera is in discussions with international service providers for additional rigs. This effort comes as Venezuela seeks to expand its oil production, though challenges related to power supply, supply chains, and contract protection remain.",
-      "source": "EnergyNow.com",
+      "title": "FedEx stock gets a 2,000-truck order worth more than USD 300 million.",
+      "summary": "FedEx has placed an order for 2,000 electric trucks from Harbinger, valued at over USD 300 million, to be delivered by the end of 2027 as part of its electrification strategy. This comes as the company reported fiscal year 2026 revenue of USD 94.72 billion, up 7.7%, and recently sold FedEx Supply Chain for USD 1.4 billion. Analysts hold a Moderate Buy consensus for FedEx stock, with an average 12-month price target of USD 354.72.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "EnergyNow.com",
-          "url": "https://energynow.com/2026/08/slb-formentera-working-to-activate-drilling-rigs-in-venezuela-executives-say/",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-gets-a-2-000-truck-order-worth-more-than-usd-300-million/70223992",
           "urlType": "article"
         }
       ],
-      "url": "https://energynow.com/2026/08/slb-formentera-working-to-activate-drilling-rigs-in-venezuela-executives-say/",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-gets-a-2-000-truck-order-worth-more-than-usd-300-million/70223992",
       "urlType": "article",
-      "publishedAt": "2026-10-03T05:42:26.000Z",
-      "date": "2026-10-03",
+      "publishedAt": "2026-10-04T08:49:55.000Z",
+      "date": "2026-10-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "1f0a6a2624fd374eb723",
+      "id": "55054ec09ff8051bea6a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Ford backs a big new solar farm for its Michigan factories",
-      "summary": "Ford is supporting a new 100-megawatt solar farm in Michigan, built by DTE Energy, to help power its factories with clean electricity. The $194 million Cold Creek Solar Park is the first of several projects aimed at achieving Ford's goal of using 100% carbon-free electricity for its Michigan manufacturing by the end of 2027. This initiative is part of Ford's broader commitment to reach carbon neutrality across its global manufacturing and supply chain by 2050.",
-      "source": "Electrek",
+      "title": "Aptiv stock faces a lower 2026 revenue outlook after Q2 results",
+      "summary": "Aptiv plc (APTV) closed at USD 43.54 on October 2, 2026, after reporting mixed Q2 results where EPS beat expectations but revenue missed and full-year guidance was lowered. The company's adjusted EPS of USD 1.63 for Q2 fiscal 2026 surpassed consensus, but full-year revenue guidance was reduced to USD 12.6 billion-USD 12.8 billion. Despite the lowered outlook and the stock trading near its yearly low, analysts maintain a \"Buy\" rating with an average target price significantly above the current stock price.",
+      "source": "AD HOC NEWS",
       "sources": [
         {
-          "name": "Electrek",
-          "url": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-faces-a-lower-2026-revenue-outlook-after-q2-results/70226572",
           "urlType": "article"
         }
       ],
-      "url": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-faces-a-lower-2026-revenue-outlook-after-q2-results/70226572",
       "urlType": "article",
-      "publishedAt": "2026-10-02T19:51:50.000Z",
-      "date": "2026-10-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 18
-    },
-    {
-      "id": "fc60aac85b6985140b35",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Regions Financial shows strong results and attractive 7.2% yield on preferred shares amid economic challenges",
-      "summary": "Regions Financial Corporation demonstrates robust financial health despite economic challenges, with preferred dividends requiring less than 4% of net income and reduced loan loss provisions. Their Series E preferred shares offer an appealing 7.2% yield, making them attractive to income-focused investors. The company trades at twice its tangible book value, boasts an 18–19% return on tangible equity, and maintains a low payout ratio, indicating strong potential for growth and long-term investment.",
-      "source": "Pluang",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/regions-financial-dividen-preferensial-72-persen-didukung-laba-kuat",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://pluang.com/en/news-feed/regions-financial-dividen-preferensial-72-persen-didukung-laba-kuat",
-      "urlType": "article",
-      "publishedAt": "2026-10-03T15:34:06.000Z",
-      "date": "2026-10-03",
+      "publishedAt": "2026-10-04T15:50:57.000Z",
+      "date": "2026-10-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "706a4fc1412d31126525",
+      "id": "1bb88833b7e1ee66f19a",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Blue Owl Capital Corp's strong portfolio and low risk defy negative headlines amid Fed rate hikes.",
-      "summary": "Blue Owl Capital Corporation (OBDC) maintains a strong investment portfolio of approximately $15 billion, primarily focused on large corporate borrowers, despite external negative headlines impacting its parent company. The company exhibits low non-accruals (0.8%) and manageable leverage (1.11x debt-to-equity), which allows for share repurchases at a discount. These robust fundamentals continue to hold strong even with the Federal Reserve's recent rate hikes.",
-      "source": "Pluang",
+      "title": "LU Stock Jumps As Lufax Executes 1-For-10 ADS Reverse Split",
+      "summary": "Lufax Holding Ltd (LU) is executing a 1-for-10 reverse ADS split on the NYSE, changing the ratio from 1 ADS for 2 ordinary shares to 1 ADS for 20, aimed at raising the per-ADS trading price and preserving its listing. Despite this technical move, the stock has been trading down by -12.6%, reflecting market skepticism about its profitability and growth amidst regulatory pressures in the Chinese consumer finance sector. The article suggests that while the reverse split may create short-term trading opportunities, it does not fundamentally improve the company's economics, and traders should approach post-split price action with strict risk limits.",
+      "source": "Timothy Sykes",
       "sources": [
         {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/blue-owl-capital-saham-diskon-saya-beli-dip",
+          "name": "Timothy Sykes",
+          "url": "https://www.timothysykes.com/news/lufaxholdingltd-lu-news-2026_10_04-2/",
           "urlType": "article"
         }
       ],
-      "url": "https://pluang.com/en/news-feed/blue-owl-capital-saham-diskon-saya-beli-dip",
+      "url": "https://www.timothysykes.com/news/lufaxholdingltd-lu-news-2026_10_04-2/",
       "urlType": "article",
-      "publishedAt": "2026-10-03T14:54:05.000Z",
-      "date": "2026-10-03",
+      "publishedAt": "2026-10-04T15:05:21.000Z",
+      "date": "2026-10-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "6ef8958ba491b951a7f2",
+      "id": "70e2b06b7d56287a4baa",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "FedEx Corp. Company & People | FDX",
-      "summary": "This article provides a detailed company and people profile for FedEx Corp. (FDX), including stock performance data, key financial metrics, analyst ratings, and information on its executive team and board members. It highlights FedEx's segments (Federal Express, FedEx Freight, FedEx Corporate and Other) and its role in transportation, e-commerce, and business services. The profile also lists various financial ratios related to valuation, profitability, efficiency, liquidity, and capitalization.",
+      "title": "Gencor Industries stock gained 1.38 percent after Q3 profit jump",
+      "summary": "Gencor Industries (GENC) stock increased by 1.38% after reporting a significant jump in net income in Q3 fiscal 2026, reaching $5.683 million, up from $3.843 million in Q2. Although revenue saw a minimal 0.02% increase, diluted EPS rose by 50% to $0.39. Despite a recent downgrade to 'Hold' by Freedom Broker, the price target was raised to $21.00, indicating a higher valuation reference for the company.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gencor-industries-stock-gained-1-38-percent-after-q3-profit-jump/70225550",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gencor-industries-stock-gained-1-38-percent-after-q3-profit-jump/70225550",
+      "urlType": "article",
+      "publishedAt": "2026-10-04T14:39:00.000Z",
+      "date": "2026-10-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "305d2e1f2eb9687a17d2",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Haverty Furniture Companies stock closed at USD 27.50 after Q2 growth",
+      "summary": "Haverty Furniture Companies (HVT) closed at USD 27.50 on October 2, 2026, after reporting Q2 revenue of USD 194.94 million, beating expectations. Despite this beat, analyst firm Sidoti trimmed its Q3 EPS estimate to USD 0.47 from USD 0.50. The company's stock remains below its yearly high, with its next earnings date scheduled for October 28, 2026.",
+      "source": "AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/haverty-furniture-companies-stock-closed-at-usd-27-50-after-q2-growth/70226064",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/haverty-furniture-companies-stock-closed-at-usd-27-50-after-q2-growth/70226064",
+      "urlType": "article",
+      "publishedAt": "2026-10-04T14:31:02.000Z",
+      "date": "2026-10-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "b4593b97959650a57e66",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "U.S. Bancorp offers higher, safer dividends than Bank of America for retirees seeking income.",
+      "summary": "U.S. Bancorp (USB) is presented as a superior choice for retirees seeking dividend income compared to Bank of America (BAC), despite both recently raising dividends. USB offers a higher yield (3.8% vs. 2.4%) and a stronger dividend growth record since 2011. While BAC has a larger capital cushion, USB's diversified fee income and improving credit quality make its dividend safer for income-focused investors, who should monitor its capital ratios and buyback plans.",
+      "source": "Pluang",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://pluang.com/en/news-feed/bac-vs-usb-stok-bank-dengan-dividen-terbaik-untuk-pensiunan",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://pluang.com/en/news-feed/bac-vs-usb-stok-bank-dengan-dividen-terbaik-untuk-pensiunan",
+      "urlType": "article",
+      "publishedAt": "2026-10-04T14:04:20.000Z",
+      "date": "2026-10-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "f91f043af17784ee4584",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "J.P. Morgan Remains a Buy on Weyerhaeuser (WY)",
+      "summary": "J.P. Morgan analyst Hong Zhang reiterated a Buy rating on Weyerhaeuser (WY) with a price target of $24.00, following the company's shares closing at $18.47. Weyerhaeuser reported a quarterly revenue of $1.87 billion and a net profit of $162 million for the quarter ending June 30. The stock currently holds a Moderate Buy consensus among analysts, with a price target consensus of $30.56.",
+      "source": "The Globe and Mail",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
+      "urlType": "article",
+      "publishedAt": "2026-10-04T13:12:37.000Z",
+      "date": "2026-10-04",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 17
+    },
+    {
+      "id": "fb6edb6d4027e2083eff",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "SHEL | Shell PLC ADR Stock Overview (U.S.: NYSE)",
+      "summary": "This article provides an overview of Shell PLC ADR (SHEL) stock performance, financial data, and company information. It includes market data such as price, volume, market value, P/E ratio, and dividend yield. The company's segments, key executives, major holders, and historical financial statements are also detailed.",
       "source": "Barron's",
       "sources": [
         {
           "name": "Barron's",
-          "url": "https://www.barrons.com/market-data/stocks/fdx/company-people?mod=quotes&amp%3Bmod=article_inline",
+          "url": "https://www.barrons.com/market-data/stocks/shel",
           "urlType": "article"
         }
       ],
-      "url": "https://www.barrons.com/market-data/stocks/fdx/company-people?mod=quotes&amp%3Bmod=article_inline",
+      "url": "https://www.barrons.com/market-data/stocks/shel",
       "urlType": "article",
-      "publishedAt": "2026-10-03T13:50:42.000Z",
-      "date": "2026-10-03",
+      "publishedAt": "2026-10-04T12:57:31.000Z",
+      "date": "2026-10-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "5e58e26259b10d32d7db",
+      "id": "b50b2722bd80185ecc7b",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "3 Overlooked Packaging Stocks With Businesses and Dividends That Never Really Stop",
-      "summary": "This article highlights three overlooked packaging stocks—Ball Corporation (BALL), Packaging Corp of America (PKG), and Amcor (AMCR)—that offer stable businesses and consistent dividends, often performing well even during economic downturns. It details each company's products, financial performance, dividend history, and associated risks, suggesting these \"dull, dividend-paying compounders\" can form the backbone of a resilient investment portfolio.",
-      "source": "24/7 Wall St.",
+      "title": "Uber Riders Are Paying 53% More While Waiting 19% Longer, Study Finds",
+      "summary": "A study by Columbia Business School professor Len Sherman found that Uber riders are paying 53% more per mile and waiting 19% longer for rides between Q1 2023 and Q1 2026. While Uber denies these claims, Sherman's analysis suggests the company is charging riders more while paying drivers less. This comes as Uber cuts jobs and expands its robotaxi initiatives.",
+      "source": "TradingView",
       "sources": [
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/10/03/3-overlooked-packaging-stocks-with-businesses-and-dividends-that-never-really-stop/",
+          "name": "TradingView",
+          "url": "https://www.tradingview.com/news/benzinga:786903182094b:0-uber-riders-are-paying-53-more-while-waiting-19-longer-study-finds/",
           "urlType": "article"
         }
       ],
-      "url": "https://247wallst.com/investing/2026/10/03/3-overlooked-packaging-stocks-with-businesses-and-dividends-that-never-really-stop/",
+      "url": "https://www.tradingview.com/news/benzinga:786903182094b:0-uber-riders-are-paying-53-more-while-waiting-19-longer-study-finds/",
       "urlType": "article",
-      "publishedAt": "2026-10-03T13:45:24.000Z",
-      "date": "2026-10-03",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "e4f28cb4a4ae0f1ec250",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Tractor Supply's 17-year dividend streak faces pressure amid earnings misses and a 35% stock drop.",
-      "summary": "Tractor Supply (TSCO) is facing pressure on its 17-year dividend streak due to recent earnings misses, a cut in its 2026 outlook, and a 35% stock decline. While core consumable sales are stable, big-ticket item sales have fallen, and free cash flow tightened due to inventory buildup. Investors are awaiting the Q3 report for further direction, as the stock trades near its 52-week low despite a 3.09% dividend yield.",
-      "source": "Pluang",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/bisakah-tractor-supply-mempertahankan-17-tahun-dividen",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://pluang.com/en/news-feed/bisakah-tractor-supply-mempertahankan-17-tahun-dividen",
-      "urlType": "article",
-      "publishedAt": "2026-10-03T12:42:23.000Z",
-      "date": "2026-10-03",
+      "publishedAt": "2026-10-04T12:42:19.000Z",
+      "date": "2026-10-04",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
