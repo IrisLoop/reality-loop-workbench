@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "complete",
-  "updated": "2026-10-04",
-  "generatedAt": "2026-10-05T00:50:54.489Z",
-  "targetDate": "2026-10-04",
+  "updated": "2026-10-05",
+  "generatedAt": "2026-10-06T02:14:37.902Z",
+  "targetDate": "2026-10-05",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "targetItemCount": 10,
@@ -43,221 +43,221 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "32c09ec6ce14fb9e52e3",
+      "id": "6d621b5e4f1d2ecfde44",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Emerson Electric (EMR) Has A Fresh Update, So Why Is It Drawing Attention?",
-      "summary": "Emerson Electric (EMR) is opening a new 3,500-square-meter Middle East and Africa Service Center in Qatar, focusing on automation support. This announcement comes amidst a strong performance in its shares, with significant year-to-date and 1-year returns. The expansion highlights the company's growth in digital automation and AI solutions, yet different valuation models present conflicting views on whether the stock is undervalued or overvalued.",
-      "source": "Simply Wall Street",
+      "title": "Alibaba vs. Uber Technologies: Which Stock Is a Better Buy in 2026?",
+      "summary": "This article compares Alibaba Group and Uber Technologies, assessing which stock is a better buy for investors in 2026. It delves into the business models, financial performance, risk profiles, and valuation metrics of both companies. The author ultimately recommends Uber due to its diversified platform, accelerating growth, and substantial free cash flow, contrasting it with Alibaba's geopolitical risks despite its strong fundamentals.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "Simply Wall Street",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-emr/emerson-electric/news/emerson-electric-emr-has-a-fresh-update-so-why-is-it-drawing/amp",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-uber-technologies-stock-133250647.html",
           "urlType": "article"
         }
       ],
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-emr/emerson-electric/news/emerson-electric-emr-has-a-fresh-update-so-why-is-it-drawing/amp",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-uber-technologies-stock-133250647.html",
       "urlType": "article",
-      "publishedAt": "2026-10-04T11:20:46.000Z",
-      "date": "2026-10-04",
+      "publishedAt": "2026-10-05T13:32:54.000Z",
+      "date": "2026-10-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 24
+    },
+    {
+      "id": "1a4f82697fbf939e39cc",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Infrastructure: Today’s “Generational” Investment Opportunity",
+      "summary": "Apollo Global Management's partners Harry Seekings and Vittorio Lacagnina discuss infrastructure as a \"generational\" investment opportunity, driven by immense capital expenditure needs in areas like AI, digitization, and power grid modernization. They highlight infrastructure's appeal due to stable cash flows, inflation protection, low correlation to public markets, and its ability to solve portfolio problems for investors. The article emphasizes that infrastructure provides essential services across economic cycles and is becoming more accessible to a wider range of investors.",
+      "source": "Apollo Global Management",
+      "sources": [
+        {
+          "name": "Apollo Global Management",
+          "url": "https://www.apollo.com/insights-news/insights/podcast/the-allocation/2026/10/infrastructure-todays-generational-investment-opportunity",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.apollo.com/insights-news/insights/podcast/the-allocation/2026/10/infrastructure-todays-generational-investment-opportunity",
+      "urlType": "article",
+      "publishedAt": "2026-10-05T15:48:31.000Z",
+      "date": "2026-10-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "f7aed51399d12981a935",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Marathon Petroleum stock hits all-time high at 431.23 USD By Investing.com",
+      "summary": "Marathon Petroleum (MPC) stock has reached an all-time high of $431.23, marking a 163% year-to-date return. This surge is attributed to positive investor sentiment, strong financial health, and rising oil prices amidst Middle Eastern tensions. While UBS maintains a \"Buy\" rating with a $450 price target, Jefferies downgraded the stock to \"Hold\" due to refining risk-reward dynamics.",
+      "source": "Investing.com Nigeria",
+      "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://ng.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-43123-usd-93CH-2722143",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://ng.investing.com/news/stock-market-news/marathon-petroleum-stock-hits-alltime-high-at-43123-usd-93CH-2722143",
+      "urlType": "article",
+      "publishedAt": "2026-10-05T15:10:14.000Z",
+      "date": "2026-10-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "f221b0ca26b89e388f81",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Chipotle Sinks 4% as Selling Outruns the Restaurant Group; McDonald’s and Starbucks Dip",
+      "summary": "Chipotle stock has fallen 4% and is extending a month-long slide, dropping 19% over the past month and nearing its 52-week low. This decline is significantly sharper than that of its rivals, McDonald's and Starbucks, which saw drops of less than 1%. The selling is attributed to margin pressure from beef and freight inflation, despite revenue growth, and an options market signaling further potential downside.",
+      "source": "24/7 Wall St.",
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/10/05/chipotle-sinks-4-as-selling-outruns-the-restaurant-group-mcdonalds-and-starbucks-dip/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://247wallst.com/investing/2026/10/05/chipotle-sinks-4-as-selling-outruns-the-restaurant-group-mcdonalds-and-starbucks-dip/",
+      "urlType": "article",
+      "publishedAt": "2026-10-05T14:59:33.000Z",
+      "date": "2026-10-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 22
+    },
+    {
+      "id": "02c9cf930a4ea873e8cd",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "ConocoPhillips forecasts oil will be near US$70 per barrel",
+      "summary": "ConocoPhillips President Ryan Lance predicts that oil prices will find a floor near US$70 per barrel, with mid-cycle West Texas Intermediate (WTI) crude possibly ranging between US$65 and US$70. Lance anticipates U.S. oil production could surpass 14 million barrels per day, supported by current prices, while global oil demand may fully recover by 2028-2029, continuing to grow thereafter. The company is prioritizing upstream investments to meet this anticipated future demand.",
+      "source": "Inspenet",
+      "sources": [
+        {
+          "name": "Inspenet",
+          "url": "https://inspenet.com/en/news/conocophillips-forecasts-oil-will-be-nea-us70/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://inspenet.com/en/news/conocophillips-forecasts-oil-will-be-nea-us70/",
+      "urlType": "article",
+      "publishedAt": "2026-10-05T14:50:32.000Z",
+      "date": "2026-10-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 21
     },
     {
-      "id": "9eeddf851da645f9f69d",
+      "id": "1be8a3f67531603f30bb",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "FedEx stock gets a 2,000-truck order worth more than USD 300 million.",
-      "summary": "FedEx has placed an order for 2,000 electric trucks from Harbinger, valued at over USD 300 million, to be delivered by the end of 2027 as part of its electrification strategy. This comes as the company reported fiscal year 2026 revenue of USD 94.72 billion, up 7.7%, and recently sold FedEx Supply Chain for USD 1.4 billion. Analysts hold a Moderate Buy consensus for FedEx stock, with an average 12-month price target of USD 354.72.",
-      "source": "AD HOC NEWS",
+      "title": "Ross Stores (ROST) Q1 2025 Earnings: Results, Market Reaction & History | 24/7 Wall St.",
+      "summary": "Ross Stores (ROST) reported Q1 2025 earnings, slightly beating EPS and revenue estimates, with GAAP diluted EPS at $1.47 and revenue at $4.98 billion. Despite a slow start to the quarter, sales momentum picked up, though comparable store sales remained flat. The company withdrew its full-year guidance due to tariff-related uncertainty and projected Q2 EPS between $1.40 and $1.55, accounting for a significant tariff cost headwind.",
+      "source": "24/7 Wall St.",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-gets-a-2-000-truck-order-worth-more-than-usd-300-million/70223992",
+          "name": "24/7 Wall St.",
+          "url": "https://247wallst.com/companies/rost/earnings/2025/Q1/",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-gets-a-2-000-truck-order-worth-more-than-usd-300-million/70223992",
+      "url": "https://247wallst.com/companies/rost/earnings/2025/Q1/",
       "urlType": "article",
-      "publishedAt": "2026-10-04T08:49:55.000Z",
-      "date": "2026-10-04",
+      "publishedAt": "2026-10-05T14:10:41.000Z",
+      "date": "2026-10-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 21
+    },
+    {
+      "id": "94127c9482c786d5b366",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "ConocoPhillips chair Ryan Lance on oil price floor outlook",
+      "summary": "ConocoPhillips Executive Chairman Ryan Lance anticipates the oil price floor to rise to $70 per barrel, with U.S. West Texas Intermediate stabilizing between $65 and $70. He also projected that U.S. oil output could exceed 14.5 million barrels per day if prices remain consistent. Lance cautioned that global oil demand might stay depressed until late 2020s, with significant rebound expected around 2028-2029, and highlighted ConocoPhillips' focus on upstream investments.",
+      "source": "Quartz",
+      "sources": [
+        {
+          "name": "Quartz",
+          "url": "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526",
+      "urlType": "article",
+      "publishedAt": "2026-10-05T13:41:45.000Z",
+      "date": "2026-10-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 20
     },
     {
-      "id": "55054ec09ff8051bea6a",
+      "id": "309a3b309a04aafcd9da",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "Aptiv stock faces a lower 2026 revenue outlook after Q2 results",
-      "summary": "Aptiv plc (APTV) closed at USD 43.54 on October 2, 2026, after reporting mixed Q2 results where EPS beat expectations but revenue missed and full-year guidance was lowered. The company's adjusted EPS of USD 1.63 for Q2 fiscal 2026 surpassed consensus, but full-year revenue guidance was reduced to USD 12.6 billion-USD 12.8 billion. Despite the lowered outlook and the stock trading near its yearly low, analysts maintain a \"Buy\" rating with an average target price significantly above the current stock price.",
-      "source": "AD HOC NEWS",
+      "title": "Morgan Stanley cuts AutoNation, Group 1 as dealer headwinds mount",
+      "summary": "Morgan Stanley has downgraded AutoNation and Group 1 Automotive, citing negative earnings revisions, rising interest rates and oil prices, and regulatory/technological challenges for franchise auto dealers. The firm expects Street estimates to decrease further as Q3 results are released, noting pressure is extending beyond vehicle-margin normalization into higher-margin ancillary businesses. Despite structural risks, Morgan Stanley reiterated Carvana as its top pick due to its vertically integrated, digital model.",
+      "source": "Yahoo Finance Australia",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-faces-a-lower-2026-revenue-outlook-after-q2-results/70226572",
+          "name": "Yahoo Finance Australia",
+          "url": "https://au.finance.yahoo.com/news/morgan-stanley-cuts-autonation-group-133756534.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-faces-a-lower-2026-revenue-outlook-after-q2-results/70226572",
+      "url": "https://au.finance.yahoo.com/news/morgan-stanley-cuts-autonation-group-133756534.html",
       "urlType": "article",
-      "publishedAt": "2026-10-04T15:50:57.000Z",
-      "date": "2026-10-04",
+      "publishedAt": "2026-10-05T13:38:00.000Z",
+      "date": "2026-10-05",
+      "verification": "single_source",
+      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
+      "score": 19
+    },
+    {
+      "id": "5c39f06da27c1793d65a",
+      "category": "geopolitics_macro",
+      "categoryLabel": "宏观与地缘",
+      "title": "Mid Penn Backs $2.38 Million Philadelphia Housing Project",
+      "summary": "Mid Penn Bank is providing $1.9 million in construction financing for a $2.38 million affordable-homeownership project in Philadelphia's Brewerytown neighborhood. This initiative, part of the city's Turn the Key program, will develop 10 new homes. The project aims to offer income-qualified, first-time buyers new homes at an anticipated sale price of $280,000, with construction expected to finish in spring 2027.",
+      "source": "MyChesCo",
+      "sources": [
+        {
+          "name": "MyChesCo",
+          "url": "https://www.mychesco.com/a/news/regional/mid-penn-backs-2-38-million-philadelphia-housing-project/",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.mychesco.com/a/news/regional/mid-penn-backs-2-38-million-philadelphia-housing-project/",
+      "urlType": "article",
+      "publishedAt": "2026-10-05T15:56:46.000Z",
+      "date": "2026-10-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
     },
     {
-      "id": "1bb88833b7e1ee66f19a",
+      "id": "4f9fff74d50a23029ca4",
       "category": "geopolitics_macro",
       "categoryLabel": "宏观与地缘",
-      "title": "LU Stock Jumps As Lufax Executes 1-For-10 ADS Reverse Split",
-      "summary": "Lufax Holding Ltd (LU) is executing a 1-for-10 reverse ADS split on the NYSE, changing the ratio from 1 ADS for 2 ordinary shares to 1 ADS for 20, aimed at raising the per-ADS trading price and preserving its listing. Despite this technical move, the stock has been trading down by -12.6%, reflecting market skepticism about its profitability and growth amidst regulatory pressures in the Chinese consumer finance sector. The article suggests that while the reverse split may create short-term trading opportunities, it does not fundamentally improve the company's economics, and traders should approach post-split price action with strict risk limits.",
-      "source": "Timothy Sykes",
+      "title": "Citigroup Reports Q3 Earnings on October 13 After a Yield-Driven Bank Selloff. Here’s What the Stock Needs to Show",
+      "summary": "Citigroup is set to report its Q3 earnings on October 13, following a recent bank selloff driven by rising Treasury yields. The article highlights key metrics investors should focus on, such as net credit losses, delinquencies, and loan growth, rather than just EPS, given the market's concerns about credit quality. It also notes that a potential $9 billion Banamex charge is anticipated in 2027, which could impact reported earnings that year.",
+      "source": "Yahoo Finance",
       "sources": [
         {
-          "name": "Timothy Sykes",
-          "url": "https://www.timothysykes.com/news/lufaxholdingltd-lu-news-2026_10_04-2/",
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-reports-q3-earnings-october-160451058.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.timothysykes.com/news/lufaxholdingltd-lu-news-2026_10_04-2/",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-reports-q3-earnings-october-160451058.html",
       "urlType": "article",
-      "publishedAt": "2026-10-04T15:05:21.000Z",
-      "date": "2026-10-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "70e2b06b7d56287a4baa",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Gencor Industries stock gained 1.38 percent after Q3 profit jump",
-      "summary": "Gencor Industries (GENC) stock increased by 1.38% after reporting a significant jump in net income in Q3 fiscal 2026, reaching $5.683 million, up from $3.843 million in Q2. Although revenue saw a minimal 0.02% increase, diluted EPS rose by 50% to $0.39. Despite a recent downgrade to 'Hold' by Freedom Broker, the price target was raised to $21.00, indicating a higher valuation reference for the company.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gencor-industries-stock-gained-1-38-percent-after-q3-profit-jump/70225550",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/gencor-industries-stock-gained-1-38-percent-after-q3-profit-jump/70225550",
-      "urlType": "article",
-      "publishedAt": "2026-10-04T14:39:00.000Z",
-      "date": "2026-10-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "305d2e1f2eb9687a17d2",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Haverty Furniture Companies stock closed at USD 27.50 after Q2 growth",
-      "summary": "Haverty Furniture Companies (HVT) closed at USD 27.50 on October 2, 2026, after reporting Q2 revenue of USD 194.94 million, beating expectations. Despite this beat, analyst firm Sidoti trimmed its Q3 EPS estimate to USD 0.47 from USD 0.50. The company's stock remains below its yearly high, with its next earnings date scheduled for October 28, 2026.",
-      "source": "AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/haverty-furniture-companies-stock-closed-at-usd-27-50-after-q2-growth/70226064",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/haverty-furniture-companies-stock-closed-at-usd-27-50-after-q2-growth/70226064",
-      "urlType": "article",
-      "publishedAt": "2026-10-04T14:31:02.000Z",
-      "date": "2026-10-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "b4593b97959650a57e66",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "U.S. Bancorp offers higher, safer dividends than Bank of America for retirees seeking income.",
-      "summary": "U.S. Bancorp (USB) is presented as a superior choice for retirees seeking dividend income compared to Bank of America (BAC), despite both recently raising dividends. USB offers a higher yield (3.8% vs. 2.4%) and a stronger dividend growth record since 2011. While BAC has a larger capital cushion, USB's diversified fee income and improving credit quality make its dividend safer for income-focused investors, who should monitor its capital ratios and buyback plans.",
-      "source": "Pluang",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://pluang.com/en/news-feed/bac-vs-usb-stok-bank-dengan-dividen-terbaik-untuk-pensiunan",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://pluang.com/en/news-feed/bac-vs-usb-stok-bank-dengan-dividen-terbaik-untuk-pensiunan",
-      "urlType": "article",
-      "publishedAt": "2026-10-04T14:04:20.000Z",
-      "date": "2026-10-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "f91f043af17784ee4584",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "J.P. Morgan Remains a Buy on Weyerhaeuser (WY)",
-      "summary": "J.P. Morgan analyst Hong Zhang reiterated a Buy rating on Weyerhaeuser (WY) with a price target of $24.00, following the company's shares closing at $18.47. Weyerhaeuser reported a quarterly revenue of $1.87 billion and a net profit of $162 million for the quarter ending June 30. The stock currently holds a Moderate Buy consensus among analysts, with a price target consensus of $30.56.",
-      "source": "The Globe and Mail",
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
-      "urlType": "article",
-      "publishedAt": "2026-10-04T13:12:37.000Z",
-      "date": "2026-10-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "fb6edb6d4027e2083eff",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "SHEL | Shell PLC ADR Stock Overview (U.S.: NYSE)",
-      "summary": "This article provides an overview of Shell PLC ADR (SHEL) stock performance, financial data, and company information. It includes market data such as price, volume, market value, P/E ratio, and dividend yield. The company's segments, key executives, major holders, and historical financial statements are also detailed.",
-      "source": "Barron's",
-      "sources": [
-        {
-          "name": "Barron's",
-          "url": "https://www.barrons.com/market-data/stocks/shel",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.barrons.com/market-data/stocks/shel",
-      "urlType": "article",
-      "publishedAt": "2026-10-04T12:57:31.000Z",
-      "date": "2026-10-04",
-      "verification": "single_source",
-      "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
-      "score": 17
-    },
-    {
-      "id": "b50b2722bd80185ecc7b",
-      "category": "geopolitics_macro",
-      "categoryLabel": "宏观与地缘",
-      "title": "Uber Riders Are Paying 53% More While Waiting 19% Longer, Study Finds",
-      "summary": "A study by Columbia Business School professor Len Sherman found that Uber riders are paying 53% more per mile and waiting 19% longer for rides between Q1 2023 and Q1 2026. While Uber denies these claims, Sherman's analysis suggests the company is charging riders more while paying drivers less. This comes as Uber cuts jobs and expands its robotaxi initiatives.",
-      "source": "TradingView",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://www.tradingview.com/news/benzinga:786903182094b:0-uber-riders-are-paying-53-more-while-waiting-19-longer-study-finds/",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.tradingview.com/news/benzinga:786903182094b:0-uber-riders-are-paying-53-more-while-waiting-19-longer-study-finds/",
-      "urlType": "article",
-      "publishedAt": "2026-10-04T12:42:19.000Z",
-      "date": "2026-10-04",
+      "publishedAt": "2026-10-05T15:53:00.000Z",
+      "date": "2026-10-05",
       "verification": "single_source",
       "whySelected": "与“宏观与地缘”主题高度相关，当前仅有单一来源",
       "score": 17
