@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-06",
-  "generatedAt": "2026-10-07T01:29:17.894Z",
-  "targetDate": "2026-10-06",
+  "updated": "2026-10-07",
+  "generatedAt": "2026-10-08T01:52:28.553Z",
+  "targetDate": "2026-10-07",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "source": {
@@ -14,184 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "sxr71auxicu8uk3e4bqxol02h",
-      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-      "originalTitle": "Claude Code in the cloud: a field guide to cloud sessions",
-      "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-      "source": "AI HOT · AI 摘要 · Anthropic：Claude.dev 开发者博客（RSS）",
-      "url": "https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h",
-      "originalUrl": "https://claude.dev/blog/claude-code-in-the-cloud/",
-      "aihotUrl": "https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h",
+      "id": "r5p04sepsb5p5ir85wq1bok58",
+      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+      "originalTitle": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+      "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
+      "url": "https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58",
+      "originalUrl": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
+      "aihotUrl": "https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58",
       "tags": [
-        "技巧"
+        "行业"
       ],
-      "category": "tip",
-      "score": 82,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "discoveredAt": "2026-10-06T15:32:27.248Z"
+      "category": "industry",
+      "score": 84,
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-06T19:26:09.000Z",
+      "discoveredAt": "2026-10-06T20:00:30.359Z"
     },
     {
-      "id": "ncv6u97zqan3hgzng59yel19f",
-      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-      "originalTitle": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-      "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
-      "url": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
-      "originalUrl": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "aihotUrl": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
+      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+      "originalTitle": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+      "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+      "source": "AI HOT · AI 摘要 · X：X.PIN (@thexpin)",
+      "url": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
+      "originalUrl": "https://x.com/thexpin/status/2107524306058289533",
+      "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 82,
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-06T17:32:05.000Z",
+      "discoveredAt": "2026-10-06T17:33:26.882Z"
+    },
+    {
+      "id": "iz93flwr7h9m7po4wnu8sm4hy",
+      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+      "originalTitle": "'Undue emotional weight'",
+      "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
+      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
+      "url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
+      "originalUrl": "https://www.404media.co/undue-emotional-weight/",
+      "aihotUrl": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
       "tags": [
         "行业"
       ],
       "category": "industry",
       "score": 78,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-05T17:53:35.000Z",
-      "discoveredAt": "2026-10-05T18:48:28.379Z"
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T14:46:15.000Z",
+      "discoveredAt": "2026-10-07T15:17:22.742Z"
     },
     {
-      "id": "nnl0kba78980jig0szh0hkfop",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-      "originalTitle": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-      "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://aihot.news/items/nnl0kba78980jig0szh0hkfop",
-      "originalUrl": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "aihotUrl": "https://aihot.news/items/nnl0kba78980jig0szh0hkfop",
+      "id": "lqyhqdf0u7iksn5ydnpyhk81x",
+      "title": "Anthropic 发布 Claude Haiku 5.5，运行成本平均降低约 75%",
+      "originalTitle": "Introducing Claude Haiku 5.5",
+      "summary": "Anthropic 发布 Claude Haiku 5.5，定位为迄今最便宜、最快的小模型，适合摘要、压缩、数据库查询、分类等高吞吐任务，并可搭配 Opus 5.5 和 Sonnet 5.5 担任编码子智能体。",
+      "source": "AI HOT · AI 摘要 · Anthropic：Newsroom（网页）",
+      "url": "https://aihot.news/items/lqyhqdf0u7iksn5ydnpyhk81x",
+      "originalUrl": "https://www.anthropic.com/claude-haiku-5-5",
+      "aihotUrl": "https://aihot.news/items/lqyhqdf0u7iksn5ydnpyhk81x",
       "tags": [
-        "行业"
+        "AI 模型"
       ],
-      "category": "industry",
-      "score": 77,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T05:47:05.000Z",
-      "discoveredAt": "2026-10-06T06:01:37.185Z"
+      "category": "ai-models",
+      "score": 78,
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "discoveredAt": "2026-10-07T18:21:26.897Z"
     },
     {
-      "id": "tfuj58rvo46hvh8l2nzcbpf7n",
-      "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-      "originalTitle": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
-      "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-      "source": "AI HOT · AI 摘要 · X：卡兹克 (@Khazix0918)",
-      "url": "https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n",
-      "originalUrl": "https://x.com/Khazix0918/status/2107297777583825359",
-      "aihotUrl": "https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n",
+      "id": "yk3grmalszldrwd1p8bxk0cki",
+      "title": "a16z 解析德州为何让数据中心排队等电",
+      "originalTitle": "Why Texas Is Making Data Centers Wait",
+      "summary": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
+      "source": "AI HOT · AI 摘要 · a16z：News（RSS）",
+      "url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
+      "originalUrl": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+      "aihotUrl": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
       "tags": [
         "技巧"
       ],
       "category": "tip",
+      "score": 75,
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T14:01:44.000Z",
+      "discoveredAt": "2026-10-07T14:27:29.810Z"
+    },
+    {
+      "id": "r96kyuxfie0w9mup4206gzn29",
+      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
+      "originalTitle": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "summary": "NVIDIA Nemotron 团队基于 Nemotron 3，用 SFT、RL 和反馈驱动推理分别构建了在 IOI 2026 与 IMO 2026 达到金牌水平的系统。",
+      "source": "AI HOT · AI 摘要 · Hugging Face 社区博客（混合发现）",
+      "url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
+      "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "aihotUrl": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
+      "tags": [
+        "论文"
+      ],
+      "category": "paper",
+      "score": 75,
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T12:45:31.000Z",
+      "discoveredAt": "2026-10-07T13:23:27.613Z"
+    },
+    {
+      "id": "tyhn4y95ez3mvj0p7xovpaq61",
+      "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
+      "originalTitle": "Does better work always mean better workers?",
+      "summary": "Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。",
+      "source": "AI HOT · AI 摘要 · Google Research：Blog（网页）",
+      "url": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
+      "originalUrl": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "aihotUrl": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
+      "tags": [
+        "论文"
+      ],
+      "category": "paper",
       "score": 72,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T02:31:56.000Z",
-      "discoveredAt": "2026-10-06T02:48:38.090Z"
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "discoveredAt": "2026-10-07T22:04:25.914Z"
     },
     {
-      "id": "z94jsbcn3hkyiagdyb9wai8sm",
-      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-      "originalTitle": "Le Chonk has arrived 🐈",
-      "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-      "source": "AI HOT · AI 摘要 · X：OpenRouter (@OpenRouter)",
-      "url": "https://aihot.news/items/z94jsbcn3hkyiagdyb9wai8sm",
-      "originalUrl": "https://x.com/OpenRouter/status/2107471559040635360",
-      "aihotUrl": "https://aihot.news/items/z94jsbcn3hkyiagdyb9wai8sm",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 71,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T14:02:29.000Z",
-      "discoveredAt": "2026-10-06T14:14:28.609Z"
-    },
-    {
-      "id": "wiip2ye21b67quiydxlnqmeyc",
-      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-      "originalTitle": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
-      "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-      "aihotUrl": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 71,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T00:18:00.000Z",
-      "discoveredAt": "2026-10-06T00:22:29.283Z"
-    },
-    {
-      "id": "lcxzcuj920lvqlah60vj7utm1",
-      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-      "originalTitle": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
-      "source": "AI HOT · AI 摘要 · SemiAnalysis 长文 RSS（RSS）",
-      "url": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
-      "originalUrl": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "aihotUrl": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+      "originalTitle": "Sharing AI progress in mathematics",
+      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+      "originalUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
       "tags": [
         "论文"
       ],
       "category": "paper",
       "score": 71,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-05T20:01:09.000Z",
-      "discoveredAt": "2026-10-05T21:02:37.357Z"
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-06T23:01:09.228Z",
+      "discoveredAt": "2026-10-06T23:11:31.551Z"
     },
     {
-      "id": "d17jcexm93lo85zkz3iil08c9",
-      "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
-      "originalTitle": "October 6, 2026",
-      "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
-      "source": "AI HOT · AI 摘要 · Gemini API：更新日志（网页）",
-      "url": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
-      "originalUrl": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
-      "aihotUrl": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
+      "id": "g1k2ragppm8j4apj75qu1k4ug",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+      "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+      "source": "AI HOT · AI 摘要 · Google DeepMind：Blog（RSS）",
+      "url": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
+      "originalUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
       "tags": [
         "AI 模型"
       ],
       "category": "ai-models",
-      "score": 68,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-06T16:44:32.499Z"
+      "score": 70,
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-06T19:57:04.000Z",
+      "discoveredAt": "2026-10-06T21:03:32.845Z"
     },
     {
-      "id": "arlkhdtjzshqi1qdyowqvtwyy",
-      "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
-      "originalTitle": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-      "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
-      "source": "AI HOT · AI 摘要 · Google Developers Blog（RSS）",
-      "url": "https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy",
-      "originalUrl": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
-      "aihotUrl": "https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy",
+      "id": "don06si59xc143ed92gdmlnvo",
+      "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
+      "originalTitle": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
+      "summary": "Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。",
+      "source": "AI HOT · AI 摘要 · X：Google (@Google)",
+      "url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
+      "originalUrl": "https://x.com/Google/status/2107836410254291345",
+      "aihotUrl": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
       "tags": [
-        "AI 产品"
+        "技巧"
       ],
-      "category": "ai-products",
+      "category": "tip",
       "score": 68,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-06T16:20:33.035Z"
-    },
-    {
-      "id": "quya0qxvagwzjaw5wd9ma7vvu",
-      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-      "originalTitle": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-      "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-      "source": "AI HOT · AI 摘要 · X：ARC Prize (@arcprize)",
-      "url": "https://aihot.news/items/quya0qxvagwzjaw5wd9ma7vvu",
-      "originalUrl": "https://x.com/arcprize/status/2107491194007585239",
-      "aihotUrl": "https://aihot.news/items/quya0qxvagwzjaw5wd9ma7vvu",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 67,
-      "date": "2026-10-06",
-      "publishedAt": "2026-10-06T15:20:30.000Z",
-      "discoveredAt": "2026-10-06T15:24:27.424Z"
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T14:12:16.000Z",
+      "discoveredAt": "2026-10-07T14:38:21.254Z"
     }
   ]
 }
