@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-07",
-  "generatedAt": "2026-10-08T01:52:28.553Z",
-  "targetDate": "2026-10-07",
+  "updated": "2026-10-08",
+  "generatedAt": "2026-10-09T02:04:44.522Z",
+  "targetDate": "2026-10-08",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "source": {
@@ -14,184 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "r5p04sepsb5p5ir85wq1bok58",
-      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-      "originalTitle": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-      "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
-      "url": "https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58",
-      "originalUrl": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
-      "aihotUrl": "https://aihot.news/items/r5p04sepsb5p5ir85wq1bok58",
+      "id": "uir31g728myjry383z17txvrw",
+      "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+      "originalTitle": "GPT-6 and Intelligent UI for everyone",
+      "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/uir31g728myjry383z17txvrw",
+      "originalUrl": "https://openai.com/index/gpt-6-for-everyone/",
+      "aihotUrl": "https://aihot.news/items/uir31g728myjry383z17txvrw",
       "tags": [
-        "行业"
+        "AI 产品"
       ],
-      "category": "industry",
-      "score": 84,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-06T19:26:09.000Z",
-      "discoveredAt": "2026-10-06T20:00:30.359Z"
+      "category": "ai-products",
+      "score": 87,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-07T18:00:58.000Z",
+      "discoveredAt": "2026-10-07T18:28:12.883Z"
     },
     {
-      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
-      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-      "originalTitle": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-      "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-      "source": "AI HOT · AI 摘要 · X：X.PIN (@thexpin)",
-      "url": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
-      "originalUrl": "https://x.com/thexpin/status/2107524306058289533",
-      "aihotUrl": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
+      "id": "br6vb46mhi9mkv2pxiq59k8z7",
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+      "originalTitle": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/br6vb46mhi9mkv2pxiq59k8z7",
+      "originalUrl": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+      "aihotUrl": "https://aihot.news/items/br6vb46mhi9mkv2pxiq59k8z7",
       "tags": [
         "行业"
       ],
       "category": "industry",
       "score": 82,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-06T17:32:05.000Z",
-      "discoveredAt": "2026-10-06T17:33:26.882Z"
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T09:24:17.000Z",
+      "discoveredAt": "2026-10-08T10:24:29.949Z"
     },
     {
-      "id": "iz93flwr7h9m7po4wnu8sm4hy",
-      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-      "originalTitle": "'Undue emotional weight'",
-      "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
-      "url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
-      "originalUrl": "https://www.404media.co/undue-emotional-weight/",
-      "aihotUrl": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
+      "id": "e9brxl1crqxmo66s80z8vrf0n",
+      "title": "OpenAI 在 GitHub 发布 openai/math 仓库，722 份数学手稿引发数学界震荡",
+      "originalTitle": "AI让数学再也回不去那个旧世界了。",
+      "summary": "OpenAI 于10月7日在 GitHub 发布 openai/math 仓库，收录其未公开内部模型产出的722份数学手稿，归为372个成果组，覆盖数论、代数几何、偏微分方程等方向，每个结果平均花费约3小时 ChatGPT Pro 级别思考算力。",
+      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
+      "url": "https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
+      "aihotUrl": "https://aihot.news/items/e9brxl1crqxmo66s80z8vrf0n",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 78,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-07T14:46:15.000Z",
-      "discoveredAt": "2026-10-07T15:17:22.742Z"
+      "score": 81,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T00:36:00.000Z",
+      "discoveredAt": "2026-10-08T00:43:20.904Z"
     },
     {
-      "id": "lqyhqdf0u7iksn5ydnpyhk81x",
-      "title": "Anthropic 发布 Claude Haiku 5.5，运行成本平均降低约 75%",
-      "originalTitle": "Introducing Claude Haiku 5.5",
-      "summary": "Anthropic 发布 Claude Haiku 5.5，定位为迄今最便宜、最快的小模型，适合摘要、压缩、数据库查询、分类等高吞吐任务，并可搭配 Opus 5.5 和 Sonnet 5.5 担任编码子智能体。",
-      "source": "AI HOT · AI 摘要 · Anthropic：Newsroom（网页）",
-      "url": "https://aihot.news/items/lqyhqdf0u7iksn5ydnpyhk81x",
-      "originalUrl": "https://www.anthropic.com/claude-haiku-5-5",
-      "aihotUrl": "https://aihot.news/items/lqyhqdf0u7iksn5ydnpyhk81x",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 78,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "discoveredAt": "2026-10-07T18:21:26.897Z"
-    },
-    {
-      "id": "yk3grmalszldrwd1p8bxk0cki",
-      "title": "a16z 解析德州为何让数据中心排队等电",
-      "originalTitle": "Why Texas Is Making Data Centers Wait",
-      "summary": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
-      "source": "AI HOT · AI 摘要 · a16z：News（RSS）",
-      "url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-      "originalUrl": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-      "aihotUrl": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 75,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-07T14:01:44.000Z",
-      "discoveredAt": "2026-10-07T14:27:29.810Z"
-    },
-    {
-      "id": "r96kyuxfie0w9mup4206gzn29",
-      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-      "originalTitle": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "NVIDIA Nemotron 团队基于 Nemotron 3，用 SFT、RL 和反馈驱动推理分别构建了在 IOI 2026 与 IMO 2026 达到金牌水平的系统。",
-      "source": "AI HOT · AI 摘要 · Hugging Face 社区博客（混合发现）",
-      "url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
-      "originalUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "aihotUrl": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
+      "id": "cal34hameqt3bh6d52vaqt58v",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+      "originalTitle": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+      "originalUrl": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+      "aihotUrl": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 75,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-07T12:45:31.000Z",
-      "discoveredAt": "2026-10-07T13:23:27.613Z"
+      "score": 80,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T13:01:01.000Z",
+      "discoveredAt": "2026-10-08T13:27:33.293Z"
     },
     {
-      "id": "tyhn4y95ez3mvj0p7xovpaq61",
-      "title": "Google Research 三个月专利起草实验发现AI辅助未必能培养初级律师的专业判断",
-      "originalTitle": "Does better work always mean better workers?",
-      "summary": "Google Research 在 NBER 发表的论文报告了一项三个月随机田野实验，向11家知识产权律所的133名律师随机开放当时未发布的 AI 专利写作助手（现属 Gemini Notebook）。",
-      "source": "AI HOT · AI 摘要 · Google Research：Blog（网页）",
-      "url": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
-      "originalUrl": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "aihotUrl": "https://aihot.news/items/tyhn4y95ez3mvj0p7xovpaq61",
+      "id": "yyba9bpxdtqdpqmv739d26ftg",
+      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+      "originalTitle": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "summary": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+      "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
+      "url": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+      "originalUrl": "https://github.com/pingdotgg/ts-rust",
+      "aihotUrl": "https://aihot.news/items/yyba9bpxdtqdpqmv739d26ftg",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 76,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T00:46:00.000Z",
+      "discoveredAt": "2026-10-08T08:41:31.070Z"
+    },
+    {
+      "id": "zdgw2hhfjitur1qmeuminh3lm",
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+      "originalTitle": "Confirmed landed across all accounts. How are we doing so far?",
+      "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+      "source": "AI HOT · AI 摘要 · X：Tibo (@thsottiaux)",
+      "url": "https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm",
+      "originalUrl": "https://x.com/thsottiaux/status/2108040921044639779",
+      "aihotUrl": "https://aihot.news/items/zdgw2hhfjitur1qmeuminh3lm",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 74,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T03:44:55.000Z",
+      "discoveredAt": "2026-10-08T04:06:25.318Z"
+    },
+    {
+      "id": "t02toac3ii8mp1lxzl4blewdd",
+      "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
+      "originalTitle": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "summary": "NVIDIA 与 Microsoft 在旧金山活动上宣布为 Windows PC 共同打造 AI Agent 软硬件。",
+      "source": "AI HOT · AI 摘要 · NVIDIA Blog（RSS）",
+      "url": "https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd",
+      "originalUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "aihotUrl": "https://aihot.news/items/t02toac3ii8mp1lxzl4blewdd",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 74,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-07T18:45:28.000Z",
+      "discoveredAt": "2026-10-07T19:19:27.924Z"
+    },
+    {
+      "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
+      "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
+      "originalTitle": "The model that didn't exist, so you made it yourself",
+      "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。",
+      "source": "AI HOT · AI 摘要 · Hugging Face 官方团队博客",
+      "url": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw",
+      "originalUrl": "https://huggingface.co/blog/building-with-ml-intern",
+      "aihotUrl": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 72,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T00:00:00.751Z",
+      "discoveredAt": "2026-10-08T22:28:16.871Z"
+    },
+    {
+      "id": "b33i6chgxghls2v7bng0wr0nr",
+      "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
+      "originalTitle": "Disrupting AI-enabled “false front” operations",
+      "summary": "OpenAI 封禁了两个隐蔽影响行动，俄罗斯来源的 Dark Clark 通过假 persona Mia Clark 控制拉美智库 Social Research Center，评分达 Category 5，是报告以来首个 Category 5；伊朗来源的 Bogus Bylines 用 7 个假记者身份在全球十几家中小媒体投放近 100 篇长文，评分 Category 4。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/b33i6chgxghls2v7bng0wr0nr",
+      "originalUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "aihotUrl": "https://aihot.news/items/b33i6chgxghls2v7bng0wr0nr",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 72,
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "discoveredAt": "2026-10-08T16:24:35.786Z"
+    },
+    {
+      "id": "ja19mtm89yojd9w2u67qp1gqv",
+      "title": "Goodfire 为 Kimi K3 和 GLM 5.3 训练并部署生产级网络安全监控器",
+      "originalTitle": "Training and Deploying Production Cyber Monitors on Kimi K3",
+      "summary": "Goodfire Research 为 Kimi K3 和 GLM 5.3 构建基于激活探针加 LLM judge 的监控级联，并部署到生产推理栈。",
+      "source": "AI HOT · AI 摘要 · Goodfire Research（网页）",
+      "url": "https://aihot.news/items/ja19mtm89yojd9w2u67qp1gqv",
+      "originalUrl": "https://www.goodfire.com/research/production-cyber-monitors-on-kimi-k3",
+      "aihotUrl": "https://aihot.news/items/ja19mtm89yojd9w2u67qp1gqv",
       "tags": [
         "论文"
       ],
       "category": "paper",
       "score": 72,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "discoveredAt": "2026-10-07T22:04:25.914Z"
-    },
-    {
-      "id": "zvw2i4tg1gnqq72t596vpqoyl",
-      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
-      "originalTitle": "Sharing AI progress in mathematics",
-      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
-      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "url": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "originalUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "aihotUrl": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 71,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-06T23:01:09.228Z",
-      "discoveredAt": "2026-10-06T23:11:31.551Z"
-    },
-    {
-      "id": "g1k2ragppm8j4apj75qu1k4ug",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-      "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-      "source": "AI HOT · AI 摘要 · Google DeepMind：Blog（RSS）",
-      "url": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
-      "originalUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "aihotUrl": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 70,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-06T19:57:04.000Z",
-      "discoveredAt": "2026-10-06T21:03:32.845Z"
-    },
-    {
-      "id": "don06si59xc143ed92gdmlnvo",
-      "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-      "originalTitle": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
-      "summary": "Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。",
-      "source": "AI HOT · AI 摘要 · X：Google (@Google)",
-      "url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-      "originalUrl": "https://x.com/Google/status/2107836410254291345",
-      "aihotUrl": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 68,
-      "date": "2026-10-07",
-      "publishedAt": "2026-10-07T14:12:16.000Z",
-      "discoveredAt": "2026-10-07T14:38:21.254Z"
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "discoveredAt": "2026-10-08T16:25:30.871Z"
     }
   ]
 }
