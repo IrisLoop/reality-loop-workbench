@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-10-08",
-  "generatedAt": "2026-10-09T02:05:22.135Z",
-  "targetDate": "2026-10-08",
+  "updated": "2026-10-10",
+  "generatedAt": "2026-10-11T00:56:01.580Z",
+  "targetDate": "2026-10-10",
   "timezone": "Asia/Shanghai",
   "itemCount": 1,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "failed",
-      "itemCount": 0,
-      "message": "fetch failed"
+      "status": "ok",
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,26 +43,26 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "0419525e1a7b9c04c097",
+      "id": "b3cd978d685249422df8",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行关于人民币汇率的政策立场",
-      "summary": null,
-      "source": "中国人民银行",
+      "title": "中国证监会召开资本市场和金融形势专家座谈会",
+      "summary": "10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交",
+      "source": "中国证监会",
       "sources": [
         {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026100816231113295/index.html",
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7663814/content.shtml",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026100816231113295/index.html",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7663814/content.shtml",
       "urlType": "article",
-      "publishedAt": "2026-10-08T08:23:11.000Z",
-      "date": "2026-10-08",
+      "publishedAt": "2026-10-10T10:18:09.000Z",
+      "date": "2026-10-10",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 57
+      "score": 52
     }
   ]
 }
