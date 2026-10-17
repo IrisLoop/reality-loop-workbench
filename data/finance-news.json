@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-10-14",
-  "generatedAt": "2026-10-15T00:29:12.868Z",
-  "targetDate": "2026-10-14",
+  "updated": "2026-10-17",
+  "generatedAt": "2026-10-17T23:59:31.419Z",
+  "targetDate": "2026-10-17",
   "timezone": "Asia/Shanghai",
   "itemCount": 1,
   "targetItemCount": 10,
@@ -43,26 +43,26 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "28d1e112eb3f8594a985",
+      "id": "ecc039e748ed843823f1",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "2026年前三季度金融统计数据报告",
+      "title": "中国人民银行行长潘功胜出席第54届国际货币与金融委员会会议",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101415422529740/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101715340431532/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101415422529740/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101715340431532/index.html",
       "urlType": "article",
-      "publishedAt": "2026-10-14T07:42:25.000Z",
-      "date": "2026-10-14",
+      "publishedAt": "2026-10-17T07:34:04.000Z",
+      "date": "2026-10-17",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
+      "score": 52
     }
   ]
 }
