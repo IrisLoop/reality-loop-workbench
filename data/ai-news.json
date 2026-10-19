@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-17",
-  "generatedAt": "2026-10-17T23:59:23.318Z",
-  "targetDate": "2026-10-17",
+  "updated": "2026-10-18",
+  "generatedAt": "2026-10-19T00:11:02.321Z",
+  "targetDate": "2026-10-18",
   "timezone": "Asia/Shanghai",
-  "itemCount": 6,
+  "itemCount": 4,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,112 +14,76 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "bjzjg5k7af07c1c20bc1a8gxp",
-      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
-      "originalTitle": "Exciting news: Muse Spark Open (Max) by @AIatMeta is the #1 US open model in the Code Arena: WebDev! With 1511 pts, it’s #13 among open m...",
-      "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
-      "source": "AI HOT · AI 摘要 · X：Arena (@arena)",
-      "url": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
-      "originalUrl": "https://x.com/arena/status/2111221323217412318",
-      "aihotUrl": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+      "id": "c7pt5mbzh5h0atlbprfzbs8o0",
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+      "originalTitle": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
+      "originalUrl": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "aihotUrl": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
       "tags": [
-        "AI 模型"
+        "行业"
       ],
-      "category": "ai-models",
-      "score": 80,
-      "date": "2026-10-17",
-      "publishedAt": "2026-10-16T22:22:42.000Z",
-      "discoveredAt": "2026-10-16T22:51:31.836Z"
+      "category": "industry",
+      "score": 78,
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T13:22:26.000Z",
+      "discoveredAt": "2026-10-18T13:51:32.649Z"
     },
     {
-      "id": "p4mq9t7wyzlxritu15i6d8dtv",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "originalTitle": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
-      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-      "source": "AI HOT · AI 摘要 · X：邵猛 (@shao__meng)",
-      "url": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-      "originalUrl": "https://x.com/shao__meng/status/2111274173192638932",
-      "aihotUrl": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
+      "id": "bbr25r9mbi8zbbtmu2uiati7f",
+      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+      "originalTitle": "Two German courts now hold Google liable for what its AI overviews say",
+      "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
+      "originalUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "aihotUrl": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
       "tags": [
-        "技巧"
+        "行业"
       ],
-      "category": "tip",
-      "score": 76,
-      "date": "2026-10-17",
-      "publishedAt": "2026-10-17T01:52:43.000Z",
-      "discoveredAt": "2026-10-17T02:22:30.235Z"
+      "category": "industry",
+      "score": 77,
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T10:52:39.000Z",
+      "discoveredAt": "2026-10-18T11:49:33.588Z"
     },
     {
-      "id": "xgj246drlw70qbgypibz6atla",
-      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-      "originalTitle": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
-      "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
-      "source": "AI HOT · AI 摘要 · X：Tencent WorkBuddy (@WorkBuddy_AI)",
-      "url": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
-      "originalUrl": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-      "aihotUrl": "https://aihot.news/items/xgj246drlw70qbgypibz6atla",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 67,
-      "date": "2026-10-17",
-      "publishedAt": "2026-10-17T10:29:00.000Z",
-      "discoveredAt": "2026-10-17T10:37:37.909Z"
-    },
-    {
-      "id": "ffpkck4k06le4smuaz4slhvcz",
-      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "id": "i8vi0763u7lz34lkoagoh0agt",
+      "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
       "originalTitle": "这台卖37999的RTX Spark电脑，让我实现了Token自由。",
-      "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-      "aihotUrl": "https://aihot.news/items/ffpkck4k06le4smuaz4slhvcz",
+      "summary": "作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。",
+      "source": "AI HOT · AI 摘要 · X：卡兹克 (@Khazix0918)",
+      "url": "https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt",
+      "originalUrl": "https://x.com/Khazix0918/status/2111639562720329976",
+      "aihotUrl": "https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 67,
-      "date": "2026-10-17",
-      "publishedAt": "2026-10-17T10:19:04.000Z",
-      "discoveredAt": "2026-10-17T10:53:45.559Z"
+      "score": 68,
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T02:04:38.000Z",
+      "discoveredAt": "2026-10-18T02:11:19.522Z"
     },
     {
-      "id": "x7hxr1lvyddc8hrbrugfx4uyg",
-      "title": "DeepSeek 开放自研搜索 API",
-      "originalTitle": "开放自研搜索 API",
-      "summary": "DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。该引擎索引全球千亿级网页、支持多语言，并通过识别机制过滤 SEO 作弊、GEO 操纵和低质 AIGC，使用方式见网页搜索与抓取指南。",
-      "source": "AI HOT · AI 摘要 · DeepSeek：API 更新日志",
-      "url": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
-      "originalUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%BC%80%E6%94%BE%E8%87%AA%E7%A0%94%E6%90%9C%E7%B4%A2-api",
-      "aihotUrl": "https://aihot.news/items/x7hxr1lvyddc8hrbrugfx4uyg",
+      "id": "w3vpc68lufgj57zcy1hd38a60",
+      "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+      "originalTitle": "What Is a Browser Agent? How It Works and When to Use One",
+      "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+      "source": "AI HOT · AI 摘要 · Browser Use",
+      "url": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+      "originalUrl": "https://browser-use.com/posts/browser-agents",
+      "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
       "tags": [
-        "AI 产品"
+        "技巧"
       ],
-      "category": "ai-products",
-      "score": 67,
-      "date": "2026-10-17",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "discoveredAt": "2026-10-17T08:19:34.289Z"
-    },
-    {
-      "id": "w34qm27sedtziwxig5ub9wwhr",
-      "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
-      "originalTitle": "DeepSeek-V4.1-Flash-1017 更新",
-      "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
-      "source": "AI HOT · AI 摘要 · DeepSeek：API 更新日志",
-      "url": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-      "originalUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-%E6%9B%B4%E6%96%B0",
-      "aihotUrl": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 62,
-      "date": "2026-10-17",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "discoveredAt": "2026-10-17T08:19:34.298Z"
+      "category": "tip",
+      "score": 61,
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T00:00:00.000Z",
+      "discoveredAt": "2026-10-18T16:23:41.099Z"
     }
   ]
 }
