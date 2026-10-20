@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-18",
-  "generatedAt": "2026-10-19T00:11:02.321Z",
-  "targetDate": "2026-10-18",
+  "updated": "2026-10-19",
+  "generatedAt": "2026-10-20T01:03:42.024Z",
+  "targetDate": "2026-10-19",
   "timezone": "Asia/Shanghai",
-  "itemCount": 4,
+  "itemCount": 10,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,76 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "c7pt5mbzh5h0atlbprfzbs8o0",
-      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-      "originalTitle": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
-      "originalUrl": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
-      "aihotUrl": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
+      "id": "p04w1xjk7v6fmlskpf5vsnuka",
+      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+      "originalTitle": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+      "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+      "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
+      "url": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
+      "originalUrl": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "aihotUrl": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 78,
-      "date": "2026-10-18",
-      "publishedAt": "2026-10-18T13:22:26.000Z",
-      "discoveredAt": "2026-10-18T13:51:32.649Z"
+      "score": 85,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T15:05:00.000Z",
+      "discoveredAt": "2026-10-19T22:25:32.252Z"
     },
     {
-      "id": "bbr25r9mbi8zbbtmu2uiati7f",
-      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-      "originalTitle": "Two German courts now hold Google liable for what its AI overviews say",
-      "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
-      "originalUrl": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
-      "aihotUrl": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
+      "id": "x7nruknd2vvd2dlhipy8tzy5m",
+      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+      "originalTitle": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+      "source": "AI HOT · AI 摘要 · Ars Technica：AI（RSS）",
+      "url": "https://aihot.news/items/x7nruknd2vvd2dlhipy8tzy5m",
+      "originalUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "aihotUrl": "https://aihot.news/items/x7nruknd2vvd2dlhipy8tzy5m",
       "tags": [
         "行业"
       ],
       "category": "industry",
       "score": 77,
-      "date": "2026-10-18",
-      "publishedAt": "2026-10-18T10:52:39.000Z",
-      "discoveredAt": "2026-10-18T11:49:33.588Z"
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T14:45:43.000Z",
+      "discoveredAt": "2026-10-19T14:57:34.130Z"
     },
     {
-      "id": "i8vi0763u7lz34lkoagoh0agt",
-      "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
-      "originalTitle": "这台卖37999的RTX Spark电脑，让我实现了Token自由。",
-      "summary": "作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。",
-      "source": "AI HOT · AI 摘要 · X：卡兹克 (@Khazix0918)",
-      "url": "https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt",
-      "originalUrl": "https://x.com/Khazix0918/status/2111639562720329976",
-      "aihotUrl": "https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt",
+      "id": "tdcasw4dwhyzne3hxo3dmizmz",
+      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+      "originalTitle": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
+      "url": "https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz",
+      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "aihotUrl": "https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 77,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T13:58:41.000Z",
+      "discoveredAt": "2026-10-19T14:03:30.601Z"
+    },
+    {
+      "id": "uvgayscfmc9ujjak94ymsnxnd",
+      "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
+      "originalTitle": "inclusionAI/Ming-3.0-tts",
+      "summary": "蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。",
+      "source": "AI HOT · AI 摘要 · 蚂蚁 inclusionAI：GitHub 新仓库",
+      "url": "https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd",
+      "originalUrl": "https://github.com/inclusionAI/Ming-3.0-tts",
+      "aihotUrl": "https://aihot.news/items/uvgayscfmc9ujjak94ymsnxnd",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 72,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T07:03:25.000Z",
+      "discoveredAt": "2026-10-19T15:20:34.920Z"
+    },
+    {
+      "id": "qh6pvehounuylklti7i0zl124",
+      "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+      "originalTitle": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
+      "source": "AI HOT · AI 摘要 · Meta Engineering Blog（RSS）",
+      "url": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
+      "originalUrl": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "aihotUrl": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 68,
-      "date": "2026-10-18",
-      "publishedAt": "2026-10-18T02:04:38.000Z",
-      "discoveredAt": "2026-10-18T02:11:19.522Z"
+      "score": 70,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T15:30:37.000Z",
+      "discoveredAt": "2026-10-19T15:39:33.930Z"
     },
     {
-      "id": "w3vpc68lufgj57zcy1hd38a60",
-      "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
-      "originalTitle": "What Is a Browser Agent? How It Works and When to Use One",
-      "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
-      "source": "AI HOT · AI 摘要 · Browser Use",
-      "url": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
-      "originalUrl": "https://browser-use.com/posts/browser-agents",
-      "aihotUrl": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+      "id": "wrnv8dd428iozlj5xax99zbmj",
+      "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
+      "originalTitle": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
+      "summary": "MiniMax 发布 MiniMax M3.1 Flash，匿名模型 Space Bunny 是其早期版本，曾处理超过 200 万亿 token。",
+      "source": "AI HOT · AI 摘要 · MiniMax：Blog（网页）",
+      "url": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+      "originalUrl": "https://www.minimax.io/blog/minimax-m31f",
+      "aihotUrl": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 70,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-18T16:00:00.000Z",
+      "discoveredAt": "2026-10-19T12:24:37.520Z"
+    },
+    {
+      "id": "bm95oliei5mcgy2tau7e22d59",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "originalTitle": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+      "source": "AI HOT · AI 摘要 · X：Arena (@arena)",
+      "url": "https://aihot.news/items/bm95oliei5mcgy2tau7e22d59",
+      "originalUrl": "https://x.com/arena/status/2111894091168682086",
+      "aihotUrl": "https://aihot.news/items/bm95oliei5mcgy2tau7e22d59",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 69,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-18T18:56:03.000Z",
+      "discoveredAt": "2026-10-18T19:02:39.406Z"
+    },
+    {
+      "id": "dla37so34wcgznigffx3j6qko",
+      "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
+      "originalTitle": "Measuring What Medical AI Can Actually Do",
+      "summary": "斯坦福团队总结三年构建医疗 AI 基准的成果，PhysicianBench 上最佳模型 GPT-5.5 单次仅完成 46% 任务，HealthAdminBench 上 Claude Opus 4.6 完成 36.3%。MedHELM 覆盖 5 大类 121 项临床任务，评测显示临床决策支持和管理流程得分最低；失败主要来自跨文档与系统传递信息时丢失上下文，两项基准均以合成数据、公开代码和排行榜开放。",
+      "source": "AI HOT · AI 摘要 · Stanford HAI News（网页）",
+      "url": "https://aihot.news/items/dla37so34wcgznigffx3j6qko",
+      "originalUrl": "https://hai.stanford.edu/news/measuring-what-medical-ai-can-actually-do",
+      "aihotUrl": "https://aihot.news/items/dla37so34wcgznigffx3j6qko",
+      "tags": [
+        "论文"
+      ],
+      "category": "paper",
+      "score": 67,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-18T16:00:00.000Z",
+      "discoveredAt": "2026-10-20T00:29:32.986Z"
+    },
+    {
+      "id": "ezjbo6ic6xfvpyxyghjekaude",
+      "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
+      "originalTitle": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+      "summary": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。",
+      "source": "AI HOT · AI 摘要 · n8n Blog",
+      "url": "https://aihot.news/items/ezjbo6ic6xfvpyxyghjekaude",
+      "originalUrl": "https://blog.n8n.io/n8n-nvidia-dgx-spark/",
+      "aihotUrl": "https://aihot.news/items/ezjbo6ic6xfvpyxyghjekaude",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 61,
-      "date": "2026-10-18",
-      "publishedAt": "2026-10-18T00:00:00.000Z",
-      "discoveredAt": "2026-10-18T16:23:41.099Z"
+      "score": 66,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T13:22:17.000Z",
+      "discoveredAt": "2026-10-19T13:40:31.713Z"
+    },
+    {
+      "id": "ebl13m9gich6kfjixzvfiw5bq",
+      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
+      "originalTitle": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+      "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
+      "source": "AI HOT · AI 摘要 · Meta Engineering Blog（RSS）",
+      "url": "https://aihot.news/items/ebl13m9gich6kfjixzvfiw5bq",
+      "originalUrl": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "aihotUrl": "https://aihot.news/items/ebl13m9gich6kfjixzvfiw5bq",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 66,
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T13:00:10.000Z",
+      "discoveredAt": "2026-10-19T13:37:32.517Z"
     }
   ]
 }
