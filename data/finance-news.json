@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-10-23",
-  "generatedAt": "2026-10-24T00:35:34.340Z",
-  "targetDate": "2026-10-23",
+  "updated": "2026-10-27",
+  "generatedAt": "2026-10-28T01:15:48.098Z",
+  "targetDate": "2026-10-27",
   "timezone": "Asia/Shanghai",
-  "itemCount": 2,
+  "itemCount": 1,
   "targetItemCount": 10,
   "sourceHealth": [
     {
@@ -23,8 +23,8 @@
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "Alpha Vantage",
@@ -43,48 +43,26 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "617bd240008b32794f64",
+      "id": "bdde04a81b5fbe239533",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行公告﹝2026﹞第26号",
+      "title": "中国人民银行公告﹝2026﹞第28号",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102311181835420/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102717505019241/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102311181835420/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102717505019241/index.html",
       "urlType": "article",
-      "publishedAt": "2026-10-23T03:18:18.000Z",
-      "date": "2026-10-23",
+      "publishedAt": "2026-10-27T09:50:50.000Z",
+      "date": "2026-10-27",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 52
-    },
-    {
-      "id": "bf4d9578149d8de9c209",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
-      "summary": null,
-      "source": "中国政府网",
-      "sources": [
-        {
-          "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
-      "urlType": "article",
-      "publishedAt": "2026-10-23T04:00:00.000Z",
-      "date": "2026-10-23",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
     }
   ]
 }
