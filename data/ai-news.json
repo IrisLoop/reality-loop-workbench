@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-29",
-  "generatedAt": "2026-10-30T01:54:37.294Z",
-  "targetDate": "2026-10-29",
+  "updated": "2026-10-30",
+  "generatedAt": "2026-10-31T01:32:43.016Z",
+  "targetDate": "2026-10-30",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "source": {
@@ -14,184 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "vidjbhx5bf45wdl488kst1wv8",
-      "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-      "originalTitle": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-      "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
-      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8",
-      "originalUrl": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "aihotUrl": "https://aihot.news/items/vidjbhx5bf45wdl488kst1wv8",
+      "id": "kzenjo9w2bfhpsr0ub1gr95xj",
+      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+      "originalTitle": "What Google and Reddit's bad days have in common",
+      "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+      "source": "AI HOT · AI 摘要 · Platformer（热点 RSS）",
+      "url": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
+      "originalUrl": "https://www.platformer.news/thursday-newsletter-6/",
+      "aihotUrl": "https://aihot.news/items/kzenjo9w2bfhpsr0ub1gr95xj",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 85,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-28T17:11:27.000Z",
-      "discoveredAt": "2026-10-28T17:14:42.870Z"
+      "score": 86,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T00:51:00.000Z",
+      "discoveredAt": "2026-10-30T01:31:06.593Z"
     },
     {
-      "id": "r9bmkfh02wkycc8zmhw87h4q9",
-      "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-      "originalTitle": "Anthropic is asking Wall Street to believe in AGI",
-      "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
+      "id": "l7y0gkoqx56dt6jxv6x0mcl0h",
+      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
+      "originalTitle": "US tech stocks see sharp falls over AI cost fears",
+      "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
+      "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
+      "url": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
+      "originalUrl": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "aihotUrl": "https://aihot.news/items/l7y0gkoqx56dt6jxv6x0mcl0h",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 80,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T14:50:37.797Z",
+      "discoveredAt": "2026-10-30T18:08:27.220Z"
+    },
+    {
+      "id": "puushryi79v0flh2um3a70xnw",
+      "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+      "originalTitle": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
+      "source": "AI HOT · AI 摘要 · Hacker News：AI 热帖",
+      "url": "https://aihot.news/items/puushryi79v0flh2um3a70xnw",
+      "originalUrl": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "aihotUrl": "https://aihot.news/items/puushryi79v0flh2um3a70xnw",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 80,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T21:29:51.580Z",
+      "discoveredAt": "2026-10-30T05:56:17.136Z"
+    },
+    {
+      "id": "wb6emxuh5ob2wh96egtwawgfu",
+      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+      "originalTitle": "Anthropic’s financials are surprisingly strong",
+      "summary": "作者通读 Anthropic 公开版 S-1 文件，认为公司财务状况好于预期：2026 年第二季度收入从一季度的 47 亿美元增至 116 亿美元，并录得首个运营利润，截至 6 月底现金储备仅次于 Google 和 Berkshire Hathaway。",
+      "source": "AI HOT · AI 摘要 · Timothy B. Lee：Understanding AI（RSS）",
+      "url": "https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu",
+      "originalUrl": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "aihotUrl": "https://aihot.news/items/wb6emxuh5ob2wh96egtwawgfu",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 80,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T19:10:41.000Z",
+      "discoveredAt": "2026-10-29T19:26:35.444Z"
+    },
+    {
+      "id": "vyd3tzicoe478uo8njsr8zt2v",
+      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
+      "originalTitle": "Silicon Valley wants you to invest in miracles",
+      "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
       "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
-      "url": "https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9",
-      "originalUrl": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "aihotUrl": "https://aihot.news/items/r9bmkfh02wkycc8zmhw87h4q9",
+      "url": "https://aihot.news/items/vyd3tzicoe478uo8njsr8zt2v",
+      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "aihotUrl": "https://aihot.news/items/vyd3tzicoe478uo8njsr8zt2v",
       "tags": [
-        "opinion"
+        "行业"
       ],
-      "category": "opinion",
-      "score": 83,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T14:00:00.000Z",
-      "discoveredAt": "2026-10-29T14:35:14.558Z"
+      "category": "industry",
+      "score": 78,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T13:11:05.000Z",
+      "discoveredAt": "2026-10-30T13:52:27.932Z"
     },
     {
-      "id": "upsd8u37hkkquohy3w3sjvszi",
-      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-      "originalTitle": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "summary": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。",
-      "source": "AI HOT · AI 摘要 · Hugging Face 官方团队博客",
-      "url": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-      "originalUrl": "https://huggingface.co/blog/mistral-large4",
-      "aihotUrl": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
+      "id": "fxmexzrmo7pw52vc5j6ej17kl",
+      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+      "originalTitle": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
+      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
+      "url": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
+      "originalUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "aihotUrl": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
       "tags": [
-        "AI 模型"
+        "行业"
       ],
-      "category": "ai-models",
-      "score": 81,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "discoveredAt": "2026-10-29T14:47:14.993Z"
+      "category": "industry",
+      "score": 78,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T23:42:22.000Z",
+      "discoveredAt": "2026-10-30T00:36:05.686Z"
     },
     {
-      "id": "jpt1eeuj2p1mgrxbufuv3ntdn",
-      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-      "originalTitle": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
-      "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
-      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
-      "url": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
-      "originalUrl": "https://www.ithome.com/1/019/268.htm",
-      "aihotUrl": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
+      "id": "e234ewhx82g2zh3z2bgcjxx7d",
+      "title": "OpenAI 详解如何监控前沿模型的失对齐行为",
+      "originalTitle": "How we detect frontier model misalignment",
+      "summary": "OpenAI 在 Alignment 博客介绍其针对前沿模型（如 GPT-6 Astra）的多层失对齐监控系统，覆盖训练、评估、内部使用和部分外部部署。",
+      "source": "AI HOT · AI 摘要 · OpenAI：Alignment 研究博客（RSS）",
+      "url": "https://aihot.news/items/e234ewhx82g2zh3z2bgcjxx7d",
+      "originalUrl": "https://alignment.openai.com/how-we-detect-frontier-model-misalignment/",
+      "aihotUrl": "https://aihot.news/items/e234ewhx82g2zh3z2bgcjxx7d",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 81,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-28T22:35:25.040Z",
-      "discoveredAt": "2026-10-28T23:00:29.337Z"
-    },
-    {
-      "id": "iuma7p8unle567lzy6hp5jpw9",
-      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-      "originalTitle": "Anthropic’s business plan: Build God or die trying",
-      "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
-      "url": "https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9",
-      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "aihotUrl": "https://aihot.news/items/iuma7p8unle567lzy6hp5jpw9",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 80,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T13:30:00.000Z",
-      "discoveredAt": "2026-10-29T13:34:14.508Z"
-    },
-    {
-      "id": "wry19y87ktlbmfwu581jjffj7",
-      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-      "originalTitle": "Google's AI search problem finally shows up in the earnings report, some investors believe",
-      "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7",
-      "originalUrl": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
-      "aihotUrl": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 80,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T10:16:34.000Z",
-      "discoveredAt": "2026-10-29T10:34:14.765Z"
-    },
-    {
-      "id": "x2h1bp5shee6v508nw7pjtvas",
-      "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-      "originalTitle": "Exit Liquidity",
-      "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
-      "source": "AI HOT · AI 摘要 · Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-      "url": "https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas",
-      "originalUrl": "https://www.wheresyoured.at/exit-liquidity/",
-      "aihotUrl": "https://aihot.news/items/x2h1bp5shee6v508nw7pjtvas",
-      "tags": [
-        "opinion"
-      ],
-      "category": "opinion",
-      "score": 80,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-28T17:51:00.000Z",
-      "discoveredAt": "2026-10-28T17:51:36.520Z"
-    },
-    {
-      "id": "x7qd347blfo2409za7srbypzw",
-      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-      "originalTitle": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-      "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
-      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
-      "url": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-      "originalUrl": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "aihotUrl": "https://aihot.news/items/x7qd347blfo2409za7srbypzw",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 79,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T14:21:49.000Z",
-      "discoveredAt": "2026-10-29T14:35:14.236Z"
-    },
-    {
-      "id": "m5st8pvirbas7phreshbzkrc9",
-      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-      "originalTitle": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
-      "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
-      "source": "AI HOT · AI 摘要 · X：Sundar Pichai (@sundarpichai)",
-      "url": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
-      "originalUrl": "https://x.com/sundarpichai/status/2115535455156642066",
-      "aihotUrl": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
       "score": 78,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-28T20:05:31.000Z",
-      "discoveredAt": "2026-10-28T20:20:08.029Z"
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "discoveredAt": "2026-10-30T17:56:26.869Z"
     },
     {
-      "id": "s3m3uzabqoxxed9ae50b73qvc",
-      "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-      "originalTitle": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
-      "source": "AI HOT · AI 摘要 · GitHub Blog",
-      "url": "https://aihot.news/items/s3m3uzabqoxxed9ae50b73qvc",
-      "originalUrl": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "aihotUrl": "https://aihot.news/items/s3m3uzabqoxxed9ae50b73qvc",
+      "id": "nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+      "originalTitle": "AI can turn public security fixes into working exploits before users receive an update",
+      "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
+      "source": "AI HOT · AI 摘要 · Epoch AI：Gradient Updates（RSS）",
+      "url": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
+      "originalUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+      "aihotUrl": "https://aihot.news/items/nxkr9ex5tfbhfhw1gvj9wsjuz",
       "tags": [
-        "行业"
+        "论文"
       ],
-      "category": "industry",
-      "score": 78,
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-28T16:07:40.000Z",
-      "discoveredAt": "2026-10-28T16:14:31.948Z"
+      "category": "paper",
+      "score": 77,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:07:16.000Z",
+      "discoveredAt": "2026-10-30T12:38:19.068Z"
+    },
+    {
+      "id": "gzcwy89nkjreenv5eu1qaysdi",
+      "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+      "originalTitle": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+      "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
+      "source": "AI HOT · AI 摘要 · OpenRouter：Announcements（RSS）",
+      "url": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
+      "originalUrl": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
+      "aihotUrl": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 72,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "discoveredAt": "2026-10-30T00:52:06.950Z"
+    },
+    {
+      "id": "ykvaq4vx3ydt23josezzan62r",
+      "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+      "originalTitle": "如何用 Kimi 创作 3D 作品？官方教程来了",
+      "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
+      "source": "AI HOT · AI 摘要 · 公众号：月之暗面（Kimi）",
+      "url": "https://aihot.news/items/ykvaq4vx3ydt23josezzan62r",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+      "aihotUrl": "https://aihot.news/items/ykvaq4vx3ydt23josezzan62r",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 69,
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T04:04:56.000Z",
+      "discoveredAt": "2026-10-30T04:11:54.922Z"
     }
   ]
 }
