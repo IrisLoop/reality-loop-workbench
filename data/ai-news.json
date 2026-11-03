@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-01",
-  "generatedAt": "2026-11-02T01:28:34.590Z",
-  "targetDate": "2026-11-01",
+  "updated": "2026-11-02",
+  "generatedAt": "2026-11-03T03:26:16.274Z",
+  "targetDate": "2026-11-02",
   "timezone": "Asia/Shanghai",
-  "itemCount": 3,
+  "itemCount": 6,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,58 +14,112 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "dpm21l66z2iizblehsdg09c8t",
-      "title": "美国白宫科技顾问萨克斯称 Anthropic 可能成为资本主义史上最伟大企业",
-      "originalTitle": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
-      "summary": "美国白宫科学与技术顾问会议主席戴维·萨克斯在 All-In 播客分析 Anthropic 的 S-1 文件，称其很可能成为资本主义历史上最伟大企业，也可能是回报最高的风险投资项目。",
-      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
-      "url": "https://aihot.news/items/dpm21l66z2iizblehsdg09c8t",
-      "originalUrl": "https://www.ithome.com/1/020/633.htm",
-      "aihotUrl": "https://aihot.news/items/dpm21l66z2iizblehsdg09c8t",
-      "tags": [
-        "opinion"
-      ],
-      "category": "opinion",
-      "score": 79,
-      "date": "2026-11-01",
-      "publishedAt": "2026-10-31T22:56:28.467Z",
-      "discoveredAt": "2026-10-31T23:36:45.752Z"
-    },
-    {
-      "id": "yww15c701iat30p8ttjf029ij",
-      "title": "OpenRouter 教程：用 Responses API 构建可在 Linux 沙箱验证 bug 的 AI 代码审查脚本",
-      "originalTitle": "Build an AI Code Reviewer with OpenRouter",
-      "summary": "OpenRouter 发布教程，介绍一个 233 行、仅用标准库的 review.py，通过 Responses API 组合 Files API、Shell 沙箱工具和 Apply Patch 工具，把变更文件上传到托管 Linux 沙箱，让模型实际运行检查确认 bug 并返回 V4A 补丁。",
-      "source": "AI HOT · AI 摘要 · OpenRouter：Announcements（RSS）",
-      "url": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
-      "originalUrl": "https://openrouter.ai/blog/tutorials/ai-code-review/",
-      "aihotUrl": "https://aihot.news/items/yww15c701iat30p8ttjf029ij",
+      "id": "dzwfvd9xp6v4qaj6olxezpier",
+      "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
+      "originalTitle": "折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统。",
+      "summary": "自媒体作者卡兹克分享自己搭建近一年的Agent自动化系统，核心是把任务起点从人身上移开，由事件触发Agent工作。系统分为自动化中台、Agent执行、CI中台和飞书决策四层：中台用rules.json统一管理事件触发和Agent调度，本地MacMini跑Agent任务，自建CI中台完成审查、检查、合并、发布、核实五步，只在删数据、花钱、改方向等关键决策时通过飞书卡片找作者拍板。",
+      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
+      "url": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688060&idx=1&sn=e00d7e57b6f0e3670f0e267e677047df",
+      "aihotUrl": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
       "tags": [
         "技巧"
       ],
       "category": "tip",
-      "score": 75,
-      "date": "2026-11-01",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "discoveredAt": "2026-11-01T00:27:06.100Z"
+      "score": 72,
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T00:19:00.000Z",
+      "discoveredAt": "2026-11-02T00:21:28.806Z"
     },
     {
-      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
-      "title": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
-      "originalTitle": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。",
-      "summary": "作者引述OpenAI凌晨更新的帮助文档称，从12月开始Plus和Pro用户的ChatGPT聊天与Codex用量将合并为同一Token额度，仅Instant聊天不受影响。作者回顾此前按条数计费的历史、一个月内Codex Pro额度先降后恢复的运营反复，以及社区在GitHub上提issue抗议的反应，认为合并与IPO预期下的算力成本压力有关。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
-      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
-      "aihotUrl": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+      "id": "sxbs5a90fgybhyucacmzvrc6w",
+      "title": "OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰",
+      "originalTitle": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策制定者合作，让未来算力校园在电网紧张时降低用电需求，首站为 Effingham County 校园。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/sxbs5a90fgybhyucacmzvrc6w",
+      "originalUrl": "https://openai.com/index/grid-protectors-program",
+      "aihotUrl": "https://aihot.news/items/sxbs5a90fgybhyucacmzvrc6w",
       "tags": [
         "行业"
       ],
       "category": "industry",
       "score": 70,
-      "date": "2026-11-01",
-      "publishedAt": "2026-11-01T00:22:41.000Z",
-      "discoveredAt": "2026-11-01T00:31:11.801Z"
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:00:00.000Z",
+      "discoveredAt": "2026-11-02T15:59:36.885Z"
+    },
+    {
+      "id": "sg5u3u91kw42j1grtyp3ny65n",
+      "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
+      "originalTitle": "Make long-running agents faster with message threads",
+      "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
+      "source": "AI HOT · AI 摘要 · Claude：Blog（网页）",
+      "url": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
+      "originalUrl": "https://claude.com/blog/message-threads",
+      "aihotUrl": "https://aihot.news/items/sg5u3u91kw42j1grtyp3ny65n",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 69,
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "discoveredAt": "2026-11-02T19:55:34.938Z"
+    },
+    {
+      "id": "l37ydaic43icz85huclc2io6c",
+      "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
+      "originalTitle": "Hyra 2.0 发布：为模型研发打造可复用工具",
+      "summary": "腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。系统采用 Overall、Mission、Worker 三层分工，接入企业微信、计算平台和代码仓库的实际研发环境，成果已公开在 GitHub 仓库。",
+      "source": "AI HOT · AI 摘要 · 公众号：腾讯混元",
+      "url": "https://aihot.news/items/l37ydaic43icz85huclc2io6c",
+      "originalUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498763&idx=1&sn=279f8fb4e43a987fdc0aa2af0b0f7958",
+      "aihotUrl": "https://aihot.news/items/l37ydaic43icz85huclc2io6c",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 68,
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T10:06:28.000Z",
+      "discoveredAt": "2026-11-02T10:36:05.324Z"
+    },
+    {
+      "id": "mhw3rtr5o13p5777y7el9tczk",
+      "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
+      "originalTitle": "Claude Code tip: if a task turns out harder than you expected, type ultrathink while Claude is working. It raises the effort for the rest...",
+      "summary": "Addy Osmani 分享 Claude Code 技巧：当任务比预期更难时，在 Claude 工作期间输入 ultrathink，可提升该回合剩余部分的推理努力，该功能适用于最新版本的终端。他引用 @dmwlff 的帖子，其中提到 ultrathink 已回归 Claude Code CLI，此前因显得怪异且可能令人困惑曾被关闭。",
+      "source": "AI HOT · AI 摘要 · X：Addy Osmani (@addyosmani)",
+      "url": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
+      "originalUrl": "https://x.com/addyosmani/status/2116986087390486816",
+      "aihotUrl": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 67,
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-01T20:09:49.000Z",
+      "discoveredAt": "2026-11-01T20:13:35.527Z"
+    },
+    {
+      "id": "hf03pwablxanh9desil5cbu9d",
+      "title": "OpenAI 任命前美国陆军部长 Dan Driscoll 为国家安全现代化高级顾问",
+      "originalTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI 宣布任命 Dan Driscoll 为新设的国家安全现代化高级顾问，就先进 AI 如何加强国家与网络安全提供建议，重点与美国盟友合作推动民主 AI 的负责任使用。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
+      "originalUrl": "https://openai.com/index/dan-driscoll-joins-openai",
+      "aihotUrl": "https://aihot.news/items/hf03pwablxanh9desil5cbu9d",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 60,
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "discoveredAt": "2026-11-03T01:08:35.195Z"
     }
   ]
 }
