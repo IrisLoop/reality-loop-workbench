@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-11-02",
-  "generatedAt": "2026-11-03T03:26:24.395Z",
-  "targetDate": "2026-11-02",
+  "updated": "2026-11-03",
+  "generatedAt": "2026-11-04T02:14:45.934Z",
+  "targetDate": "2026-11-03",
   "timezone": "Asia/Shanghai",
-  "itemCount": 1,
+  "itemCount": 2,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
-      "status": "ok",
+      "status": "failed",
       "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "message": "fetch failed"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
+      "itemCount": 2,
       "message": ""
     },
     {
@@ -43,26 +43,48 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "1798268e63d2b42bef4a",
+      "id": "81129ce8f3edf5e04227",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行 金融监管总局 中国证监会召开支持资本市场两项工具座谈会",
+      "title": "中国人民银行决定上调金融机构外汇存款准备金率",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110219495213912/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110308254969050/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110219495213912/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110308254969050/index.html",
       "urlType": "article",
-      "publishedAt": "2026-11-02T11:49:52.000Z",
-      "date": "2026-11-02",
+      "publishedAt": "2026-11-03T00:25:49.000Z",
+      "date": "2026-11-03",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 62
+      "score": 57
+    },
+    {
+      "id": "6d1a6d743d31cdcc4391",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "证券、基金、保险公司互换便利（SFISF）操作结果公告 〔2026〕第1号",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110313380716818/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110313380716818/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-11-03T05:38:07.000Z",
+      "date": "2026-11-03",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 47
     }
   ]
 }
