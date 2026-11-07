@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-11-05",
-  "generatedAt": "2026-11-06T02:20:23.379Z",
-  "targetDate": "2026-11-05",
+  "updated": "2026-11-06",
+  "generatedAt": "2026-11-07T01:51:19.228Z",
+  "targetDate": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "itemCount": 3,
+  "itemCount": 1,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 1,
+      "itemCount": 2,
       "message": ""
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国政府网",
@@ -43,70 +43,26 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "6693f2679b8dfba4604b",
+      "id": "91a533a38e18acad7f16",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国证监会与阿曼金融服务管理局签署《证券期货监管合作谅解备忘录》",
-      "summary": "2026年11月2日，在中阿两国元首共同见证下，中国证监会主席吴清在北京与阿曼外交大臣巴德尔签署了《中国证监",
+      "title": "中国证监会同意氢氧化锂期货和期权注册",
+      "summary": "近日，中国证监会同意广州期货交易所氢氧化锂期货和期权注册。中国证监会将督促广州期货交易所做好各项准备",
       "source": "中国证监会",
       "sources": [
         {
           "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7668983/content.shtml",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7669216/content.shtml",
           "urlType": "article"
         }
       ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7668983/content.shtml",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7669233/content.shtml",
       "urlType": "article",
-      "publishedAt": "2026-11-05T11:12:54.000Z",
-      "date": "2026-11-05",
+      "publishedAt": "2026-11-06T07:28:09.000Z",
+      "date": "2026-11-06",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 52
-    },
-    {
-      "id": "abf2ebdf6e7c6514128b",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "中国人民银行副行长邹澜出席第五届国际金融领袖投资峰会",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110516113533346/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110516113533346/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-11-05T08:11:35.000Z",
-      "date": "2026-11-05",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
-    },
-    {
-      "id": "84c7b284a91fdcd5674f",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "国务院关于金融工作情况的报告——2026年11月3日在十四届全国人民代表大会常务委员会第二十五次会议上",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110510330636555/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110510330636555/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-11-05T02:33:06.000Z",
-      "date": "2026-11-05",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
     }
   ]
 }
