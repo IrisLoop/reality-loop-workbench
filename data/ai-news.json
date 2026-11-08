@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-06",
-  "generatedAt": "2026-11-07T01:51:11.116Z",
-  "targetDate": "2026-11-06",
+  "updated": "2026-11-07",
+  "generatedAt": "2026-11-08T01:21:23.483Z",
+  "targetDate": "2026-11-07",
   "timezone": "Asia/Shanghai",
-  "itemCount": 10,
+  "itemCount": 3,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,184 +14,58 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "vpopkx98s6mpp9coxhi7hhvh2",
-      "title": "METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值",
-      "originalTitle": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-      "summary": "METR 发布对 Anthropic 内部数据的十一周审计结果，称自 2025 年 10 月以来模型测试分数提升速度约加快 1.9 倍，其中约 80% 归因于 AI 用于公司自身研究，可能已在 7 月 15 日达到其负责任扩展政策中的预警阈值。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
-      "originalUrl": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-      "aihotUrl": "https://aihot.news/items/vpopkx98s6mpp9coxhi7hhvh2",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 83,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T13:40:07.000Z",
-      "discoveredAt": "2026-11-06T14:22:09.431Z"
-    },
-    {
-      "id": "ulp3wiu0wqc134cllhoas33kw",
-      "title": "美国中期选举后数据中心民意反弹引发AI股暴跌",
-      "originalTitle": "这可能是美国AI最魔幻的一天。",
-      "summary": "作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。背景是中期选举民主党拿下两院，亚利桑那州众议员安萨里提出应暂停先进AI开发，此前桑德斯等人在9月提过《2026年禁止人工超级智能法案》，按训练算力10的25次方划线并规定违规个人最高判20年、公司可强制解散。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw",
-      "originalUrl": "https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ",
-      "aihotUrl": "https://aihot.news/items/ulp3wiu0wqc134cllhoas33kw",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 82,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-05T23:56:00.000Z",
-      "discoveredAt": "2026-11-06T00:02:14.651Z"
-    },
-    {
-      "id": "vkfrtci1ufbtbydsqersys6lx",
-      "title": "美国中期选举蓝潮冲击 AI 行业，44 项数据中心暂停提案中 43 项通过",
-      "originalTitle": "‘Total repudiation’: The blue wave is about to hit AI",
-      "summary": "美国中期选举民主党拿下参众两院，多场竞选以问责 AI 公司为主题，行业面临监管、数据中心建设放缓等前景。44 项地方数据中心暂停提案中 43 项通过，NBC 民调显示 76% 选民反对在社区建数据中心；专家称共和党禁止州级 AI 限制的尝试可能终结，OpenAI 和 Anthropic 未置评，据华尔街日报报道 CEO 们在私下讨论算力容量受限问题。",
-      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
-      "url": "https://aihot.news/items/vkfrtci1ufbtbydsqersys6lx",
-      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "aihotUrl": "https://aihot.news/items/vkfrtci1ufbtbydsqersys6lx",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 82,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-05T17:51:52.000Z",
-      "discoveredAt": "2026-11-05T18:39:07.338Z"
-    },
-    {
-      "id": "czctc3kqzf5wru8fhsbnhvxt7",
-      "title": "美股单日蒸发 3.2 万亿美元，Nasdaq 创 2025 年 4 月以来最大跌幅",
-      "originalTitle": "Wall Street erased $3.2 tn in market value on Thursday, Nov-5.",
-      "summary": "11 月 5 日华尔街市值蒸发 3.2 万亿美元，Nasdaq 综合指数跌 5.52%，投资者恐慌民主党掌控国会将放缓高杠杆 AI 支出热潮。Nvidia 跌 9.3% 抹去 2026 年涨幅，费城半导体指数跌 12.3%，SanDisk 跌 22%，Micron、Western Digital 和 AMD 各跌 17%。",
+      "id": "m45kaixmfb2554qlzxbpnir36",
+      "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+      "originalTitle": "Bloomberg: OpenAI closed $11B in a new funding, the first tranche of a round valuing it at $1.25T.",
+      "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。",
       "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://aihot.news/items/czctc3kqzf5wru8fhsbnhvxt7",
-      "originalUrl": "https://x.com/rohanpaul_ai/status/2118461023808323957",
-      "aihotUrl": "https://aihot.news/items/czctc3kqzf5wru8fhsbnhvxt7",
+      "url": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+      "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 86,
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T21:10:13.000Z",
+      "discoveredAt": "2026-11-06T21:26:11.791Z"
+    },
+    {
+      "id": "pqbbgx5sn86iy7v4izf1qv49z",
+      "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+      "originalTitle": "OpenAI's GPT Image 2.6 takes #1 and #2 on both AA-Image-T2I v2.1 and AA-Image-Editing v2.1. GPT Image 2.6 Flare is almost twice as fast a...",
+      "summary": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。",
+      "source": "AI HOT · AI 摘要 · X：Artificial Analysis (@ArtificialAnlys)",
+      "url": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+      "originalUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
+      "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 81,
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-06T23:40:40.000Z",
+      "discoveredAt": "2026-11-06T23:53:26.760Z"
+    },
+    {
+      "id": "r0hypv8lgeq3nhx29eby0y3uv",
+      "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+      "originalTitle": "谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划",
+      "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
+      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
+      "url": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
+      "originalUrl": "https://www.ithome.com/1/023/765.htm",
+      "aihotUrl": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
       "tags": [
         "行业"
       ],
       "category": "industry",
       "score": 79,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-05T21:50:41.000Z",
-      "discoveredAt": "2026-11-05T22:15:26.778Z"
-    },
-    {
-      "id": "aiiclbw9wwswwx60wfqw6eb6o",
-      "title": "约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿",
-      "originalTitle": "The biggest plot twist in the chip war:",
-      "summary": "据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。尽管 Trump 去年已放行 H200 对华销售，中国正以每家科技巨头约 1 万块的速度小批量发放进口许可，推动国内服务器价格上涨 3 倍。",
-      "source": "AI HOT · AI 摘要 · X：X.PIN (@thexpin)",
-      "url": "https://aihot.news/items/aiiclbw9wwswwx60wfqw6eb6o",
-      "originalUrl": "https://x.com/thexpin/status/2118728111076335627",
-      "aihotUrl": "https://aihot.news/items/aiiclbw9wwswwx60wfqw6eb6o",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 76,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T15:32:00.000Z",
-      "discoveredAt": "2026-11-06T15:46:14.129Z"
-    },
-    {
-      "id": "ia9wi0z09zfes5ewdf4agb6nf",
-      "title": "Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻",
-      "originalTitle": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-      "summary": "据 Reuters，Anthropic 的 IPO 遇阻，投资者质疑 1.5 万亿美元估值过高，有投资者提出仅 1 万亿美元，公司 9 月曾瞄准最高 2 万亿美元估值。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
-      "originalUrl": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-      "aihotUrl": "https://aihot.news/items/ia9wi0z09zfes5ewdf4agb6nf",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 76,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T11:38:17.000Z",
-      "discoveredAt": "2026-11-06T12:20:10.672Z"
-    },
-    {
-      "id": "yjwroxww17lcg4ntcu9ruo105",
-      "title": "Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒",
-      "originalTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Google 发布 Gemini Omni 1.2 Flash，在 Gemini API 和 Gemini for business 全面开放。新模型原生支持最长 15 秒视频生成（此前为 10 秒），支持多轮对话编辑和更强的参考图一致性，价格较 1.1 下降 30% 至 720p 视频 $0.07/秒。",
-      "source": "AI HOT · AI 摘要 · Google Blog：AI（RSS）",
-      "url": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
-      "originalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "aihotUrl": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 74,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "discoveredAt": "2026-11-05T18:03:38.561Z"
-    },
-    {
-      "id": "ed4gnfu2f09xz5t7ur690iadn",
-      "title": "OpenRouter 发布新一代 Auto Router 与 Auto Code 路由器",
-      "originalTitle": "Introducing the New Auto and Auto Code Routers",
-      "summary": "OpenRouter 发布新一代 Auto Router，并推出专为编码场景的 Auto Code（openrouter/auto-code），替换 openrouter/auto 即可使用。",
-      "source": "AI HOT · AI 摘要 · OpenRouter：Announcements（RSS）",
-      "url": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn",
-      "originalUrl": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/",
-      "aihotUrl": "https://aihot.news/items/ed4gnfu2f09xz5t7ur690iadn",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 73,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "discoveredAt": "2026-11-06T16:09:10.921Z"
-    },
-    {
-      "id": "wkgcal7l9pkj3g7w8ohlp3c45",
-      "title": "Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放",
-      "originalTitle": "Introducing teammates.",
-      "summary": "Perplexity 推出 Teammates 功能，这些智能体可承接任务，利用 Computer tasks、skills、memory 和工具主动工作。Teammates 之间可相互协作，还能在 Slack 中给同事发消息，目前已向 Max 订阅用户开放网页版。",
-      "source": "AI HOT · AI 摘要 · X：Perplexity (@perplexity_ai)",
-      "url": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
-      "originalUrl": "https://x.com/perplexity_ai/status/2118389326459670825",
-      "aihotUrl": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 72,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-05T17:05:47.000Z",
-      "discoveredAt": "2026-11-05T17:07:48.365Z"
-    },
-    {
-      "id": "d28mrqwr7h7tl8b8jcse4b449",
-      "title": "Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming",
-      "originalTitle": "The components of agent memory",
-      "summary": "Anthropic 发布研究文章，介绍其设计 Claude 智能体记忆的思路与多组评测，包括会话内写记忆笔记、离线 dreaming 整理记忆和 wiki 表示。",
-      "source": "AI HOT · AI 摘要 · Anthropic：Research（发表成果 · 网页）",
-      "url": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
-      "originalUrl": "https://www.anthropic.com/research/components-of-agent-memory",
-      "aihotUrl": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 72,
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "discoveredAt": "2026-11-06T21:28:08.570Z"
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T09:16:42.957Z",
+      "discoveredAt": "2026-11-07T09:44:05.770Z"
     }
   ]
 }
