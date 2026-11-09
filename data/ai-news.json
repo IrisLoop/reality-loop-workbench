@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-07",
-  "generatedAt": "2026-11-08T01:21:23.483Z",
-  "targetDate": "2026-11-07",
+  "updated": "2026-11-08",
+  "generatedAt": "2026-11-09T01:41:16.850Z",
+  "targetDate": "2026-11-08",
   "timezone": "Asia/Shanghai",
-  "itemCount": 3,
+  "itemCount": 2,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,58 +14,40 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "m45kaixmfb2554qlzxbpnir36",
-      "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
-      "originalTitle": "Bloomberg: OpenAI closed $11B in a new funding, the first tranche of a round valuing it at $1.25T.",
-      "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。",
-      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
-      "originalUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
-      "aihotUrl": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+      "id": "kss7rjmanc8dv5mpj60jtdzgd",
+      "title": "GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测",
+      "originalTitle": "史上最全 GPT Image 2.6 10 大 GIF 邪修玩法，肝了两天的我决定把提示语都公开了",
+      "summary": "作者实测前两天上线的 GPT-Image-2.6，整理出 10 个 GIF 玩法提示词（黏土定格动画、表情包、剪辑贴纸、loading 图、PPT 动态图表、爆炸拆解图等）并测试三项新能力。",
+      "source": "AI HOT · AI 摘要 · X：卡尔的 AI 沃茨 (@aiwarts)",
+      "url": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
+      "originalUrl": "https://x.com/aiwarts/status/2119435411667980473",
+      "aihotUrl": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 77,
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-08T14:22:34.000Z",
+      "discoveredAt": "2026-11-08T14:52:33.814Z"
+    },
+    {
+      "id": "okhx4jjwucd647299qwzsl6ua",
+      "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
+      "originalTitle": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "summary": "据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
+      "originalUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "aihotUrl": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 86,
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T21:10:13.000Z",
-      "discoveredAt": "2026-11-06T21:26:11.791Z"
-    },
-    {
-      "id": "pqbbgx5sn86iy7v4izf1qv49z",
-      "title": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
-      "originalTitle": "OpenAI's GPT Image 2.6 takes #1 and #2 on both AA-Image-T2I v2.1 and AA-Image-Editing v2.1. GPT Image 2.6 Flare is almost twice as fast a...",
-      "summary": "Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。",
-      "source": "AI HOT · AI 摘要 · X：Artificial Analysis (@ArtificialAnlys)",
-      "url": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
-      "originalUrl": "https://x.com/ArtificialAnlys/status/2118851088111865983",
-      "aihotUrl": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 81,
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-06T23:40:40.000Z",
-      "discoveredAt": "2026-11-06T23:53:26.760Z"
-    },
-    {
-      "id": "r0hypv8lgeq3nhx29eby0y3uv",
-      "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
-      "originalTitle": "谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划",
-      "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
-      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
-      "url": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
-      "originalUrl": "https://www.ithome.com/1/023/765.htm",
-      "aihotUrl": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 79,
-      "date": "2026-11-07",
-      "publishedAt": "2026-11-07T09:16:42.957Z",
-      "discoveredAt": "2026-11-07T09:44:05.770Z"
+      "score": 76,
+      "date": "2026-11-08",
+      "publishedAt": "2026-11-07T17:37:25.000Z",
+      "discoveredAt": "2026-11-07T17:41:53.921Z"
     }
   ]
 }
