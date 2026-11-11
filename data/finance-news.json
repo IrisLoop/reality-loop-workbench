@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-11-06",
-  "generatedAt": "2026-11-07T01:51:19.228Z",
-  "targetDate": "2026-11-06",
+  "updated": "2026-11-10",
+  "generatedAt": "2026-11-11T01:53:30.859Z",
+  "targetDate": "2026-11-10",
   "timezone": "Asia/Shanghai",
   "itemCount": 1,
   "targetItemCount": 10,
@@ -11,8 +11,8 @@
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 2,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
@@ -23,8 +23,8 @@
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 1,
+      "message": ""
     },
     {
       "name": "Alpha Vantage",
@@ -43,26 +43,26 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "91a533a38e18acad7f16",
+      "id": "8f7cbabe12dd94996d4c",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国证监会同意氢氧化锂期货和期权注册",
-      "summary": "近日，中国证监会同意广州期货交易所氢氧化锂期货和期权注册。中国证监会将督促广州期货交易所做好各项准备",
-      "source": "中国证监会",
+      "title": "基金会管理条例",
+      "summary": null,
+      "source": "中国政府网",
       "sources": [
         {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7669216/content.shtml",
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085661.htm",
           "urlType": "article"
         }
       ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7669233/content.shtml",
+      "url": "https://www.gov.cn/zhengce/content/202611/content_7085661.htm",
       "urlType": "article",
-      "publishedAt": "2026-11-06T07:28:09.000Z",
-      "date": "2026-11-06",
+      "publishedAt": "2026-11-10T04:00:00.000Z",
+      "date": "2026-11-10",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 52
+      "score": 47
     }
   ]
 }
