@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-11-10",
-  "generatedAt": "2026-11-11T01:53:30.859Z",
-  "targetDate": "2026-11-10",
+  "updated": "2026-11-11",
+  "generatedAt": "2026-11-12T02:54:22.147Z",
+  "targetDate": "2026-11-11",
   "timezone": "Asia/Shanghai",
-  "itemCount": 1,
+  "itemCount": 2,
   "targetItemCount": 10,
   "sourceHealth": [
     {
@@ -17,14 +17,14 @@
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 2,
+      "message": ""
     },
     {
       "name": "中国政府网",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "Alpha Vantage",
@@ -43,26 +43,48 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "8f7cbabe12dd94996d4c",
+      "id": "ade379684149d09533b9",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "基金会管理条例",
+      "title": "2026年前三季度中国货币政策大事记",
       "summary": null,
-      "source": "中国政府网",
+      "source": "中国人民银行",
       "sources": [
         {
-          "name": "中国政府网",
-          "url": "https://www.gov.cn/zhengce/content/202611/content_7085661.htm",
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111116304170164/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.gov.cn/zhengce/content/202611/content_7085661.htm",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111116304170164/index.html",
       "urlType": "article",
-      "publishedAt": "2026-11-10T04:00:00.000Z",
-      "date": "2026-11-10",
+      "publishedAt": "2026-11-11T08:30:41.000Z",
+      "date": "2026-11-11",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
+      "score": 57
+    },
+    {
+      "id": "ac34b823796d420ed6a6",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "2026年第三季度中国货币政策执行报告",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111116292271519/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111116292271519/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-11-11T08:29:22.000Z",
+      "date": "2026-11-11",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 57
     }
   ]
 }
