@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-13",
-  "generatedAt": "2026-11-14T02:19:12.287Z",
-  "targetDate": "2026-11-13",
+  "updated": "2026-11-14",
+  "generatedAt": "2026-11-15T01:49:43.113Z",
+  "targetDate": "2026-11-14",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "source": {
@@ -14,184 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "se0y4v3gihr6s0jmrc5vuv1zo",
-      "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
-      "originalTitle": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-      "summary": "Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。",
-      "source": "AI HOT · AI 摘要 · Latent Space（RSS）",
-      "url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
-      "originalUrl": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-      "aihotUrl": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+      "id": "kq4awkrys4uz37b7gsvj5r1dj",
+      "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
+      "originalTitle": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress 更保守，短期难延续他每年数十亿美元、今年已参与 105 轮的投资节奏。",
+      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
+      "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
+      "originalUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "aihotUrl": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 94,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T09:04:13.000Z",
-      "discoveredAt": "2026-11-13T09:34:22.345Z"
+      "score": 88,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "discoveredAt": "2026-11-13T22:47:30.382Z"
     },
     {
-      "id": "t86m3q7vdlqmvm2zmx91vps5a",
-      "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
-      "originalTitle": "黄仁勋辞职始末。",
-      "summary": "英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
-      "originalUrl": "https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg",
-      "aihotUrl": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 92,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T23:56:00.000Z",
-      "discoveredAt": "2026-11-13T00:01:30.605Z"
-    },
-    {
-      "id": "n73ab4h9gqlu6ucv69ynzxln4",
-      "title": "SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司结构与出口管制走向",
-      "originalTitle": "Nvidia and the World Without Jensen",
-      "summary": "SemiAnalysis 长文分析黄仁勋辞任 Nvidia CEO 后的连锁影响，作者推测其去职与 GPU 走私及美国推动 RASA 出口管制立法有关。文中指出公司约 60 名直管高管的扁平结构依赖黄本人，继任者 Colette Kress 为临时 CEO，Ian Buck 与 Jonah Alben 被视为技术侧人选但无人能全面接替。",
-      "source": "AI HOT · AI 摘要 · SemiAnalysis 长文 RSS（RSS）",
-      "url": "https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4",
-      "originalUrl": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-      "aihotUrl": "https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 89,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T18:06:26.000Z",
-      "discoveredAt": "2026-11-12T18:12:32.284Z"
-    },
-    {
-      "id": "licdk6vosezxouovor3gvtcpe",
-      "title": "The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云",
-      "originalTitle": "The Jensen Huang scandal is hardly over",
-      "summary": "The Verge 作者 Elizabeth Lopatto 分析 Nvidia 宣布黄仁勋辞职一事，认为第二桩婚外情只是导火索，真正原因或与芯片走私指控有关。",
+      "id": "gslfz6uqr2sqy68cgv38i4tf0",
+      "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
+      "originalTitle": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。",
       "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
-      "url": "https://aihot.news/items/licdk6vosezxouovor3gvtcpe",
-      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "aihotUrl": "https://aihot.news/items/licdk6vosezxouovor3gvtcpe",
+      "url": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
+      "originalUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "aihotUrl": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 86,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T17:44:33.000Z",
-      "discoveredAt": "2026-11-12T17:45:43.333Z"
+      "score": 84,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "discoveredAt": "2026-11-14T12:54:30.614Z"
     },
     {
-      "id": "cfh0nazzl7eedgttz8n99fza4",
-      "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-      "originalTitle": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。",
-      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
-      "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-      "originalUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "aihotUrl": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 82,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T22:42:51.000Z",
-      "discoveredAt": "2026-11-12T23:06:45.945Z"
-    },
-    {
-      "id": "v26fsdyhbktgyuedmrx25p58y",
-      "title": "Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道",
-      "originalTitle": "Now rolling out for:",
-      "summary": "Google DeepMind 宣布开始向各渠道推送：开发者可在 Google AI Studio、Android Studio 中用 Gemini API，付费 Google AI Pro 和 Ultra 订阅者可在 Google Antigravity 中使用；企业可通过 Gemini for business 和 Google Antigravity 部署；所有用户可在 Google Search 和 Gemini 应用模型下拉菜单中访问。详情见 https://goo.gle/4zDCs8N。",
-      "source": "AI HOT · AI 摘要 · X：Google DeepMind (@GoogleDeepMind)",
-      "url": "https://aihot.news/items/v26fsdyhbktgyuedmrx25p58y",
-      "originalUrl": "https://x.com/GoogleDeepMind/status/2120940342505566438",
-      "aihotUrl": "https://aihot.news/items/v26fsdyhbktgyuedmrx25p58y",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 82,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T18:02:37.000Z",
-      "discoveredAt": "2026-11-12T18:12:32.310Z"
-    },
-    {
-      "id": "uy1ayrrlqx1snqsv4lub7whsa",
-      "title": "Google DeepMind 发布 Gemini 4 Hydrogen",
-      "originalTitle": "Introducing Gemini 4 Hydrogen",
-      "summary": "Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。",
-      "source": "AI HOT · AI 摘要 · Google DeepMind：Blog（RSS）",
-      "url": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-      "originalUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "aihotUrl": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 82,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T18:00:50.000Z",
-      "discoveredAt": "2026-11-12T18:03:46.703Z"
-    },
-    {
-      "id": "toq4wymx9maq8lhhz8jryi0sv",
-      "title": "黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析",
-      "originalTitle": "🔥 Jensen Huang and the future of the AI boom",
-      "summary": "Azeem Azhar 分析黄仁勋辞任 Nvidia CEO 后的影响，CFO Colette Kress 将临时接任。他指出 Nvidia 五年间售出近 1400 万颗旗舰 AI 芯片、占市场 85%，并向 neocloud 提供财务担保、过去一年在欧洲投资近 100 亿美元；与乔布斯离任时不同，公司没有准备好的继任者，而黄仁勋本人一直是 AI 生态的关键纽带。",
-      "source": "AI HOT · AI 摘要 · Azeem Azhar：Exponential View（RSS）",
-      "url": "https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv",
-      "originalUrl": "https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the",
-      "aihotUrl": "https://aihot.news/items/toq4wymx9maq8lhhz8jryi0sv",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 82,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T16:19:28.000Z",
-      "discoveredAt": "2026-11-12T16:48:46.314Z"
-    },
-    {
-      "id": "pdhda5tufq7ubi8w17bys7w66",
-      "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
-      "originalTitle": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "summary": "Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。",
-      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
-      "url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
-      "originalUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "aihotUrl": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 81,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-13T12:52:19.000Z",
-      "discoveredAt": "2026-11-13T13:38:20.874Z"
-    },
-    {
-      "id": "k1kga19xtdab67lhplor8he8n",
-      "title": "Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋",
-      "originalTitle": "Apple 1985 (Steve Jobs), Atari 1978 (Nolan Bushnell), Uber 2017 (Travis Kalanick), OpenAI 2023 (Sam Altman).",
-      "summary": "Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。",
+      "id": "dl9ehywczofu8vp5sj62s6j4n",
+      "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+      "originalTitle": "FT: Speaking with Jamie Dimon at a JPMorgan event in New York, Dario Amodei shrugged off market turmoil during Anthropic's roadshow.",
+      "summary": "Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic IPO 路演期间的市场动荡不以为意，称对上市时机和市场状况不太在意。",
       "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://aihot.news/items/k1kga19xtdab67lhplor8he8n",
-      "originalUrl": "https://x.com/rohanpaul_ai/status/2120994977421705296",
-      "aihotUrl": "https://aihot.news/items/k1kga19xtdab67lhplor8he8n",
+      "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2121387496722329833",
+      "aihotUrl": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
       "tags": [
         "行业"
       ],
       "category": "industry",
+      "score": 84,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T23:39:27.000Z",
+      "discoveredAt": "2026-11-13T23:46:33.833Z"
+    },
+    {
+      "id": "s59xfwl0atld8vs7xq0pdx6hw",
+      "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+      "originalTitle": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+      "summary": "The Decoder 援引 WSJ 报道分析称，黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活传闻。Nvidia 在其主导下向 AI 云厂商和数据中心开发商提供数十亿美元财务担保以换取营收分成，最大一笔涉及对 OpenAI 俄亥俄数据中心的 2500 亿美元担保，消息公布后股价跌 5%，临时 CEO Colette Kress 将该承诺减半。",
+      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
+      "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+      "originalUrl": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+      "aihotUrl": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 84,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T20:07:34.000Z",
+      "discoveredAt": "2026-11-13T20:10:32.101Z"
+    },
+    {
+      "id": "p1mfh9oe0xbq4evyru5pp1ikt",
+      "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+      "originalTitle": "Nvidia Crises, Anthropic IPO & Off-the-Charts Demand Have the AI World in a Tizzy",
+      "summary": "Newcomer 在旧金山 Cerebral Valley AI Summit 现场报道：Jensen Huang 因第二段婚外情披露辞职，Reuters 当天报道存在第三段，与会者多认为 Nvidia 短期无碍但生态承压，Databricks CEO 称其对整个生态是打击。",
+      "source": "AI HOT · AI 摘要 · Newcomer 新闻长文（RSS）",
+      "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+      "originalUrl": "https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off",
+      "aihotUrl": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 84,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T19:27:39.000Z",
+      "discoveredAt": "2026-11-13T20:25:31.310Z"
+    },
+    {
+      "id": "vsfne926njom5wnadceo8r04m",
+      "title": "Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明",
+      "originalTitle": "Streaming live at 12 PM ET: A fireside chat with JPMorgan CEO Jamie Dimon and @DarioAmodei. https://www.youtube.com/live/YHEaEpeY3ew",
+      "summary": "Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。",
+      "source": "AI HOT · AI 摘要 · X：Anthropic (@AnthropicAI)",
+      "url": "https://aihot.news/items/vsfne926njom5wnadceo8r04m",
+      "originalUrl": "https://x.com/AnthropicAI/status/2121272083863011714",
+      "aihotUrl": "https://aihot.news/items/vsfne926njom5wnadceo8r04m",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 84,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T16:00:50.000Z",
+      "discoveredAt": "2026-11-13T16:19:27.821Z"
+    },
+    {
+      "id": "np6dwfqwflqe7vfse9kkfxj1n",
+      "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+      "originalTitle": "Open-source AI without Jensen",
+      "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
+      "source": "AI HOT · AI 摘要 · Nathan Lambert：Interconnects（RSS）",
+      "url": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
+      "originalUrl": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "aihotUrl": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
+      "tags": [
+        "opinion"
+      ],
+      "category": "opinion",
       "score": 80,
-      "date": "2026-11-13",
-      "publishedAt": "2026-11-12T21:39:43.000Z",
-      "discoveredAt": "2026-11-12T22:00:51.089Z"
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T12:23:15.000Z",
+      "discoveredAt": "2026-11-14T12:41:32.774Z"
+    },
+    {
+      "id": "kei20gkia8a0vhknc859jsfqr",
+      "title": "NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造",
+      "originalTitle": "so much drama around Jensen Huang and Nvidia board.",
+      "summary": "Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。",
+      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2121354165352096179",
+      "aihotUrl": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 78,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T21:27:00.000Z",
+      "discoveredAt": "2026-11-13T21:43:26.432Z"
+    },
+    {
+      "id": "xzt8t0xkgj3mm17k11s2yo3d4",
+      "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
+      "originalTitle": "Fed releases financial stability report",
+      "summary": "美联储发布金融稳定报告，纽约联储调查显示87%的市场人士将AI列为首要金融风险，高于春季的50%。报告称对超级智能的市场热情推高股票估值；截至10月AI基础设施债务超6800亿美元，约为2023年全年的5倍、占投资级公司借贷约31%；最大银行对大型科技、数据中心建设及融资工具的风险敞口接近1万亿美元。",
+      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2121391185499660332",
+      "aihotUrl": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 77,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T23:54:06.000Z",
+      "discoveredAt": "2026-11-14T00:17:33.256Z"
+    },
+    {
+      "id": "q92ir58jcjtp3g9fn11jlb6ei",
+      "title": "研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练",
+      "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。",
+      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
+      "url": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei",
+      "originalUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "aihotUrl": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 76,
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "discoveredAt": "2026-11-13T18:59:29.367Z"
     }
   ]
 }
