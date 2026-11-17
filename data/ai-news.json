@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-15",
-  "generatedAt": "2026-11-16T01:56:25.918Z",
-  "targetDate": "2026-11-15",
+  "updated": "2026-11-16",
+  "generatedAt": "2026-11-17T04:26:38.063Z",
+  "targetDate": "2026-11-16",
   "timezone": "Asia/Shanghai",
-  "itemCount": 3,
+  "itemCount": 10,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,58 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "umoosrbjhi12kj7lv51qan4ju",
-      "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-      "originalTitle": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。",
+      "id": "rk143d9qa0j9gp3fdti162fy7",
+      "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+      "originalTitle": null,
+      "summary": "英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。",
+      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
+      "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "aihotUrl": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 88,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "discoveredAt": "2026-11-16T13:31:22.162Z"
+    },
+    {
+      "id": "n3qi466u1gbxj2i8q7g5snhr0",
+      "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+      "originalTitle": "Gemini 4 Carbon, Hydrogen, Decisions API, self-hosted agent sandboxes and more",
+      "summary": "Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。",
+      "source": "AI HOT · AI 摘要 · X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "url": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+      "originalUrl": "https://x.com/_philschmid/status/2122358498461691913",
+      "aihotUrl": "https://aihot.news/items/n3qi466u1gbxj2i8q7g5snhr0",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 83,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T15:57:52.000Z",
+      "discoveredAt": "2026-11-16T16:04:43.494Z"
+    },
+    {
+      "id": "kzt8bjcin243qefkuiq49c2i6",
+      "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
+      "originalTitle": "Qwen4-Max by @Alibaba_Qwen is the #1 Chinese model on the leaderboard making Alibaba now the #1 Chinese lab and #5 lab overall, just behi...",
+      "summary": "Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。",
+      "source": "AI HOT · AI 摘要 · X：Arena (@arena)",
+      "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
+      "originalUrl": "https://x.com/arena/status/2122153116959482051",
+      "aihotUrl": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 82,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T02:21:45.000Z",
+      "discoveredAt": "2026-11-16T02:58:51.746Z"
+    },
+    {
+      "id": "x6msqkehvwzry0904un629cqg",
+      "title": "美国收紧 AI 芯片出口管制，限制中国企业远程获取算力",
+      "originalTitle": null,
+      "summary": "美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。",
       "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
-      "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-      "originalUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "aihotUrl": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+      "url": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+      "originalUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "aihotUrl": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 84,
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T21:41:22.000Z",
-      "discoveredAt": "2026-11-14T22:23:25.961Z"
+      "score": 81,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T15:02:34.000Z",
+      "discoveredAt": "2026-11-16T15:22:25.070Z"
     },
     {
-      "id": "vl3jnosrbdn6i5j2we400046i",
-      "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-      "originalTitle": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "summary": "Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-      "originalUrl": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "aihotUrl": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
+      "id": "nqcfrkilrh7nhnpd03t9q1zfh",
+      "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+      "originalTitle": null,
+      "summary": "Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。",
+      "source": "AI HOT · AI 摘要 · Qwen：Blog Retrieval（API）",
+      "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
+      "originalUrl": "https://qwen.ai/blog?id=qwen4-max",
+      "aihotUrl": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 80,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T02:00:00.000Z",
+      "discoveredAt": "2026-11-16T02:14:46.238Z"
+    },
+    {
+      "id": "jy89axg8rd82ugct5uwh5psaq",
+      "title": "Claude Code 团队如何设计 Agent 验证与测试流程",
+      "originalTitle": "How the Claude Code team thinks about verification",
+      "summary": "Anthropic Claude Code 团队分享其验证方法论，团队约 90% 的代码由 Claude 编写和审查，验证循环让并行运行数十上百个 Claude 成为可能。",
+      "source": "AI HOT · AI 摘要 · Anthropic：Claude.dev 开发者博客（RSS）",
+      "url": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq",
+      "originalUrl": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "aihotUrl": "https://aihot.news/items/jy89axg8rd82ugct5uwh5psaq",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 77,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "discoveredAt": "2026-11-16T21:13:33.616Z"
+    },
+    {
+      "id": "leb3cw7nrt06nvf0ew7rkiqf7",
+      "title": "IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元",
+      "originalTitle": "国际货币基金组织总裁警告：全球经济过度依赖 AI，相关循环融资规模超 1 万亿美元",
+      "summary": "IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。",
+      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
+      "url": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+      "originalUrl": "https://www.ithome.com/1/027/861.htm",
+      "aihotUrl": "https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7",
+      "tags": [
+        "opinion"
+      ],
+      "category": "opinion",
+      "score": 77,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T09:32:58.050Z",
+      "discoveredAt": "2026-11-16T10:14:09.053Z"
+    },
+    {
+      "id": "v9a6479l3xc0c2m5xsd9bzo9o",
+      "title": "Hugging Face Inference Providers 语言模型路由切换为 OpenRouter",
+      "originalTitle": null,
+      "summary": "Hugging Face 与 OpenRouter 合作，将语言模型的 Inference Providers 从自有路由切换到 OpenRouter，按实时价格、速度和可靠性为每次请求挑选最佳 provider，失败时自动重试到其他 provider，代码无需更改。",
+      "source": "AI HOT · AI 摘要 · Hugging Face 官方团队博客",
+      "url": "https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o",
+      "originalUrl": "https://huggingface.co/blog/openrouter",
+      "aihotUrl": "https://aihot.news/items/v9a6479l3xc0c2m5xsd9bzo9o",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 78,
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T19:05:17.000Z",
-      "discoveredAt": "2026-11-14T19:29:14.588Z"
+      "score": 75,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T00:00:00.771Z",
+      "discoveredAt": "2026-11-16T17:11:14.724Z"
     },
     {
-      "id": "txbnasfrp3d0w6wqmor5rp8fk",
-      "title": "Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用",
-      "originalTitle": "Apple launches research study to explore the use of AI for health",
-      "summary": "Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。",
-      "source": "AI HOT · AI 摘要 · Apple：Newsroom（RSS）",
-      "url": "https://aihot.news/items/txbnasfrp3d0w6wqmor5rp8fk",
-      "originalUrl": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-      "aihotUrl": "https://aihot.news/items/txbnasfrp3d0w6wqmor5rp8fk",
+      "id": "u36vxmxeopbsx4if4lap30899",
+      "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
+      "originalTitle": null,
+      "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
+      "source": "AI HOT · AI 摘要 · 腾讯混元：Research（API）",
+      "url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
+      "originalUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+      "aihotUrl": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
       "tags": [
-        "论文"
+        "AI 模型"
       ],
-      "category": "paper",
-      "score": 61,
-      "date": "2026-11-15",
-      "publishedAt": "2026-11-14T16:00:00.000Z",
-      "discoveredAt": "2026-11-16T01:43:47.434Z"
+      "category": "ai-models",
+      "score": 73,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T04:29:37.000Z",
+      "discoveredAt": "2026-11-16T05:27:46.472Z"
+    },
+    {
+      "id": "r9e7azie93xzxxdf6yyd1jmqe",
+      "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
+      "originalTitle": "+9 points over Qwen3.8-Max with lower costs. Give it a try! @ArtificialAnlys",
+      "summary": "通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。每任务成本 $3.27，约为 Qwen3.8 Max 的三分之一，输出 token 用量减少 39%；上下文窗口 1M tokens，定价 $1.50/$4.50 per 1M input/output tokens，已在阿里第一方 API 开放。",
+      "source": "AI HOT · AI 摘要 · X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
+      "originalUrl": "https://x.com/Alibaba_Qwen/status/2122174463479542126",
+      "aihotUrl": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 73,
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T03:46:34.000Z",
+      "discoveredAt": "2026-11-16T03:59:49.196Z"
     }
   ]
 }
