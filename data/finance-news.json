@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-11-20",
-  "generatedAt": "2026-11-21T03:09:39.953Z",
-  "targetDate": "2026-11-20",
+  "updated": "2026-11-21",
+  "generatedAt": "2026-11-22T02:08:26.785Z",
+  "targetDate": "2026-11-21",
   "timezone": "Asia/Shanghai",
-  "itemCount": 3,
+  "itemCount": 1,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 1,
-      "message": ""
+      "itemCount": 0,
+      "message": "目标日期没有符合金融筛选条件的条目"
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 2,
+      "itemCount": 1,
       "message": ""
     },
     {
@@ -43,70 +43,26 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "cad63907a2864dda9c1a",
+      "id": "ed0f6a9eeb61694b2447",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行公告﹝2026﹞第29号",
+      "title": "中国人民银行召开党的二十届五中全会精神宣讲报告会",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112014315654038/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112109473354413/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112014315654038/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112109473354413/index.html",
       "urlType": "article",
-      "publishedAt": "2026-11-20T06:31:56.000Z",
-      "date": "2026-11-20",
+      "publishedAt": "2026-11-21T01:47:33.000Z",
+      "date": "2026-11-21",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 52
-    },
-    {
-      "id": "7d13db8681a1425732ab",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "2026年10月金融市场运行情况",
-      "summary": null,
-      "source": "中国人民银行",
-      "sources": [
-        {
-          "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112015225760018/index.html",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112015225760018/index.html",
-      "urlType": "article",
-      "publishedAt": "2026-11-20T07:22:57.000Z",
-      "date": "2026-11-20",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
-    },
-    {
-      "id": "9dabddaf34ad8218cee2",
-      "category": "policy_regulation",
-      "categoryLabel": "政策与监管",
-      "title": "证券监管部门联合公安机关依法处罚编造传播资本市场虚假信息行为 公布4起典型案例",
-      "summary": "今年以来，证券监管部门联合公安机关查办多个编造传播资本市场虚假信息的违法违规行为，依法处罚有关责任人",
-      "source": "中国证监会",
-      "sources": [
-        {
-          "name": "中国证监会",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7671953/content.shtml",
-          "urlType": "article"
-        }
-      ],
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7671953/content.shtml",
-      "urlType": "article",
-      "publishedAt": "2026-11-20T07:14:34.000Z",
-      "date": "2026-11-20",
-      "verification": "official",
-      "whySelected": "来自官方机构、监管部门或交易所公开信息",
-      "score": 47
     }
   ]
 }
