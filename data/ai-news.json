@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-21",
-  "generatedAt": "2026-11-22T02:08:18.685Z",
-  "targetDate": "2026-11-21",
+  "updated": "2026-11-22",
+  "generatedAt": "2026-11-23T02:37:57.469Z",
+  "targetDate": "2026-11-22",
   "timezone": "Asia/Shanghai",
-  "itemCount": 8,
+  "itemCount": 6,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,148 +14,112 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "tje8i8y21ttk7jjmqet5bpxuq",
-      "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
-      "originalTitle": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-      "summary": "Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。",
+      "id": "ikpixx0j7414se1f6lww2csek",
+      "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
+      "originalTitle": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
       "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-      "originalUrl": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-      "aihotUrl": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 82,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T11:19:49.000Z",
-      "discoveredAt": "2026-11-21T11:42:40.360Z"
-    },
-    {
-      "id": "agm7klro03kcu9weuix1bt4su",
-      "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
-      "originalTitle": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "summary": "研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。",
-      "source": "AI HOT · AI 摘要 · Ars Technica：AI（RSS）",
-      "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
-      "originalUrl": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "aihotUrl": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
-      "tags": [
-        "论文"
-      ],
-      "category": "paper",
-      "score": 78,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-20T20:59:08.000Z",
-      "discoveredAt": "2026-11-20T22:07:39.938Z"
-    },
-    {
-      "id": "xqe6lbb5zsjp9xbsc1o912cs0",
-      "title": "Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件",
-      "originalTitle": "Security event: Prompt leakage for requests in June and July of 2026",
-      "summary": "Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。",
-      "source": "AI HOT · AI 摘要 · Together AI 研究与产品博客（RSS）",
-      "url": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",
-      "originalUrl": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "aihotUrl": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",
+      "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+      "originalUrl": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "aihotUrl": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 74,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T00:00:00.000Z",
-      "discoveredAt": "2026-11-21T23:46:18.013Z"
+      "score": 85,
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T11:08:31.000Z",
+      "discoveredAt": "2026-11-22T12:05:36.859Z"
     },
     {
-      "id": "rlj39tzyujneo0u35iyrfb4uc",
-      "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
-      "originalTitle": "Qwen4 Max is live on Together AI",
-      "summary": "Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。",
-      "source": "AI HOT · AI 摘要 · Together AI 研究与产品博客（RSS）",
-      "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
-      "originalUrl": "https://www.together.ai/blog/qwen4-max",
-      "aihotUrl": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+      "id": "p9h5xzsooms0foxeakoivy7qt",
+      "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
+      "originalTitle": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
+      "summary": "2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。",
+      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
+      "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
+      "originalUrl": "https://www.ithome.com/1/030/677.htm",
+      "aihotUrl": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
       "tags": [
-        "AI 产品"
+        "opinion"
       ],
-      "category": "ai-products",
-      "score": 72,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-21T00:00:00.000Z",
-      "discoveredAt": "2026-11-21T21:44:17.465Z"
+      "category": "opinion",
+      "score": 85,
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T09:35:58.183Z",
+      "discoveredAt": "2026-11-22T10:15:34.662Z"
     },
     {
-      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
-      "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
-      "originalTitle": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-      "summary": "Anthropic 数学家 Levent Alpöge 在个人网站宣布与 Claude 合作证明了黎曼猜想，没有论文，只放出 14 个压缩包共 175187 个 Lean 文件、1737 万行代码。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-      "originalUrl": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
-      "aihotUrl": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
+      "id": "d32df9vzpliz9m348fug74inq",
+      "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+      "originalTitle": "New Columbia and MIT paper shows that an algorithm Claude found beats the long-standing speed limits for 3SUM and all-pairs shortest paths.",
+      "summary": "Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。",
+      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "originalUrl": "https://x.com/rohanpaul_ai/status/2124213113583174076",
+      "aihotUrl": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 72,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-20T16:54:55.000Z",
-      "discoveredAt": "2026-11-20T17:01:54.381Z"
+      "score": 77,
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-21T18:47:26.000Z",
+      "discoveredAt": "2026-11-21T18:49:23.280Z"
     },
     {
-      "id": "rhln87mprozseglkairsway74",
-      "title": "Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染",
-      "originalTitle": "Native 8K. Stunning realism. Consistent image sets. Advanced text rendering.",
-      "summary": "Kling AI 发布 Kling Image 4.0，主打原生 8K、更强真实感、一致图像组和高级文字渲染。引用 Artificial Analysis 的评测显示其在文生图排名第 7、图像编辑排名第 6，较 Kling Image 3.0 Omni 两个榜单均提升超 225 Elo。黑五限时定价 2K 低至 $0.022/图、原生 8K 低至 $0.033/图。",
-      "source": "AI HOT · AI 摘要 · X：可灵 Kling AI (@Kling_ai)",
-      "url": "https://aihot.news/items/rhln87mprozseglkairsway74",
-      "originalUrl": "https://x.com/Kling_ai/status/2123818893122662485",
-      "aihotUrl": "https://aihot.news/items/rhln87mprozseglkairsway74",
+      "id": "g3vdho0vzm8rzriiz5grruy3m",
+      "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
+      "originalTitle": "Thanks for the detailed hands-on review! 💙 Great to see MiniCPM5-2B being used in a local-first workflow. We really appreciate you shari...",
+      "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
+      "source": "AI HOT · AI 摘要 · X：面壁智能 OpenBMB (@OpenBMB)",
+      "url": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
+      "originalUrl": "https://x.com/OpenBMB/status/2124461770043785636",
+      "aihotUrl": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
       "tags": [
-        "AI 模型"
+        "opinion"
       ],
-      "category": "ai-models",
-      "score": 69,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-20T16:40:57.000Z",
-      "discoveredAt": "2026-11-20T16:55:47.276Z"
+      "category": "opinion",
+      "score": 71,
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T11:15:31.000Z",
+      "discoveredAt": "2026-11-22T21:06:44.543Z"
     },
     {
-      "id": "ekf0so0xitc52thkrxx3mwax1",
-      "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-      "originalTitle": "In the ChatGPT sidebar, Space is the new home for pages, slides, images, files, and uploads.",
-      "summary": "ChatGPT 官方宣布侧边栏中的 Space 成为 pages、slides、images、files 和 uploads 的新家。用 ChatGPT 可写页面、做研究、生成图片并创建交互式图表，把想法变成带图片和图形的幻灯片并邀请他人协作；页面和幻灯片还可从已连接的工具自动更新。",
-      "source": "AI HOT · AI 摘要 · X：ChatGPT (@ChatGPT)",
-      "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-      "originalUrl": "https://x.com/ChatGPT/status/2123850915061104735",
-      "aihotUrl": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
+      "id": "dr26culfdd1cb21w56i8iruts",
+      "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
+      "originalTitle": "Exactly! 💙 The real impact of small models comes from making AI accessible, affordable, and useful in everyday life. Excited to see more...",
+      "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
+      "source": "AI HOT · AI 摘要 · X：面壁智能 OpenBMB (@OpenBMB)",
+      "url": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
+      "originalUrl": "https://x.com/OpenBMB/status/2124464239670964531",
+      "aihotUrl": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
       "tags": [
-        "AI 产品"
+        "行业"
       ],
-      "category": "ai-products",
+      "category": "industry",
       "score": 65,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-20T18:48:12.000Z",
-      "discoveredAt": "2026-11-20T19:18:44.286Z"
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T11:25:20.000Z",
+      "discoveredAt": "2026-11-22T21:06:44.519Z"
     },
     {
-      "id": "w612ivonntodntv1ydkt2lqwh",
-      "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
-      "originalTitle": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
-      "summary": "Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。",
-      "source": "AI HOT · AI 摘要 · Figma AI / Agent / Make",
-      "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
-      "originalUrl": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
-      "aihotUrl": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+      "id": "r7kb35fpdwc1m2iqsmd310tdj",
+      "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
+      "originalTitle": "Perplexity and Intelligence",
+      "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
+      "originalUrl": "https://openai.com/index/perplexity-and-intelligence",
+      "aihotUrl": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
       "tags": [
-        "技巧"
+        "opinion"
       ],
-      "category": "tip",
-      "score": 61,
-      "date": "2026-11-21",
-      "publishedAt": "2026-11-20T22:17:00.000Z",
-      "discoveredAt": "2026-11-20T22:13:25.110Z"
+      "category": "opinion",
+      "score": 63,
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "discoveredAt": "2026-11-22T18:47:36.497Z"
     }
   ]
 }
