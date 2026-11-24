@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-22",
-  "generatedAt": "2026-11-23T02:37:57.469Z",
-  "targetDate": "2026-11-22",
+  "updated": "2026-11-23",
+  "generatedAt": "2026-11-24T05:57:07.007Z",
+  "targetDate": "2026-11-23",
   "timezone": "Asia/Shanghai",
-  "itemCount": 6,
+  "itemCount": 10,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com/agent",
@@ -14,112 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "ikpixx0j7414se1f6lww2csek",
-      "title": "Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确",
-      "originalTitle": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
-      "summary": "Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。",
-      "source": "AI HOT · AI 摘要 · The Decoder：AI News（RSS）",
-      "url": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
-      "originalUrl": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
-      "aihotUrl": "https://aihot.news/items/ikpixx0j7414se1f6lww2csek",
+      "id": "ajcxs84uezjqgsgxpdtr31o0l",
+      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+      "originalTitle": "Jensen Huang is now back!",
+      "summary": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。",
+      "source": "AI HOT · AI 摘要 · X：X.PIN (@thexpin)",
+      "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+      "originalUrl": "https://x.com/thexpin/status/2124866686025400819",
+      "aihotUrl": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 85,
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-22T11:08:31.000Z",
-      "discoveredAt": "2026-11-22T12:05:36.859Z"
+      "score": 90,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T14:04:30.000Z",
+      "discoveredAt": "2026-11-23T15:00:22.804Z"
     },
     {
-      "id": "p9h5xzsooms0foxeakoivy7qt",
-      "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
-      "originalTitle": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
-      "summary": "2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。",
-      "source": "AI HOT · AI 摘要 · IT之家·人工智能",
-      "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-      "originalUrl": "https://www.ithome.com/1/030/677.htm",
-      "aihotUrl": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
+      "id": "uop2ab4998l6dxugsgtg7w7rn",
+      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+      "originalTitle": null,
+      "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
+      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
+      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "originalUrl": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "aihotUrl": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
       "tags": [
-        "opinion"
+        "行业"
       ],
-      "category": "opinion",
-      "score": 85,
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-22T09:35:58.183Z",
-      "discoveredAt": "2026-11-22T10:15:34.662Z"
+      "category": "industry",
+      "score": 83,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T15:04:01.000Z",
+      "discoveredAt": "2026-11-23T15:34:16.569Z"
     },
     {
-      "id": "d32df9vzpliz9m348fug74inq",
-      "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
-      "originalTitle": "New Columbia and MIT paper shows that an algorithm Claude found beats the long-standing speed limits for 3SUM and all-pairs shortest paths.",
-      "summary": "Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。",
-      "source": "AI HOT · AI 摘要 · X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
-      "originalUrl": "https://x.com/rohanpaul_ai/status/2124213113583174076",
-      "aihotUrl": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "id": "zb8hu8pp2ogojk5081g7z4en7",
+      "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+      "originalTitle": null,
+      "summary": "404 Media 报道，开源框架 ARTEX 让 AI 智能体以机器速度自动完成从侦察到窃取数据的整个入侵流程，FBI 称攻击者用它针对全球政府、医疗、电信、金融、半导体等行业，数小时内即可完成一次完整攻击。原作者 Autumn-27 已于 10 月将其从 GitHub 下架并转为闭源，但多个克隆版本仍在传播，有维护者表示不会删除仓库，理由是代码已被到处复制。",
+      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
+      "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+      "originalUrl": "https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/",
+      "aihotUrl": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 83,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T14:16:47.000Z",
+      "discoveredAt": "2026-11-23T14:17:19.963Z"
+    },
+    {
+      "id": "dus34samsjrld1qopq65v54uq",
+      "title": "Anthropic IPO 前三家机构如何重注押注",
+      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。",
+      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
+      "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+      "originalUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "aihotUrl": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 83,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "discoveredAt": "2026-11-23T01:34:41.935Z"
+    },
+    {
+      "id": "d4hhqnlmrclsx7d6idtvq95wz",
+      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+      "originalTitle": "GLM-5.4：瞄向泛Coding，首个Loop Transformer带来的惊喜",
+      "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
+      "source": "AI HOT · AI 摘要 · 公众号：智谱（GLM）",
+      "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+      "originalUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
+      "aihotUrl": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 76,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T09:42:11.000Z",
+      "discoveredAt": "2026-11-23T09:51:49.800Z"
+    },
+    {
+      "id": "gj8mzwrgqlkvim6xe382a35q2",
+      "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
+      "originalTitle": "Working with AI",
+      "summary": "Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。",
+      "source": "AI HOT · AI 摘要 · Anthropic：Research（发表成果 · 网页）",
+      "url": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
+      "originalUrl": "https://www.anthropic.com/research/working-with-ai",
+      "aihotUrl": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 77,
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-21T18:47:26.000Z",
-      "discoveredAt": "2026-11-21T18:49:23.280Z"
+      "score": 75,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T16:00:00.000Z",
+      "discoveredAt": "2026-11-23T21:12:17.546Z"
     },
     {
-      "id": "g3vdho0vzm8rzriiz5grruy3m",
-      "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
-      "originalTitle": "Thanks for the detailed hands-on review! 💙 Great to see MiniCPM5-2B being used in a local-first workflow. We really appreciate you shari...",
-      "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
-      "source": "AI HOT · AI 摘要 · X：面壁智能 OpenBMB (@OpenBMB)",
-      "url": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
-      "originalUrl": "https://x.com/OpenBMB/status/2124461770043785636",
-      "aihotUrl": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
+      "id": "qkxvs90ewfu3k430sdefndv56",
+      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+      "originalTitle": null,
+      "summary": "a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。",
+      "source": "AI HOT · AI 摘要 · a16z：News（RSS）",
+      "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+      "originalUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
+      "aihotUrl": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
       "tags": [
-        "opinion"
+        "技巧"
       ],
-      "category": "opinion",
-      "score": 71,
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-22T11:15:31.000Z",
-      "discoveredAt": "2026-11-22T21:06:44.543Z"
+      "category": "tip",
+      "score": 74,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T15:04:27.000Z",
+      "discoveredAt": "2026-11-23T15:38:21.595Z"
     },
     {
-      "id": "dr26culfdd1cb21w56i8iruts",
-      "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
-      "originalTitle": "Exactly! 💙 The real impact of small models comes from making AI accessible, affordable, and useful in everyday life. Excited to see more...",
-      "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
-      "source": "AI HOT · AI 摘要 · X：面壁智能 OpenBMB (@OpenBMB)",
-      "url": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
-      "originalUrl": "https://x.com/OpenBMB/status/2124464239670964531",
-      "aihotUrl": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
+      "id": "t7jlbaldqf2zcliuva1sofoks",
+      "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
+      "originalTitle": "Introducing Claude Ship",
+      "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
+      "source": "AI HOT · AI 摘要 · Claude：Blog（网页）",
+      "url": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+      "originalUrl": "https://claude.com/blog/introducing-claude-ship",
+      "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 73,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "discoveredAt": "2026-11-23T20:45:17.557Z"
+    },
+    {
+      "id": "hz782dpcwhurj6584rtd13eaf",
+      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
+      "originalTitle": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
+      "summary": "自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。",
+      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
+      "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
+      "originalUrl": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
+      "aihotUrl": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
+      "tags": [
+        "技巧"
+      ],
+      "category": "tip",
+      "score": 72,
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-22T23:56:00.000Z",
+      "discoveredAt": "2026-11-23T00:01:56.075Z"
+    },
+    {
+      "id": "gp8e9a8oitha0rbip8pzntuff",
+      "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
+      "originalTitle": "Agentic Attacks: In The Wild",
+      "summary": "Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。",
+      "source": "AI HOT · AI 摘要 · Wiz：Research（安全研究）",
+      "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+      "originalUrl": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
+      "aihotUrl": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 65,
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-22T11:25:20.000Z",
-      "discoveredAt": "2026-11-22T21:06:44.519Z"
-    },
-    {
-      "id": "r7kb35fpdwc1m2iqsmd310tdj",
-      "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
-      "originalTitle": "Perplexity and Intelligence",
-      "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
-      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "url": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
-      "originalUrl": "https://openai.com/index/perplexity-and-intelligence",
-      "aihotUrl": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
-      "tags": [
-        "opinion"
-      ],
-      "category": "opinion",
       "score": 63,
-      "date": "2026-11-22",
-      "publishedAt": "2026-11-22T00:00:00.000Z",
-      "discoveredAt": "2026-11-22T18:47:36.497Z"
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T14:46:19.000Z",
+      "discoveredAt": "2026-11-23T15:28:17.378Z"
     }
   ]
 }
