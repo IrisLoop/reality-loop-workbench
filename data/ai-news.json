@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-23",
-  "generatedAt": "2026-11-24T05:57:07.007Z",
-  "targetDate": "2026-11-23",
+  "updated": "2026-11-24",
+  "generatedAt": "2026-11-25T04:51:53.184Z",
+  "targetDate": "2026-11-24",
   "timezone": "Asia/Shanghai",
   "itemCount": 10,
   "source": {
@@ -14,184 +14,184 @@
   "disclaimer": "标题与摘要来自 AI HOT 聚合与 AI 处理。重要事实请以原始来源为准。",
   "items": [
     {
-      "id": "ajcxs84uezjqgsgxpdtr31o0l",
-      "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-      "originalTitle": "Jensen Huang is now back!",
-      "summary": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。",
-      "source": "AI HOT · AI 摘要 · X：X.PIN (@thexpin)",
-      "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "originalUrl": "https://x.com/thexpin/status/2124866686025400819",
-      "aihotUrl": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 90,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T14:04:30.000Z",
-      "discoveredAt": "2026-11-23T15:00:22.804Z"
-    },
-    {
-      "id": "uop2ab4998l6dxugsgtg7w7rn",
-      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+      "id": "zto0pspydy8330r0bvwqb6j5z",
+      "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
       "originalTitle": null,
-      "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
-      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
-      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "originalUrl": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "aihotUrl": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "summary": "ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。",
+      "source": "AI HOT · AI 摘要 · ChinaTalk（RSS）",
+      "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+      "originalUrl": "https://www.chinatalk.media/p/jensen-returns",
+      "aihotUrl": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 88,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T01:41:25.000Z",
+      "discoveredAt": "2026-11-24T01:48:25.505Z"
+    },
+    {
+      "id": "ygbhvp086wl672gfxuhfgl23x",
+      "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+      "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。",
+      "source": "AI HOT · AI 摘要 · Ars Technica：AI（RSS）",
+      "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+      "originalUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "aihotUrl": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
       "tags": [
         "行业"
       ],
       "category": "industry",
       "score": 83,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T15:04:01.000Z",
-      "discoveredAt": "2026-11-23T15:34:16.569Z"
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T12:30:05.000Z",
+      "discoveredAt": "2026-11-24T13:21:32.811Z"
     },
     {
-      "id": "zb8hu8pp2ogojk5081g7z4en7",
-      "title": "ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散",
+      "id": "yg04c9d5qnwzitqstg19c6ow2",
+      "title": "OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力",
       "originalTitle": null,
-      "summary": "404 Media 报道，开源框架 ARTEX 让 AI 智能体以机器速度自动完成从侦察到窃取数据的整个入侵流程，FBI 称攻击者用它针对全球政府、医疗、电信、金融、半导体等行业，数小时内即可完成一次完整攻击。原作者 Autumn-27 已于 10 月将其从 GitHub 下架并转为闭源，但多个克隆版本仍在传播，有维护者表示不会删除仓库，理由是代码已被到处复制。",
-      "source": "AI HOT · AI 摘要 · 404 Media（RSS）",
-      "url": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-      "originalUrl": "https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/",
-      "aihotUrl": "https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 83,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T14:16:47.000Z",
-      "discoveredAt": "2026-11-23T14:17:19.963Z"
-    },
-    {
-      "id": "dus34samsjrld1qopq65v54uq",
-      "title": "Anthropic IPO 前三家机构如何重注押注",
-      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "summary": "TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。",
-      "source": "AI HOT · AI 摘要 · TechCrunch：AI（RSS）",
-      "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
-      "originalUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "aihotUrl": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
-      "tags": [
-        "行业"
-      ],
-      "category": "industry",
-      "score": 83,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T01:25:53.000Z",
-      "discoveredAt": "2026-11-23T01:34:41.935Z"
-    },
-    {
-      "id": "d4hhqnlmrclsx7d6idtvq95wz",
-      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-      "originalTitle": "GLM-5.4：瞄向泛Coding，首个Loop Transformer带来的惊喜",
-      "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
-      "source": "AI HOT · AI 摘要 · 公众号：智谱（GLM）",
-      "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-      "originalUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
-      "aihotUrl": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-      "tags": [
-        "AI 模型"
-      ],
-      "category": "ai-models",
-      "score": 76,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T09:42:11.000Z",
-      "discoveredAt": "2026-11-23T09:51:49.800Z"
-    },
-    {
-      "id": "gj8mzwrgqlkvim6xe382a35q2",
-      "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
-      "originalTitle": "Working with AI",
-      "summary": "Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。",
-      "source": "AI HOT · AI 摘要 · Anthropic：Research（发表成果 · 网页）",
-      "url": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
-      "originalUrl": "https://www.anthropic.com/research/working-with-ai",
-      "aihotUrl": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
+      "summary": "OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。",
+      "source": "AI HOT · AI 摘要 · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
+      "originalUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "aihotUrl": "https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2",
       "tags": [
         "论文"
       ],
       "category": "paper",
-      "score": 75,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-22T16:00:00.000Z",
-      "discoveredAt": "2026-11-23T21:12:17.546Z"
+      "score": 82,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "discoveredAt": "2026-11-24T23:16:37.887Z"
     },
     {
-      "id": "qkxvs90ewfu3k430sdefndv56",
-      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+      "id": "yz5va6l60tfkmdampmsiz0jq2",
+      "title": "ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先",
       "originalTitle": null,
-      "summary": "a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。",
-      "source": "AI HOT · AI 摘要 · a16z：News（RSS）",
-      "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "originalUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
-      "aihotUrl": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 74,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T15:04:27.000Z",
-      "discoveredAt": "2026-11-23T15:38:21.595Z"
-    },
-    {
-      "id": "t7jlbaldqf2zcliuva1sofoks",
-      "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
-      "originalTitle": "Introducing Claude Ship",
-      "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
-      "source": "AI HOT · AI 摘要 · Claude：Blog（网页）",
-      "url": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-      "originalUrl": "https://claude.com/blog/introducing-claude-ship",
-      "aihotUrl": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-      "tags": [
-        "AI 产品"
-      ],
-      "category": "ai-products",
-      "score": 73,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T00:00:00.000Z",
-      "discoveredAt": "2026-11-23T20:45:17.557Z"
-    },
-    {
-      "id": "hz782dpcwhurj6584rtd13eaf",
-      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-      "originalTitle": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。",
-      "summary": "自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。",
-      "source": "AI HOT · AI 摘要 · 公众号：数字生命卡兹克",
-      "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-      "originalUrl": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
-      "aihotUrl": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-      "tags": [
-        "技巧"
-      ],
-      "category": "tip",
-      "score": 72,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-22T23:56:00.000Z",
-      "discoveredAt": "2026-11-23T00:01:56.075Z"
-    },
-    {
-      "id": "gp8e9a8oitha0rbip8pzntuff",
-      "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
-      "originalTitle": "Agentic Attacks: In The Wild",
-      "summary": "Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。",
-      "source": "AI HOT · AI 摘要 · Wiz：Research（安全研究）",
-      "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-      "originalUrl": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
-      "aihotUrl": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+      "summary": "作者分析美国 BIS 于11月16日发布、11月19日生效的租赁算力临时最终规则，该规则要求向境外数据中心供应芯片需申领许可，门槛约为760块 H100 等效算力，覆盖 Hopper 和 Blackwell 级芯片，并关闭 Foundry Due-Diligence 漏洞。作者基于自建测算模型给出规则执行率与延迟月数的量化区间，并梳理柔佛数据中心和执法风险等关键变量。",
+      "source": "AI HOT · AI 摘要 · ChinaTalk（RSS）",
+      "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+      "originalUrl": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow",
+      "aihotUrl": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
       "tags": [
         "行业"
       ],
       "category": "industry",
-      "score": 63,
-      "date": "2026-11-23",
-      "publishedAt": "2026-11-23T14:46:19.000Z",
-      "discoveredAt": "2026-11-23T15:28:17.378Z"
+      "score": 78,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T10:58:57.000Z",
+      "discoveredAt": "2026-11-24T11:57:35.116Z"
+    },
+    {
+      "id": "zcpto4b7qb8sr6v6n223kd2sx",
+      "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
+      "originalTitle": "Turn artifacts into Mac and Windows apps",
+      "summary": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。",
+      "source": "AI HOT · AI 摘要 · Claude：Blog（网页）",
+      "url": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+      "originalUrl": "https://claude.com/blog/install-as-app",
+      "aihotUrl": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 77,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "discoveredAt": "2026-11-24T20:04:21.715Z"
+    },
+    {
+      "id": "vlxrimiuixb91iodhjh5hxmte",
+      "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+      "originalTitle": null,
+      "summary": "俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。",
+      "source": "AI HOT · AI 摘要 · The Verge：AI（RSS）",
+      "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "aihotUrl": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+      "tags": [
+        "行业"
+      ],
+      "category": "industry",
+      "score": 77,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-23T18:26:47.000Z",
+      "discoveredAt": "2026-11-23T19:07:16.546Z"
+    },
+    {
+      "id": "kjd2qp2iuk9zxdfqj5qk2a8f9",
+      "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
+      "originalTitle": null,
+      "summary": "Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。",
+      "source": "AI HOT · AI 摘要 · Claude：Blog（网页）",
+      "url": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9",
+      "originalUrl": "https://claude.com/blog/skills-over-mcp-tasks-and-more",
+      "aihotUrl": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 72,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "discoveredAt": "2026-11-24T18:02:36.816Z"
+    },
+    {
+      "id": "h1vnjuwxsli7ku7rpocjlr3s2",
+      "title": "Claude 推出插件，统一连接器与技能的接入方式",
+      "originalTitle": "There’s now one way to connect your tools to Claude, teach it a new skill, or do both.",
+      "summary": "Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。插件已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将支持，用户可在 https://claude.ai/plugins 浏览 10,000 多个插件。",
+      "source": "AI HOT · AI 摘要 · X：Claude (@claudeai)",
+      "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+      "originalUrl": "https://x.com/claudeai/status/2124970294523945328",
+      "aihotUrl": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 70,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-23T20:56:12.000Z",
+      "discoveredAt": "2026-11-23T21:17:20.763Z"
+    },
+    {
+      "id": "f1380j6hyrxn0rnz6666nu3b8",
+      "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+      "originalTitle": null,
+      "summary": "MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。",
+      "source": "AI HOT · AI 摘要 · 公众号：MiniMax（稀宇科技）",
+      "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+      "originalUrl": "https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ",
+      "aihotUrl": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+      "tags": [
+        "AI 产品"
+      ],
+      "category": "ai-products",
+      "score": 69,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T02:11:36.000Z",
+      "discoveredAt": "2026-11-24T02:21:28.179Z"
+    },
+    {
+      "id": "gflb0kkwzma61spkzpp1uxmrk",
+      "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
+      "originalTitle": "Introducing SWE-2.1",
+      "summary": "Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。",
+      "source": "AI HOT · AI 摘要 · Cognition 模型 / Devin 博客（网页）",
+      "url": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
+      "originalUrl": "https://cognition.com/blog/swe-2-1",
+      "aihotUrl": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
+      "tags": [
+        "AI 模型"
+      ],
+      "category": "ai-models",
+      "score": 68,
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "discoveredAt": "2026-11-24T19:08:22.158Z"
     }
   ]
 }
