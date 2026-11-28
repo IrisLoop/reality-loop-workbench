@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "status": "partial",
-  "updated": "2026-11-21",
-  "generatedAt": "2026-11-22T02:08:26.785Z",
-  "targetDate": "2026-11-21",
+  "updated": "2026-11-27",
+  "generatedAt": "2026-11-28T03:51:16.546Z",
+  "targetDate": "2026-11-27",
   "timezone": "Asia/Shanghai",
-  "itemCount": 1,
+  "itemCount": 5,
   "targetItemCount": 10,
   "sourceHealth": [
     {
       "name": "中国证监会",
       "status": "ok",
-      "itemCount": 0,
-      "message": "目标日期没有符合金融筛选条件的条目"
+      "itemCount": 3,
+      "message": ""
     },
     {
       "name": "中国人民银行",
       "status": "ok",
-      "itemCount": 1,
+      "itemCount": 2,
       "message": ""
     },
     {
@@ -43,26 +43,114 @@
   "disclaimer": "以上内容仅用于金融知识学习，不构成投资建议。重要事实请以原始来源、监管机构或交易所披露为准。",
   "items": [
     {
-      "id": "ed0f6a9eeb61694b2447",
+      "id": "bf1306739f9a007fb789",
       "category": "policy_regulation",
       "categoryLabel": "政策与监管",
-      "title": "中国人民银行召开党的二十届五中全会精神宣讲报告会",
+      "title": "中国人民银行有关部门负责人就 《人民币存贷款利率管理规定》答记者问",
       "summary": null,
       "source": "中国人民银行",
       "sources": [
         {
           "name": "中国人民银行",
-          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112109473354413/index.html",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112715472222516/index.html",
           "urlType": "article"
         }
       ],
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112109473354413/index.html",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112715472222516/index.html",
       "urlType": "article",
-      "publishedAt": "2026-11-21T01:47:33.000Z",
-      "date": "2026-11-21",
+      "publishedAt": "2026-11-27T07:47:22.000Z",
+      "date": "2026-11-27",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 57
+    },
+    {
+      "id": "0f97d2198f71a3aa4421",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国证监会严肃查处两起编造传播证券市场误导性信息案件",
+      "summary": "近日，中国证监会对安某、乔某涉嫌编造传播证券市场误导性信息依法做出行政处罚。经查，安某、乔某在网络平",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7673660/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7673660/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-11-27T10:22:30.000Z",
+      "date": "2026-11-27",
       "verification": "official",
       "whySelected": "来自官方机构、监管部门或交易所公开信息",
       "score": 52
+    },
+    {
+      "id": "a6d949b81885cc257274",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国人民银行发布《中国金融稳定报告（2026）》",
+      "summary": null,
+      "source": "中国人民银行",
+      "sources": [
+        {
+          "name": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112718161199485/index.html",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026112718161199485/index.html",
+      "urlType": "article",
+      "publishedAt": "2026-11-27T10:16:11.000Z",
+      "date": "2026-11-27",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "0cfc8f81c934fa4c509b",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "中国证监会同意瓦楞原纸期货和期权注册",
+      "summary": "近日，中国证监会同意上海期货交易所瓦楞原纸期货和期权注册。中国证监会将督促上海期货交易所做好各项准备",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7673465/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7673465/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-11-27T07:27:28.000Z",
+      "date": "2026-11-27",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 52
+    },
+    {
+      "id": "293efc9c199b0f1af0d3",
+      "category": "policy_regulation",
+      "categoryLabel": "政策与监管",
+      "title": "国务院常务会议：促进资本市场平稳健康发展",
+      "summary": "11月27日，李强主持召开国务院常务会议，听取推动高质量发展综合督查情况汇报，研究持续深化资本市场投融资",
+      "source": "中国证监会",
+      "sources": [
+        {
+          "name": "中国证监会",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7673432/content.shtml",
+          "urlType": "article"
+        }
+      ],
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7673432/content.shtml",
+      "urlType": "article",
+      "publishedAt": "2026-11-27T04:41:45.000Z",
+      "date": "2026-11-27",
+      "verification": "official",
+      "whySelected": "来自官方机构、监管部门或交易所公开信息",
+      "score": 47
     }
   ]
 }
